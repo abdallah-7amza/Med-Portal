@@ -29,12 +29,13 @@ jobs:
     - name: Generate database index
       run: npm run build
 
-    - name: Commit version.json file
+    - name: Commit generated index files
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "ci: auto-generate version.json"
+        commit_message: "ci: auto-generate index files"
         # ======================================================
-        # هذا هو التعديل الوحيد والمهم
-        # أخبرنا الأداة أن تحفظ هذا الملف فقط
-        file_pattern: docs/version.json
+        # (الحل)
+        # هنا نخبر الأداة أن تحفظ ملف version.json
+        # بالإضافة إلى أي ملف json يتم تعديله داخل مجلد content
+        file_pattern: docs/version.json content/**/*.json
         # ======================================================

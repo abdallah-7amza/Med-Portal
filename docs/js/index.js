@@ -1,126 +1,52 @@
-import fs from 'fs/promises';
-import path from 'path';
-import matter from 'gray-matter';
-import crypto from 'crypto';
+// This is the corrected browser-compatible script for docs/js/index.js
 
-const contentBasePath = 'content';
-const outputBasePath = 'docs/api';
-
-function formatLabel(name) {
-    return name.replace(/[-_]/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
-}
-
-function calculateHash(data) {
-    return crypto.createHash('sha1').update(data, 'utf8').digest('hex');
-}
-
-async function scanDirectory(dirPath) {
-    const dirName = path.basename(dirPath);
-    const node = { label: formatLabel(dirName), hasIndex: false, isBranch: false };
-    const allHashes = [];
-
-    const indexPath = path.join(dirPath, 'index.md');
-    try {
-        const fileContent = await fs.readFile(indexPath, 'utf8');
-        const { data } = matter(fileContent);
-        node.hasIndex = true;
-        node.label = data.title || node.label;
-        node.summary = data.summary || '';
-        allHashes.push(calculateHash(fileContent));
-    } catch {
-        node.hasIndex = false;
-    }
+document.addEventListener('DOMContentLoaded', () => {
+    const universitiesContainer = document.getElementById('universities-container');
     
-    node.resources = {};
-    const collectionQuizPath = path.join(dirPath, '_collection_quiz');
-    try {
-        const files = await fs.readdir(collectionQuizPath);
-        node.resources.collectionQuizzes = [];
-        for (const file of files) {
-            if (file.endsWith('.json')) {
-                const baseName = path.basename(file, '.json');
-                const jsonFilePath = path.join(collectionQuizPath, file);
-                const fileContent = await fs.readFile(jsonFilePath, 'utf8');
-                const quizData = JSON.parse(fileContent);
-                const title = quizData.title || formatLabel(baseName);
-                node.resources.collectionQuizzes.push({ id: baseName, title: title });
-                allHashes.push(calculateHash(fileContent));
+    // Dynamically determine the base path for the API calls.
+    // This makes sure it works correctly on GitHub Pages.
+    const basePath = window.location.pathname.replace(/\/$/, ''); // Remove trailing slash if it exists
+
+    // Fetch the version.json file using the correct path.
+    fetch(`${basePath}/version.json`)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`Could not fetch version.json, status: ${response.status}`);
             }
-        }
-    } catch {}
+            return response.json();
+        })
+        .then(data => {
+            const universityIds = Object.keys(data.hashes);
 
-    const flashcardsPath = path.join(dirPath, '_flashcards');
-    try {
-        const files = await fs.readdir(flashcardsPath);
-        node.resources.flashcardDecks = [];
-        for (const file of files) {
-            if (file.endsWith('.json')) {
-                const baseName = path.basename(file, '.json');
-                const jsonFilePath = path.join(flashcardsPath, file);
-                const fileContent = await fs.readFile(jsonFilePath, 'utf8');
-                const deckData = JSON.parse(fileContent);
-                const title = deckData.title || formatLabel(baseName);
-                node.resources.flashcardDecks.push({ id: baseName, title: title });
-                allHashes.push(calculateHash(fileContent));
-            }
-        }
-    } catch {}
+            universityIds.forEach(uniId => {
+                // Fetch the specific meta.json file for this university using the correct path.
+                fetch(`${basePath}/api/universities/${uniId}/meta.json`)
+                    .then(res => {
+                        if (!res.ok) {
+                            throw new Error(`Could not fetch meta.json for ${uniId}, status: ${res.status}`);
+                        }
+                        return res.json();
+                    })
+                    .then(uniData => {
+                        const card = document.createElement('div');
+                        card.className = 'card';
+                        card.innerHTML = `<h2>${uniData.label}</h2>`;
+                        
+                        card.addEventListener('click', () => {
+                            // Construct the URL for the lessons page correctly.
+                            // The path to lessons-list.html is relative from the root of the site.
+                            window.location.href = `lessons-list.html?uni=${uniId}`;
+                        });
 
-    const entries = await fs.readdir(dirPath, { withFileTypes: true });
-    for (const entry of entries) {
-        if (entry.isDirectory() && !entry.name.startsWith('_') && !entry.name.startsWith('.')) {
-            const childPath = path.join(dirPath, entry.name);
-            const childNode = await scanDirectory(childPath);
-            node.children = node.children || {};
-            node.children[entry.name] = childNode;
-            allHashes.push(childNode.hash);
-        }
-    }
-
-    node.hash = calculateHash(allHashes.sort().join(''));
-    node.isBranch = Object.keys(node.children || {}).length > 0 || (Object.keys(node.resources).length > 0 && !node.hasIndex);
-    
-    if (Object.keys(node.resources).length === 0) {
-        delete node.resources;
-    }
-    
-    const relativePath = path.relative(contentBasePath, dirPath);
-    const metaOutputPath = path.join(outputBasePath, relativePath, 'meta.json');
-    
-    await fs.mkdir(path.dirname(metaOutputPath), { recursive: true });
-    await fs.writeFile(metaOutputPath, JSON.stringify(node, null, 2));
-
-    return node;
-}
-
-async function main() {
-    const universitiesPath = path.join(contentBasePath, 'universities');
-    const docsPath = 'docs';
-    const versionFilePath = path.join(docsPath, 'version.json');
-
-    await fs.rm(outputBasePath, { recursive: true, force: true });
-
-    const versionData = {
-        generatedAt: new Date().toISOString(),
-        hashes: {}
-    };
-
-    try {
-        const uniDirs = await fs.readdir(universitiesPath, { withFileTypes: true });
-        for (const uniDir of uniDirs) {
-            if (uniDir.isDirectory()) {
-                const uniPath = path.join(universitiesPath, uniDir.name);
-                const uniNode = await scanDirectory(uniPath);
-                versionData.hashes[uniDir.name] = uniNode.hash;
-            }
-        }
-        await fs.writeFile(versionFilePath, JSON.stringify(versionData, null, 2));
-        console.log(`Version index generated successfully at ${versionFilePath}`);
-    } catch (error) {
-        console.error("Error generating index:", error);
-        process.exit(1);
-    }
-}
- 
-main();
-
+                        universitiesContainer.appendChild(card);
+                    })
+                    .catch(error => {
+                        console.error("Failed to load university details:", error);
+                    });
+            });
+        })
+        .catch(error => {
+            console.error("Failed to load university data:", error);
+            universitiesContainer.innerHTML = '<p class="error-message">Error loading content. Please check the console for details.</p>';
+        });
+});

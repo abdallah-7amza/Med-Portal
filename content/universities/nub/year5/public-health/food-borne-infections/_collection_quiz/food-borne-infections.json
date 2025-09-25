@@ -1,0 +1,129 @@
+{
+  "title": "Food-Borne Infections",
+  "questions": [
+    {
+      "stem": "Which of the following is true about the Widal test for typhoid fever?",
+      "options": [
+        "Antibodies begin to rise on the 2nd day of the disease.",
+        "It is used for the diagnosis of Cholera.",
+        "It has a diagnostic titer in endemic areas.",
+        "Repeated testing is necessary to demonstrate a rising titer, which is diagnostic."
+      ],
+      "correct": 3,
+      [cite_start]"explanation": "A single Widal test is often not conclusive, especially in endemic areas. A rising antibody titer in paired samples is much more indicative of an active infection. [cite: 93, 97]"
+    },
+    {
+      "stem": "Specific prevention for typhoid fever includes:",
+      "options": [
+        "Chemoprophylaxis",
+        "Seroprophylaxis",
+        "Vaccine",
+        "Vaccine and chemoprophylaxis"
+      ],
+      "correct": 2,
+      [cite_start]"explanation": "Vaccination is a key specific preventive measure against typhoid fever for those at risk. [cite: 98, 101]"
+    },
+    {
+      "stem": "What is the proper procedure for contacts of a typhoid fever case who work as food handlers?",
+      "options": [
+        "Require surveillance for two weeks from the date of last exposure.",
+        "Require isolation for two weeks from the date of last exposure.",
+        "Require segregation and bacteriological examination until proven not to be carriers.",
+        "Allow them to work but require bacteriological examination."
+      ],
+      "correct": 2,
+      [cite_start]"explanation": "To prevent the spread of typhoid, food handlers who are contacts must be excluded from work (segregated) and tested to ensure they are not asymptomatic carriers before they can resume their duties. [cite: 103, 105]"
+    },
+    {
+      "stem": "Which of the following is a strictly zoonotic disease?",
+      "options": [
+        "Brucellosis",
+        "Salmonella Food Poisoning",
+        "Cholera",
+        "Typhoid"
+      ],
+      "correct": 0,
+      "explanation": "Brucellosis is a classic zoonotic disease, transmitted from animals like cattle, goats, and sheep to humans. [cite_start]Humans are typically dead-end hosts. [cite: 107, 108]"
+    },
+    {
+      "stem": "Seroprophylaxis (the use of antiserum) is available for which of the following?",
+      "options": [
+        "Staphylococcal Food Poisoning",
+        "Salmonella Food Poisoning",
+        "Botulism",
+        "All causative agents of infectious food poisoning"
+      ],
+      "correct": 2,
+      [cite_start]"explanation": "Botulinum antitoxin is available for seroprophylaxis and treatment of botulism, which is a neurotoxin-mediated disease. [cite: 116, 119]"
+    },
+    {
+      "stem": "After Polio infection, involvement of the Central Nervous System (CNS) occurs in approximately what percentage of infected persons?",
+      "options": [
+        "100%",
+        "90%",
+        "9%",
+        "1%"
+      ],
+      "correct": 3,
+      "explanation": "The vast majority of poliovirus infections are asymptomatic. [cite_start]Paralytic disease involving the CNS occurs in only about 1% of cases. [cite: 126, 130]"
+    },
+    {
+      "stem": "Which of the following food-borne infections has an animal reservoir?",
+      "options": [
+        "Salmonella Food Poisoning",
+        "Cholera",
+        "Typhoid",
+        "Hepatitis A"
+      ],
+      "correct": 0,
+      [cite_start]"explanation": "Non-typhoidal Salmonella has a large animal reservoir, including poultry, cattle, and reptiles, which is a major source of human infections. [cite: 131, 132]"
+    },
+    {
+      "stem": "Which is the only reservoir for Typhoid fever?",
+      "options": [
+        "Man and animals",
+        "Man: case only",
+        "Man: case and all types of carriers",
+        "Man: case and incubatory carriers"
+      ],
+      "correct": 2,
+      "explanation": "Humans are the only reservoir for Salmonella Typhi. [cite_start]The bacteria are spread through cases and, importantly, through asymptomatic carriers who can shed the bacteria for long periods. [cite: 144, 145]"
+    },
+    {
+      "stem": "In typhoid fever, a positive blood culture in the first week is conclusive but not exclusive.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "explanation": "True. A positive blood culture is a definitive diagnosis. [cite_start]However, a negative result in the first week does not rule out the disease, as bacteremia can be intermittent. [cite: 169]"
+    },
+    {
+      "stem": "Hepatitis A infection, whether clinical or subclinical, confers long-life immunity.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "explanation": "True. [cite_start]Recovery from a Hepatitis A infection provides lifelong immunity against the virus. [cite: 171]"
+    },
+    {
+      "stem": "No measures are needed for human contacts of a case of brucellosis.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "explanation": "True. [cite_start]Brucellosis is not typically transmitted from person to person, so quarantine or specific measures for contacts are not necessary. [cite: 171]"
+    },
+    {
+      "stem": "Salk vaccine is a live attenuated vaccine used for the specific prevention of Cholera.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "explanation": "False. [cite_start]The Salk vaccine is an inactivated (killed) poliovirus vaccine used for the prevention of poliomyelitis, not cholera. [cite: 171]"
+    }
+  ]
+}

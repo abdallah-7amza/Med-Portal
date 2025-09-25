@@ -1,0 +1,106 @@
+{
+  "title": "Non-Communicable Diseases",
+  "questions": [
+    {
+      "stem": "The following are associations between obesity and non-communicable diseases-except one:",
+      "options": [
+        "Visceral obesity is a risk for diabetes",
+        "Obesity increases the blood volume and leads to hypertension",
+        "Obesity is a risk factor for CHD due to associated dyslipidemia",
+        "Increase in high density lipoprotein is risky for CHD"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The following populations are at risk for NCD:",
+      "options": [
+        "Tobacco users",
+        "People with type A personality",
+        "Obese people",
+        "People with hyperlipidemia",
+        "All the above"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "The following are not categorized under causes of increase prevalence of NCD",
+      "options": [
+        "The increase in mortality and fertility due to increase in life expectancy",
+        "Shift from mortality from communicable diseases to mortality from NCD",
+        "Shift in pattern of nutrition to diet high in total fat, sugar and other refined carbohydrates",
+        "Increase in level of physical and chemical air pollution"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The following is not risk factors for hypertension",
+      "options": [
+        "High salt intake",
+        "Low potassium intake",
+        "Female more than male",
+        "Obesity"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following is not risk factor for coronary heart disease",
+      "options": [
+        "Women are at higher risk for coronary heart disease",
+        "Increase level of low density lipoprotein",
+        "Smoking",
+        "Obesity"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The following is not Primary prevention of type 1 diabetes",
+      "options": [
+        "Encourage breast feeding",
+        "Advice to avoid consanguineous marriage",
+        "Mass BCG immunization to prevent TB",
+        "Premarital counseling"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following is not considered risk factors for cancer:",
+      "options": [
+        "Population over 40 years",
+        "Female are more susceptible than males",
+        "Genetic factors",
+        "Some viruses and bacterial infection associated with cancer"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The following is not a Primary prevention measure of cancer",
+      "options": [
+        "Prevention of air pollution",
+        "Early detection of cancer",
+        "Antismoking program",
+        "Food sanitation"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The following is not considered a cause for increasing the prevalence of non-communicable diseases due to epidemiologic transition",
+      "options": [
+        "Increase in environmental pollution",
+        "Change in behavior (e.g. smoking, junk food)",
+        "Difficulty in controlling genetic factors",
+        "High prevalence of communicable diseases"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Infection control in hospitals could not reduce cancer due to the following",
+      "options": [
+        "HBV",
+        "HCV",
+        "HIV",
+        "Aflatoxins"
+      ],
+      "correct": 3
+    }
+  ]
+}

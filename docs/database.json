@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-25T22:34:32.283Z",
+  "generatedAt": "2025-09-25T22:41:13.444Z",
   "tree": {
     "azhar-assiut": {
       "children": {},
@@ -40657,6 +40657,11 @@
             },
             "public-health": {
               "children": {
+                "adolescents-health": {
+                  "children": {},
+                  "hasIndex": false,
+                  "label": "Adolescents Health"
+                },
                 "arthropod-borne-diseases": {
                   "children": {},
                   "resources": {

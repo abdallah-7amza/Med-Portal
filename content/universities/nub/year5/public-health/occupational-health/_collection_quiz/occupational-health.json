@@ -1,0 +1,114 @@
+{
+  "title": "Occupational Health",
+  "questions": [
+    {
+      "stem": "Gases that can be absorbed from the lung, causing systemic toxic effects on different parts of the body are called:",
+      "options": [
+        "Simple asphyxiant",
+        "Chemical asphyxiant",
+        "Respiratory irritant",
+        "Toxic gases"
+      ],
+      "correct": 3,
+      [cite_start]"explanation": "Toxic gases are those that are absorbed into the bloodstream via the lungs and can cause damage to various organ systems throughout the body. [cite: 728, 733]"
+    },
+    {
+      "stem": "A worker in glass pottery has an increased susceptibility to developing:",
+      "options": [
+        "Pulmonary tuberculosis",
+        "Methothelioma",
+        "Pulmonary embolism",
+        "Pulmonary edema"
+      ],
+      "correct": 0,
+      "explanation": "Workers in glass pottery are often exposed to silica dust, which causes silicosis. [cite_start]Silicosis is known to increase the risk of developing pulmonary tuberculosis. [cite: 734, 735]"
+    },
+    {
+      "stem": "Anthracosis results from the inhalation of:",
+      "options": [
+        "Silica",
+        "Cotton",
+        "Coal",
+        "Asbestos"
+      ],
+      "correct": 2,
+      [cite_start]"explanation": "Anthracosis, also known as coal worker's pneumoconiosis or 'black lung disease,' is caused by the long-term inhalation of coal dust. [cite: 739, 742]"
+    },
+    {
+      "stem": "Heat exhaustion is symptomatized by:",
+      "options": [
+        "Normal temperature",
+        "Low pulse rate",
+        "Dry skin",
+        "Irritability"
+      ],
+      "correct": 0,
+      "explanation": "Unlike heat stroke, heat exhaustion is characterized by a core body temperature that is near normal. [cite_start]Other symptoms include heavy sweating and a rapid pulse. [cite: 745, 746]"
+    },
+    {
+      "stem": "Which of the following jobs are considered risky regarding infrared radiation exposure?",
+      "options": [
+        "Bakers",
+        "Glassblowers",
+        "Physiotherapy personnel",
+        "All the above"
+      ],
+      "correct": 3,
+      [cite_start]"explanation": "Bakers, glassblowers, and welders are all occupations with significant exposure to infrared radiation from heat sources. [cite: 750, 753]"
+    },
+    {
+      "stem": "Immunizations against TB, HBV, and tetanus are indicated in certain occupations.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "explanation": "True. [cite_start]Healthcare workers and other at-risk professionals are often required or recommended to receive these immunizations to protect against occupational exposure to these diseases. [cite: 761]"
+    },
+    {
+      "stem": "Some forms of pneumoconiosis are benign and not necessarily pathological.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "explanation": "True. [cite_start]Some dusts can cause benign pneumoconiosis, where the dust accumulates in the lungs without causing significant inflammation, scarring, or impairment of lung function. [cite: 761]"
+    },
+    {
+      "stem": "Inorganic dust inhalation may lead to cancers.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "explanation": "True. [cite_start]Certain inorganic dusts, such as asbestos and silica, are classified as carcinogens and can lead to lung cancer and other malignancies. [cite: 761]"
+    },
+    {
+      "stem": "In heat exhaustion, the body temperature is greater than 40°C.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "explanation": "False. A body temperature greater than 40°C is characteristic of heat stroke, not heat exhaustion. [cite_start]In heat exhaustion, the temperature is typically near normal. [cite: 761]"
+    },
+    {
+      "stem": "Deafness caused by noise can be reversed by stopping the exposure.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "explanation": "False. [cite_start]Noise-induced hearing loss is typically permanent and irreversible because it involves damage to the delicate hair cells in the inner ear. [cite: 761]"
+    },
+    {
+      "stem": "Cigarette smoking increases the complications of pneumoconiosis.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "explanation": "True. [cite_start]Smoking has a synergistic effect with occupational dust exposure, significantly worsening lung damage and increasing the risk of complications like chronic obstructive pulmonary disease (COPD) and cancer. [cite: 761]"
+    }
+  ]
+}

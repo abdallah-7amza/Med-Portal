@@ -1,0 +1,89 @@
+{
+  "title": "Adolescent's Health",
+  "questions": [
+    {
+      [cite_start]"stem": "What is considered the most important health problem for adolescents? [cite: 607]",
+      "options": [
+        [cite_start]"ARIs [cite: 608]",
+        [cite_start]"Diarrhea [cite: 609]",
+        [cite_start]"Violence and its complications [cite: 610]",
+        [cite_start]"Non-communicable diseases [cite: 611]"
+      ],
+      "correct": 2,
+      [cite_start]"explanation": "Violence, including interpersonal violence and self-harm, is a major health concern during adolescence, leading to significant injury, disability, and death. [cite: 610]"
+    },
+    {
+      [cite_start]"stem": "What is the leading cause of death in adolescents? [cite: 612]",
+      "options": [
+        [cite_start]"Suicide [cite: 613]",
+        [cite_start]"Road traffic injuries [cite: 614]",
+        [cite_start]"Lower respiratory infections [cite: 615]",
+        [cite_start]"Drowning [cite: 616]"
+      ],
+      "correct": 1,
+      [cite_start]"explanation": "Road traffic injuries are the single largest cause of death among adolescents globally, particularly affecting older adolescent males. [cite: 614]"
+    },
+    {
+      [cite_start]"stem": "What is the top cause for disability-adjusted life years lost (DALYs) among adolescents? [cite: 617]",
+      "options": [
+        [cite_start]"Depression [cite: 619]",
+        [cite_start]"Diabetes [cite: 620]",
+        [cite_start]"Diarrhea [cite: 621]",
+        [cite_start]"Asthma [cite: 622]"
+      ],
+      "correct": 0,
+      [cite_start]"explanation": "Depression is the leading cause of illness and disability (measured in DALYs) among adolescents, highlighting the significant burden of mental health conditions in this age group. [cite: 619, 636]"
+    },
+    {
+      [cite_start]"stem": "Which of the following statements regarding adolescent health is INCORRECT? [cite: 623]",
+      "options": [
+        [cite_start]"Adolescents represent 18.7% of Egypt's population. [cite: 624]",
+        [cite_start]"The main causes of death and illness among adolescents are not preventable. [cite: 625]",
+        [cite_start]"Investing in adolescents' health is cost-effective. [cite: 626]",
+        [cite_start]"Adolescence is an important period of growth. [cite: 626]"
+      ],
+      "correct": 1,
+      [cite_start]"explanation": "The main causes of death, illness, and disability among adolescents are largely preventable or treatable through public health interventions, education, and access to healthcare. [cite: 625]"
+    },
+    {
+      [cite_start]"stem": "Which of the following is NOT a common nutritional problem among adolescents? [cite: 627]",
+      "options": [
+        [cite_start]"Iron deficiency anemia [cite: 628]",
+        [cite_start]"Vitamin A deficiency [cite: 629]",
+        [cite_start]"Iodine and calcium deficiency [cite: 630]",
+        [cite_start]"Vitamin B2 deficiency [cite: 631]"
+      ],
+      "correct": 3,
+      [cite_start]"explanation": "While deficiencies in iron, Vitamin A, iodine, and calcium are common, Vitamin B2 (riboflavin) deficiency is not listed as one of the primary nutritional issues for this age group in the provided text. [cite: 631]"
+    },
+    {
+      [cite_start]"stem": "Which statement regarding mental health in adolescents is INCORRECT? [cite: 634]",
+      "options": [
+        [cite_start]"Suicide is the leading cause of death during adolescence. [cite: 635]",
+        [cite_start]"Depression is the top cause for DALYs. [cite: 636]",
+        [cite_start]"Half of all mental health disorders start by age 14. [cite: 637]",
+        [cite_start]"Depression and anxiety are increasing among youth. [cite: 638]"
+      ],
+      "correct": 0,
+      [cite_start]"explanation": "While suicide is a major cause of death, the leading cause is road traffic injuries. [cite: 614, 635]"
+    },
+    {
+      [cite_start]"stem": "Injuries account for 75% of all adolescent deaths and for the greatest loss of Disability Adjusted Life Years (DALYs) in high-income countries. [cite: 640]",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "explanation": "True. [cite_start]In high-income nations, injuries (including road accidents, violence, and self-harm) are the predominant cause of both mortality and disability among adolescents. [cite: 640]"
+    },
+    {
+      [cite_start]"stem": "Suicide ranks number one among causes of death during adolescence, and depression is the top cause of illness and disability. [cite: 640]",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "explanation": "False. [cite_start]While depression is the top cause of illness and disability, the leading cause of death is road traffic injuries, not suicide. [cite: 614, 619, 640]"
+    }
+  ]
+}

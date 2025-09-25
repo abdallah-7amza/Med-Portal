@@ -1,0 +1,147 @@
+{
+  "title": "Arthropod-Borne Diseases ",
+  "questions": [
+    {
+      "stem": "The following are true about plague - except one:",
+      "options": [
+        "Zoonotic disease",
+        "WHO put international regulations against plague",
+        "Fleas are the reservoir of infection",
+        "The vaccines no longer available"
+      ],
+      "correct": 2,
+      "explanation": "Rodents are the primary reservoir of plague; fleas are the vectors that transmit the disease from rodents to humans."
+    },
+    {
+      "stem": "Arthropod-borne viral diseases include the following except:",
+      "options": [
+        "Yellow fever",
+        "Plague",
+        "Rift valley fever",
+        "Encephalitis"
+      ],
+      "correct": 1,
+      "explanation": "Plague is a bacterial disease caused by Yersinia pestis, while the others are viral diseases."
+    },
+    {
+      "stem": "Protective value of yellow fever vaccine is:",
+      "options": [
+        "50%",
+        "65%",
+        "80%",
+        "99%"
+      ],
+      "correct": 3,
+      "explanation": "The yellow fever vaccine is highly effective, providing long-lasting immunity in about 99% of people vaccinated."
+    },
+    {
+      "stem": "If a traveler coming from endemic area of yellow fever arrives before 10 days of vaccination:",
+      "options": [
+        "Isolated for 6 days from leaving",
+        "Isolated for 6 days from arriving",
+        "Isolated until certificate becomes valid",
+        "Isolated until certificate becomes valid maximum 6 days"
+      ],
+      "correct": 3,
+      "explanation": "The vaccination certificate for yellow fever becomes valid 10 days after vaccination. A traveler may be quarantined for up to 6 days to cover the incubation period of the disease until the certificate is valid."
+    },
+    {
+      "stem": "Mass drug administration is a specific preventive measure against:",
+      "options": [
+        "Malaria",
+        "Yellow fever",
+        "Filariasis",
+        "Plague"
+      ],
+      "correct": 2,
+      "explanation": "Mass drug administration (MDA) is a key strategy used in the global program to eliminate lymphatic filariasis."
+    },
+    {
+      "stem": "Malaria is transmitted by:",
+      "options": [
+        "Mosquito bites usually",
+        "Blood transfusion",
+        "In utero, occasionally",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "While primarily transmitted by Anopheles mosquito bites, malaria can also be transmitted through blood transfusions and from mother to fetus."
+    },
+    {
+      "stem": "Chemoprophylaxis of malaria is given to:",
+      "options": [
+        "Inhabitants of endemic areas",
+        "Contacts",
+        "Visitors of endemic areas",
+        "All of the above"
+      ],
+      "correct": 2,
+      "explanation": "Chemoprophylaxis is primarily recommended for non-immune individuals, such as travelers, visiting areas where malaria is endemic."
+    },
+    {
+      "stem": "In endemic areas, filariasis is prevented by:",
+      "options": [
+        "Vector control",
+        "Protection from mosquito bites",
+        "Chemoprophylaxis",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "A comprehensive approach including vector (mosquito) control, personal protection, and mass drug administration is used to prevent filariasis."
+    },
+    {
+      "stem": "Yellow fever is a major zoonotic viral disease.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "explanation": "True. Yellow fever is a viral disease transmitted from animals (primarily monkeys) to humans by mosquitoes."
+    },
+    {
+      "stem": "Plague shows epizootic spread with rat fleas infection.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "explanation": "True. An epizootic is an outbreak of disease in an animal population, which is characteristic of how plague spreads among rodents via fleas."
+    },
+    {
+      "stem": "During the attack phase of malaria eradication, there is mass application of residual insecticides.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "explanation": "True. The attack phase involves intensive measures like indoor residual spraying (IRS) to rapidly reduce malaria transmission."
+    },
+    {
+      "stem": "Vaccination is the basic preventive measure of plague.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "explanation": "False. The most important preventive measures are controlling the rodent population and their fleas. The vaccine is no longer widely available or recommended."
+    },
+    {
+      "stem": "Malaria is a chronic parasitic disease that gives no acute manifestations.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "explanation": "False. Malaria is characterized by severe acute manifestations, including high fever, chills, and flu-like symptoms."
+    },
+    {
+      "stem": "Life-long immunity against malaria is acquired after repeated exposure.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "explanation": "False. Immunity acquired from malaria exposure is partial and wanes over time if the person is no longer exposed to the parasite."
+    }
+  ]
+}

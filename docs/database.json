@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-25T22:02:37.593Z",
+  "generatedAt": "2025-09-25T22:04:16.516Z",
   "tree": {
     "azhar-assiut": {
       "children": {},
@@ -40817,6 +40817,11 @@
                   "hasIndex": false,
                   "label": "Arthropod Borne Diseases",
                   "isBranch": true
+                },
+                "contact-infections": {
+                  "children": {},
+                  "hasIndex": false,
+                  "label": "Contact Infections"
                 },
                 "enviromental": {
                   "children": {},

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-25T23:34:21.869Z",
+  "generatedAt": "2025-09-25T23:36:24.973Z",
   "tree": {
     "azhar-assiut": {
       "children": {},
@@ -41519,8 +41519,134 @@
                 },
                 "food-borne-infections": {
                   "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "food-borne-infections",
+                        "title": "Food-Borne Infections Quiz",
+                        "quizData": {
+                          "title": "Food-Borne Infections Quiz",
+                          "questions": [
+                            {
+                              "stem": "Which of the following is true about the Widal test for typhoid fever?",
+                              "options": [
+                                "Antibodies begin to rise on the 2nd day of the disease.",
+                                "It is used for the diagnosis of Cholera.",
+                                "It has a diagnostic titer in endemic areas.",
+                                "Repeated testing is necessary to demonstrate a rising titer, which is diagnostic."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Specific prevention for typhoid fever includes:",
+                              "options": [
+                                "Chemoprophylaxis",
+                                "Seroprophylaxis",
+                                "Vaccine",
+                                "Vaccine and chemoprophylaxis"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "What is the proper procedure for contacts of a typhoid fever case who work as food handlers?",
+                              "options": [
+                                "Require surveillance for two weeks from the date of last exposure.",
+                                "Require isolation for two weeks from the date of last exposure.",
+                                "Require segregation and bacteriological examination until proven not to be carriers.",
+                                "Allow them to work but require bacteriological examination."
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Which of the following is a strictly zoonotic disease?",
+                              "options": [
+                                "Brucellosis",
+                                "Salmonella Food Poisoning",
+                                "Cholera",
+                                "Typhoid"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Seroprophylaxis (the use of antiserum) is available for which of the following?",
+                              "options": [
+                                "Staphylococcal Food Poisoning",
+                                "Salmonella Food Poisoning",
+                                "Botulism",
+                                "All causative agents of infectious food poisoning"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "After Polio infection, involvement of the Central Nervous System (CNS) occurs in approximately what percentage of infected persons?",
+                              "options": [
+                                "100%",
+                                "90%",
+                                "9%",
+                                "1%"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Which of the following food-borne infections has an animal reservoir?",
+                              "options": [
+                                "Salmonella Food Poisoning",
+                                "Cholera",
+                                "Typhoid",
+                                "Hepatitis A"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Which is the only reservoir for Typhoid fever?",
+                              "options": [
+                                "Man and animals",
+                                "Man: case only",
+                                "Man: case and all types of carriers",
+                                "Man: case and incubatory carriers"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "In typhoid fever, a positive blood culture in the first week is conclusive but not exclusive.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Hepatitis A infection, whether clinical or subclinical, confers long-life immunity.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "No measures are needed for human contacts of a case of brucellosis.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Salk vaccine is a live attenuated vaccine used for the specific prevention of Cholera.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 1
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
                   "hasIndex": false,
-                  "label": "Food Borne Infections"
+                  "label": "Food Borne Infections",
+                  "isBranch": true
                 },
                 "health-system": {
                   "children": {},

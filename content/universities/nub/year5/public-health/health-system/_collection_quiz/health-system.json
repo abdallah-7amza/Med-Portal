@@ -1,0 +1,34 @@
+{
+  "title": "Health System Quiz",
+  "questions": [
+    {
+      "stem": "The components of a health system include all of the following EXCEPT:",
+      "options": [
+        "Service delivery",
+        "Health care workers",
+        "Health information system",
+        "Political support"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "In Egypt, there is a well-established system of periodic examination for the following population categories, EXCEPT:",
+      "options": [
+        "Pregnant women",
+        "School children",
+        "Industrial workers",
+        "Elderly people",
+        "Preschool children"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The Ministry of Health (MOH) is responsible for the health of some of the people living in Egypt.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    }
+  ]
+}

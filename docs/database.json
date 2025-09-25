@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-25T23:36:24.973Z",
+  "generatedAt": "2025-09-25T23:38:19.467Z",
   "tree": {
     "azhar-assiut": {
       "children": {},
@@ -41827,8 +41827,120 @@
                 },
                 "occupational-health": {
                   "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "occupational-health",
+                        "title": "Occupational Health ",
+                        "quizData": {
+                          "title": "Occupational Health ",
+                          "questions": [
+                            {
+                              "stem": "Gases that can be absorbed from the lung, causing systemic toxic effects on different parts of the body are called:",
+                              "options": [
+                                "Simple asphyxiant",
+                                "Chemical asphyxiant",
+                                "Respiratory irritant",
+                                "Toxic gases"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "A worker in glass pottery has an increased susceptibility to developing:",
+                              "options": [
+                                "Pulmonary tuberculosis",
+                                "Methothelioma",
+                                "Pulmonary embolism",
+                                "Pulmonary edema"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Anthracosis results from the inhalation of:",
+                              "options": [
+                                "Silica",
+                                "Cotton",
+                                "Coal",
+                                "Asbestos"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Heat exhaustion is symptomatized by:",
+                              "options": [
+                                "Normal temperature",
+                                "Low pulse rate",
+                                "Dry skin",
+                                "Irritability"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Which of the following jobs are considered risky regarding infrared radiation exposure?",
+                              "options": [
+                                "Bakers",
+                                "Glassblowers",
+                                "Physiotherapy personnel",
+                                "All the above"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Immunizations against TB, HBV, and tetanus are indicated in certain occupations.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Some forms of pneumoconiosis are benign and not necessarily pathological.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Inorganic dust inhalation may lead to cancers.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "In heat exhaustion, the body temperature is greater than 40°C.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Deafness caused by noise can be reversed by stopping the exposure.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Cigarette smoking increases the complications of pneumoconiosis.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
                   "hasIndex": false,
-                  "label": "Occupational Health"
+                  "label": "Occupational Health",
+                  "isBranch": true
                 },
                 "primary-health-care": {
                   "children": {},

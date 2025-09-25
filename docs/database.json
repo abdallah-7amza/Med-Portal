@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-25T22:04:16.516Z",
+  "generatedAt": "2025-09-25T22:22:16.772Z",
   "tree": {
     "azhar-assiut": {
       "children": {},
@@ -40822,6 +40822,209 @@
                   "children": {},
                   "hasIndex": false,
                   "label": "Contact Infections"
+                },
+                "demography": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "demography",
+                        "title": "Demography",
+                        "quizData": {
+                          "title": "Demography",
+                          "questions": [
+                            {
+                              "stem": "The dependency ratio is the ratio of the:",
+                              "options": [
+                                "Young to working-aged people",
+                                "Old to middle-aged people",
+                                "Young to middle-aged people",
+                                "Young and old to working-aged people"
+                              ],
+                              "correct": 0,
+                              "explanation": "According to the provided answer key, the intended answer is 'Young to working-aged people', which specifically refers to the child dependency ratio. The total dependency ratio includes both young and old."
+                            },
+                            {
+                              "stem": "Working population includes those persons who fall in the age group of:",
+                              "options": [
+                                "6-14 years",
+                                "0-15 years",
+                                "+60 years",
+                                "15-64 years"
+                              ],
+                              "correct": 3,
+                              "explanation": "The working-age population is typically defined as individuals between the ages of 15 and 64."
+                            },
+                            {
+                              "stem": "If a country's rate of natural increase declines, then the doubling time for its population is:",
+                              "options": [
+                                "Reduced to zero",
+                                "Decreased",
+                                "Increased",
+                                "No change"
+                              ],
+                              "correct": 2,
+                              "explanation": "Doubling time is inversely related to the growth rate. A lower growth rate means it will take a longer time for the population to double."
+                            },
+                            {
+                              "stem": "Population projection doesn't depend on:",
+                              "options": [
+                                "Fertility",
+                                "Mortality",
+                                "Census",
+                                "Morbidity"
+                              ],
+                              "correct": 3,
+                              "explanation": "Population projections are primarily based on future assumptions about fertility, mortality, and migration, not rates of illness (morbidity)."
+                            },
+                            {
+                              "stem": "In a standard population pyramid the age range of each bar is:",
+                              "options": [
+                                "5 years",
+                                "10 years",
+                                "15 years",
+                                "20 years"
+                              ],
+                              "correct": 0,
+                              "explanation": "Population pyramids typically group the population into five-year age cohorts."
+                            },
+                            {
+                              "stem": "Which combination of factors will produce the highest rate of population growth?",
+                              "options": [
+                                "High life expectancy and high infant mortality",
+                                "Low life expectancy and low infant mortality",
+                                "Low life expectancy and high infant mortality",
+                                "High life expectancy and low infant mortality"
+                              ],
+                              "correct": 3,
+                              "explanation": "High life expectancy (fewer deaths) combined with low infant mortality (more children survive) leads to the fastest population growth."
+                            },
+                            {
+                              "stem": "A rectangle-shaped population pyramid indicates:",
+                              "options": [
+                                "Large number of people in the younger ages.",
+                                "Smaller number of people in the younger ages",
+                                "Roughly equal number of people in all age ranges",
+                                "Rapidly growing population"
+                              ],
+                              "correct": 2,
+                              "explanation": "This shape, known as a stationary pyramid, indicates a stable population with similar birth and death rates across age groups."
+                            },
+                            {
+                              "stem": "Considering the population pyramid, the left side of pyramid is used to show:",
+                              "options": [
+                                "Female population",
+                                "Male population",
+                                "Birth rate",
+                                "Mortality rate"
+                              ],
+                              "correct": 1,
+                              "explanation": "By convention, the male population is shown on the left side of a population pyramid, and the female population is on the right."
+                            },
+                            {
+                              "stem": "A country with a crude birth rate of 44 and a crude death rate of 11 would have a rate of natural increase of:",
+                              "options": [
+                                "33",
+                                "33%",
+                                "3.3%",
+                                "5.5%"
+                              ],
+                              "correct": 2,
+                              "explanation": "The rate of natural increase is calculated as (Crude Birth Rate - Crude Death Rate) / 10. So, (44 - 11) / 10 = 3.3%."
+                            },
+                            {
+                              "stem": "A population pyramid with a wide base narrowing as the age cohorts progress indicates:",
+                              "options": [
+                                "Decline",
+                                "Rapid growth",
+                                "Slow growth",
+                                "Stability"
+                              ],
+                              "correct": 1,
+                              "explanation": "A wide base signifies a large number of young people, which is characteristic of a rapidly growing population."
+                            },
+                            {
+                              "stem": "The baby boom makes the sides of the population pyramid:",
+                              "options": [
+                                "Smooth",
+                                "Bulging",
+                                "Depression",
+                                "No change"
+                              ],
+                              "correct": 1,
+                              "explanation": "A 'baby boom' creates a cohort that is significantly larger than those before or after it, resulting in a bulge that moves up the pyramid over time."
+                            },
+                            {
+                              "stem": "The rate of natural increase does not include the effects of immigration or emigration.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0,
+                              "explanation": "True. The rate of natural increase only considers births and deaths. The overall population growth rate includes migration."
+                            },
+                            {
+                              "stem": "A country with a constant growth rate of 2% would double its population in 35 years.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0,
+                              "explanation": "True. Using the Rule of 70, you can estimate doubling time by dividing 70 by the growth rate percentage (70 / 2 = 35 years)."
+                            },
+                            {
+                              "stem": "The third stage of the demographic cycle is represented by declining birth rate; low death rate.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0,
+                              "explanation": "True. Stage 3 (Late Expanding) is characterized by death rates remaining low while birth rates begin to fall, slowing population growth."
+                            },
+                            {
+                              "stem": "The top width of the population pyramid represents the proportion of the old age group.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0,
+                              "explanation": "True. The apex or top of the pyramid represents the oldest age cohorts in the population."
+                            },
+                            {
+                              "stem": "The higher the age dependency ratio, the higher the burden on the working group.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0,
+                              "explanation": "True. This ratio measures the number of dependents (young and old) that each member of the working-age population must support."
+                            },
+                            {
+                              "stem": "The sex composition of a given population is usually expressed as the number of females per 100 males.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 1,
+                              "explanation": "False. The sex ratio is typically expressed as the number of males per 100 females."
+                            },
+                            {
+                              "stem": "Census taking is repeated at intervals, usually every 5 years.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 1,
+                              "explanation": "False. A national census is most commonly conducted every 10 years."
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Demography",
+                  "isBranch": true
                 },
                 "enviromental": {
                   "children": {},

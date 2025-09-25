@@ -1,5 +1,5 @@
 {
-  "title": "Contact Infections",
+  "title": "Contact Infections Quiz",
   "questions": [
     {
       "stem": "The reservoirs of infection for tetanus include:",
@@ -9,8 +9,7 @@
         "Animals only",
         "Herbivorous animals, man, and soil"
       ],
-      "correct": 3,
-      [cite_start]"explanation": "Tetanus spores are found in soil and in the intestines of animals (including humans), making all three components reservoirs of infection[cite: 321, 322, 323, 324, 325]."
+      "correct": 3
     },
     {
       "stem": "What measures are used for the specific prevention of tetanus after an injury?",
@@ -20,8 +19,7 @@
         "Vaccine",
         "Vaccine, seroprophylaxis, and chemoprophylaxis"
       ],
-      "correct": 3,
-      [cite_start]"explanation": "Comprehensive post-exposure prophylaxis for tetanus includes the tetanus toxoid vaccine for active immunity, tetanus immunoglobulin (seroprophylaxis) for passive immunity, and antibiotics (chemoprophylaxis) for wound management[cite: 326, 327, 328, 329, 330]."
+      "correct": 3
     },
     {
       "stem": "Which of the following is true about specific prevention for Hepatitis C?",
@@ -31,8 +29,7 @@
         "Combined seroprophylaxis and vaccination is used.",
         "No effective specific preventive measure is available."
       ],
-      "correct": 3,
-      [cite_start]"explanation": "Currently, there is no vaccine or effective seroprophylaxis available for the prevention of Hepatitis C infection[cite: 339, 340, 341, 342, 343]."
+      "correct": 3
     },
     {
       "stem": "For specific prevention of rabies after a severe exposure, what is the recommended protocol?",
@@ -42,8 +39,7 @@
         "Seroprophylaxis should be given with the vaccine.",
         "Vaccine, seroprophylaxis, and chemoprophylaxis"
       ],
-      "correct": 2,
-      [cite_start]"explanation": "Post-exposure prophylaxis for a severe rabies exposure involves immediate administration of both the rabies vaccine to stimulate an active immune response and rabies immunoglobulin (seroprophylaxis) for immediate passive protection[cite: 349, 350, 351, 352, 353]."
+      "correct": 2
     },
     {
       "stem": "Which of the following is NOT a mode of transmission for HIV/AIDS?",
@@ -53,8 +49,7 @@
         "Vertical transmission",
         "Sexual contact"
       ],
-      "correct": 1,
-      "explanation": "HIV is transmitted through sexual contact, blood, and from mother to child (vertically). [cite_start]It is not transmitted by vectors like mosquitoes or ticks[cite: 363, 364, 365, 366, 367]."
+      "correct": 1
     },
     {
       "stem": "The reservoir of infection for HIV/AIDS includes:",
@@ -64,8 +59,7 @@
         "Man: cases and convalescent carriers",
         "Man and animals"
       ],
-      "correct": 0,
-      "explanation": "Humans are the only reservoir for HIV. [cite_start]An infected person, whether they are an acute case or an asymptomatic carrier (incubatory, convalescent, or healthy), can transmit the virus[cite: 374, 375, 376, 377, 378]."
+      "correct": 0
     },
     {
       "stem": "What is the protective value of the Hepatitis B vaccine?",
@@ -75,8 +69,7 @@
         "It gives protective neutralizing antibodies in about 67% of recipients.",
         "It gives protective neutralizing antibodies in about 50% of recipients."
       ],
-      "correct": 0,
-      [cite_start]"explanation": "The Hepatitis B vaccine is highly effective, inducing a protective antibody response in approximately 96% of healthy individuals who complete the series[cite: 389, 390, 391]."
+      "correct": 0
     },
     {
       "stem": "Tetanus toxoid induces immunity that persists for at least 10 years after full immunization.",
@@ -84,8 +77,7 @@
         "True",
         "False"
       ],
-      "correct": 0,
-      "explanation": "True. [cite_start]A full primary series of the tetanus toxoid vaccine provides protection for at least 10 years, with boosters recommended every 10 years to maintain immunity[cite: 394]."
+      "correct": 0
     },
     {
       "stem": "Routine social contact with HIV-infected persons, such as coughing, sneezing, and working with them, carries a risk of transmission.",
@@ -93,8 +85,7 @@
         "True",
         "False"
       ],
-      "correct": 1,
-      "explanation": "False. HIV is not transmitted through casual or social contact. [cite_start]The virus does not spread through air, water, or surfaces[cite: 394]."
+      "correct": 1
     },
     {
       "stem": "Egypt has the highest prevalence of HCV in the world, with about 10% of its population being chronically infected.",
@@ -102,8 +93,7 @@
         "True",
         "False"
       ],
-      "correct": 0,
-      "explanation": "True. [cite_start]Egypt has historically had one of the highest burdens of Hepatitis C virus (HCV) worldwide, largely due to past iatrogenic transmission[cite: 394]."
+      "correct": 0
     },
     {
       "stem": "The yeast-recombinant Hepatitis B vaccine has replaced the plasma-derived vaccine for mass vaccination at present.",
@@ -111,8 +101,7 @@
         "True",
         "False"
       ],
-      "correct": 0,
-      "explanation": "True. [cite_start]Due to safety and production advantages, genetically engineered yeast-recombinant vaccines are now the standard for Hepatitis B immunization, having replaced the older vaccines derived from the plasma of chronic carriers[cite: 394]."
+      "correct": 0
     }
   ]
 }

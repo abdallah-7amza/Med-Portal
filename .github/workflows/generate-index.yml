@@ -2,10 +2,10 @@ name: Generate Database Index
 on:
   push:
     branches:
-      - main
+      - Bebo
   pull_request:
     branches:
-      - main
+      - Bebo
 jobs:
   generate-index:
     runs-on: ubuntu-latest

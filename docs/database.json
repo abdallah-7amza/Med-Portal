@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-25T23:03:10.221Z",
+  "generatedAt": "2025-09-25T23:07:42.947Z",
   "tree": {
     "azhar-assiut": {
       "children": {},
@@ -40659,8 +40659,98 @@
               "children": {
                 "adolescents-health": {
                   "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "adolescents-health",
+                        "title": "Adolescent's Health",
+                        "quizData": {
+                          "title": "Adolescent's Health",
+                          "questions": [
+                            {
+                              "stem": "What is considered the most important health problem for adolescents?",
+                              "options": [
+                                "ARIs",
+                                "Diarrhea",
+                                "Violence and its complications",
+                                "Non-communicable diseases"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "What is the leading cause of death in adolescents?",
+                              "options": [
+                                "Suicide",
+                                "Road traffic injuries",
+                                "Lower respiratory infections",
+                                "Drowning"
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "What is the top cause for disability-adjusted life years lost (DALYs) among adolescents?",
+                              "options": [
+                                "Depression",
+                                "Diabetes",
+                                "Diarrhea",
+                                "Asthma"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Which of the following statements regarding adolescent health is INCORRECT?",
+                              "options": [
+                                "Adolescents represent 18.7% of Egypt's population.",
+                                "The main causes of death and illness among adolescents are not preventable.",
+                                "Investing in adolescents' health is cost-effective.",
+                                "Adolescence is an important period of growth."
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Which of the following is NOT a common nutritional problem among adolescents?",
+                              "options": [
+                                "Iron deficiency anemia",
+                                "Vitamin A deficiency",
+                                "Iodine and calcium deficiency",
+                                "Vitamin B2 deficiency"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Which statement regarding mental health in adolescents is INCORRECT?",
+                              "options": [
+                                "Suicide is the leading cause of death during adolescence.",
+                                "Depression is the top cause for DALYs.",
+                                "Half of all mental health disorders start by age 14.",
+                                "Depression and anxiety are increasing among youth."
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Injuries account for 75% of all adolescent deaths and for the greatest loss of Disability Adjusted Life Years (DALYs) in high-income countries.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Suicide ranks number one among causes of death during adolescence, and depression is the top cause of illness and disability.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 1
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
                   "hasIndex": false,
-                  "label": "Adolescents Health"
+                  "label": "Adolescents Health",
+                  "isBranch": true
                 },
                 "arthropod-borne-diseases": {
                   "children": {},

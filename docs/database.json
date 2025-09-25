@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-25T22:41:13.444Z",
+  "generatedAt": "2025-09-25T22:46:11.584Z",
   "tree": {
     "azhar-assiut": {
       "children": {},
@@ -41323,8 +41323,113 @@
                 },
                 "school-health": {
                   "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "school-health",
+                        "title": "School Health",
+                        "quizData": {
+                          "title": "School Health",
+                          "questions": [
+                            {
+                              "stem": "A school health program is important because:",
+                              "options": [
+                                "School children are characterized by slow physiologic and psychosocial changes.",
+                                "School children represent about 40% of the Egyptian population.",
+                                "Its interventions affect the quality of life of many generations.",
+                                "School children suffer the highest mortality."
+                              ],
+                              "correct": 2,
+                              "explanation": "Interventions in school health programs have a long-lasting impact, influencing the health and well-being of future generations[cite: 178]."
+                            },
+                            {
+                              "stem": "Malnutrition problems among school children include all of the following EXCEPT:",
+                              "options": [
+                                "Iron deficiency anemia",
+                                "Protein and/or energy deficiency",
+                                "Vitamin D deficiency",
+                                "Vitamin A deficiency"
+                              ],
+                              "correct": 2,
+                              "explanation": "According to the provided text, iron deficiency, protein-energy deficiency, and Vitamin A deficiency are listed as problems, making Vitamin D deficiency the correct exception[cite: 178]."
+                            },
+                            {
+                              "stem": "Nutrition care for school children includes all of the following EXCEPT:",
+                              "options": [
+                                "A feeding program should include 1/3 of total daily calories.",
+                                "The school canteen should avoid unhealthy foods.",
+                                "Implementation of the principles of food sanitation.",
+                                "A feeding program should include 1/4 of daily protein requirements."
+                              ],
+                              "correct": 3,
+                              "explanation": "The text specifies that feeding programs should cover one-third of daily calories, but does not mention a specific fraction for protein requirements, making this the correct exception[cite: 178]."
+                            },
+                            {
+                              "stem": "Which of the following is NOT an example of an intervention for the specific prevention of diseases in a school health program?",
+                              "options": [
+                                "Vaccination against meningococcal meningitis",
+                                "Chemoprophylaxis against meningococcal meningitis in case of outbreaks",
+                                "DPT vaccination",
+                                "Iron supplementation"
+                              ],
+                              "correct": 2,
+                              "explanation": "While vaccinations like MMR and meningococcal are part of school health, DPT is typically completed in early childhood before school age, making it the exception in this context[cite: 178]."
+                            },
+                            {
+                              "stem": "The most frequent nutritional problems among school children are:",
+                              "options": [
+                                "Vitamin A deficiency, iron deficiency anemia, and riboflavin deficiency",
+                                "Vitamin A deficiency, rickets, and riboflavin deficiency",
+                                "Vitamin C deficiency, iron deficiency anemia, and riboflavin deficiency",
+                                "Vitamin K deficiency, B12 deficiency anemia, and riboflavin deficiency"
+                              ],
+                              "correct": 0,
+                              "explanation": "The text identifies Vitamin A deficiency, iron deficiency anemia, and riboflavin (B2) deficiency as the most common nutritional issues in this age group[cite: 178]."
+                            },
+                            {
+                              "stem": "Protein and energy deficiency among school children can result in retarded growth and wasting.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0,
+                              "explanation": "True.  Adequate protein and energy are crucial for growth and development during the school years, and a deficiency can lead to poor growth outcomes[cite: 178]."
+                            },
+                            {
+                              "stem": "Rheumatic heart disease is the most common heart disease that affects school children.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0,
+                              "explanation": "True.  Rheumatic heart disease, a complication of untreated streptococcal infections, is a significant cause of cardiac issues in school-aged children in many parts of the world[cite: 178]."
+                            },
+                            {
+                              "stem": "Dental caries among schoolchildren can be due to a lack of teeth hygiene, excess sweet intake, and fluorine deficiency.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0,
+                              "explanation": "True.  These three factors—poor hygiene, high sugar consumption, and inadequate fluoride exposure—are the primary contributors to the development of dental caries in children[cite: 178]."
+                            },
+                            {
+                              "stem": "A school feeding program should include at least one-third of the total daily required calories.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0,
+                              "explanation": "True.  This is a standard guideline to ensure that school meals make a significant contribution to the child's overall daily nutritional needs[cite: 178]."
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
                   "hasIndex": false,
-                  "label": "School Health"
+                  "label": "School Health",
+                  "isBranch": true
                 }
               },
               "hasIndex": false,

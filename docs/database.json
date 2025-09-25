@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-25T23:07:42.947Z",
+  "generatedAt": "2025-09-25T23:09:54.925Z",
   "tree": {
     "azhar-assiut": {
       "children": {},
@@ -41452,6 +41452,135 @@
                   },
                   "hasIndex": false,
                   "label": "Health System",
+                  "isBranch": true
+                },
+                "maternal-and-child-health": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "maternal-and-child-health",
+                        "title": "Maternal and Child Health",
+                        "quizData": {
+                          "title": "Maternal and Child Health",
+                          "questions": [
+                            {
+                              "stem": "To assess the nutritional status of pregnant mothers, we primarily use:",
+                              "options": [
+                                "Height measurement",
+                                "Blood pressure",
+                                "Hemoglobin estimation",
+                                "Fundal level"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Post-neonatal morbidities do NOT include:",
+                              "options": [
+                                "Diarrhea",
+                                "ARI",
+                                "Injuries",
+                                "Congenital abnormalities"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "During premarital examination, females may be given all the following when indicated, EXCEPT:",
+                              "options": [
+                                "Folic acid",
+                                "Vaccination against rubella",
+                                "Vaccination against measles",
+                                "Vaccination against hepatitis B"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "All of the following are components of antenatal care EXCEPT:",
+                              "options": [
+                                "Social care",
+                                "Referral",
+                                "Rehabilitation",
+                                "Health education"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Neonatal mortality causes include all of the following EXCEPT:",
+                              "options": [
+                                "Diarrhea",
+                                "ARI",
+                                "Malnutrition",
+                                "Injuries"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "All of the following statements about neonatal mortality are true, EXCEPT:",
+                              "options": [
+                                "Preterm birth is the first major cause of neonatal mortality.",
+                                "Proper ANC could reduce the neonatal mortality rate.",
+                                "Child immunization could reduce neonatal mortality.",
+                                "Proper postnatal care could reduce the neonatal mortality."
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "The 'at-risk approach' in maternal care means:",
+                              "options": [
+                                "Care for those who have only risk factors",
+                                "Standard care for everyone",
+                                "More care for high-risk pregnant women",
+                                "No care for normal pregnant women"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Reproductive health is for both males and females throughout the human life.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Hemorrhage and puerperal sepsis are common causes for both maternal morbidity and mortality.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Postnatal care includes informing mothers about birth spacing.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Medical ethics require that the results of premarital examination are confidential for all cases.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "The neonatal period is the first four months of life.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 1
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Maternal And Child Health",
                   "isBranch": true
                 },
                 "occupational-health": {

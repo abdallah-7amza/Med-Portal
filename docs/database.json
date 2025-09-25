@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-25T22:55:22.537Z",
+  "generatedAt": "2025-09-25T23:03:10.221Z",
   "tree": {
     "azhar-assiut": {
       "children": {},
@@ -41315,6 +41315,54 @@
                   "children": {},
                   "hasIndex": false,
                   "label": "Food Borne Infections"
+                },
+                "health-system": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "health-system",
+                        "title": "Health System Quiz",
+                        "quizData": {
+                          "title": "Health System Quiz",
+                          "questions": [
+                            {
+                              "stem": "The components of a health system include all of the following EXCEPT:",
+                              "options": [
+                                "Service delivery",
+                                "Health care workers",
+                                "Health information system",
+                                "Political support"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "In Egypt, there is a well-established system of periodic examination for the following population categories, EXCEPT:",
+                              "options": [
+                                "Pregnant women",
+                                "School children",
+                                "Industrial workers",
+                                "Elderly people",
+                                "Preschool children"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "The Ministry of Health (MOH) is responsible for the health of some of the people living in Egypt.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 1
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Health System",
+                  "isBranch": true
                 },
                 "occupational-health": {
                   "children": {},

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-25T20:42:28.508Z",
+  "generatedAt": "2025-09-25T21:59:11.198Z",
   "tree": {
     "azhar-assiut": {
       "children": {},
@@ -40816,6 +40816,194 @@
                   },
                   "hasIndex": false,
                   "label": "Arthropod Borne Diseases",
+                  "isBranch": true
+                },
+                "enviromental": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "enviromental",
+                        "title": "Environmental Health",
+                        "quizData": {
+                          "title": "Environmental Health",
+                          "questions": [
+                            {
+                              "stem": "The following are true about sources of water in Egypt:",
+                              "options": [
+                                "Treated waste water is used for drinking.",
+                                "The main source of drinking water is underground water.",
+                                "There is desalination of sea water.",
+                                "The river Nile is the main source of drinking water"
+                              ],
+                              "correct": 3,
+                              "explanation": "The Nile River is the primary source of drinking water for the vast majority of Egypt's population."
+                            },
+                            {
+                              "stem": "Regarding water situation in Egypt:",
+                              "options": [
+                                "Egypt is now classified as water scarce country",
+                                "Egypt produce more than 3000 m3 fresh water per year per capita",
+                                "Egypt is not threatened by want of water",
+                                "The main source of water in Egypt is the underground water"
+                              ],
+                              "correct": 0,
+                              "explanation": "Due to its limited water resources and growing population, Egypt is classified as a country facing water scarcity."
+                            },
+                            {
+                              "stem": "Small scale water purification includes:",
+                              "options": [
+                                "Sedimentation",
+                                "Sand filtration",
+                                "Boiling",
+                                "Disinfection with residual chlorine"
+                              ],
+                              "correct": 2,
+                              "explanation": "Boiling is a common and effective method for purifying water on a small scale, as it kills most pathogens."
+                            },
+                            {
+                              "stem": "In segregation of radioactive waste, we use:",
+                              "options": [
+                                "Red bags",
+                                "Yellow bags",
+                                "Black bags",
+                                "Green bags"
+                              ],
+                              "correct": 1,
+                              "explanation": "International standards often recommend yellow containers or bags, typically marked with the trefoil symbol for radiation, for the segregation of radioactive waste."
+                            },
+                            {
+                              "stem": "As regarding sorting and packaging of health care waste:",
+                              "options": [
+                                "Sorting is done at the place where it is generated.",
+                                "Red bags are used for radioactive waste.",
+                                "General waste should not transferred by the municipals.",
+                                "Big percentage of health care waste is hazardous."
+                              ],
+                              "correct": 0,
+                              "explanation": "Proper healthcare waste management requires that waste is sorted at the source of generation to prevent contamination and ensure correct disposal."
+                            },
+                            {
+                              "stem": "As regarding managing solid waste in Egypt:",
+                              "options": [
+                                "There is controlled open dumping.",
+                                "There is no overall collection of municipal solid waste.",
+                                "Big amounts of agricultural wastes are burnt outs",
+                                "There is sorting of solid waste at source of production"
+                              ],
+                              "correct": 2,
+                              "explanation": "The burning of agricultural waste is a known issue in Egypt, contributing to air pollution, particularly the 'black cloud' phenomenon."
+                            },
+                            {
+                              "stem": "On examination of drinking water the following is incorrect:",
+                              "options": [
+                                "Examination is usually bacteriological.",
+                                "The presence of nitrites indicates fresh contamination by organic matter.",
+                                "The presence of any chemicals is not allowed.",
+                                "No coliform bacilli should be present in 100 ml water"
+                              ],
+                              "correct": 2,
+                              "explanation": "Drinking water standards allow for trace amounts of certain chemicals that are not harmful to health; a complete absence of all chemicals is not the standard."
+                            },
+                            {
+                              "stem": "As regarding deep water wells the following:",
+                              "options": [
+                                "They represent 70% of drinking water in Egypt.",
+                                "Water is raised by a manual pump.",
+                                "They are drilled to a depth less than 20 meters.",
+                                "Its water is liable for contamination from surface of the earth."
+                              ],
+                              "correct": 0,
+                              "explanation": "While the Nile is the main source, the provided text's answer key indicates deep wells account for a significant percentage, although this might be contradictory in a real-world context."
+                            },
+                            {
+                              "stem": "Environmental health focuses on behaviors related to the social and cultural environment.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 1,
+                              "explanation": "Environmental health focuses on the physical, chemical, and biological factors external to a person, and all the related factors impacting behaviors."
+                            },
+                            {
+                              "stem": "Since 2005, Egypt is classified as water scarce country.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0,
+                              "explanation": "Egypt passed the international threshold for water scarcity in the 1990s and has been classified as such since."
+                            },
+                            {
+                              "stem": "The residual chlorine is important to deal with any accidental contamination that may occur during the water sedimentation.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 1,
+                              "explanation": "Residual chlorine is important for disinfection in the distribution system, after sedimentation and filtration have already occurred."
+                            },
+                            {
+                              "stem": "Small scale purification do not deal with bilogical pollution which is very hazardous.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 1,
+                              "explanation": "Methods like boiling are specifically designed to deal with biological pollution (e.g., bacteria, viruses) on a small scale."
+                            },
+                            {
+                              "stem": "During examining drinking water, no coliform bacilli should be present in 100 ml water.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0,
+                              "explanation": "The presence of coliform bacteria is an indicator of potential fecal contamination, and drinking water standards require their absence in a 100 ml sample."
+                            },
+                            {
+                              "stem": "Hazardous waste is any discarded material that has potential harmful effect on the environment or human health.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0,
+                              "explanation": "This is the standard definition of hazardous waste, encompassing materials that are toxic, corrosive, ignitable, or reactive."
+                            },
+                            {
+                              "stem": "Municipal solid waste usually includes hazardous waste.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 1,
+                              "explanation": "While municipal solid waste can be contaminated, hazardous waste should be segregated and handled separately due to its potential danger."
+                            },
+                            {
+                              "stem": "Biomedical waste is any waste containing infectious materials or potentially infectious substances such as blood and may pose a substantial threat to health.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0,
+                              "explanation": "This accurately defines biomedical waste, which requires special handling and disposal procedures due to its infectious nature."
+                            },
+                            {
+                              "stem": "Sources of outdoor air pollution mainly result from traffic exhausts, fossil burning and industrial activities.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0,
+                              "explanation": "These three are the primary anthropogenic sources of major outdoor air pollutants."
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Enviromental",
                   "isBranch": true
                 }
               },

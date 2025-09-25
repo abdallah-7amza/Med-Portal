@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-25T23:31:42.454Z",
+  "generatedAt": "2025-09-25T23:34:21.869Z",
   "tree": {
     "azhar-assiut": {
       "children": {},
@@ -40915,8 +40915,124 @@
                 },
                 "contact-infections": {
                   "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "contact-infections",
+                        "title": "Contact Infections Quiz",
+                        "quizData": {
+                          "title": "Contact Infections Quiz",
+                          "questions": [
+                            {
+                              "stem": "The reservoirs of infection for tetanus include:",
+                              "options": [
+                                "Animal and soil",
+                                "Man and soil",
+                                "Animals only",
+                                "Herbivorous animals, man, and soil"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "What measures are used for the specific prevention of tetanus after an injury?",
+                              "options": [
+                                "Chemoprophylaxis",
+                                "Seroprophylaxis",
+                                "Vaccine",
+                                "Vaccine, seroprophylaxis, and chemoprophylaxis"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Which of the following is true about specific prevention for Hepatitis C?",
+                              "options": [
+                                "A killed vaccine is available.",
+                                "Immunoglobulin is moderately effective.",
+                                "Combined seroprophylaxis and vaccination is used.",
+                                "No effective specific preventive measure is available."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "For specific prevention of rabies after a severe exposure, what is the recommended protocol?",
+                              "options": [
+                                "Seroprophylaxis is given.",
+                                "Seroprophylaxis should be given with chemoprophylaxis.",
+                                "Seroprophylaxis should be given with the vaccine.",
+                                "Vaccine, seroprophylaxis, and chemoprophylaxis"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Which of the following is NOT a mode of transmission for HIV/AIDS?",
+                              "options": [
+                                "Blood transmission",
+                                "Vector transmission",
+                                "Vertical transmission",
+                                "Sexual contact"
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "The reservoir of infection for HIV/AIDS includes:",
+                              "options": [
+                                "Man: cases and all types of carriers",
+                                "Man: cases and incubatory carriers",
+                                "Man: cases and convalescent carriers",
+                                "Man and animals"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "What is the protective value of the Hepatitis B vaccine?",
+                              "options": [
+                                "It gives protective neutralizing antibodies in about 96% of recipients.",
+                                "It gives protective neutralizing antibodies in about 80% of recipients.",
+                                "It gives protective neutralizing antibodies in about 67% of recipients.",
+                                "It gives protective neutralizing antibodies in about 50% of recipients."
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Tetanus toxoid induces immunity that persists for at least 10 years after full immunization.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Routine social contact with HIV-infected persons, such as coughing, sneezing, and working with them, carries a risk of transmission.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Egypt has the highest prevalence of HCV in the world, with about 10% of its population being chronically infected.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "The yeast-recombinant Hepatitis B vaccine has replaced the plasma-derived vaccine for mass vaccination at present.",
+                              "options": [
+                                "True",
+                                "False"
+                              ],
+                              "correct": 0
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
                   "hasIndex": false,
-                  "label": "Contact Infections"
+                  "label": "Contact Infections",
+                  "isBranch": true
                 },
                 "demography": {
                   "children": {},

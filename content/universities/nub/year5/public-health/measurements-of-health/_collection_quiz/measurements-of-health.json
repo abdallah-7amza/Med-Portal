@@ -1,0 +1,145 @@
+{
+  "title": "Measurements of Health",
+  "questions": [
+    {
+      "stem": "Regarding crude death rate:",
+      "options": [
+        "Can be used for compare between countries",
+        "It describes death from certain diseases to total deaths",
+        "It is affected by age sex structure of the population",
+        "It represents deaths from specific cause"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following rates indirectly measures a wide variety of factors related to prenatal, natal, post natal care, sanitation and infection control?",
+      "options": [
+        "Infant mortality rate",
+        "Neonate mortality rate",
+        "Still birth rate",
+        "U5 mortality rate"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Under 5 mortality ratio is calculated by dividing deaths of children under 5 years by:",
+      "options": [
+        "Estimated midyear population under 5",
+        "Live births",
+        "Total births",
+        "Mid year population"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Perinatal death rate is:",
+      "options": [
+        "Sum of the still birth and early neonatal death rates",
+        "Sum of the fetal and infant death rates",
+        "difference between pregnancy and birth rate",
+        "Sum of abortion and fetal death rate"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The prevalence of disease depends upon:",
+      "options": [
+        "The incidence rate",
+        "The duration of the illness",
+        "Both the incidence rate and the duration of the illness",
+        "Neither the incidence rate nor the duration of the illness"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "In the investigation of an epidemic the most appropriate measure to describe the frequency of occurrence of illness is the:",
+      "options": [
+        "Prevalence",
+        "Incidence rate",
+        "Case-fatality rate",
+        "Attack rate"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The number of live births per thousand population in a year is termed as:",
+      "options": [
+        "Crude Death rate",
+        "Crude Birth rate",
+        "Growth rate",
+        "None of these"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Birth and death rates are described as 'crude' because:",
+      "options": [
+        "The total numbers of births and deaths can never be calculated accurately.",
+        "They relate to the changes without any regard to the age or sex composition of the population.",
+        "The infant mortality rate is separate from the birth and death calculations.",
+        "There is no worldwide standard of what constitutes a birth or a death."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The total fertility rate is:",
+      "options": [
+        "The number of births needed to keep a nation's population stable",
+        "The average number of children a male member of a population has each year",
+        "The average number of children that would be born alive to a woman during her lifetime",
+        "The total number of babies born in a population each generation"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A country with a population of 5 million and with 50,000 births per year has a crude birth rate of:",
+      "options": [
+        "10 per 1000",
+        "25 per 1000",
+        "50 per 1000",
+        "100 per 1000"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Incidence rate measures the newly diagnosed cases.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "ASFR is a more sensitive indicator of fertility for the females in the different age groups within the reproductive period.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The incidence rates calculate the number of new cases of a particular disease over a period of time.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Prevalence includes existing cases present at a single time point.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Accidental causes should be considered in calculating maternal mortality ratio.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    }
+  ]
+}

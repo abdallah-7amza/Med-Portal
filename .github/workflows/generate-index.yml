@@ -2,7 +2,7 @@ name: Generate Database Index
 on:
   push:
     branches:
-      - main
+      - 04
 jobs:
   generate-index:
     runs-on: ubuntu-latest

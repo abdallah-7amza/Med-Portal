@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-25T23:49:32.653Z",
+  "generatedAt": "2025-09-26T00:31:36.926Z",
   "tree": {
     "azhar-assiut": {
       "children": {},
@@ -11,6 +11,399 @@
       "children": {
         "year5": {
           "children": {
+            "emeregncy": {
+              "children": {
+                "medicine": {
+                  "children": {
+                    "revision": {
+                      "children": {},
+                      "resources": {
+                        "collectionQuizzes": [
+                          {
+                            "id": "emergency-medicine",
+                            "title": "Emergency Medicine",
+                            "quizData": {
+                              "title": "Emergency Medicine",
+                              "questions": [
+                                {
+                                  "stem": "Complications of massive blood transfusion include:",
+                                  "options": [
+                                    "Acidosis.",
+                                    "Allergic reaction.",
+                                    "Fever.",
+                                    "Allergic reaction."
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Changes in electrocardiography of patients with pulmonary embolism include:",
+                                  "options": [
+                                    "an S wave in lead V1",
+                                    "a q wave in lead III",
+                                    "new onset of left bundle branch block",
+                                    "all the above"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "Patients with pulmonary embolism involving the pulmonary artery have the following EXCEPT:",
+                                  "options": [
+                                    "high D-dimer level",
+                                    "increased pulmonary resistance leading to right sided heart failure",
+                                    "hypoxia",
+                                    "hypercapnea"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "In hypertensive emergency the initial aim is to decrease diastolic pressure by 10% in the first hour and additional 15% within 3-12 hours. The only two exceptions for rapid lowering of BP include:",
+                                  "options": [
+                                    "pulmonary edema",
+                                    "cardiac ischemia",
+                                    "aortic dissection",
+                                    "none of above"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "A patient presenting with acute dyspnea to the emergency, his initial assessment revealed a high B-type natriuretic peptide (150 pg/ml). The following cause is suspected for his dyspnea:",
+                                  "options": [
+                                    "chronic bronchitis",
+                                    "interstitial pulmonary fibrosis",
+                                    "overdose of opiate",
+                                    "heart failure"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "The possibility of cervical spine injury should be considered in which of the following con-dition:",
+                                  "options": [
+                                    "Presence of maxillofacial trauma",
+                                    "Cervical spine spondylosis.",
+                                    "Fracture base of the skull.",
+                                    "Surgical emphysema of the neck."
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "The following is an indication for oxygen therapy:",
+                                  "options": [
+                                    "SpO2 < 90%",
+                                    "excessive work of breathing",
+                                    "PaO2 < 60 mmHg",
+                                    "all the above"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "Regarding full thickness skin grafts which of the following is correct?",
+                                  "options": [
+                                    "It has better survival rate than split thickness grafts.",
+                                    "It has better cosmetic result than split thickness grafts",
+                                    "It has high tendency of contracture.",
+                                    "Donor site heals spontaneously."
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Signs of lateralization include the following EXCEPT:",
+                                  "options": [
+                                    "generalized seizure",
+                                    "Jacksonian fits",
+                                    "tilting of head to one side",
+                                    "unequal pupils"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Regarding ATLS for trauma, which of the following belong to the 2ry survey?",
+                                  "options": [
+                                    "Hemothorax.",
+                                    "Assessment of fracture pelvis.",
+                                    "Assessment of airways.",
+                                    "Assessment of hypovolemia."
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "In maintaining normal subjects, pH of blood is maintained thanks to:",
+                                  "options": [
+                                    "the kidney has no role in acid base regulation",
+                                    "reabsorption of ~ 80% of HCO3 in the proximal renal tubules",
+                                    "reabsorption of H+ in the proximal renal tubules",
+                                    "reabsorption of ~ 80% of HCO3 in the distal renal tubules"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Septic shock :",
+                                  "options": [
+                                    "is a type of hypovolemic shock",
+                                    "the patient is flushed and warm",
+                                    "is triggered by IgE – mediated release of histamine",
+                                    "all the above"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "The drug used as treatment of choice for FMF is:",
+                                  "options": [
+                                    "pulse steroids for 72 hours",
+                                    "colchicine",
+                                    "indomethacin",
+                                    "high dose acetylsalicylic acid"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "A patient presented to the emergency with loss of consciousness, his initial physical examination revealed bilateral constricted pupils. The following is a possible cause for his condition:",
+                                  "options": [
+                                    "myxedema",
+                                    "uncal herniation with compression of 3rd cranial nerve",
+                                    "atropine poisoning",
+                                    "pontine hemorrhage"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "Patients with familial Mediterranean fever:",
+                                  "options": [
+                                    "ECG may reveal diffuse ST-segment elevation",
+                                    "diagnosis relies on specific antibody titer",
+                                    "present with dull abdominal pain without rigidity",
+                                    "genetic testing showing mutation of MEFV gene is included in major Tel-Hashomer criteria for diagnosis"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "In patients presenting with hematemesis:",
+                                  "options": [
+                                    "is only diagnostic with no therapeutic role",
+                                    "is done immediately after resuscitation and hemodynamic stabilization",
+                                    "upper endoscopy is the method of choice for diagnosis of perforated peptic ulcer",
+                                    "all the above"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Non-cardiopulmonary causes for dyspnea include:",
+                                  "options": [
+                                    "severe anemia",
+                                    "panic disorders",
+                                    "diabetic ketoacidosis",
+                                    "all the above"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "The mode of ventilation suitable for a patient in coma with respiratory center depression is:",
+                                  "options": [
+                                    "continuous positive airway pressure",
+                                    "controlled mechanical ventilation",
+                                    "pressure support ventilation",
+                                    "all the above"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Regarding the proliferation phase of wound healing, what is the correct statement is?",
+                                  "options": [
+                                    "Platelet derived growth factor, tumour necrosis factor- alpha, interleukin-I.",
+                                    "Deposition of collagen in the wound.",
+                                    "Macrophages play an important role in phagocytosis and wound debridement.",
+                                    "Endothelial cells proliferate from the intact venules to form new capillary buds."
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "A 30-year- old patient taking blood transfusion. Few minutes later he started to complain of chest pain, dyspnea. On examination his pulse is 120/ minute, blood pressure: 80/60, the patient is oliguric with dark urine. The best treatment is:",
+                                  "options": [
+                                    "Renal dialysis",
+                                    "IV fluids and corticosteroids.",
+                                    "Stop transfusion",
+                                    "Mechanical ventilation."
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "A patient whose arterial blood gases reveal pH 7.25, PaCO2 50, HCO3 25 has:",
+                                  "options": [
+                                    "respiratory acidosis",
+                                    "metabolic alkalosis",
+                                    "metabolic acidosis",
+                                    "respiratory alkalosis"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "An artificial airway, like an endotracheal tube, is used in the following type of ventilation.",
+                                  "options": [
+                                    "Positive Pressure",
+                                    "Negative pressure"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Pressure is applied to the abdomen and thorax to draw air into the lungs through the upper airway in the following type of ventilation.",
+                                  "options": [
+                                    "Positive Pressure",
+                                    "Negative pressure"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Iron lung ventilators used after the polio epidemics in the first half of the 20th century belong to...",
+                                  "options": [
+                                    "Positive Pressure Ventilation",
+                                    "Negative pressure Ventilation"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "One of the following modes of ventilation “locks out” the patient's efforts to breathe.",
+                                  "options": [
+                                    "Controlled Mandatory Ventilation",
+                                    "Synchronous Intermittent Mandatory Ventilation",
+                                    "Assist Control Mode",
+                                    "Pressure Control Mode"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "One of the following modes of ventilation has the risk of the patient getting respiratory alkalosis.",
+                                  "options": [
+                                    "Controlled Mandatory Ventilation",
+                                    "Synchronous Intermittent Mandatory Ventilation",
+                                    "Assist Control Mode",
+                                    "Pressure Control Mode"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "The mode of ventilation which allows the patient to breathe spontaneously at his or her own respiratory rate and depth between the ventilator breaths is...",
+                                  "options": [
+                                    "Controlled Mandatory Ventilation",
+                                    "Synchronous Intermittent Mandatory Ventilation",
+                                    "Assist Control Mode",
+                                    "Pressure Control Mode"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Minute ventilation is equal to...",
+                                  "options": [
+                                    "FiO2 X PEEP",
+                                    "FiO2/PEEP",
+                                    "Tidal Volume X Respiratory Rate",
+                                    "Tidal Volume/Respiratory Rate"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "What are the Ventilator Parameters adjusted to maintain the optimum Minute Ventilation?",
+                                  "options": [
+                                    "FiO2 and PEEP",
+                                    "Tidal Volume and Respiratory Rate"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Which are the Ventilator Parameters adjusted to maintain the optimum oxygenation?",
+                                  "options": [
+                                    "FiO2 and PEEP",
+                                    "Tidal Volume and Respiratory Rate"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "One of the following modes of ventilation reduces the work of breathing by overcoming the resistance created by ventilator tubing.",
+                                  "options": [
+                                    "Controlled Mandatory Ventilation",
+                                    "Synchronous Intermittent Mandatory Ventilation",
+                                    "Assist Control Mode",
+                                    "Pressure Support Mode"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "Which one of the following modes of ventilation is triggered by time, limited by pressure and affects aspiration only?",
+                                  "options": [
+                                    "Controlled Mandatory Ventilation",
+                                    "Synchronous Intermittent Mandatory Ventilation",
+                                    "Assist Control Mode",
+                                    "Pressure Control Mode"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "Which of the following ventilator modes delivers a preset volume or pressure regardless of the patient’s inspiratory efforts?",
+                                  "options": [
+                                    "Assist-Control Ventilation (A/C)",
+                                    "Controlled Mechanical Ventilation (CV)",
+                                    "Synchronous Intermittent Mandatory Ventilation (SIMV)",
+                                    "Pressure Support Ventilation (PSV)"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "What is the recommended initial Fraction of Inspired Oxygen (FIO2) setting when starting mechanical ventilation?",
+                                  "options": [
+                                    "0.21 (21%)",
+                                    "0.5 (50%)",
+                                    "0.6 (60%)",
+                                    "1.0 (100%)"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "Which of the following is a disadvantage of Synchronous Intermittent Mandatory Ventilation (SIMV)?",
+                                  "options": [
+                                    "Hyperventilation",
+                                    "Increased work of breathing and respiratory muscle fatigue",
+                                    "Over-sedation",
+                                    "Lack of patient-triggered breaths"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "What is the primary purpose of Positive End-Expiratory Pressure (PEEP) in mechanical ventilation?",
+                                  "options": [
+                                    "Increase tidal volume",
+                                    "Prevent alveolar collapse during expiration",
+                                    "Reduce respiratory rate",
+                                    "Improve peak flow rate"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Which mode of ventilation is used for weaning patients and allows them to breathe spontaneously while reducing ventilator support?",
+                                  "options": [
+                                    "Assist-Control Ventilation (A/C)",
+                                    "Synchronous Intermittent Mandatory Ventilation (SIMV)",
+                                    "Continuous Positive Airway Pressure (CPAP)",
+                                    "Pressure Support Ventilation (PSV)"
+                                  ],
+                                  "correct": 2
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "hasIndex": false,
+                      "label": "Revision",
+                      "isBranch": true
+                    }
+                  },
+                  "hasIndex": false,
+                  "label": "Medicine",
+                  "isBranch": true
+                }
+              },
+              "hasIndex": false,
+              "label": "Emeregncy",
+              "isBranch": true
+            },
             "family-medicine": {
               "children": {
                 "revision": {

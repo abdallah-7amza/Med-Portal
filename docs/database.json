@@ -1,12 +1,6 @@
 {
-  "generatedAt": "2025-09-26T00:40:45.461Z",
+  "generatedAt": "2025-09-26T00:51:44.081Z",
   "tree": {
-    "azhar-assiut": {
-      "children": {},
-      "name": "Al-Azhar (Assiut)",
-      "hasIndex": false,
-      "label": "Azhar Assiut"
-    },
     "nub": {
       "children": {
         "year5": {

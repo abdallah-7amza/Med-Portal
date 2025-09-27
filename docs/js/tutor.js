@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
     // --- 1. HTML Injection & Element Setup ---
-    // (This entire section is unchanged)
     const fab = document.createElement('button');
     fab.className = 'ai-tutor-fab';
     fab.innerHTML = '<i class="fa-solid fa-brain"></i>';
@@ -49,7 +48,6 @@ document.addEventListener('DOMContentLoaded', function() {
     document.body.appendChild(chatWindow);
 
     // --- 2. Get References and setup state ---
-    // (This entire section is unchanged)
     const apiKeyModal = document.getElementById('api-key-modal');
     const chatWin = document.getElementById('chat-window');
     const apiStatus = document.getElementById('api-status');
@@ -61,7 +59,6 @@ document.addEventListener('DOMContentLoaded', function() {
     let chatHistory = [];
     
     // --- 3. Core Logic: API Key & Initialization ---
-    // (This entire section is unchanged)
     function initializeTutor() {
         const savedApiKey = localStorage.getItem(GEMINI_API_KEY_STORAGE);
         if (savedApiKey) {
@@ -82,11 +79,14 @@ document.addEventListener('DOMContentLoaded', function() {
         validationMsg.textContent = 'Validating...';
 
         try {
-            const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
+            const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
             const response = await fetch(apiUrl, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ contents: [{ parts: [{ text: "Hello" }] }] })
+                body: JSON.stringify({ 
+                    model: "gemini-2.5-flash",
+                    contents: [{ parts: [{ text: "Hello" }] }] 
+                })
             });
             if (!response.ok) {
                 const errorBody = await response.json();
@@ -112,26 +112,20 @@ document.addEventListener('DOMContentLoaded', function() {
         if (path.includes('lesson.html')) {
             context = document.getElementById('content-container')?.innerText;
         } else if (path.includes('quiz.html')) {
-            // *** START OF SURGICAL MODIFICATION ***
             const question = document.getElementById('question-stem')?.innerText;
             const options = Array.from(document.querySelectorAll('#options-container .option'))
                                  .map(opt => opt.innerText.trim());
             const explanationContainer = document.getElementById('explanation-container');
             let explanationText = '';
-            
-            // Check if the explanation container exists and is visible on the screen
             if (explanationContainer && explanationContainer.offsetParent !== null) {
                 explanationText = explanationContainer.innerText.trim();
             }
-
             if (question) {
                 context = `The current quiz question is: "${question}". The available options are: [${options.join('; ')}]`;
-                // Add the explanation to the context ONLY if it exists and is visible
                 if (explanationText) {
                     context += `\nThe official explanation provided is: "${explanationText}"`;
                 }
             }
-            // *** END OF SURGICAL MODIFICATION ***
         } else if (path.includes('flashcards.html')) {
             const front = document.getElementById('card-front-content')?.innerText;
             const back = document.getElementById('card-back-content')?.innerText;
@@ -141,7 +135,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // --- 5. Main AI Interaction Function (using fetch) ---
-    // (This entire section is unchanged)
     async function sendMessageToAI(prompt) {
         const apiKey = localStorage.getItem(GEMINI_API_KEY_STORAGE);
         if (!apiKey) {
@@ -156,11 +149,12 @@ document.addEventListener('DOMContentLoaded', function() {
             parts: [{ text: "Behavior Rules: You are an expert medical tutor. Your role is to explain, connect ideas, and answer with clear clinical logic. ALWAYS explain in English and use markdown for formatting (e.g., **bold**, *italics*, lists). If the user asks for Arabic, you MUST explain in Arabic but KEEP all medical terms in English without translation." }]
         };
         const payload = {
+            model: "gemini-2.5-flash",   // ✅ تحديث الموديل
             contents: chatHistory,
             systemInstruction: systemInstruction
         };
         try {
-            const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
+            const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
             const response = await fetch(apiUrl, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
@@ -188,7 +182,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // --- 6. Event Listeners ---
-    // (This entire section is unchanged)
     fab.addEventListener('click', initializeTutor);
     document.getElementById('validate-api-key-btn').addEventListener('click', validateAndSaveApiKey);
     document.getElementById('close-chat-btn').addEventListener('click', () => {
@@ -212,7 +205,6 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // --- 7. Helper Functions ---
-    // (This entire section is unchanged)
     function addMessageToChat(message, sender) {
         const bubble = document.createElement('div');
         bubble.className = `chat-bubble ${sender === 'user' ? 'user-bubble' : 'ai-bubble'}`;

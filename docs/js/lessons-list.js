@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', async function() {
     const urlParams = new URLSearchParams(window.location.search);
-    const path = urlParams.get('path') || '';
+    const selectedUniId = localStorage.getItem('selectedUni');
+    const path = urlParams.get('path') || `/${selectedUniId}`;
     const pathSegments = path.split('/').filter(Boolean);
 
     const pageTitleEl = document.getElementById('page-title');
@@ -8,7 +9,6 @@ document.addEventListener('DOMContentLoaded', async function() {
     const siteTitleEl = document.getElementById('site-title');
     const toolbarContainer = document.getElementById('toolbar-container');
     const navContainer = document.getElementById('nav-container');
-    const selectedUniId = localStorage.getItem('selectedUni');
 
     navContainer.innerHTML = '<a href="javascript:history.back()" class="back-link">← Back</a>';
 
@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', async function() {
         if (currentNode.children) {
             for (const id in currentNode.children) {
                 const childNode = currentNode.children[id];
-                const newPath = `${path}/${id}`;
+                const newPath = `${path}/${id}`.replace(/\/\//g, '/');
                 
                 const targetUrl = childNode.isBranch
                     ? `lessons-list.html?path=${newPath}`

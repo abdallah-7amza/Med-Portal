@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-30T04:37:34.438Z",
+  "generatedAt": "2025-09-30T04:46:05.053Z",
   "tree": {
     "nub": {
       "children": {
@@ -393,548 +393,6 @@
                   "label": "Medicine",
                   "isBranch": true
                 },
-                "surgery": {
-                  "children": {
-                    "revision": {
-                      "children": {},
-                      "resources": {
-                        "collectionQuizzes": [
-                          {
-                            "id": "emergency-surgery",
-                            "title": "Emergency Surgery",
-                            "quizData": {
-                              "title": "Emergency Surgery",
-                              "questions": [
-                                {
-                                  "stem": "Regarding cardiogenic shock, the false statement is:",
-                                  "options": [
-                                    "May be due to massive myocardial infarction",
-                                    "The neck veins are collapsed",
-                                    "Low blood pressure",
-                                    "May be due to ventricular tachycardia"
-                                  ],
-                                  "correct": 1
-                                },
-                                {
-                                  "stem": "Which of the following IV solutions is the best for initial resuscitation of a shocked patient?",
-                                  "options": [
-                                    "Dextrose (sugar) 5%",
-                                    "Normal saline",
-                                    "Ringer lactate",
-                                    "Mannitol"
-                                  ],
-                                  "correct": 2
-                                },
-                                {
-                                  "stem": "Regarding the underlying causes of hypovolemic shock, all are true, Except:",
-                                  "options": [
-                                    "Hemorrhagic pancreatitis",
-                                    "Pulmonary embolism",
-                                    "Acute intestinal obstruction",
-                                    "Loss of blood in road traffic accident"
-                                  ],
-                                  "correct": 1
-                                },
-                                {
-                                  "stem": "Patient received penicillin, few minutes later he developed hypotension, and hypoxemia. The underlying cause is:",
-                                  "options": [
-                                    "Cardiogenic shock",
-                                    "Neurogenic shock",
-                                    "Anaphylactic shock",
-                                    "Endocrinal shock"
-                                  ],
-                                  "correct": 2
-                                },
-                                {
-                                  "stem": "Hyperdynamic phase of septic shock, all of the following is true, Except:",
-                                  "options": [
-                                    "Hypotension",
-                                    "Tachypnea",
-                                    "Cool extremities",
-                                    "Tachycardia"
-                                  ],
-                                  "correct": 2
-                                },
-                                {
-                                  "stem": "In management of a shocked patient all are true except:",
-                                  "options": [
-                                    "Dopamine reduces the blood flow",
-                                    "Initial resuscitation by IV ringer lactate solution",
-                                    "CVP reflect the preload",
-                                    "Oxygen administration is a priority"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "Bacteria translocation in a shocked patient is due to:",
-                                  "options": [
-                                    "intestinal bacteria invade blood stream due to loss of gut mucosal barrier",
-                                    "Road traffic accident the wounds are contaminated",
-                                    "Bacteria reach blood through IV lines and catheter."
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "In cases of haemorrhage blood transfusion is needed in which class of haemorrhage",
-                                  "options": [
-                                    "Class I",
-                                    "Class II",
-                                    "Class III",
-                                    "All of the above"
-                                  ],
-                                  "correct": 2
-                                },
-                                {
-                                  "stem": "Complications of blood transfusion include the following except:",
-                                  "options": [
-                                    "Thromboembolism",
-                                    "Allergic reaction",
-                                    "Febrile non-haemolytic reaction",
-                                    "hypokalemia"
-                                  ],
-                                  "correct": 3
-                                },
-                                {
-                                  "stem": "Which of the following is a manifestation of class II haemorrhage:",
-                                  "options": [
-                                    "Pulse: 120/min. Respiratory rate 25/ min. and urine output more than 20ml/hour",
-                                    "Pulse: >120/min. Respiratory rate 25/ min. and urine output less than 30ml/hour",
-                                    "Pulse: 140/min. Respiratory rate 16/ min. and urine output more than 20ml/hour",
-                                    "Pulse: 110/min. Respiratory rate 40/ min. and urine output more than 20ml/hour"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "Primary hemostasis is achieved by:",
-                                  "options": [
-                                    "fibrin deposition",
-                                    "platelets plug",
-                                    "prothrombin formation",
-                                    "activation of factor V"
-                                  ],
-                                  "correct": 1
-                                },
-                                {
-                                  "stem": "The body response to hemorrhage includes",
-                                  "options": [
-                                    "tachycardia",
-                                    "bradycardia",
-                                    "decreased adrenalin secretion",
-                                    "decreased insulin secretion"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "which of the following can be administered to a non-ABO matched recipient:",
-                                  "options": [
-                                    "fresh frozen plasma",
-                                    "packed RBCs",
-                                    "Whole blood",
-                                    "platelets"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "Regarding hypokalemia:",
-                                  "options": [
-                                    "May be due to alkalosis",
-                                    "E.C.G shows QRS office and peaked T wave.",
-                                    "Can be corrected by potassium chloride 120mmol added to 1L saline",
-                                    "Can lead to thrombocytopenia."
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "Which of the following is a symptom of hypokalemia",
-                                  "options": [
-                                    "paralysis",
-                                    "Tachycardia",
-                                    "hyperreflexia",
-                                    "oliguria"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "A 42-year-old patient presented to the emergency unit with one week of severe diarrhea, lethargy, and his ECG shows prolonged QT interval. The patient is suffering from",
-                                  "options": [
-                                    "hypokalemia",
-                                    "hypernatremia",
-                                    "metabolic acidosis",
-                                    "hyperkalemia"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "Sodium is the main",
-                                  "options": [
-                                    "extra-cellular cation",
-                                    "extra-cellular anion",
-                                    "intra-cellular anion",
-                                    "intra-cellular cation"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "Causes of metabolic acidosis include all, except:",
-                                  "options": [
-                                    "renal failure",
-                                    "shock",
-                                    "large dose of ringer lactate solution",
-                                    "acute pancreatitis."
-                                  ],
-                                  "correct": 3
-                                },
-                                {
-                                  "stem": "Acute renal failure that is caused by shock. The false statement is:",
-                                  "options": [
-                                    "Renal ischemia causes acute tubular necrosis",
-                                    "Urine output less than 300 ml/day",
-                                    "Dopamine has a protective effect against renal failure",
-                                    "Renal failure is irreversible"
-                                  ],
-                                  "correct": 3
-                                },
-                                {
-                                  "stem": "The earliest mechanism in shock is:",
-                                  "options": [
-                                    "The sympatho-adrenal response results in tachycardia",
-                                    "The earliest mechanism is secretion of aldosterone",
-                                    "Aldosterone reduces urine output",
-                                    "The sympatho-adrenal response is mediated by baroreceptors"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "Shock with elevated CVP is:",
-                                  "options": [
-                                    "Hypovolemic shock",
-                                    "Cardiogenic shock",
-                                    "Neurogenic shock",
-                                    "Septic shock"
-                                  ],
-                                  "correct": 1
-                                },
-                                {
-                                  "stem": "At the end of operation there is undue bleeding from wound edges and drains. The underlying cause is:",
-                                  "options": [
-                                    "Hypoprothrombinaemia",
-                                    "Consumption of coagulation factors (DIC)",
-                                    "Hyperdynamic phase of septic shock",
-                                    "Haemodilution by IV fluids"
-                                  ],
-                                  "correct": 1
-                                },
-                                {
-                                  "stem": "A 30-year-old patient taking blood transfusion. Few minutes later he started to complain of chest pain and dyspnea. On examination his pulse is 120/min, the patient is oliguric with dark urine. The best treatment is:",
-                                  "options": [
-                                    "IV fluids",
-                                    "Stop transfusion",
-                                    "Renal dialysis",
-                                    "Mechanical ventilation"
-                                  ],
-                                  "correct": 1
-                                },
-                                {
-                                  "stem": "Factors involved in septic shock. The false statement is:",
-                                  "options": [
-                                    "Damage of vascular endothelium",
-                                    "Marked anemia",
-                                    "Metabolic alkalosis",
-                                    "Release of cytokines by macrophages"
-                                  ],
-                                  "correct": 2
-                                },
-                                {
-                                  "stem": "Hypotension and hyperpyrexia. The underlying cause is:",
-                                  "options": [
-                                    "Neurogenic shock",
-                                    "Endocrinal shock",
-                                    "Anaphylactic shock",
-                                    "Hypovolemic shock"
-                                  ],
-                                  "correct": 2
-                                },
-                                {
-                                  "stem": "The body response to hemorrhage includes:",
-                                  "options": [
-                                    "Decreased adrenalin secretion",
-                                    "Bradycardia",
-                                    "Vasoconstriction",
-                                    "Decrease insulin secretion"
-                                  ],
-                                  "correct": 2
-                                },
-                                {
-                                  "stem": "Primary hemostasis is achieved by:",
-                                  "options": [
-                                    "Platelets plug",
-                                    "Activation of factor V",
-                                    "Prothrombin formation",
-                                    "Fibrin deposition"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "Causes of metabolic acidosis include all, except:",
-                                  "options": [
-                                    "acute pancreatitis",
-                                    "septic shock",
-                                    "large dose of ringer lactate solution",
-                                    "renal failure"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "Complications of blood transfusion include the following except",
-                                  "options": [
-                                    "Hemolytic reaction",
-                                    "hypokalemia",
-                                    "Air embolism",
-                                    "Allergic reaction"
-                                  ],
-                                  "correct": 1
-                                },
-                                {
-                                  "stem": "A 42-year-old patient presented to the emergency unit with one week of severe diarrhea, lethargy, and his ECG shows prolonged QT interval. The patient is suffering from",
-                                  "options": [
-                                    "hyperkalemia",
-                                    "metabolic acidosis",
-                                    "hyponatremia",
-                                    "hypokalemia"
-                                  ],
-                                  "correct": 3
-                                },
-                                {
-                                  "stem": "Regarding cardiogenic shock. The false statement is",
-                                  "options": [
-                                    "The neck veins are collapsed",
-                                    "may be due to massive myocardial infarction",
-                                    "Low blood pressure",
-                                    "May be due to ventricular tachycardia"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "Bacteria translocation in a shocked patient is due to",
-                                  "options": [
-                                    "Delayed resuscitation of shocked patient",
-                                    "Intestinal bacteria translocated to blood because of loss of gut mucosal barrier",
-                                    "Bacteria reach the blood through V lines and catheter",
-                                    "Road traffic accident the wounds are contaminated"
-                                  ],
-                                  "correct": 1
-                                },
-                                {
-                                  "stem": "Which of the following IV solutions is the best for initial resuscitation of a shocked patient",
-                                  "options": [
-                                    "Dextrose (glucose) 5%",
-                                    "Ringer’s lactate",
-                                    "Mannitol",
-                                    "Normal saline"
-                                  ],
-                                  "correct": 1
-                                },
-                                {
-                                  "stem": "Regarding shock the true statement is",
-                                  "options": [
-                                    "Cardiac output is reduced in cardiogenic shock",
-                                    "There is metabolic alkalosis",
-                                    "Increase peripheral resistant is the cause of neurogenic shock",
-                                    "In hypovolemic shock perfusion of different organs simultaneously affected"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "Regarding the underlying causes of hypovolemic shock, all are true. Except:",
-                                  "options": [
-                                    "Generalised peritonitis",
-                                    "Loss of 1500cc blood in road traffic accident",
-                                    "Pulmonary embolism",
-                                    "Acute intestinal obstruction"
-                                  ],
-                                  "correct": 2
-                                },
-                                {
-                                  "stem": "In cases of hemorrhage, blood transfusion is needed in which class of haemorrhage",
-                                  "options": [
-                                    "All of the above",
-                                    "Class II",
-                                    "Class I",
-                                    "Class III"
-                                  ],
-                                  "correct": 3
-                                },
-                                {
-                                  "stem": "Regarding shock the true statement is:",
-                                  "options": [
-                                    "In hypovolemic shock perfusion of different organs simultaneously affected",
-                                    "There is metabolic alkalosis",
-                                    "Cardiac output is reduced in cardiogenic shock",
-                                    "Increase peripheral resistant is the cause of neurogenic shock"
-                                  ],
-                                  "correct": 2
-                                },
-                                {
-                                  "stem": "Factors involved in septic shock. The false statement is:",
-                                  "options": [
-                                    "Release of cytokines by macrophages",
-                                    "Damage of vascular endothelium",
-                                    "Marked anemia",
-                                    "Metabolic alkalosis"
-                                  ],
-                                  "correct": 3
-                                },
-                                {
-                                  "stem": "About compensatory mechanism of hypovolemia. The false statement is:",
-                                  "options": [
-                                    "The earliest mechanism is secretion of aldosterone",
-                                    "The sympatho-adrenal response is mediated by baroreceptors",
-                                    "The sympatho-adrenal response results in tachycardia",
-                                    "Aldosterone reduces urine output"
-                                  ],
-                                  "correct": 3
-                                },
-                                {
-                                  "stem": "Shock with elevated CVP is:",
-                                  "options": [
-                                    "Hypovolemic shock",
-                                    "Septic shock",
-                                    "Cardiogenic shock",
-                                    "Neurogenic shock"
-                                  ],
-                                  "correct": 2
-                                },
-                                {
-                                  "stem": "About septic shock the true statement is:",
-                                  "options": [
-                                    "Gram negative organisms are involved",
-                                    "It is due to maldistribution of circulatory volume to different body organs",
-                                    "In its hypodynamic phase the skin is flushed",
-                                    "In hyperdynamic phase the blood pressure is markedly reduced"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "A 65-year-old shocked patient due to neglected peritonitis at the end of operation there is oozing blood from the wound edges, and from drains. The underlying cause is:",
-                                  "options": [
-                                    "Hemodilution by IV fluids",
-                                    "Hypoprothrombinemia",
-                                    "Disseminated intravascular coagulation factors (DIC)",
-                                    "Hyperdynamic phase of septic shock"
-                                  ],
-                                  "correct": 2
-                                },
-                                {
-                                  "stem": "Acute renal failure that is caused by shock. The false statement is:",
-                                  "options": [
-                                    "Renal ischemia causes acute tubular necrosis",
-                                    "Renal failure is irreversible",
-                                    "Dopamine infusion has a protective effect against renal failure",
-                                    "Urine output less than 300 ml/day"
-                                  ],
-                                  "correct": 1
-                                },
-                                {
-                                  "stem": "Which of the following can be administered to a non-ABO matched recipient?",
-                                  "options": [
-                                    "Fresh frozen plasma",
-                                    "Packed RBCs",
-                                    "Whole blood",
-                                    "Platelets"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "In management of a shocked patient all are true except:",
-                                  "options": [
-                                    "CVP reflect preload",
-                                    "Dopamine reduces the blood flow",
-                                    "Oxygen administration is a priority",
-                                    "Initial resuscitation by IV Ringer lactate solution"
-                                  ],
-                                  "correct": 1
-                                },
-                                {
-                                  "stem": "Regarding hypokalemia:",
-                                  "options": [
-                                    "Can lead to thrombocytopenia",
-                                    "May be due to alkalosis",
-                                    "ECG shows wide QRS and peaked T wave .",
-                                    "Can be corrected by potassium chloride 120 mmol/L added to 1 L saline"
-                                  ],
-                                  "correct": 1
-                                },
-                                {
-                                  "stem": "Which of the following is a manifestation of class II hemorrhage?",
-                                  "options": [
-                                    "Pulse: 120/min, Respiratory rate: 25/min, urine output > 20 ml/hr",
-                                    "Pulse: 90/min. respiratory rate 20/ min. and urine output more than 30m/hour",
-                                    "Pulse: 140/min. respiratory rate 16/ min. and urine output more than 20m/hour",
-                                    "110/min. respiratory rate 40/ min. and urine output more than 20m/hour"
-                                  ],
-                                  "correct": 0
-                                },
-                                {
-                                  "stem": "Hyperdynamic phase of septic shock, all of the following is true except:",
-                                  "options": [
-                                    "Tachypnea",
-                                    "Hypotension",
-                                    "Cold extremities",
-                                    "Oliguria"
-                                  ],
-                                  "correct": 2
-                                },
-                                {
-                                  "stem": "Sodium is the main:",
-                                  "options": [
-                                    "Intra-cellular anion",
-                                    "Extra-cellular cation",
-                                    "Extra-cellular anion",
-                                    "Intra-cellular cation"
-                                  ],
-                                  "correct": 1
-                                },
-                                {
-                                  "stem": "Which of the following is a symptom of hypokalemia?",
-                                  "options": [
-                                    "Oliguria",
-                                    "Tachypnea",
-                                    "Paralytic ileus",
-                                    "Tachycardia"
-                                  ],
-                                  "correct": 2
-                                },
-                                {
-                                  "stem": "About septic shock the true statement is:",
-                                  "options": [
-                                    "Gram negative organisms are involved",
-                                    "In its hypodynamic phase the skin is flushed",
-                                    "In hyperdynamic phase the blood pressure is markedly reduced",
-                                    "It is due to maldistribution of circulatory volume to different body organs"
-                                  ],
-                                  "correct": 0
-                                }
-                              ]
-                            }
-                          }
-                        ]
-                      },
-                      "hasIndex": false,
-                      "label": "Revision",
-                      "isBranch": true
-                    }
-                  },
-                  "hasIndex": false,
-                  "label": "Surgery",
-                  "isBranch": true
-                }
-              },
-              "hasIndex": false,
-              "label": "Emeregncy",
-              "isBranch": true
-            },
-            "emergency": {
-              "children": {
                 "revision": {
                   "children": {},
                   "resources": {
@@ -2988,10 +2446,545 @@
                   "hasIndex": false,
                   "label": "Revision",
                   "isBranch": true
+                },
+                "surgery": {
+                  "children": {
+                    "revision": {
+                      "children": {},
+                      "resources": {
+                        "collectionQuizzes": [
+                          {
+                            "id": "emergency-surgery",
+                            "title": "Emergency Surgery",
+                            "quizData": {
+                              "title": "Emergency Surgery",
+                              "questions": [
+                                {
+                                  "stem": "Regarding cardiogenic shock, the false statement is:",
+                                  "options": [
+                                    "May be due to massive myocardial infarction",
+                                    "The neck veins are collapsed",
+                                    "Low blood pressure",
+                                    "May be due to ventricular tachycardia"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Which of the following IV solutions is the best for initial resuscitation of a shocked patient?",
+                                  "options": [
+                                    "Dextrose (sugar) 5%",
+                                    "Normal saline",
+                                    "Ringer lactate",
+                                    "Mannitol"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "Regarding the underlying causes of hypovolemic shock, all are true, Except:",
+                                  "options": [
+                                    "Hemorrhagic pancreatitis",
+                                    "Pulmonary embolism",
+                                    "Acute intestinal obstruction",
+                                    "Loss of blood in road traffic accident"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Patient received penicillin, few minutes later he developed hypotension, and hypoxemia. The underlying cause is:",
+                                  "options": [
+                                    "Cardiogenic shock",
+                                    "Neurogenic shock",
+                                    "Anaphylactic shock",
+                                    "Endocrinal shock"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "Hyperdynamic phase of septic shock, all of the following is true, Except:",
+                                  "options": [
+                                    "Hypotension",
+                                    "Tachypnea",
+                                    "Cool extremities",
+                                    "Tachycardia"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "In management of a shocked patient all are true except:",
+                                  "options": [
+                                    "Dopamine reduces the blood flow",
+                                    "Initial resuscitation by IV ringer lactate solution",
+                                    "CVP reflect the preload",
+                                    "Oxygen administration is a priority"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Bacteria translocation in a shocked patient is due to:",
+                                  "options": [
+                                    "intestinal bacteria invade blood stream due to loss of gut mucosal barrier",
+                                    "Road traffic accident the wounds are contaminated",
+                                    "Bacteria reach blood through IV lines and catheter."
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "In cases of haemorrhage blood transfusion is needed in which class of haemorrhage",
+                                  "options": [
+                                    "Class I",
+                                    "Class II",
+                                    "Class III",
+                                    "All of the above"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "Complications of blood transfusion include the following except:",
+                                  "options": [
+                                    "Thromboembolism",
+                                    "Allergic reaction",
+                                    "Febrile non-haemolytic reaction",
+                                    "hypokalemia"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "Which of the following is a manifestation of class II haemorrhage:",
+                                  "options": [
+                                    "Pulse: 120/min. Respiratory rate 25/ min. and urine output more than 20ml/hour",
+                                    "Pulse: >120/min. Respiratory rate 25/ min. and urine output less than 30ml/hour",
+                                    "Pulse: 140/min. Respiratory rate 16/ min. and urine output more than 20ml/hour",
+                                    "Pulse: 110/min. Respiratory rate 40/ min. and urine output more than 20ml/hour"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Primary hemostasis is achieved by:",
+                                  "options": [
+                                    "fibrin deposition",
+                                    "platelets plug",
+                                    "prothrombin formation",
+                                    "activation of factor V"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "The body response to hemorrhage includes",
+                                  "options": [
+                                    "tachycardia",
+                                    "bradycardia",
+                                    "decreased adrenalin secretion",
+                                    "decreased insulin secretion"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "which of the following can be administered to a non-ABO matched recipient:",
+                                  "options": [
+                                    "fresh frozen plasma",
+                                    "packed RBCs",
+                                    "Whole blood",
+                                    "platelets"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Regarding hypokalemia:",
+                                  "options": [
+                                    "May be due to alkalosis",
+                                    "E.C.G shows QRS office and peaked T wave.",
+                                    "Can be corrected by potassium chloride 120mmol added to 1L saline",
+                                    "Can lead to thrombocytopenia."
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Which of the following is a symptom of hypokalemia",
+                                  "options": [
+                                    "paralysis",
+                                    "Tachycardia",
+                                    "hyperreflexia",
+                                    "oliguria"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "A 42-year-old patient presented to the emergency unit with one week of severe diarrhea, lethargy, and his ECG shows prolonged QT interval. The patient is suffering from",
+                                  "options": [
+                                    "hypokalemia",
+                                    "hypernatremia",
+                                    "metabolic acidosis",
+                                    "hyperkalemia"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Sodium is the main",
+                                  "options": [
+                                    "extra-cellular cation",
+                                    "extra-cellular anion",
+                                    "intra-cellular anion",
+                                    "intra-cellular cation"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Causes of metabolic acidosis include all, except:",
+                                  "options": [
+                                    "renal failure",
+                                    "shock",
+                                    "large dose of ringer lactate solution",
+                                    "acute pancreatitis."
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "Acute renal failure that is caused by shock. The false statement is:",
+                                  "options": [
+                                    "Renal ischemia causes acute tubular necrosis",
+                                    "Urine output less than 300 ml/day",
+                                    "Dopamine has a protective effect against renal failure",
+                                    "Renal failure is irreversible"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "The earliest mechanism in shock is:",
+                                  "options": [
+                                    "The sympatho-adrenal response results in tachycardia",
+                                    "The earliest mechanism is secretion of aldosterone",
+                                    "Aldosterone reduces urine output",
+                                    "The sympatho-adrenal response is mediated by baroreceptors"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Shock with elevated CVP is:",
+                                  "options": [
+                                    "Hypovolemic shock",
+                                    "Cardiogenic shock",
+                                    "Neurogenic shock",
+                                    "Septic shock"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "At the end of operation there is undue bleeding from wound edges and drains. The underlying cause is:",
+                                  "options": [
+                                    "Hypoprothrombinaemia",
+                                    "Consumption of coagulation factors (DIC)",
+                                    "Hyperdynamic phase of septic shock",
+                                    "Haemodilution by IV fluids"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "A 30-year-old patient taking blood transfusion. Few minutes later he started to complain of chest pain and dyspnea. On examination his pulse is 120/min, the patient is oliguric with dark urine. The best treatment is:",
+                                  "options": [
+                                    "IV fluids",
+                                    "Stop transfusion",
+                                    "Renal dialysis",
+                                    "Mechanical ventilation"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Factors involved in septic shock. The false statement is:",
+                                  "options": [
+                                    "Damage of vascular endothelium",
+                                    "Marked anemia",
+                                    "Metabolic alkalosis",
+                                    "Release of cytokines by macrophages"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "Hypotension and hyperpyrexia. The underlying cause is:",
+                                  "options": [
+                                    "Neurogenic shock",
+                                    "Endocrinal shock",
+                                    "Anaphylactic shock",
+                                    "Hypovolemic shock"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "The body response to hemorrhage includes:",
+                                  "options": [
+                                    "Decreased adrenalin secretion",
+                                    "Bradycardia",
+                                    "Vasoconstriction",
+                                    "Decrease insulin secretion"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "Primary hemostasis is achieved by:",
+                                  "options": [
+                                    "Platelets plug",
+                                    "Activation of factor V",
+                                    "Prothrombin formation",
+                                    "Fibrin deposition"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Causes of metabolic acidosis include all, except:",
+                                  "options": [
+                                    "acute pancreatitis",
+                                    "septic shock",
+                                    "large dose of ringer lactate solution",
+                                    "renal failure"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Complications of blood transfusion include the following except",
+                                  "options": [
+                                    "Hemolytic reaction",
+                                    "hypokalemia",
+                                    "Air embolism",
+                                    "Allergic reaction"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "A 42-year-old patient presented to the emergency unit with one week of severe diarrhea, lethargy, and his ECG shows prolonged QT interval. The patient is suffering from",
+                                  "options": [
+                                    "hyperkalemia",
+                                    "metabolic acidosis",
+                                    "hyponatremia",
+                                    "hypokalemia"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "Regarding cardiogenic shock. The false statement is",
+                                  "options": [
+                                    "The neck veins are collapsed",
+                                    "may be due to massive myocardial infarction",
+                                    "Low blood pressure",
+                                    "May be due to ventricular tachycardia"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Bacteria translocation in a shocked patient is due to",
+                                  "options": [
+                                    "Delayed resuscitation of shocked patient",
+                                    "Intestinal bacteria translocated to blood because of loss of gut mucosal barrier",
+                                    "Bacteria reach the blood through V lines and catheter",
+                                    "Road traffic accident the wounds are contaminated"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Which of the following IV solutions is the best for initial resuscitation of a shocked patient",
+                                  "options": [
+                                    "Dextrose (glucose) 5%",
+                                    "Ringer’s lactate",
+                                    "Mannitol",
+                                    "Normal saline"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Regarding shock the true statement is",
+                                  "options": [
+                                    "Cardiac output is reduced in cardiogenic shock",
+                                    "There is metabolic alkalosis",
+                                    "Increase peripheral resistant is the cause of neurogenic shock",
+                                    "In hypovolemic shock perfusion of different organs simultaneously affected"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Regarding the underlying causes of hypovolemic shock, all are true. Except:",
+                                  "options": [
+                                    "Generalised peritonitis",
+                                    "Loss of 1500cc blood in road traffic accident",
+                                    "Pulmonary embolism",
+                                    "Acute intestinal obstruction"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "In cases of hemorrhage, blood transfusion is needed in which class of haemorrhage",
+                                  "options": [
+                                    "All of the above",
+                                    "Class II",
+                                    "Class I",
+                                    "Class III"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "Regarding shock the true statement is:",
+                                  "options": [
+                                    "In hypovolemic shock perfusion of different organs simultaneously affected",
+                                    "There is metabolic alkalosis",
+                                    "Cardiac output is reduced in cardiogenic shock",
+                                    "Increase peripheral resistant is the cause of neurogenic shock"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "Factors involved in septic shock. The false statement is:",
+                                  "options": [
+                                    "Release of cytokines by macrophages",
+                                    "Damage of vascular endothelium",
+                                    "Marked anemia",
+                                    "Metabolic alkalosis"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "About compensatory mechanism of hypovolemia. The false statement is:",
+                                  "options": [
+                                    "The earliest mechanism is secretion of aldosterone",
+                                    "The sympatho-adrenal response is mediated by baroreceptors",
+                                    "The sympatho-adrenal response results in tachycardia",
+                                    "Aldosterone reduces urine output"
+                                  ],
+                                  "correct": 3
+                                },
+                                {
+                                  "stem": "Shock with elevated CVP is:",
+                                  "options": [
+                                    "Hypovolemic shock",
+                                    "Septic shock",
+                                    "Cardiogenic shock",
+                                    "Neurogenic shock"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "About septic shock the true statement is:",
+                                  "options": [
+                                    "Gram negative organisms are involved",
+                                    "It is due to maldistribution of circulatory volume to different body organs",
+                                    "In its hypodynamic phase the skin is flushed",
+                                    "In hyperdynamic phase the blood pressure is markedly reduced"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "A 65-year-old shocked patient due to neglected peritonitis at the end of operation there is oozing blood from the wound edges, and from drains. The underlying cause is:",
+                                  "options": [
+                                    "Hemodilution by IV fluids",
+                                    "Hypoprothrombinemia",
+                                    "Disseminated intravascular coagulation factors (DIC)",
+                                    "Hyperdynamic phase of septic shock"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "Acute renal failure that is caused by shock. The false statement is:",
+                                  "options": [
+                                    "Renal ischemia causes acute tubular necrosis",
+                                    "Renal failure is irreversible",
+                                    "Dopamine infusion has a protective effect against renal failure",
+                                    "Urine output less than 300 ml/day"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Which of the following can be administered to a non-ABO matched recipient?",
+                                  "options": [
+                                    "Fresh frozen plasma",
+                                    "Packed RBCs",
+                                    "Whole blood",
+                                    "Platelets"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "In management of a shocked patient all are true except:",
+                                  "options": [
+                                    "CVP reflect preload",
+                                    "Dopamine reduces the blood flow",
+                                    "Oxygen administration is a priority",
+                                    "Initial resuscitation by IV Ringer lactate solution"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Regarding hypokalemia:",
+                                  "options": [
+                                    "Can lead to thrombocytopenia",
+                                    "May be due to alkalosis",
+                                    "ECG shows wide QRS and peaked T wave .",
+                                    "Can be corrected by potassium chloride 120 mmol/L added to 1 L saline"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Which of the following is a manifestation of class II hemorrhage?",
+                                  "options": [
+                                    "Pulse: 120/min, Respiratory rate: 25/min, urine output > 20 ml/hr",
+                                    "Pulse: 90/min. respiratory rate 20/ min. and urine output more than 30m/hour",
+                                    "Pulse: 140/min. respiratory rate 16/ min. and urine output more than 20m/hour",
+                                    "110/min. respiratory rate 40/ min. and urine output more than 20m/hour"
+                                  ],
+                                  "correct": 0
+                                },
+                                {
+                                  "stem": "Hyperdynamic phase of septic shock, all of the following is true except:",
+                                  "options": [
+                                    "Tachypnea",
+                                    "Hypotension",
+                                    "Cold extremities",
+                                    "Oliguria"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "Sodium is the main:",
+                                  "options": [
+                                    "Intra-cellular anion",
+                                    "Extra-cellular cation",
+                                    "Extra-cellular anion",
+                                    "Intra-cellular cation"
+                                  ],
+                                  "correct": 1
+                                },
+                                {
+                                  "stem": "Which of the following is a symptom of hypokalemia?",
+                                  "options": [
+                                    "Oliguria",
+                                    "Tachypnea",
+                                    "Paralytic ileus",
+                                    "Tachycardia"
+                                  ],
+                                  "correct": 2
+                                },
+                                {
+                                  "stem": "About septic shock the true statement is:",
+                                  "options": [
+                                    "Gram negative organisms are involved",
+                                    "In its hypodynamic phase the skin is flushed",
+                                    "In hyperdynamic phase the blood pressure is markedly reduced",
+                                    "It is due to maldistribution of circulatory volume to different body organs"
+                                  ],
+                                  "correct": 0
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "hasIndex": false,
+                      "label": "Revision",
+                      "isBranch": true
+                    }
+                  },
+                  "hasIndex": false,
+                  "label": "Surgery",
+                  "isBranch": true
                 }
               },
               "hasIndex": false,
-              "label": "Emergency",
+              "label": "Emeregncy",
               "isBranch": true
             },
             "family-medicine": {

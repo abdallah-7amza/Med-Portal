@@ -1,0 +1,2041 @@
+{
+  "title": "all you need",
+  "questions": [
+    {
+      "stem": "Which of the following is NOT one of the four major physiologic events of hemostasis?",
+      "options": [
+        "Fibrinolysis.",
+        "Vasodilatation.",
+        "Fibrin production.",
+        "Platelet plug formation."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The half-life of platelets is:",
+      "options": [
+        "2-3 days.",
+        "7-10 days.",
+        "14-21 days.",
+        "30-40 days."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The primary defect in von Willebrand's disease is:",
+      "options": [
+        "Inadequate production of fibrin.",
+        "Excessive fibrinolysis.",
+        "Failure of platelet aggregation.",
+        "Failure of vessel constriction."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Bank blood is appropriate for replacing each of the following, except:",
+      "options": [
+        "Factor I (fibrinogen).",
+        "Factor II (prothrombin).",
+        "Factor VII (proconvertin).",
+        "Factor VIII (antihemophilic factor)."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Exsanguinating hemorrhage is most likely to follow which of the following injuries in a previously healthy young adult?",
+      "options": [
+        "Closed fracture of the femur.",
+        "Open fracture of the tibia and fibula.",
+        "Partial transection of the artery from a sharp injury.",
+        "Severe crush injury of the foot."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A prolonged bleeding time may be anticipated in patients with each of the following problems, except:",
+      "options": [
+        "Aspirin ingestion in the past week.",
+        "Classic hemophilia.",
+        "Qualitative platelet dysfunction.",
+        "Von Willebrand's disease."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The most common cause for a transfusion reaction is:",
+      "options": [
+        "Air embolism.",
+        "Contaminated blood.",
+        "Human error.",
+        "Unusual circulating antibodies."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Each of the following is a symptom of a hemolytic transfusion reaction except:",
+      "options": [
+        "Constricting chest pain.",
+        "Flushing of the face.",
+        "Lumbar pain.",
+        "Syncope."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The most common clinical manifestation of a hemolytic transfusion reaction is:",
+      "options": [
+        "Flank pain.",
+        "Jaundice.",
+        "Oliguria.",
+        "A shaking chill."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The most common fatal infectious complication of a blood transfusion is:",
+      "options": [
+        "Acquired immunodeficiency syndrome.",
+        "Cytomegalovirus.",
+        "Malaria.",
+        "Viral hepatitis."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Each of the following factors requires vitamin K for its production except:",
+      "options": [
+        "Factor VIII,",
+        "Factor X.",
+        "Factor IX (Christmas factor).",
+        "Proconvertin (factor VII)."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The hemorrhagic disorder of true hemophilia is best corrected by transfusion of:",
+      "options": [
+        "Banked blood.",
+        "Fresh blood.",
+        "Fresh citrated plasma.",
+        "Frozen plasma.",
+        "Cryoprecipitate."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Consumption coagulopathy due to disseminated intravascular clotting (DIC) is treated by the following except:",
+      "options": [
+        "Fresh blood transfusion.",
+        "Ringer's lactate infusion.",
+        "Heparin.",
+        "Fibrinogen.",
+        "Fresh frozen plasma."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "In acute emergency if blood has to be given immediately without cross-matching it is best to give:",
+      "options": [
+        "Group O Rh-ve.",
+        "Group O Rh+ve.",
+        "Group AB Rh-ve.",
+        "Group AB Rh+ve.",
+        "Group B Rh +ve."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Patients with DIC have all the following except:",
+      "options": [
+        "Prolongation of the coagulation time.",
+        "Increased fibrinogen level.",
+        "Thrombocytosis.",
+        "Increased fibrin degradation products.",
+        "Increased bleeding time."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Complications of massive blood transfusion include:",
+      "options": [
+        "Hypokalemia.",
+        "Hypothermia.",
+        "Thrombocytosis.",
+        "Hypercalcemia."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Haemolytic anemia:",
+      "options": [
+        "Is characteristically microcytic.",
+        "May lead to gall stones formation.",
+        "Is associated with conjugated hyper bilirubinemia.",
+        "Causes elevated serum haptoglobin levels."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The following are recognized complications of blood transfusion except:",
+      "options": [
+        "Citrate toxicity.",
+        "Hepatitis C virus transmission.",
+        "Hypersplenism.",
+        "Hyperkalemia.",
+        "Febrile reaction."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following may cause a fall in the platelet count in peripheral blood except:",
+      "options": [
+        "DIC.",
+        "Massive blood transfusion.",
+        "Warfarin.",
+        "Heparin."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Disseminated intravascular coagulation (DIC):",
+      "options": [
+        "Produces rises in platelet count.",
+        "Is associated with decreased fibrinolysins.",
+        "May present with thrombosis.",
+        "is best managed by whole blood transfusion."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Hereditary spherocytosis is characterized by all the following except:",
+      "options": [
+        "Recurrent hemolytic crisis.",
+        "Micro spherocytosis.",
+        "Gall stones may be present.",
+        "Thrombocytopenia.",
+        "Increased fragility of RBCs."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Complications of blood transfusion includes all of the following except:",
+      "options": [
+        "Transmission of HIV infection.",
+        "Hyperkalemia.",
+        "Citrate intoxication.",
+        "All of the above.",
+        "None of the above."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Primary hemostasis includes all of the following except:",
+      "options": [
+        "Vasoconstriction of the bleeding vessel.",
+        "Formation of a platelet plug.",
+        "Tamponade of the bleeding by the surrounding tissues.",
+        "Fibrin deposition."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following is not a type of hemorrhage as related to the timing of surgery:",
+      "options": [
+        "Primary.",
+        "Secondary.",
+        "Tertiary.",
+        "Reactionary."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A patient with massive bleeding from a peptic ulcer is expected to have all of the following except:",
+      "options": [
+        "Blood pressure of 90/60 mmHg.",
+        "Pulse of 120/ M.",
+        "Respiratory rate of 26.",
+        "Temperature of 37.5°C."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "In cases of hemorrhage, blood transfusion is needed in which of these classes:",
+      "options": [
+        "Class I.",
+        "Class II.",
+        "Class III.",
+        "None of the above."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The blood volume of the newborn is:",
+      "options": [
+        "20-40ml/kg.",
+        "40-60ml/kg.",
+        "80-85ml/kg.",
+        "100-120ml/kg."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 30-year-old patient taking blood transfusion. Few minutes later he started to complain of chest pain and dyspnea. On examination his : 120/ minute, the patient is oliguric with dark urine. The best treatment is:",
+      "options": [
+        "Stop transfusion.",
+        "IV fluids.",
+        "Renal dialysis.",
+        "Mechanical ventilation."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Primary hemostasis is achieved by:",
+      "options": [
+        "Fibrin deposition.",
+        "Platelets plug.",
+        "Prothrombin formation.",
+        "Activation of factor V."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following is a manifestation of class II hemorrhage:",
+      "options": [
+        "Pulse: 120/m. Respiratory rate:25/m, and urine output more than 20ml/hour.",
+        "Pulse: 90/m. Respiratory rate:20/m. and urine output more than 30mi/hour.",
+        "Pulse: 140/m. Respiratory rate:16/m. and urine output more than 20ml/hour.",
+        "Pulse: 110/m. Respiratory rate: 40/m. and urine output more than 20ml/hour."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Complications of blood transfusion include the following except",
+      "options": [
+        "Air embolism",
+        "Allergic reaction",
+        "Hemolytic reaction",
+        "hypokalemia"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The body response to hemorrhage includes",
+      "options": [
+        "vasoconstriction",
+        "bradycardia",
+        "decreased adrenalin secretion",
+        "decrease insulin secretion"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "which of the following can be ad mistered to a non-ABO matched recipient:",
+      "options": [
+        "fresh frozen plasma",
+        "packed RBCs.",
+        "Whole blood",
+        "platelets"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Regarding hypokalemia:",
+      "options": [
+        "May be due to alkalosis",
+        "ECG shoes wide QRS and peaked T wave.",
+        "Can be corrected by potassium adoria20mmol added to 1L saline",
+        "Can lead to thrombocytopenia."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following is a symptom of hypokalemia",
+      "options": [
+        "Paralytic ileus",
+        "Tachycardia",
+        "Tachypnea",
+        "oliguria"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 42-year-old patient presented to the emergency unit with one week of severe diarrhea, lethargy, and his ECG shows prolonged QT interval. The patient is suffering from",
+      "options": [
+        "hypokalemia",
+        "hyponatremia",
+        "metabolic acidosis",
+        "hyperkalemia"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Sodium is the main",
+      "options": [
+        "extra-cellular cation",
+        "extra-cellular anion",
+        "intra-cellular anion",
+        "intra-cellular cation"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Causes of metabolic acidosis include all, except:",
+      "options": [
+        "renal failure",
+        "septic shock",
+        "large dose of ringer lactate solution",
+        "acute pancreatitis."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In a bleeding patient, the most important parameter to assess successful fluid replacement is",
+      "options": [
+        "Pulse rate.",
+        "Blood pressure.",
+        "Urine output.",
+        "Skin elasticity.",
+        "Level of consciousness."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Complications of massive blood transfusion include:",
+      "options": [
+        "Acidosis.",
+        "Allergic reaction.",
+        "Fever.",
+        "Allergic reaction."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A patient with acute respiratory distress syndrome (ARDS) exhibits all of the following findings except:",
+      "options": [
+        "Decreased pulmonary compliance.",
+        "Hypercarbia.",
+        "Hypoxia.",
+        "Patchy infiltrates in chest X-ray."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Neurogenic shock is characterized by the presence of:",
+      "options": [
+        "Cool moist skin.",
+        "Increased cardiac output.",
+        "Decreased peripheral vascular resistance.",
+        "Decreased blood volume."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A patient has a blood pressure of 70/50 mmHg and a serum lactate level of 30mg/100mL (normal: 6 to 16). His cardiac output is 1.9L/min, and his central venous pressure is 2 cm H2O. The most likely diagnosis is:",
+      "options": [
+        "Congestive heart failure.",
+        "Cardiac tamponade.",
+        "Hypovolemic shock.",
+        "Septic shock,"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "In septic shock:",
+      "options": [
+        "Causes may include peritonitis and burns.",
+        "Metabolic alkalosis may develop.",
+        "Nitrous oxide may be used for treatment of vasoconstriction.",
+        "Caused by gram negative exotoxins."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Grade III hemorrhagic shock:",
+      "options": [
+        "It occurs after the sudden loss of 1.5-2 liters blood.",
+        "Is associated with a near normal heart rate.",
+        "Systolic blood pressure is normal.",
+        "The respiratory rate is usually below 20 breath/ min."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Recognized complications of septic shock include all except:",
+      "options": [
+        "Warm extremities.",
+        "ARDS.",
+        "Hypothermia.",
+        "Gastrointestinal bleeding.",
+        "Polyuria."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A rapid loss of 25% of the blood will:",
+      "options": [
+        "Decrease ADH levels.",
+        "Produces hyperkalemia,",
+        "Activate the rennin-angiotensin system.",
+        "Inhibits thirst sensation."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All of the followings may be present in septic shock except:",
+      "options": [
+        "Mental confusion.",
+        "Tachycardia.",
+        "Polyuria.",
+        "Jaundice.",
+        "Fever."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Haemorrhage:",
+      "options": [
+        "Is arterial if bright red and spurting in time with pulse.",
+        "Is reactionary if occurring 4 hours after injury.",
+        "Is secondary if occurring 24 hours after injury.",
+        "Bradycardia is a major sign."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In management of hypovolemic shock:",
+      "options": [
+        "Morphine is a good drug in patients with head trauma.",
+        "Febrile reaction to blood transfusion is usually due to pyrogens.",
+        "Vasoconstrictor drugs should be given.",
+        "100% oxygen administration is given in grade II hemorrhage."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The essential pathophysiological disorder in all types of shock is:",
+      "options": [
+        "Hypotension.",
+        "Tachycardia.",
+        "Viscero-cutaneous vasoconstriction.",
+        "Impaired tissue perfusion.",
+        "Reduced blood volume."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The most important factor in the treatment of a shocked patient is restoration of:",
+      "options": [
+        "Arterial blood pressure.",
+        "Central venous pressure.",
+        "Circulating blood volume.",
+        "Cardiac output.",
+        "Tissue perlusion."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "The best emergency intravenous infusion in hypovolemic shock is:",
+      "options": [
+        "Normal saline.",
+        "Hypertonic saline.",
+        "Lactated Ringer's solution.",
+        "5% glucose.",
+        "Hypertonic glucose."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The hyperdynamic phase of septic shock (septicemia) is characterized by the following signs except:",
+      "options": [
+        "Hyperventilation.",
+        "Hypotension.",
+        "Tachycardia.",
+        "Pale cold extremities.",
+        "Oliguria."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Septic shock responds best to:",
+      "options": [
+        "Massive antibiotics.",
+        "Intravenous infusion.",
+        "Corticosteroids.",
+        "Drainage of septic collections.",
+        "Vasopressors and inotropics."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The best guide for the required blood transfusion in haemorrhagic shock is. the:",
+      "options": [
+        "Arterial blood pressure.",
+        "Pulse rate.",
+        "Haematocrit.",
+        "Central venous pressure (CVP).",
+        "Urine output per minute."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "In the adult respiratory distress syndrome (ARDS) the most important therapeutic measure is:",
+      "options": [
+        "Oxygen inhalation.",
+        "Mechanical ventilation.",
+        "Large doses of IV steroids.",
+        "Massive antibiotics.",
+        "Intravenous diuretics."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "An elderly patient with a history of congestive heart failure developed al perforated peptic ulcer. He was taken to the operating room after the administration of 500ml of 5% glucose over 6 hours. Upon induction of anaesthesia, the B.P. dropped to 80mHg. The most probable cause is:",
+      "options": [
+        "Cardiogenic shock.",
+        "Septic shock.",
+        "Neurogenic shock.",
+        "Anaphylactic shock.",
+        "Internal haemorrhage."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The followings are clinical manifestations of multi organ system failure except:",
+      "options": [
+        "Hypocapnea.",
+        "Metabolic acidosis.",
+        "Gastro intestinal hemorrhage.",
+        "Adult respiratory distress syndrome.",
+        "Acute renal failure."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Physiological responses to hemorrhage include all except:",
+      "options": [
+        "Peripheral vasoconstriction.",
+        "Tachycardia.",
+        "Increased ADH.",
+        "Hemoconcentration."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Post operative day 5, following sigmoid colectomy for cancer sigmoid, a patient developed tachycardia, warm peripheries, WBC = 17000. Hb% = 8gm/dL. The underlying cause is:",
+      "options": [
+        "Anaphylactic shock.",
+        "Hypovolemic shock.",
+        "Cardiogenic shock.",
+        "Septic shock."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The best solution used for resuscitation of a patient with hypovolemic shock is:",
+      "options": [
+        "Lactated Ringer solution.",
+        "Glucose 5%.",
+        "Glucose 25%.",
+        "Kadalex."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Management of a patient with septic shock includes all of the following except:",
+      "options": [
+        "Fluid replacement.",
+        "Oxygen administration.",
+        "Renal support.",
+        "Delay management of the septic focus till the patient recovers."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "All of the following can be used to resuscitate a shocked patient except:",
+      "options": [
+        "Lactated Ringer's solution.",
+        "Dextran.",
+        "Blood transfusion.",
+        "Glucose 5%."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "In cases of shock, inotropic agents are used:",
+      "options": [
+        "In all cases of anaphylactic shock,",
+        "When the vital signs fail to improve inspite of adequate fluid replacement.",
+        "In the initial phases of septic shock.",
+        "In all cases of neurogenic shock."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Regarding septic shock, the incorrect statement is?",
+      "options": [
+        "Bacterial endotoxin triggers complex immunologic reactions.",
+        "Increase the release of cytokines and platelet activation factors.",
+        "Nitric oxide secretion enhances elevation of blood pressure.",
+        "In septic shock multiple organ failure (MOF) proceeds faster than in hypovolemic shock."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The essential pathophysiological disorder in all types of shock:",
+      "options": [
+        "Hypotension.",
+        "Impaired tissue perfusion.",
+        "Reduced circulating blood volume.",
+        "Viscero-cutaneous vasoconstriction."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Regarding shock the true statement is",
+      "options": [
+        "In hypovolemic shock perfusion of different organs simultaneously affected",
+        "There is metabolic alkalosis",
+        "Cardiac output is reduced in cardiogenic shock",
+        "Increase peripheral resistant is the cause of neurogenic shock"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Factors involved in septic shock. The false statement is:",
+      "options": [
+        "Release of cytokines by macrophages",
+        "Damage of vascular endothelium",
+        "Marked anemia",
+        "Metabolic alkalosis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "About compensatory mechanism of hypovolemia. The false statement is:",
+      "options": [
+        "The earliest mechanism is secretion of aldosterone",
+        "The sympathy-adrenal response is mediated by baroreceptors",
+        "The sympatho-adrenal response results in tachycardia",
+        "Aldosterone reduces urine output"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Shock with elevated CVP is:",
+      "options": [
+        "Hypovolemic shock",
+        "Septic shock",
+        "Cardiogenic shock",
+        "Neurogenic shock"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "About septic shock the true statement is:",
+      "options": [
+        "Gram negative organisms are involved",
+        "It is due to maldistribution of circulatory volume to different body organs",
+        "In it's hypodynamic phase the skin is flushed",
+        "In hyperdynamic phase the blood pressure is markedly reduced"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 65-year-old shocked patient due to neglected peritonitis at the end of operation there is undue bleeding from the wound edges, and from drains. The underlying cause is:",
+      "options": [
+        "Consumption of coagulation factors (DIC).",
+        "Haemodilution by IV fluids.",
+        "Hypoprothrombinaemia",
+        "Hyperdynamic phase of septic shock"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Acute renal failure that is caused by shock. The false statement is:",
+      "options": [
+        "Renal ischemia causes acute tubular necrosis",
+        "Renal failure is irreversible",
+        "Dopamine has a protective effect against renal failure",
+        "Urine output less than 300ml/day"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Regarding cardiogenic shock. The false statement is",
+      "options": [
+        "May be due to massive myocardial infarction",
+        "The neck veins are collapsed",
+        "Low blood pressure",
+        "May be due to ventricular tachycardia"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following IV solutions is the best for initial resuscitation of a shocked patient",
+      "options": [
+        "Dextrose (glucose) 5%",
+        "Normal saline",
+        "Ringer's lactate.",
+        "Mannitol"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Regarding the underlying causes of hypovolemic shock, all are true. Except:",
+      "options": [
+        "Generalised peritonitis",
+        "Pulmonary embolism",
+        "Acute intestinal obstruction",
+        "Loss of 1500cc blood in road traffic accident"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Patient received penicillin, few minutes later he developed hypotension, and hyperpyrexia. The underlying cause is:",
+      "options": [
+        "Anaphylactic shock",
+        "Neurogenic shock",
+        "Hypovolemic shock",
+        "Endocrinal shock"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Hyperdynamic phase of septic shock, all of the following is true. Except:",
+      "options": [
+        "Hypotension",
+        "Oliguria",
+        "Tachypnea",
+        "Cold extremities"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "In management of a shocked patient all are true except:",
+      "options": [
+        "Dopamine reduces the blood flow",
+        "Initial resuscitation by IV ringer lactate solution",
+        "CVP reflect the preload.",
+        "Oxygen administration is a priority"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Bacteria translocation in a shocked patient is due to",
+      "options": [
+        "Intestinal bacteria translocated to blood because of loss of gut mucosal barrier",
+        "Road traffic accident the wounds are contaminated",
+        "Delayed resuscitation of shocked patient",
+        "Bacteria reach the blood through IV lines and catheter."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Gastrointestinal effects of major burn include one of the following:",
+      "options": [
+        "Small intestinal obstruction",
+        "Acute gastro-duodenal ulcerations",
+        "Splanchnic vasodilatation",
+        "Liver cell failure"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Regarding the depth of burn all are true except:",
+      "options": [
+        "Partial-thickness burns show blisters",
+        "Partial-thickness burns are less painful than full-thickness burns",
+        "Full-thickness burns require excision and split thickness graft",
+        "Partial thickness burns heal within 2 weeks"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Regarding burn eschar, all are true except:",
+      "options": [
+        "Eschars are formed of tight stiff fibrous tissue",
+        "A circumferential lower limb eschar can cause limb ischemia",
+        "They are insensitive tissue that can be divided without anesthesia",
+        "A circumferential abdominal eschar can cause respiratory distress"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Regarding inhalation burns, all are true except:",
+      "options": [
+        "Airway obstruction is the main cause of death",
+        "All inhalation burn victims should have tracheostomy",
+        "They are likely to happen with flame burn in confined area",
+        "They should be suspected with facial burn"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Improvement of burn survival is mostly attributed to:",
+      "options": [
+        "Prophylactic antibiotics",
+        "Enteral and parenteral nutrition",
+        "Early excision of burn area and skin grafting",
+        "IV fresh frozen plasma"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What percentage does a patient have who has suffered circumferential burn to one leg, circumferential burn to one arm, and anterior trunk:",
+      "options": [
+        "45%",
+        "36%",
+        "18%",
+        "27%"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The appropriate management of deep burn of the hand is:",
+      "options": [
+        "Surgical debridement of burnt tissues and frequent dressings",
+        "Early excision and grafting",
+        "Dressings only",
+        "Observation until it separates spontaneously"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 62Kg 18-year-old girl sustained a burn of all back, the posterior aspect of both lower limbs. The patient will require volume of saline and Ringer lactate (in ml) during the first 24 hours:",
+      "options": [
+        "3233 ml",
+        "1894 ml",
+        "2232 ml",
+        "2408 ml"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 38-year-old woman is rescued from a house fire after 20 minutes. In the emergency room she has anterior chest wall burns and she is confused, and lethargic. The most likely diagnosis is:",
+      "options": [
+        "Carbon monoxide poisoning",
+        "Hypercarbia respiratory failure",
+        "Inhalation lung injury",
+        "Upper airway obstruction"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "When determining the depth of burn, all are true except:",
+      "options": [
+        "A knowledge of the type of burn is important",
+        "The presence of blisters is clinically important",
+        "The presence of pain denotes full thickness skin burn",
+        "Water loss by evaporation is expected in deep burn"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Parkland formula for resuscitation of burn, the correct statement is:",
+      "options": [
+        "It is given over 36 hours",
+        "It is calculated 4ml/kg X percentage of area of burn",
+        "The fluid amount should be restricted in electrical burn",
+        "Inhalation injury does not require fluid resuscitation"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The proliferative phase of wound healing occurs how long after the injury?",
+      "options": [
+        "1 day.",
+        "2 days.",
+        "7 days.",
+        "14 days."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The tensile strength of a wound reaches normal (pre-injury) levels:",
+      "options": [
+        "10 days after injury.",
+        "3 months after injury.",
+        "1 year after injury.",
+        "Never."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Steroids impair wound healing by:",
+      "options": [
+        "Decreasing angiogenesis and macrophage migration.",
+        "Decreasing platelet plug integrity.",
+        "Increasing release of lysosomal enzymes.",
+        "Increasing fibrinolysis."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The treatment of choice for keloids is:",
+      "options": [
+        "Excision alone.",
+        "Excision with adjuvant therapy (e.g. radiation).",
+        "Pressure treatment.",
+        "Intralesional injection of steroids."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The major cause of impaired wound healing is:",
+      "options": [
+        "Anemia.",
+        "Diabetes mellitus.",
+        "Local tissue infection.",
+        "Malnutrition."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All of the followings can delay wound healing except:",
+      "options": [
+        "Malnutrition.",
+        "Infections.",
+        "Anemia.",
+        "Advanced age.",
+        "Hypocalcaemia."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "About wound management, one statement only is correct:",
+      "options": [
+        "Debridement is the removal of dead tissues and foreign bodies.",
+        "Debridement is necessary for incised wounds to get a good drainage.",
+        "Nerve repair in lacerated crushed wounds is of first priority.",
+        "In fresh clean-cut wounds mark the cut tendons for delayed treatment.",
+        "Deep fascia closure after muscle debridement prevents infection."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Unfavorable factors in wound healing are the following except:",
+      "options": [
+        "Infection.",
+        "Presence of foreign material.",
+        "Suture under tension.",
+        "Wound drainage.",
+        "Wound hematoma."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The following statements are correct except:",
+      "options": [
+        "Hypo proteinaemia impairs wound healing..",
+        "Immobilization of the injured part helps wound healing.",
+        "Corticosteroids impair wound healing.",
+        "Irradiation of a wound promotes healing.",
+        "Cancer chemotherapy delays wound healing."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following are types of wound healing:",
+      "options": [
+        "Healing by primary intention.",
+        "Healing by secondary intention.",
+        "Healing by tertiary intention.",
+        "All of the above,",
+        "None of the above."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Treatment of incised wounds of less than 6 hours duration includes:",
+      "options": [
+        "Primary closure.",
+        "Delayed primary closure.",
+        "Debridement.",
+        "None of the above."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following are components of wound healing?",
+      "options": [
+        "Wound contraction.",
+        "Granulation tissue formation,",
+        "Epithelialization,",
+        "All of the above.",
+        "None of the above."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Granulation tissue refers to:",
+      "options": [
+        "Platelets and fibrin.",
+        "Inflammatory celis and damaged tissues.",
+        "Budding capillaries and fibroblasts.",
+        "Slough and blood."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Debridement means:",
+      "options": [
+        "Excising 1mm of skin from the edge of the wound.",
+        "Amputation.",
+        "Excision of devitalized tissue.",
+        "Suturing of the wound."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The earliest manifestations of surgical wound infection are:",
+      "options": [
+        "Swollen, tender and red wound.",
+        "Fluctuant areas and/or crepitus.",
+        "Wound pain and fever.",
+        "Discharge from the wound."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Regarding the dangerous area of the face, all of the following are true except:",
+      "options": [
+        "The outer canthus forms one of its boundaries.",
+        "The main risk is cavernous sinus thrombosis.",
+        "The angular vein communicates with the ophthalmic veins.",
+        "The anterior facial vein communicates through the pterygoid venous plexus which communicates with the cavernous sinus by an emissary vein that enters the skull through the foramen rotundum."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Regarding lacerated wounds, all of the following are true except:",
+      "options": [
+        "Devitalized skin edges are removed.",
+        "Deep fascia is opened widely.",
+        "Dead muscles are excised.",
+        "Cut nerves are sutured primarily."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Regarding the proliferation phase of wound healing, the correct statement is?",
+      "options": [
+        "Macrophages play an important role in phagocytosis and wound debridement.",
+        "Endothelial cells proliferate from the intact venules to form new capillary buds.",
+        "Deposition of collagen in the wound.",
+        "Platelet derived growth factor, tumour necrosis factor-alpha, interleukin-l."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "All of the following can delay wound healing, except:",
+      "options": [
+        "Elderly patients, and malnutrition.",
+        "Anemia.",
+        "Lacerated wounds.",
+        "Hypoglycemia."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A patient with a palpable carotid pulse but no femoral pulses has an approximate systolic blood pressure of:",
+      "options": [
+        "60 mmHg.",
+        "70 mmHg.",
+        "80 mmHg.",
+        "90 mmHg."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What percentage of blood volume must be lost in healthy patients before hypotension occurs?",
+      "options": [
+        "10-20%.",
+        "20-30%.",
+        "30-40%.",
+        "40-50%."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A patient with spontaneous eye opening, who is confused and localizes pain has a Glasgow Coma Score of:",
+      "options": [
+        "9.",
+        "11.",
+        "13.",
+        "15."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 19 year-old man is admitted to the emergency department with a stab wound just below the right inguinal ligament. There is profuse bleeding from the wound, and he is in shock. The first step in local wound control should be to:",
+      "options": [
+        "Apply compression of the bleeding vessel with a gloved finger.",
+        "Place a tourniquet on the right thigh above the wound.",
+        "Use clamps and ligatures to control the bleeding.",
+        "Wrap the wound and upper thigh in a bulky pressure dressing."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 20 year-old man has an injury to the posterior urethra. After appropriate initial management, the most common late complication is:",
+      "options": [
+        "Ascending urinary tract infection.",
+        "Retrograde ejaculation.",
+        "Sterility.",
+        "Urethral stricture."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "An early sign of anterior compartment syndrome in the calf is:",
+      "options": [
+        "Absence of pulses in the foot.",
+        "Firm calf muscles.",
+        "Foot drop.",
+        "Paraesthesia between the great and second toes."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "What percentage burn does a patient have who has suffered burns to one leg (circumferential), one arm (circumferential), and anterior trunk?",
+      "options": [
+        "18%.",
+        "27%.",
+        "36%.",
+        "45%."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The appropriate management of a deep partial-thickness burn is:",
+      "options": [
+        "Early excision and grafting.",
+        "Surgical debridement and dressings.",
+        "Dressings only.",
+        "Observation."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Major burns:",
+      "options": [
+        "Result in a decrease in the metabolic rate.",
+        "Are associated with cardiogenic shock.",
+        "Can cause adult respiratory distress syndrome.",
+        "To chest do not require escharotomy."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following nerves are at risk with the operation described:",
+      "options": [
+        "External laryngeal nerve-thyroidectomy.",
+        "ILio-inguinal nerve - hydrocele repair.",
+        "Sural nerve-femoro popliteal by pass.",
+        "Facial nerve - submandibular gland surgery."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Partial thickness burn:",
+      "options": [
+        "Have a pale white appearance,",
+        "Are painless and insensitive.",
+        "Are sensitive to air.",
+        "Commonly result from contact with concentrated chemicals."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Complications of major burn include all except:",
+      "options": [
+        "DIC.",
+        "Myocardial suppression.",
+        "Septic shock.",
+        "Oliguria.",
+        "Cushing's ulcer of the duodenum."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Gastro intestinal complications of major burns include ali except:",
+      "options": [
+        "Paralytic ileus.",
+        "Acute gastric dilatation.",
+        "Curling's ulcer.",
+        "Hepatic dysfunction."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is the first priority in the treatment of a patient who had a burn of the face due to inhalation injury in a closed space?",
+      "options": [
+        "Covering the burnt area with sulphadiazine cream.",
+        "Insertion of wide bore canula + start I.V resuscitation.",
+        "I.V antibiotics.",
+        "Endotracheal intubation.",
+        "Protection of the eyes by an ointment."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The management of a patient with a burn of 30% of the trunk includes all except:",
+      "options": [
+        "I.V ringer's lactate solution.",
+        "Haematocrit readings.",
+        "Monitoring urine output.",
+        "Urgent tracheostomy."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The primary survey of a seriously Injured multi-trauma patient include:",
+      "options": [
+        "Airway maintenance with cervical spine control.",
+        "Abdominal assessment.",
+        "Rectal examination.",
+        "Musculo-skeletal assessment.",
+        "Diagnostic peritoneal lavage."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Patients with major burns are liable to develop the following except:",
+      "options": [
+        "Acute peptic ulceration.",
+        "Paralytic ileus.",
+        "Cerebral oedema.",
+        "Septicemia.",
+        "Mesenteric vascular occlusion."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Metabolic changes after burn are due to the following except:",
+      "options": [
+        "The endocrine responses to injury.",
+        "Local fiuid loss into the burnt area.",
+        "Reduced heat loss.",
+        "Increased insensible water loss.",
+        "Bacterial infection."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The most urgent measure in the management of a severely injured patient in the reception room is:",
+      "options": [
+        "Control of active bleeding.",
+        "Taking blood sample for grouping and cross matching.",
+        "Establishing an intravenous line.",
+        "Securing clear airway and adequate pulmonary ventilation.",
+        "Providing tetanus prophylaxis."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The most serious risk of surgery on a diabetic patient is:",
+      "options": [
+        "Urinary tract infection.",
+        "Chest infection.",
+        "Ketoacidosis.",
+        "Anuria.",
+        "Wound sepsis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Post-operative pulmonary complications are most often due to:",
+      "options": [
+        "Hypercapnea.",
+        "Emphysema.",
+        "Atelectasis.",
+        "Thromboembolism.",
+        "Chloride."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The possibility of cervical spine injury should be considered in which of the following conditions:",
+      "options": [
+        "Bony abnormalities over the cervical spine.",
+        "the presence of maxillofacial trauma.",
+        "Altered level of consciousness.",
+        "Multisystem trauma.",
+        "All of the above."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A burned victim has involvement of his face, anterior part of the neck the anterior surface of the chest and abdomen and the anterior parts of both upper limbs will have a:",
+      "options": [
+        "25% burn.",
+        "31.5% burn.",
+        "36% burn.",
+        "40.5% burn."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "This same victim is considered to have:",
+      "options": [
+        "A minor bum,",
+        "An intermediate burn,",
+        "A major burn.",
+        "An extensive burn."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 62Kg 18 year old female sustained a burn of all her back and the backs of both lower limbs. This is considered which extent of burns:",
+      "options": [
+        "Minor.",
+        "Intermediate.",
+        "Major.",
+        "Superficial."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "This same patient will require this volume of saline (in ml) during the first 24hours according to Evan's formula:",
+      "options": [
+        "3233.",
+        "1894.",
+        "2232.",
+        "2408."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The body mass index of a 105Kg patient who has a height of 168cm is:",
+      "options": [
+        "34.3.",
+        "37.2.",
+        "32.7.",
+        "24.7."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The possibility of cervical spine injury should be considered in which of the following conditions:",
+      "options": [
+        "Bony abnormalities over the cervical spine.",
+        "The presence of maxillofacial trauma.",
+        "Altered level of consciousness.",
+        "Multisystem trauma.",
+        "All of the above."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Which of the following modalities cannot be used to obtain and maintain a patent airway in a patient with suspected injury of the cervical spine?",
+      "options": [
+        "Naso-pharyngeal tube.",
+        "Endotracheal intubation.",
+        "Tracheostomy.",
+        "Cricothyroidotomy."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "For the trauma victim, one of the following is an indication for endotracheal intubation.",
+      "options": [
+        "Haemothorax.",
+        "Open pneumothorax.",
+        "Tension pneumothorax.",
+        "Single rib fracture.",
+        "Unconsciousness."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "One of the following is an indicator of severe trauma that is likely to be associated with multiple injuries.",
+      "options": [
+        "Fracture of the sternum.",
+        "Fracture of the tenth rib.",
+        "Extradural haematoma.",
+        "Facial lacerations.",
+        "Fracture of the clavicle."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The least likely trauma to cause multiple injuries is",
+      "options": [
+        "Fall from a height.",
+        "Machinery accidents.",
+        "Road traffic accidents",
+        "Explosions."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "About triage for mass casualties, all the following statements are true, except",
+      "options": [
+        "Is used to sort trauma victims' priority for management at the scene of accident.",
+        "Is used to sort trauma victims' priority for transfer to hospital.",
+        "Is used to sort trauma victims' priority for management in emergency room.",
+        "Those who are likely to die, regardless of whatever care they receive, are not given first priority.",
+        "Those who are likely to live, regardless of whatever care they receive, should be given first priority."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "About Glasgow Coma Scale (GCS), all the following statements are true, except",
+      "options": [
+        "It is a numerical measure of the level of consciousness.",
+        "A rise in intra-cranial tension reduces GCS.",
+        "GCS components are eye opening, best verbal response and best motor response.",
+        "GCS cannot be assessed in intubated and in sedated patients.",
+        "The highest GCS is 12."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A trauma victim opens his eyes in response to commands, is disoriented when asked about his profession, and localizes painful stimuli. His Glasgow Coma Scale is",
+      "options": [
+        "6.",
+        "8.",
+        "9.",
+        "10.",
+        "12."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Regarding superficial burns, which of the following statements is incorrect?",
+      "options": [
+        "Regeneration is complete within 3-6 days",
+        "Blisters are very common",
+        "They are painful.",
+        "They blanch on pressure."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Regarding ATLS for trauma, which of the following belong to the 2ry survey?",
+      "options": [
+        "Hemothorax.",
+        "Assessment of fracture pelvis.",
+        "Assessment of airways.",
+        "Assessment of hypovolemia."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The possibility of cervical spine injury should be considered in which of the following condition:",
+      "options": [
+        "Presence of maxillofacial trauma",
+        "Cervical spine spondylosis.",
+        "Fracture base of the skull.",
+        "Surgical emphysema of the neck."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Regarding full thickness skin grafts which of the following is correct?",
+      "options": [
+        "It has better survival rate than split thickness grafts.",
+        "It has better cosmetic result than split thickness grafts",
+        "It has high tendency of contracture.",
+        "Donor site heals spontaneously."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "An artificial airway, like an endotracheal tube, is used in the following type of ventilation.",
+      "options": [
+        "Positive Pressure",
+        "Negative pressure"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Pressure is applied to the abdomen and thorax to draw air into the lungs through the upper airway in the following type of ventilation.",
+      "options": [
+        "Positive Pressure",
+        "Negative pressure"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Iron lung ventilators used after the polio epidemics in the first half of the 20th century belong to:",
+      "options": [
+        "Positive Pressure Ventilation",
+        "Negative pressure Ventilation"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "One of the following modes of ventilation “locks out” the patient's efforts to breathe.",
+      "options": [
+        "Controlled Mandatory Ventilation",
+        "Synchronous Intermittent Mandatory Ventilation",
+        "Assist Control Mode",
+        "Pressure Control Mode"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "One of the following modes of ventilation has the risk of the patient getting respiratory alkalosis.",
+      "options": [
+        "Controlled Mandatory Ventilation",
+        "Synchronous Intermittent Mandatory Ventilation",
+        "Assist Control Mode",
+        "Pressure Control Mode"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The mode of ventilation which allows the patient to breathe spontaneously at his or her own respiratory rate and depth between the ventilator breaths is...",
+      "options": [
+        "Controlled Mandatory Ventilation",
+        "Synchronous Intermittent Mandatory Ventilation",
+        "Assist Control Mode",
+        "Pressure Control Mode"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Minute ventilation is equal to:",
+      "options": [
+        "FiO2 X PEEP",
+        "FiO2/PEEP",
+        "Tidal Volume X Respiratory Rate",
+        "Tidal Volume/Respiratory Rate"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What are the Ventilator Parameters adjusted to maintain the optimum Minute Ventilation?",
+      "options": [
+        "FiO2 and PEEP",
+        "Tidal Volume and Respiratory Rate"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which are the Ventilator Parameters adjusted to maintain the optimum oxygenation?",
+      "options": [
+        "FiO2 and PEEP",
+        "Tidal Volume and Respiratory Rate"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "One of the following modes of ventilation reduces the work of breathing by overcoming the resistance created by ventilator tubing.",
+      "options": [
+        "Controlled Mandatory Ventilation",
+        "Synchronous Intermittent Mandatory Ventilation",
+        "Assist Control Mode",
+        "Pressure Support Mode"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which one of the following modes of ventilation is triggered by time, limited by pressure and affects aspiration only?",
+      "options": [
+        "Controlled Mandatory Ventilation",
+        "Synchronous Intermittent Mandatory Ventilation",
+        "Assist Control Mode",
+        "Pressure Control Mode"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following ventilator modes delivers a preset volume or pressure regardless of the patient’s inspiratory efforts?",
+      "options": [
+        "Assist-Control Ventilation (A/C)",
+        "Controlled Mechanical Ventilation (CV)",
+        "Synchronous Intermittent Mandatory Ventilation (SIMV)",
+        "Pressure Support Ventilation (PSV)"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is the recommended initial Fraction of Inspired Oxygen (FIO2) setting when starting mechanical ventilation?",
+      "options": [
+        "0.21 (21%)",
+        "0.5 (50%)",
+        "0.6 (60%)",
+        "1.0 (100%)"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following is a disadvantage of Synchronous Intermittent Mandatory Ventilation (SIMV)?",
+      "options": [
+        "Hyperventilation",
+        "Increased work of breathing and respiratory muscle fatigue",
+        "Over-sedation",
+        "Lack of patient-triggered breaths"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is the primary purpose of Positive End-Expiratory Pressure (PEEP) in mechanical ventilation?",
+      "options": [
+        "Increase tidal volume",
+        "Prevent alveolar collapse during expiration",
+        "Reduce respiratory rate",
+        "Improve peak flow rate"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which mode of ventilation is used for weaning patients and allows them to breathe spontaneously while reducing ventilator support?",
+      "options": [
+        "Assist-Control Ventilation (A/C)",
+        "Synchronous Intermittent Mandatory Ventilation (SIMV)",
+        "Continuous Positive Airway Pressure (CPAP)",
+        "Pressure Support Ventilation (PSV)"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A mechanical ventilator giving alarm for exceeding high pressure limit. The probable cause is:",
+      "options": [
+        "ventilator tubing not connected",
+        "displaced endotracheal tube",
+        "patient biting on endotracheal tube",
+        "all the above"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The mode of ventilation suitable for a patient in coma with respiratory center depression is:",
+      "options": [
+        "continuous positive airway pressure",
+        "controlled mechanical ventilation",
+        "pressure support ventilation",
+        "all the above"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The following is an indication for oxygen therapy:",
+      "options": [
+        "SpO2<90%",
+        "excessive work of breathing",
+        "PaO2 <60 mmHg",
+        "all the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Respiratory failure with normal A-a gradient occurs in:",
+      "options": [
+        "low atmospheric pressure",
+        "ARDS",
+        "pulmonary embolism",
+        "right to left shunt"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Non-cardiopulmonary causes for dyspnea include:",
+      "options": [
+        "severe anemia",
+        "panic disorders",
+        "diabetic ketoacidosis",
+        "all the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A patient presenting with acute dyspnea to the emergency, his initial assessment revealed a high Btype natriuretic peptide (150 pg/ml). The following cause is suspected for his dyspnea:",
+      "options": [
+        "chronic bronchitis",
+        "interstitial pulmonary fibrosis",
+        "overdose of opiate",
+        "heart failure"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Precipitating factors for thyroid storm includes the following EXCEPT:",
+      "options": [
+        "direct trauma to thyroid gland",
+        "radioactive iodine therapy",
+        "propylthiouracil",
+        "Surgery"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All of the following types of arrhythmias are more likely to complicate a case of thyrotoxicosis except:",
+      "options": [
+        "Sinus tachycardia",
+        "Atrial fibrillation",
+        "Sinus bradycardia",
+        "Extra systoles",
+        "Atrial flutter"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Thyrotoxicosis may be presented by all the following except",
+      "options": [
+        "myopathy",
+        "pretibial myxedema",
+        "hypernatrimia"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Commonest cause of thyrotoxicosis is:",
+      "options": [
+        "Multinodular goitre",
+        "Graves' disease",
+        "Hashimoto's thyroiditis",
+        "Well-differentiated carcinoma"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following are used in thyrotoxic crisis except:",
+      "options": [
+        "Dexamethasone",
+        "Lugol's solution",
+        "Propranolol",
+        "Radioactive iodine"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Malignant hyperthermia:",
+      "options": [
+        "occurs in individuals with abnormal skeletal muscle calcium release",
+        "occurs in response to severe infections",
+        "is caused by exposure to hot environment with poor ventilation",
+        "is caused by change in thermoregulatory set point"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The drug used as treatment of choice for FMF is:",
+      "options": [
+        "pulse steroids for 72 hours",
+        "colchicine",
+        "indomethacin",
+        "high dose acetylsalicylic acid"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Patients with familial Mediterranean fever:",
+      "options": [
+        "ECG may reveal diffuse ST-segment elevation",
+        "diagnosis relies on specific antibody titer",
+        "present with mild abdominal pain without rigidity",
+        "genetic testing showing mutation of MEFV gene is included in major Tel-Hashomer criteria for diagnosis"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Oral anticoagulation with warfarin for pulmonary embolism:",
+      "options": [
+        "is used alone for therapy without heparin",
+        "in absence of risk factors the duration for treatment of first attack the duration does not exceed 3 months",
+        "is safe during pregnancy",
+        "all the above"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Changes in electrocardiography of patients with pulmonary embolism include:",
+      "options": [
+        "an S wave in lead VI",
+        "a q wave in lead III",
+        "new onset of left bundle branch block",
+        "all the above"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Patients with pulmonary embolism involving the pulmonary artery have the following EXCEPT:",
+      "options": [
+        "high D-dimer level",
+        "increased pulmonary resistance leading to right sided heart failure",
+        "hypoxia",
+        "hypercapnea"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following is a feature of pulmonary embolism on chest X-Ray ?",
+      "options": [
+        "Westermark's sign",
+        "Hampton's hump",
+        "Palla's sign",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The most diagnostic test for diagnosis of pulmonary embolism is:",
+      "options": [
+        "CT pulmonary angiogram",
+        "ECG",
+        "D-dimer assay",
+        "Venous ultrasound",
+        "Plain x-ray chest"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Investigation with high efficacy diagnosing acute pulmonary embolism:",
+      "options": [
+        "Ventilation perfusion lung scan",
+        "ECG",
+        "Arterial blood gases",
+        "Contrast enhanced spiral CT"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Most common clinical finding of pulmonary embolism is:",
+      "options": [
+        "Tachypnea",
+        "Cyanosis",
+        "Sweating",
+        "Edema of the LL"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The following are true of pulmonary embolism except:",
+      "options": [
+        "If pleural effusion is present it's usually hemorrhagic",
+        "Manifested by chest pain and dyspnea and hemoptysis",
+        "ECG may show RT ventricular strain and tachycardia",
+        "Prophylactic against DVT post orthopedic surgery by aspirin is the role to prevent",
+        "Large pulmonary embolus in main pulmonary trunk may be fatal"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which one of the following is correct concerning treatment of acute pulmonary embolism?",
+      "options": [
+        "Streptokinase should be given immediately",
+        "24% oxygen therapy should correct hypoxemia",
+        "Morphine should be avoided if the patient is severely hypoxic",
+        "Heparin infusion therapy has become effective",
+        "Warfarin therapy should be continued for 4 weeks"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "All the following features of pulmonary embolism except:",
+      "options": [
+        "Syncope and hypotension",
+        "Unexplained tachycardia",
+        "Pleuritic chest pain",
+        "Q wave in lead II, III, AVF",
+        "Hemoptysis"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Investigation of highest diagnostic efficacy in acute pulmonary thromboembolism is:",
+      "options": [
+        "ECG",
+        "Arterial blood gas estimation",
+        "Contrast-enhanced spiral CT scan",
+        "Ventilation-perfusion lung scans",
+        "Echocardiography"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "In hypertensive emergency the initial aim is to decrease diastolic pressure by 10% in the first hour and additional 15% within 3-12 hours. The only two exceptions for rapid lowering of BP include:",
+      "options": [
+        "pulmonary edema",
+        "cardiac ischemia",
+        "aortic dissection",
+        "none of above"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "In maintaining normal subjects, pH of blood is maintained thanks to:",
+      "options": [
+        "the kidney has no role in acid base regulation",
+        "reabsorption of -80% of HCO3 in the proximal renal tubules",
+        "reabsorption of H+ in the proximal renal tubules",
+        "reabsorption of 80% of HCO3 in the distal renal tubules"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A patient whose arterial blood gases reveal pH 7.25, PaCO2 50, HCO3 25 has:",
+      "options": [
+        "respiratory acidosis",
+        "metabolic alkalosis",
+        "metabolic acidosis",
+        "respiratory alkalosis"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A patient presented to the emergency with loss of consciousness, his initial physical examination revealed bilateral constricted pupils. The following is a possible cause for his condition:",
+      "options": [
+        "myxedema",
+        "uncal herniation with compression of 3rd cranial nerve",
+        "atropine poisoning",
+        "pontine hemorrhage"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Signs of lateralization include the following EXCEPT:",
+      "options": [
+        "generalized seizure",
+        "Jacksonian fits",
+        "tilting of head to one side",
+        "unequal pupils"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Glasgow Coma Scale assesses all except:",
+      "options": [
+        "Veibal response",
+        "Eye opening",
+        "Autonomic response",
+        "Motor response"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "In patients presenting with hematemesis:",
+      "options": [
+        "is only diagnostic with no therapeutic role",
+        "is done immediately after resuscitation and hemodynamic stabilization",
+        "upper endoscopy is the method of choice for diagnosis of perforated peptic ulcer",
+        "all the above"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Neurogenic shock is characterized by:",
+      "options": [
+        "Tachycardia and hypotension",
+        "Tachycardia and hypertension",
+        "Bradycardia and hypotension",
+        "Bradycardia and hypertension"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Septic shock:",
+      "options": [
+        "is a type of hypovolemic shock",
+        "the patient is flushed and warm",
+        "is triggered by IgE-mediated release of histamine",
+        "all the above"
+      ],
+      "correct": 1
+    }
+  ]
+}
+    

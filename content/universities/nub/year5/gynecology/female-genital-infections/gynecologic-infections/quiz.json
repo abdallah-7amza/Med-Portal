@@ -1,0 +1,305 @@
+{
+  "title": "Female Genital Tract Infections",
+  "questions": [
+    {
+      "stem": "Which bacterium is dominant in the normal vaginal flora of a reproductive-age woman?",
+      "options": [
+        "Gardnerella vaginalis",
+        "Neisseria gonorrhea",
+        "Lactobacillus acidophilus",
+        "Candida albicans"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is the typical pH range of a healthy, acidic vaginal environment in a reproductive-age woman?",
+      "options": [
+        "4.7−7.0",
+        "7.0−8.5",
+        "5.5−6.5",
+        "3.8−4.5"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A decreased glycogen content, such as in menopause or childhood, typically leads to a vaginal pH that is:",
+      "options": [
+        "Highly acidic",
+        "Alkaline",
+        "Neutral",
+        "Variable, with no predictable trend"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which factor is listed as not a natural defense mechanism against genital tract infection (GTI)?",
+      "options": [
+        "Vaginal pH",
+        "Vaginal epithelium",
+        "Humoral immunity",
+        "Menstrual blood flow"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which factor is listed as predisposing to vaginal infections by altering the normal vaginal pH?",
+      "options": [
+        "Barrier methods (condoms)",
+        "Sexual intercourse (alkaline semen)",
+        "OCP use",
+        "High estrogen levels"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Bacterial Vaginosis (BV) is the commonest cause for which type of vaginal discharge?",
+      "options": [
+        "Irritant, odorless, cottage-cheese discharge",
+        "Copious, frothy, yellow/green discharge",
+        "Non-irritant, malodorous discharge",
+        "Scanty, thick, odorless discharge"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Bacterial Vaginosis (BV) is characterized by a marked decrease or disappearance of which organism?",
+      "options": [
+        "Gardnerella vaginalis",
+        "Bacteroides species",
+        "Mycoplasma hominis",
+        "Hydrogen peroxide-producing lactobacilli"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The vaginal pH in Bacterial Vaginosis (BV) is typically:",
+      "options": [
+        "Highly acidic (<3.8)",
+        "Normal (3.8−4.5)",
+        "Elevated and alkaline (4.7−7.0)",
+        "Slightly acidic (<4.5)"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which microscopic finding is characteristic of Bacterial Vaginosis (BV) and is part of Amsel's criteria?",
+      "options": [
+        "Hyphae or pseudo-hyphae",
+        "Highly motile flagellated protozoon",
+        "Clue cells",
+        "Tuberculous follicle"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The characteristic fishy odor of BV, especially after adding 10% KOH (whiff test), is due to the production of:",
+      "options": [
+        "Lactic acid",
+        "Hydrogen peroxide",
+        "Amines",
+        "Estrogen"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is a recommended oral treatment for Bacterial Vaginosis (BV) in non-pregnant women?",
+      "options": [
+        "Metronidazole 500 mg twice a day for 7 days",
+        "Fluconazole 150 mg single oral dose",
+        "Ceftriaxone IM single dose",
+        "Doxycycline 100 mg twice daily for 7 days"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Candida Vaginitis (CV) is the second most common cause of vaginitis in the childbearing period. It typically flourishes in which type of vaginal environment?",
+      "options": [
+        "Alkaline",
+        "Neutral",
+        "Acidic",
+        "Highly variable pH"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The main symptom of Candida Vaginitis (CV) is usually:",
+      "options": [
+        "Malodorous, thin, homogenous discharge",
+        "Vulvar pruritis (itching) and progressive scratching",
+        "Copious, frothy, yellow/green discharge",
+        "Lower abdominal pain"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The typical vaginal discharge associated with Candida Vaginitis (CV) is described as:",
+      "options": [
+        "Profuse, thin, homogenous",
+        "Copious, yellow or green, frothy, offensive",
+        "Scanty, thick, odorless, white (cottage cheese discharge)",
+        "Mucopurulent and offensive"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is the typical vaginal pH in a case of Candida Vaginitis (CV)?",
+      "options": [
+        "Alkaline (>4.5)",
+        "Neutral (≈7.0)",
+        "Slightly acidic (<4.5)",
+        "Highly variable"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is the standard CDC recommended oral treatment for non-complicated Candida Vaginitis (CV)?",
+      "options": [
+        "Clindamycin cream",
+        "Metronidazole 500 mg twice a day for 7 days",
+        "Fluconazole; Single oral dose 150 mg",
+        "Doxycycline 100 mg twice daily for 7 days"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Trichomonas vaginalis (TV) is classified as what type of organism?",
+      "options": [
+        "Bacterium",
+        "Fungus",
+        "Virus",
+        "Ovoid, motile, flagellated protozoon"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "What characteristic appearance may be seen on speculum examination of the cervix/vagina in 25% of Trichomonas vaginalis (TV) cases?",
+      "options": [
+        "Cervical erosion",
+        "Nabothian cysts",
+        "Strawberry spots (punctate hemorrhages)",
+        "Atrophic, inflamed walls"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is the characteristic feature seen on a saline wet mount preparation of the vaginal discharge in Trichomonas vaginalis (TV)?",
+      "options": [
+        "Clue cells",
+        "Hyphae or pseudo-hyphae",
+        "Highly motile flagellated trichomonads",
+        "Tuberculous follicle"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The recommended treatment regimen for Trichomonas vaginalis (TV) for both partners is:",
+      "options": [
+        "Clotrimazole cream vaginally",
+        "Doxycycline 100 mg orally twice daily for 7 days",
+        "Fluconazole 150 mg single oral dose",
+        "Metronidazole: 2 g single oral dose"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Atrophic vaginitis, often seen in postmenopausal women, is due to decreased levels of:",
+      "options": [
+        "Progesterone",
+        "FSH",
+        "LH",
+        "Estrogen"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A mucopurulent discharge, backache, and PID as a complication are characteristic of which condition?",
+      "options": [
+        "Bacterial Vaginosis",
+        "Candida Vaginitis",
+        "Atrophic Vaginitis",
+        "Acute Endocervicitis"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which term is used to describe a bright red area around the external os due to replacement of stratified squamous epithelium with endocervical columnar epithelium?",
+      "options": [
+        "Cervical cancer",
+        "Chronic cervicitis",
+        "Nabothian cyst",
+        "Cervical erosion"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which type of abnormal vaginal discharge is typically associated with candidiasis?",
+      "options": [
+        "Colored offensive discharge",
+        "Muco-purulent discharge",
+        "Scanty cottage cheese discharge",
+        "Blood stained discharge"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The most common cause for acute salpingitis and PID is:",
+      "options": [
+        "Chlamydia trachomatis",
+        "Endogenous anaerobic bacteria",
+        "Mycobacterium tuberculosis",
+        "Neisseria gonorrhea"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which organism is most commonly associated with silent PID?",
+      "options": [
+        "Neisseria gonorrhea",
+        "Chlamydia trachomatis",
+        "Trichomonas vaginalis",
+        "Candida albicans"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A key risk factor that is listed as decreasing the risk for PID is:",
+      "options": [
+        "Multiple sexual partners",
+        "Use of IUCD",
+        "D&C procedure",
+        "Oral contraceptive pills (OCPs)"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "What is considered the gold standard for confirming the diagnosis of acute PID?",
+      "options": [
+        "Pelvic ultrasound",
+        "ESR and CRP blood tests",
+        "Gram stain of cervical discharge",
+        "Laparoscopy"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which treatment is recommended for Chronic PID patients who are infertile?",
+      "options": [
+        "Long-term antibiotics",
+        "TAH−BSO",
+        "ICSI/IVF",
+        "Hysterectomy"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which STD is caused by Haemophilus ducreyi and presents with painful genital vulval ulcers?",
+      "options": [
+        "Syphilis",
+        "Genital Herpes",
+        "Chancroid",
+        "Granuloma Inguinale"
+      ],
+      "correct": 2
+    }
+  ]
+}

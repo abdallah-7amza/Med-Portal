@@ -2035,6 +2035,196 @@
         "all the above"
       ],
       "correct": 1
+    },
+    {
+      "stem": "Improvement of burn survival is mostly attributed to:",
+      "options": [
+        "Prophylactic antibiotics.",
+        "Enteral and parenteral nutrition.",
+        "Early excision of burn area and skin grafting.",
+        "IV fresh frozen plasma."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What percentage does a patient have who has suffered Circumferential burn to one leg, circumferential burn to one arm, and anterior trunk:",
+      "options": [
+        "45%.",
+        "36%.",
+        "18%.",
+        "27%."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The appropriate management of deep burn of the hand is:",
+      "options": [
+        "Surgical debridement of burnt tissues and frequent dressings.",
+        "Early excision and grafting.",
+        "Dressings only.",
+        "Observation until it separates spontaneously."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Major burns:",
+      "options": [
+        "Result in a decrease in the metabolic rate.",
+        "Can cause ADRS.",
+        "To the chest do not require escharotomy.",
+        "Are associated with endocrinal shock state."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Complications of major burn include all, except:",
+      "options": [
+        "DIC.",
+        "Septic shock.",
+        "Cushing ulcer of the duodenum.",
+        "Oliguria."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The management of a patient with a burn 30% of the trunk includes all except:",
+      "options": [
+        "IV Ringer's lactate and 0.9% saline.",
+        "Monitoring hematocrit readings.",
+        "Endotracheal intubation.",
+        "Monitor urine output."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Metabolic changes after burn are due to the following except:",
+      "options": [
+        "Loss of fluids from the burnt area.",
+        "Increase insensible water loss.",
+        "Reduced heat loss.",
+        "Stimulation of endocrine response to injury."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 62 kg 18-year-old girl sustained a burn of all back, the Posterior aspect of both lower limbs. The patient will require volume of saline and Ringer lactate (in ml) during the first 24 hours.",
+      "options": [
+        "3233 ml.",
+        "1894 ml.",
+        "2232 ml.",
+        "2408 ml."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 38-year-old woman is rescued from a house fire after 20 minutes. In the emergency room she has anterior chest wall burns and she is confused, and lethargic. The most likely diagnosis is:",
+      "options": [
+        "Carbon monoxide poisoning.",
+        "Hypercarbia respiratory failure.",
+        "Inhalation lung injury.",
+        "Upper airway obstruction."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "When determining the depth of burn, all are true except:",
+      "options": [
+        "A knowledge of the type of burn is important.",
+        "The presence of blisters is clinically important.",
+        "The presence of pain denotes full thickness skin burn.",
+        "Water loss by evaporation is expected in deep burn."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Parkland formula for resuscitation of burn, the correct statement is:",
+      "options": [
+        "It is given over 36 hours.",
+        "It is calculated 4ml/kg× percentage of area of burn.",
+        "The fluid amount should be restricted in electrical burn.",
+        "Inhalation injury does not require fluid resuscitation."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Enteral nutrition:",
+      "options": [
+        "Results in reduction of infectious complications in critically ill patients.",
+        "Is more expensive than parenteral nutrition.",
+        "Has a higher complication rate than parenteral nutrition.",
+        "Results in faster return of bowel functions after gastro-intestinal surgery."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Regarding enteral nutrition:",
+      "options": [
+        "Is the route of choice if the gastro-intestinal tract is intact and functioning well.",
+        "Indicated in patients with intestinal obstruction.",
+        "Formed mainly of glucose 25%.",
+        "Feeding gastrostomy reduce the risk of potential complications."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Complications of CVP line insertion include all, except:",
+      "options": [
+        "Superior vena caval injury.",
+        "Air embolism.",
+        "Injury of carotid artery.",
+        "Pneumothorax."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Essential components of total parental nutrition include all except:",
+      "options": [
+        "Chloride.",
+        "Carbohydrates.",
+        "Essential fatty acids.",
+        "Nitrogen."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The complications of enteral nutrition through NG tube include all of the following, except:",
+      "options": [
+        "Pulmonary aspiration.",
+        "Venous thrombosis.",
+        "Hyperglycemia.",
+        "Pharyngitis."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The effects of malnutrition on the outcome of surgery include all, except:",
+      "options": [
+        "Impairment of wound healing.",
+        "DVT.",
+        "Higher susceptibility to infections.",
+        "Increased hospital stays."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "To assess the nutritional status of a surgical patient all are included except:",
+      "options": [
+        "Body weight and BMI.",
+        "Height.",
+        "Forearm circumference.",
+        "Serum albumin."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Complications of enteral nutrition include all, except:",
+      "options": [
+        "Gastro-oesophageal reflux.",
+        "Hyperglycemia.",
+        "Diarrhea.",
+        "Bowel mucosal blood barrier failure."
+      ],
+      "correct": 1
     }
   ]
 }

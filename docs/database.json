@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-04T19:52:27.801Z",
+  "generatedAt": "2025-10-04T20:48:38.393Z",
   "tree": {
     "nub": {
       "children": {
@@ -3856,8 +3856,7 @@
                                 "Basic labs as urine analysis.",
                                 "CT scan of the chest."
                               ],
-                              "correct": 3,
-                              "explanation": "Primary care facilities like family health units provide basic outpatient, preventive, and curative services, which may include simple lab tests and X-rays. Advanced imaging like a CT scan is a service provided at secondary or tertiary care levels (hospitals)."
+                              "correct": 3
                             },
                             {
                               "stem": "You are reading an article about the common presentations at the family medicine outpatient clinic and found that one of the commonest presentation is:",
@@ -3867,8 +3866,7 @@
                                 "Hypertension",
                                 "Vaginal bleeding"
                               ],
-                              "correct": 2,
-                              "explanation": "Global data indicates that hypertension and upper respiratory tract infections are the most frequent reasons for visits to a primary care physician."
+                              "correct": 2
                             },
                             {
                               "stem": "When you discuss with this patient weight management you are fulfilling which of the following family physician core competency?",
@@ -3878,8 +3876,7 @@
                                 "Specific problem-solving skills",
                                 "Person centered care"
                               ],
-                              "correct": 0,
-                              "explanation": "The comprehensive approach in family medicine involves addressing acute issues, chronic conditions, and health promotion simultaneously. By discussing weight management and a new diabetes diagnosis during a visit for a sore throat, the physician is providing comprehensive care for the patient's overall health."
+                              "correct": 0
                             },
                             {
                               "stem": "Why are you going to refer him for tertiary care?",
@@ -3889,8 +3886,7 @@
                                 "To ophthalmologist to screen for retinal changes.",
                                 "To Emergency to manage diabetic coma."
                               ],
-                              "correct": 3,
-                              "explanation": "Tertiary care involves managing severe, complex, or life-threatening complications of a disease. A diabetic coma is a critical complication that requires the specialized, high-level resources of a tertiary care center or emergency department."
+                              "correct": 3
                             },
                             {
                               "stem": "Referring this patient to an ophthalmologist for screening for diabetic retinopathy is considered what type of referral?",
@@ -3900,8 +3896,7 @@
                                 "Urgent referral",
                                 "Opportunistic referral"
                               ],
-                              "correct": 0,
-                              "explanation": "A routine referral is for a non-acute condition that can be scheduled in advance. Screening for diabetic retinopathy is a standard part of preventative care for diabetic patients and does not require immediate attention."
+                              "correct": 0
                             },
                             {
                               "stem": "You are working in a family medicine clinic and found that one of your colleagues refer all diabetic patients to endocrinologist with unjustified referral for transferring patient’s responsibility. You will tell him:",
@@ -3911,8 +3906,7 @@
                                 "Referral is ok so long you didn’t exceed 30% of your patients.",
                                 "Refer only on patient’s demands."
                               ],
-                              "correct": 1,
-                              "explanation": "A core principle of the referral process is that the primary care physician remains central to coordinating the patient's total care. A referral is a collaboration to share responsibility for a specific problem, not to transfer all responsibility to the specialist."
+                              "correct": 1
                             },
                             {
                               "stem": "You are assessing the physical growth of a 2-months-old boy. The main parameter of assessment is:",
@@ -3922,52 +3916,47 @@
                                 "Weight",
                                 "Upper: lower segment ratio"
                               ],
-                              "correct": 2,
-                              "explanation": "The main parameters used to assess physical growth in infants are anthropometric measurements: weight, length/height, and head circumference."
+                              "correct": 2
                             },
                             {
-                              "stem": "A 6-month-old girl is brought to the family medicine clinic by her mother for common cold. The mother is asking you about the developmental milestones that should be attained by the child at this age. You told her that she can:",
+                              "stem": "A 6-month-old girl is brought to the family medicine clinic by her mother for common cold. The mother is asking you about the developmental milestones that should be attained by the child at this age. You told her that she can",
                               "options": [
                                 "Sit unsupported.",
                                 "Start crawling.",
                                 "Wave bye-bye.",
                                 "Say mama/dada."
                               ],
-                              "correct": 0,
-                              "explanation": "Sitting without support is a key gross motor milestone that is typically achieved around 6 months of age. Other milestones like crawling and specific speech sounds usually develop later."
+                              "correct": 0
                             },
                             {
-                              "stem": "A mother of a 12-month-old boy is asking you about the ideal weight for her child. His birthweight was 3 kg. His growth chart shows his weight consistently tracking along the 15th percentile line. What are you going to tell her?",
+                              "stem": "A mother of a 12-month-old boy is asking you about the ideal weight for her child...What are you going to tell her?",
                               "options": [
                                 "His weight is within normal no need to worry.",
                                 "He is now below the expected and need further assessment.",
                                 "He needs immediate referral to pediatrician.",
                                 "He needs immediate abdominal US and CT scan."
                               ],
-                              "correct": 0,
-                              "explanation": "A normal growth pattern is indicated when a child grows consistently along a specific percentile line on the growth chart. As long as the child follows their curve and is between the 3rd and 97th percentiles, their growth is considered normal."
+                              "correct": 0
                             },
                             {
-                              "stem": "A mother brings her 3 years old daughter for regular check up. Her weight is 21 kgs, which is above the 97th percentile, while her height is at the 50th percentile. How are you going to confirm her condition?",
+                              "stem": "A mother brings her 3 years old daughter for regular check up...How are you going to confirm her condition?",
                               "options": [
                                 "Nothing, her weight is normal.",
                                 "She is obese based on the weight growth charts.",
-                                "Calculate her BMI and if",
+                                "Calculate her BMI and if > 30, she is obese.",
                                 "Calculate her BMI and plot it on appropriate curves."
                               ],
-                              "correct": 3,
-                              "explanation": "When a child's weight percentile is significantly higher than their height percentile, using weight-for-age charts alone is insufficient. The standard method to assess for obesity is to calculate the Body Mass Index (BMI) and plot it on a BMI-for-age percentile chart, which accounts for both height and weight."
+                              "correct": 3
                             },
                             {
-                              "stem": "A 16-year-old boy's height growth chart shows his growth is consistently parallel to, but below, the 5th percentile. What is the most common cause of this condition?",
+                              "stem": "This is the height growth chart of a 16-year-old boy. What is the most common cause of this condition?",
                               "options": [
                                 "Familial short stature",
                                 "Constitutional delay of growth",
-                                "Chromosomal abnormality e.g., down",
+                                "Chromosomal abnormality e.g., down & turner syndrome",
                                 "Psychosocial e.g, nutritional"
                               ],
-                              "correct": 0,
-                              "explanation": "The growth pattern described, where the child's height consistently tracks along a curve below the 5th percentile but parallel to the normal curves, is characteristic of familial (genetic) short stature."
+                              "correct": 0
                             },
                             {
                               "stem": "When should screening for hearing problems start at PHC?",
@@ -3977,41 +3966,37 @@
                                 "4-5 months",
                                 "6-7 months"
                               ],
-                              "correct": 0,
-                              "explanation": "Universal newborn hearing screening is recommended for all infants, ideally before 1 month of age, to detect and address potential hearing loss early."
+                              "correct": 0
                             },
                             {
-                              "stem": "The mother of a 1-month-old girl is concerned that her daughter's eyes sometimes appear misaligned. Which of the following tests will you use to assess this?",
+                              "stem": "Which of the following test will you use?",
                               "options": [
                                 "Light reflex.",
                                 "Red reflex.",
                                 "Snellen’s chart.",
                                 "Cover uncover test."
                               ],
-                              "correct": 3,
-                              "explanation": "The mother's concern suggests a possible intermittent strabismus (eye misalignment). The cover-uncover test is the standard clinical examination used to detect this condition."
+                              "correct": 3
                             },
                             {
-                              "stem": "According to AAP he should be screened for anemia at the age of:",
+                              "stem": "A 6-month-old boy is presenting with his mother for immunization...According to AAP he should be screened for anemia at the age of:",
                               "options": [
                                 "6 months",
                                 "8 months",
                                 "9 months",
                                 "12 months"
                               ],
-                              "correct": 3,
-                              "explanation": "The American Academy of Pediatrics (AAP) recommends universal screening for iron-deficiency anemia with a hemoglobin/hematocrit test at approximately 12 months of age."
+                              "correct": 3
                             },
                             {
-                              "stem": "The mother of a 2-month-old baby ask you about vitamins... What will be your answer ?",
+                              "stem": "The mother of a 2-month-old baby ask you about vitamins...What will be your answer ?",
                               "options": [
                                 "vitamin D supplementation of 400 IU daily is recommended for infants who are breast fed",
                                 "iron supplementation is recommended because breast milk has less iron than formula",
                                 "no supplementation of any sort is needed for breastfed infants until 1 year of age",
                                 "Give her any commercial multivitamin."
                               ],
-                              "correct": 0,
-                              "explanation": "The AAP recommends that all breastfed infants receive 400 IU of vitamin D supplementation daily, beginning in the first few days of life, to prevent rickets. Iron supplementation for full-term breastfed infants is recommended to begin at 4 months of age."
+                              "correct": 0
                             },
                             {
                               "stem": "The mother of a 7-year-old boy is presenting to you asking about the recommended physical activity for her child. You told her that moderate intensity is recommended daily for:",
@@ -4021,19 +4006,17 @@
                                 "60 minutes",
                                 "120 minutes"
                               ],
-                              "correct": 2,
-                              "explanation": "The American Heart Association (AHA) recommends that children and adolescents aged 6 to 17 years should get at least 60 minutes per day of moderate- to vigorous-intensity physical activity."
+                              "correct": 2
                             },
                             {
-                              "stem": "While taking history from a 14-year-old adolescent presenting to you for health maintenance, you started taking psychosocial history by asking about HEADSSS. D represents which of the following?",
+                              "stem": "you started taking psychosocial history by asking about HEADSSS. D represents which of the following?",
                               "options": [
                                 "Disease",
                                 "Diet",
                                 "Driving",
                                 "Drugs"
                               ],
-                              "correct": 3,
-                              "explanation": "HEADSSS is a mnemonic for a psychosocial interview for adolescents. The letters stand for Home, Education/Employment/Eating, Activities, Drugs, Sexuality, Suicide/depression, and Safety."
+                              "correct": 3
                             },
                             {
                               "stem": "You are screening an adolescent for pre-sports participation. He should be screened for all of the following Except:",
@@ -4043,140 +4026,127 @@
                                 "Eating disorders",
                                 "Diabetes mellitus"
                               ],
-                              "correct": 3,
-                              "explanation": "While screening for lifestyle issues like obesity, smoking, and eating disorders is a key part of comprehensive adolescent health maintenance, routine screening for asymptomatic diabetes is not a standard component of a pre-sports physical unless specific risk factors are present."
+                              "correct": 3
                             },
                             {
-                              "stem": "A 13-year-old adolescent is presenting to you for nutritional advice to prevent obesity. You told him that regarding the food guide pyramid, he should receive daily 6 servings of:",
+                              "stem": "regarding the food guide pyramid, he should receive daily 6 servings of:",
                               "options": [
                                 "Carbohydrates as rice and pasta.",
                                 "Vegetables and fruits.",
                                 "Proteins as meat and chicken.",
                                 "Dairy products as milk and yogurt."
                               ],
-                              "correct": 0,
-                              "explanation": "According to the traditional food guide pyramid model, the base of the pyramid, representing the largest recommended number of daily servings, consists of grains such as bread, cereal, rice, and pasta (6-11 servings)."
+                              "correct": 0
                             },
                             {
-                              "stem": "The mother of an 11-year-old girl who has completed all her childhood vaccines is asking you about her due vaccine for this age group. You will recommend for her:",
+                              "stem": "asking you about her due vaccine for this age group. You will recommend for her:",
                               "options": [
                                 "Polio vaccine (IPV)",
                                 "Hepatitis B Vaccine",
                                 "MMR vaccine",
                                 "HPV vaccine"
                               ],
-                              "correct": 3,
-                              "explanation": "Standard immunization schedules recommend that adolescents receive the Tdap booster and begin the Human Papillomavirus (HPV) vaccine series at age 11-12."
+                              "correct": 3
                             },
                             {
-                              "stem": "A 24-year-old woman and her 26-year-old fiancé come for premarital counselling. They are first cousins... What is the most appropriate next step in the management of this couple?",
+                              "stem": "What is the most appropriate next step in the management of this couple?",
                               "options": [
                                 "No further action is needed since they are asymptomatic",
                                 "Advise them to cancel this marriage",
                                 "Refer them for genetic counselling and carrier screening",
                                 "Recommend routine premarital blood tests only"
                               ],
-                              "correct": 2,
-                              "explanation": "First cousins (a consanguineous couple) have an increased risk of having children with autosomal recessive genetic disorders. The standard of care is to offer a referral for genetic counseling to discuss these risks and explore options for carrier screening."
+                              "correct": 2
                             },
                             {
-                              "stem": "A 27-year-old pregnant female is in her second pregnancy. Her first child was born with a neural tube defect (like spina bifida). What is the dose of folic acid that is recommended for her in this pregnancy to prevent recurrence?",
+                              "stem": "What is the dose of folic acid that is recommended for her in this pregnancy to prevent recurrence of this condition?",
                               "options": [
                                 "0.4 mg",
                                 "300 microgram",
                                 "5 mg",
                                 "600 IU"
                               ],
-                              "correct": 2,
-                              "explanation": "While the standard preconception dose of folic acid for most women is 0.4-0.8 mg, a high dose of 4-5 mg daily is recommended for women who have had a previous pregnancy affected by a neural tube defect to significantly reduce the risk of recurrence."
+                              "correct": 2
                             },
                             {
-                              "stem": "A 29-year-old primigravida is at her first prenatal visit. Her sister has a baby with Down syndrome. What is a screening test she can do in her first trimester for this condition?",
+                              "stem": "What is the screening test she should do in her first trimester?",
                               "options": [
                                 "Amniocentesis",
                                 "Chorionic villous sampling",
                                 "Triple test",
                                 "Quadruple test"
                               ],
-                              "correct": 2,
-                              "explanation": "The triple test is a maternal blood screening test that helps assess the risk for certain fetal abnormalities, including Down syndrome. (Note: While first-trimester combined screening is now more common, the triple and quadruple tests are established screening options)."
+                              "correct": 3
                             },
                             {
-                              "stem": "A 28-year-old woman in her 27th week of gestation... her blood glucose checked in one hour; it returns as 145 mg/dL. Which of the following is the best next step in the management of this patient?",
+                              "stem": "Which of the following is the best next step in the management of this patient?",
                               "options": [
                                 "Treat with insulin.",
                                 "Treat with sulfonylurea.",
                                 "Do a fasting blood glucose level.",
                                 "Perform oral glucose tolerance test."
                               ],
-                              "correct": 3,
-                              "explanation": "The standard two-step screening process for gestational diabetes involves a 1-hour 50g glucose challenge test (GCT). A result of ≥140 mg/dL is considered positive. A positive GCT must be followed by a diagnostic 3-hour 100g oral glucose tolerance test (OGTT) to confirm the diagnosis."
+                              "correct": 3
                             },
                             {
-                              "stem": "A 32-year-old female is presenting to you for postnatal assessment. Her pregnancy was complicated by pregnancy-induced hypertension... When should she have her blood pressure measured?",
+                              "stem": "When should she have her blood pressure measured?",
                               "options": [
                                 "Within 7 days after delivery",
                                 "Within 14 days after delivery",
                                 "Within 21 days after delivery",
                                 "Within 28 days after delivery"
                               ],
-                              "correct": 0,
-                              "explanation": "It is recommended that women who experienced hypertensive disorders during pregnancy have a follow-up blood pressure check within one week of delivery to monitor for persistent hypertension or signs of preeclampsia."
+                              "correct": 0
                             },
                             {
-                              "stem": "A 22-year-old, 2 weeks postnatal female reported passage of drops of urine while coughing or sneezing... What will you ask her to do?",
+                              "stem": "What will you ask her to do?",
                               "options": [
                                 "Increase dietary fiber",
                                 "Pelvic floor muscle exercise",
                                 "Increase water intake",
                                 "Stool softeners"
                               ],
-                              "correct": 1,
-                              "explanation": "The symptoms describe stress urinary incontinence, which is common after childbirth due to the weakening of the pelvic floor muscles. The first-line management is to strengthen these muscles with pelvic floor exercises (Kegels)."
+                              "correct": 1
                             },
                             {
-                              "stem": "A 3-day-old boy is brought in by his mother due to bilateral breast swelling. What is your management?",
+                              "stem": "A 3-days-old boy is presenting to you with his mother with the following lesion. What is your management?",
                               "options": [
                                 "Squeeze the nipple to release any milk",
                                 "Patch the nipple to prevent milk secretion",
                                 "Refer for surgeon to drain",
                                 "Reassurance the condition is self limited"
                               ],
-                              "correct": 3,
-                              "explanation": "This condition is neonatal gynecomastia, a benign and temporary swelling of breast tissue in newborns caused by the withdrawal of maternal hormones after birth. It is a self-resolving condition, and the only management needed is to reassure the parents and advise against squeezing the breasts."
+                              "correct": 3
                             },
                             {
-                              "stem": "A 5-year-old girl is brought in for bedwetting... What is the most appropriate first-line management?",
+                              "stem": "What is the most appropriate first-line management?",
                               "options": [
                                 "Start anticholinergic medication",
                                 "Prescribe desmopressin immediately",
                                 "Reassurance and behavioral strategies",
                                 "Refer to a urologist"
                               ],
-                              "correct": 2,
-                              "explanation": "For primary nocturnal enuresis (bedwetting) in a young child without other symptoms and where the parents are not distressed, the appropriate first-line management involves educating the parents, providing reassurance, and implementing behavioral strategies like limiting fluids before bed and scheduled waking."
+                              "correct": 2
                             },
                             {
-                              "stem": "An 18-year-old female college student comes to your office because her acne is getting worse. On examination, she has multiple inflammatory papules and pustules on her face, consistent with moderate acne. What would you prescribe for her?",
+                              "stem": "What would you prescribe for her?",
                               "options": [
                                 "Doxycycline 100 mg daily with benzoyl peroxide cream",
                                 "Azithromycin 500 mg twice daily",
                                 "Trimethoprim/sulfamethoxazole 160/800 mg twice daily",
                                 "Amoxicillin-clavulanic acid 625 mg twice per day"
                               ],
-                              "correct": 0,
-                              "explanation": "The patient has moderate inflammatory acne that has not responded to over-the-counter topical treatments. The standard treatment algorithm is to step up therapy. This often involves combining effective topicals (like a retinoid and/or benzoyl peroxide) with an oral antibiotic, such as doxycycline, to target both inflammation and bacteria."
+                              "correct": 0
                             },
                             {
-                              "stem": "A 14-year-old girl comes to your office with a 6-month history of lower midabdominal pain... begins with onset of menses... How are you going to treat this patient?",
+                              "stem": "How are you going to treat this patient?",
                               "options": [
                                 "Reassurance and explanation that this is normal",
                                 "Prescribe NSAID",
                                 "Prescribe OCCP",
                                 "Refer for gynecologist"
                               ],
-                              "correct": 1,
-                              "explanation": "The symptoms are classic for primary dysmenorrhea (painful periods without underlying pathology). For patients with a normal physical exam, the first-line empiric therapy is Nonsteroidal Anti-Inflammatory Drugs (NSAIDs), which work by inhibiting prostaglandin synthesis, the chemical responsible for the uterine cramps."
+                              "correct": 1
                             },
                             {
                               "stem": "Regardless of her family history, when should Mrs. Magda starts her screening for cancer breast:",
@@ -4186,8 +4156,7 @@
                                 "At the age of 55.",
                                 "At the age of 40."
                               ],
-                              "correct": 3,
-                              "explanation": "The U.S. Preventive Services Task Force (USPSTF) recommends that women of average risk begin biennial screening mammography for breast cancer at age 40."
+                              "correct": 3
                             },
                             {
                               "stem": "What other screening strategies are used for colorectal cancer other than fecal occult blood?",
@@ -4197,52 +4166,47 @@
                                 "Stool DNA-FIT every 5 years.",
                                 "Sigmoidoscopy every 5 years."
                               ],
-                              "correct": 3,
-                              "explanation": "Recommended colorectal cancer screening strategies include flexible sigmoidoscopy every 5 years. Other options listed have incorrect intervals: colonoscopy is recommended every 10 years, and CT colonography every 5 years."
+                              "correct": 3
                             },
                             {
-                              "stem": "A 21 years old male is concerned about colorectal cancer and wishes to screen for it... what would you tell him?",
+                              "stem": "A 21 years old male is concerned about colorectal cancer and wishes to screen for it. He has no risk factor for colorectal cancer, what would you tell him?",
                               "options": [
                                 "You can start screening at 50 years.",
                                 "You can start screening at 55 years.",
                                 "You can start screening at 60 years.",
                                 "You can start screening at 45 years."
                               ],
-                              "correct": 3,
-                              "explanation": "The USPSTF recommends screening for colorectal cancer in all adults of average risk beginning at age 45."
+                              "correct": 3
                             },
                             {
-                              "stem": "He asks about when he should give his father the pneumococcal vaccine?",
+                              "stem": "Mr. Ali is concerned about his father's health. He asks about when he should give his father the pneumococcal vaccine?",
                               "options": [
                                 "At the age of 50.",
                                 "At the age of 55.",
                                 "At the age of 60.",
                                 "At the age of 65."
                               ],
-                              "correct": 3,
-                              "explanation": "The Adult Immunization Schedule recommends routine pneumococcal vaccination for all adults aged 65 years or older."
+                              "correct": 3
                             },
                             {
-                              "stem": "You asked Mr. Salah to perform the clock-drawing test, and his attempt is disorganized with incorrect number placement and distorted hands. This abnormal result refers to an impairment in his?",
+                              "stem": "You asked Mr. Salah to do the clock-drawing test. His result as shown in the picture refers to abnormality in his?",
                               "options": [
                                 "Mood.",
                                 "Cognition.",
                                 "Basic daily activity.",
                                 "Balance."
                               ],
-                              "correct": 1,
-                              "explanation": "The clock-drawing test is a widely used screening tool for cognitive impairment, particularly assessing executive function and visuospatial skills. An abnormal result suggests a potential cognitive deficit, often associated with conditions like dementia."
+                              "correct": 1
                             },
                             {
-                              "stem": "A 68-year-old white woman presents complaining of low back pain for exactly 2 weeks after a minimal fall... which of the following may be the cause of this back pain?",
+                              "stem": "A 68-year-old white woman presents complaining of low back pain for exactly 2 weeks after a minimal fall...which of the following may be the cause of this back pain?",
                               "options": [
                                 "Lumbar strain.",
                                 "Degenerative changes.",
                                 "Visceral cause.",
                                 "Osteoporotic compression fracture."
                               ],
-                              "correct": 3,
-                              "explanation": "The clinical picture of an older woman experiencing acute back pain with focal vertebral tenderness after minimal trauma is a classic presentation for an osteoporotic compression fracture of the vertebra."
+                              "correct": 3
                             },
                             {
                               "stem": "A 45-year-old patient presents with new onset back pain along with saddle anaesthesia and recent onset of urinary retention. Which of the following is the most likely diagnosis?",
@@ -4252,173 +4216,157 @@
                                 "Cauda Equina Syndrome.",
                                 "Osteomyelitis."
                               ],
-                              "correct": 2,
-                              "explanation": "The combination of low back pain, saddle anesthesia (numbness in the groin area), and new-onset bladder dysfunction (urinary retention) are 'red flag' symptoms that strongly suggest Cauda Equina Syndrome, a neurosurgical emergency caused by compression of the nerve roots at the end of the spinal cord."
+                              "correct": 2
                             },
                             {
-                              "stem": "A doctor is examining a patient's back pain by passively lifting the patient's extended leg while they are lying supine. This maneuver elicits pain. What is the name of this test?",
+                              "stem": "What is the name of this test:",
                               "options": [
                                 "Femoral nerve stretch test.",
-                                "Schober's test.",
+                                "Schober’s test.",
                                 "Patrick-FABER test.",
                                 "The straight leg raise."
                               ],
-                              "correct": 3,
-                              "explanation": "The maneuver described is the straight leg raise (SLR) test, also known as Lasègue's test. It is used to assess for lumbosacral nerve root irritation (sciatica)."
+                              "correct": 3
                             },
                             {
-                              "stem": "Which of the following best confirms the diagnosis of major depressive disorder?",
+                              "stem": "A 42 years old male, presents with a 6-week history of persistent sadness...Which of the following best confirms the diagnosis of major depressive disorder?",
                               "options": [
                                 "Presence of low mood and anhedonia for at least 1 week.",
                                 "Presence of low mood and anhedonia for at least 2 weeks, with functional impairment.",
                                 "Presence of fatigue and poor concentration for at least 4 weeks.",
                                 "Presence of low mood, anhedonia, and hallucinations for 2 days."
                               ],
-                              "correct": 1,
-                              "explanation": "According to the DSM-5 criteria, a diagnosis of major depressive disorder requires the presence of five or more depressive symptoms (including either depressed mood or anhedonia) for at least a two-week period, and these symptoms must cause clinically significant distress or impairment in social, occupational, or other important areas of functioning."
+                              "correct": 1
                             },
                             {
-                              "stem": "A screening tool for older adults asks questions like, 'Are you basically satisfied with your life?' and 'Do you feel that your life is empty?'. Which tool is this?",
+                              "stem": "Which tool is used to diagnose depression in older adults?",
                               "options": [
                                 "GDS.",
                                 "PHQ 10.",
                                 "MSE.",
                                 "Mini Cog test."
                               ],
-                              "correct": 0,
-                              "explanation": "These questions are characteristic of the Geriatric Depression Scale (GDS), a screening tool specifically designed for use in older adults."
+                              "correct": 0
                             },
                             {
-                              "stem": "You tell him to add fiber to his diet by eating:",
+                              "stem": "You are giving some advice to a 43-year hypertensive male with a blood pressure 138/88 about his diet. You tell him to add fiber to his diet by eating:",
                               "options": [
                                 "Whole grains.",
                                 "Fresh fruits and vegetables.",
                                 "Beans.",
                                 "All of the above."
                               ],
-                              "correct": 3,
-                              "explanation": "Whole grains, fresh fruits, vegetables, and beans are all excellent sources of dietary fiber and are recommended as part of a healthy diet, particularly for managing conditions like hypertension."
+                              "correct": 3
                             },
                             {
-                              "stem": "So, you tell her that to prevent asthma attacks she should try and do all the following EXCEPT......",
+                              "stem": "You are giving some advice to a 30-year asthmatic female. So, you tell her that to prevent asthma attacks she should try and do all the following EXCEPT……",
                               "options": [
                                 "Avoid triggers.",
                                 "Keep surroundings as free as possible from asthma triggers.",
                                 "Take medications only when he or she feels like it.",
                                 "Have an action plan."
                               ],
-                              "correct": 2,
-                              "explanation": "Effective asthma management requires consistent and regular use of controller (preventer) medications as prescribed by a doctor, even when feeling well. Using medication only when symptoms occur is incorrect and leads to poor asthma control."
+                              "correct": 2
                             },
                             {
-                              "stem": "A patient with asthma is given a handheld tubular device to blow into forcefully to measure airflow. What is this device used for?",
+                              "stem": "What this device is used for?:",
                               "options": [
                                 "To measure oxygen saturation.",
                                 "To measure peak inspiratory flow.",
                                 "To measure respiratory rate.",
                                 "To diagnose and monitor asthma."
                               ],
-                              "correct": 3,
-                              "explanation": "The device described is a peak flow meter. It measures the peak expiratory flow rate (PEFR), which is the maximum speed of air that can be blown out of the lungs. It is a key tool for patients with asthma to monitor their lung function and disease control at home."
+                              "correct": 3
                             },
                             {
-                              "stem": "As his treating physician, you should examine his feet every:",
+                              "stem": "Mr Ibrahim 40-Year-Old banker is newly diagnosed with type 2 DM...As his treating physician, you should examine his feet every:",
                               "options": [
                                 "Month.",
                                 "6 months.",
                                 "Year.",
                                 "There Is no need to examine his feet unless a red flag appears."
                               ],
-                              "correct": 2,
-                              "explanation": "For patients with type 2 diabetes who are at low risk for foot complications, a comprehensive foot examination by a healthcare professional should be performed at least annually to detect any potential issues early."
+                              "correct": 2
                             },
                             {
-                              "stem": "Which of the following practices is NOT recommended for preventing diabetic foot complications?",
+                              "stem": "You give him how to care for his feet. Which of the following practices is NOT recommended for preventing diabetic foot complications?",
                               "options": [
                                 "Inspecting feet daily for cuts, blisters, and sores.",
                                 "Wearing tight-fitting shoes to protect the feet.",
                                 "Keeping feet clean and dry.",
                                 "Moisturizing feet daily, avoiding the areas between the toes."
                               ],
-                              "correct": 1,
-                              "explanation": "Patients with diabetes should wear well-fitting, comfortable shoes that do not create pressure points. Tight-fitting shoes are contraindicated as they can cause friction, blisters, and ulcers, which can lead to serious complications in diabetic individuals."
+                              "correct": 1
                             },
                             {
-                              "stem": "What is the safest smoking cessation method for her during pregnancy?",
+                              "stem": "A 30-year-old female patient is pregnant and wants to quit smoking...What is the safest smoking cessation method for her during pregnancy?",
                               "options": [
                                 "Nicotine patches.",
                                 "Behavioral therapy.",
                                 "E-cigarettes.",
                                 "Prescription medications."
                               ],
-                              "correct": 1,
-                              "explanation": "For pregnant individuals, behavioral interventions (counseling and support) are the first-line and safest recommended method for smoking cessation. There is insufficient evidence to establish the safety of pharmacotherapy (like nicotine patches) or e-cigarettes during pregnancy."
+                              "correct": 1
                             },
                             {
-                              "stem": "Which of the following strategies can help him manage weight gain while quitting smoking?",
+                              "stem": "A 40-year-old male patient with a history of heart disease. He is concerned about the potential weight gain associated with quitting smoking. Which of the following strategies can help him manage weight gain while quitting smoking?",
                               "options": [
                                 "Increasing physical activity.",
                                 "Using nicotine gum.",
                                 "Eating more snacks.",
                                 "Drinking more coffee."
                               ],
-                              "correct": 0,
-                              "explanation": "Weight gain is a common concern after quitting smoking due to metabolic changes and increased appetite. Increasing physical activity is a key behavioral strategy to counteract this by burning calories, improving metabolism, and managing stress."
+                              "correct": 0
                             },
                             {
-                              "stem": "He is concerned about the risk of foot ulcers. What advice would you give him?",
+                              "stem": "A 55-year-old male traveler with a history of diabetes and peripheral neuropathy is planning a trip to Southeast Asia. He is concerned about the risk of foot ulcers. What advice would you give him?",
                               "options": [
                                 "Wear open-toed sandals.",
                                 "Inspect his feet daily.",
                                 "Avoid using insect repellent.",
                                 "Skip foot hygiene during the trip."
                               ],
-                              "correct": 1,
-                              "explanation": "Daily foot inspection is a cornerstone of self-care for patients with high-risk diabetic feet, especially those with peripheral neuropathy. It is crucial for catching any cuts, blisters, or sores early before they become serious ulcers, particularly during travel when activity levels and environments change."
+                              "correct": 1
                             },
                             {
-                              "stem": "Which of the following is the most important and appropriate single vaccine you would recommend?",
+                              "stem": "A 30-year-old male traveler plans to travel widely in sub-Saharan Africa...Which of the following is the most important and appropriate single vaccine you would recommend?",
                               "options": [
                                 "Cholera vaccine.",
                                 "Polio vaccine.",
                                 "Meningococcal vaccine.",
                                 "Measles vaccine."
                               ],
-                              "correct": 2,
-                              "explanation": "A large part of sub-Saharan Africa is known as the 'meningitis belt,' where epidemics of meningococcal meningitis are common. For travelers to this region, the meningococcal vaccine is a critical recommendation and can be given as a single dose."
+                              "correct": 2
                             },
                             {
-                              "stem": "She is concerned about her risk of VTE during the long flight. What advice would you give her?",
+                              "stem": "A 35-year-old female traveler is flying from New York to Tokyo...She is concerned about her risk of VTE during the long flight. What advice would you give her?",
                               "options": [
                                 "Avoid alcohol during the flight.",
                                 "Perform calf muscle exercises.",
                                 "Take a direct flight without layovers.",
                                 "Skip using compression stockings."
                               ],
-                              "correct": 1,
-                              "explanation": "Prolonged immobility during long-haul flights is a risk factor for Venous Thromboembolism (VTE), especially for individuals with other risk factors like use of combined oral contraceptives (COCs). Performing simple in-seat exercises, such as calf muscle pumps and ankle circles, helps promote blood circulation in the legs and is a standard recommendation to reduce VTE risk."
+                              "correct": 1
                             },
                             {
-                              "stem": "When breaking this news to Mrs. Nabila, which communication principle is essential?",
+                              "stem": "An 84-year-old female, Mrs. Nabila, presents to your emergency department (ED) after a collapse...When breaking this news to Mrs. Nabila, which communication principle is essential?",
                               "options": [
                                 "Using medical jargon to ensure accuracy.",
                                 "Providing vague information to soften the impact.",
                                 "Demonstrating empathy and compassion.",
                                 "Rushing through the conversation."
                               ],
-                              "correct": 2,
-                              "explanation": "A core principle of breaking bad news is to create a supportive and trusting environment. This is achieved by demonstrating empathy (understanding and sharing the feelings of another) and compassion, which are fundamental to providing patient-centered care in difficult situations."
+                              "correct": 2
                             },
                             {
-                              "stem": "What is the purpose of using a 'warning shot' phrase when delivering bad news?",
+                              "stem": "You are an oncologist. Mrs. Rasha, a 55-year-old woman, had a breast biopsy a week ago...What is the purpose of using a ‘warning shot’ phrase when delivering bad news?",
                               "options": [
                                 "To create suspense.",
                                 "To soften the impact.",
                                 "To avoid the conversation altogether.",
                                 "To prepare the listener for difficult information."
                               ],
-                              "correct": 3,
-                              "explanation": "A 'warning shot' is a communication technique where the speaker uses a short introductory phrase (e.g., 'I'm afraid the results are not what we had hoped for') to signal that difficult news is about to be shared. This gives the listener a moment to emotionally prepare for the impact of the information."
+                              "correct": 3
                             }
                           ]
                         }

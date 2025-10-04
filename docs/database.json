@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-30T23:49:49.760Z",
+  "generatedAt": "2025-10-04T19:52:27.801Z",
   "tree": {
     "nub": {
       "children": {
@@ -3183,6 +3183,665 @@
                   "children": {},
                   "resources": {
                     "collectionQuizzes": [
+                      {
+                        "id": "comprehensive-questions",
+                        "title": "Comprehensive Questions",
+                        "quizData": {
+                          "title": "Comprehensive Questions",
+                          "questions": [
+                            {
+                              "stem": "Family medicine is a specialty of:",
+                              "options": [
+                                "Depth",
+                                "Breadth",
+                                "Width",
+                                "Length"
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Needed to translate academic definition of family medicine into reality of a specialist :",
+                              "options": [
+                                "General practice.",
+                                "Family care.",
+                                "Family Doctor.",
+                                "1ry care."
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "The pyramidal structure of the health care system, refers to:",
+                              "options": [
+                                "Increasing specialization.",
+                                "Increasing cost of care with each level of care.",
+                                "Greatest number of patients are seen at first level of 1ry care.",
+                                "All of the above."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Considering primary care, It is :",
+                              "options": [
+                                "People centered.",
+                                "Disease centered.",
+                                "Specialist treatment.",
+                                "State of the art facilities."
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Regarding secondary care, it is:",
+                              "options": [
+                                "Provided over an extended period of time.",
+                                "Advanced and complex diagnostics, procedures and treatments.",
+                                "Performed in a state of the art facilities.",
+                                "Some services may be community based."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Comprehensive means:",
+                              "options": [
+                                "Arrangement of referral.",
+                                "Practice evidence based medicine.",
+                                "Manage acute and chronic health problems.",
+                                "To see patient regularly."
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Coordinated means:",
+                              "options": [
+                                "To practice evidence based medicine.",
+                                "To see patient regularly.",
+                                "Promotes health and well-being.",
+                                "Arrange the referral and collates the results."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Vit D supplementation in $1^{st}$ year of life is :",
+                              "options": [
+                                "400 IU daily",
+                                "400 IU weakly",
+                                "600 IU daily",
+                                "600 IU weakly."
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Max. allowed screen time for children less than 18 months:",
+                              "options": [
+                                "One hour/day.",
+                                "Only educational programs.",
+                                "One hour/week.",
+                                "It should be avoided in this age."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Sudden infant death syndrome is due to:",
+                              "options": [
+                                "Exposure to tobacco.",
+                                "Sleeping with the caregiver in one bed.",
+                                "Airway obstruction by food.",
+                                "Infant sleeping alone in a separate bed."
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Adolescents needs for health care can be limited, Because:",
+                              "options": [
+                                "They present to physician for acute illness only.",
+                                "They present to physician for health maintenance.",
+                                "They are emotionally and psychologically stable.",
+                                "They usually seek the advice."
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "During the interview with the adolescent, physicians should:",
+                              "options": [
+                                "Use the yes/no questions.",
+                                "Use closed-ended questions.",
+                                "Use open-ended questions.",
+                                "Become friends with them."
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "The current evidence is insufficient to assess the screening of which of the following in asymptomatic children & adolescence:",
+                              "options": [
+                                "Iron deficiency anemia",
+                                "Hypertension",
+                                "HBV infection",
+                                "Obesity."
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "The current evidence is insufficient to assess the screening of which of the following in children:",
+                              "options": [
+                                "Anemia",
+                                "Growth",
+                                "Major depressive disorder",
+                                "Development."
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "All of the following is recommended for routine screening in adolescence, except:",
+                              "options": [
+                                "Iron deficiency anemia.",
+                                "Major depressive disorder.",
+                                "Tobacco use.",
+                                "Hypertension."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "CHD risk assessment calculator for adults above 40 years is done Every:",
+                              "options": [
+                                "1 year",
+                                "3 years",
+                                "5 years",
+                                "10 years"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Low dose aspirin is used for 1ry prevention of cardiovascular diseases in which of the following conditions:",
+                              "options": [
+                                "Adults aged 50 to 59 years and with $\\ge10\\%$ of 10-year-CVD risk.",
+                                "Adults with life expectancy of at least 10 years.",
+                                "Adults not at increased risk of bleeding.",
+                                "All of the above."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Lipid profile screening for all men should start at:",
+                              "options": [
+                                "35 years",
+                                "45 years",
+                                "50 years",
+                                "55 years"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Lipid profile screening for all women should start at:",
+                              "options": [
+                                "35 years",
+                                "45 years",
+                                "50 years",
+                                "55 years"
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Screening for diabetes in asymptomatic adults should start at:",
+                              "options": [
+                                "35 years",
+                                "45 years",
+                                "50 years",
+                                "55 years"
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Screening for which of the following is controversial:",
+                              "options": [
+                                "Cervical cancer",
+                                "Colo-rectal cancer",
+                                "Lung cancer",
+                                "Prostate cancer"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "The \"American cancer society\" recommends screening for breast cancer:",
+                              "options": [
+                                "Every year beginning at 40 years",
+                                "Every year beginning at 50 years",
+                                "Every 2 years beginning at 40 years",
+                                "Every 2 years beginning at 50 years"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "The \"USPSTF\" and \"The American Academy of family Physicians\" recommend screening for breast cancer:",
+                              "options": [
+                                "Every year beginning at 50 years.",
+                                "Every 2 years beginning at 40 to 74 years.",
+                                "Every 2 years beginning at 50 to 75 years.",
+                                "Every 2 years beginning at 50 to 74 years."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Cervical cancer screening with pap smear only, is done:",
+                              "options": [
+                                "Every 3 years at 21 to 65 years",
+                                "Every 3 years at 21 to 75 years",
+                                "Every 5 years at 30 to 65 years",
+                                "Every 5 years at 30 to 75 years"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Cervical cancer screening with pap smear cytology and HPV testing, is done:",
+                              "options": [
+                                "Every 3 years at 21 to 65 years",
+                                "Every 3 years at 21 to 75 years",
+                                "Every 5 years at 30 to 65 years",
+                                "Every 5 years at 30 to 75 years"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "The following are guidelines for Colo-rectal cancer screening, Except:",
+                              "options": [
+                                "Fecal occult blood annually",
+                                "Colonoscopy every 10 years",
+                                "Sigmoidoscopy every 5 years",
+                                "At the age of 45 to 85"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Screening for lung cancer is:",
+                              "options": [
+                                "Annually at 50 to 80",
+                                "Biennial at 50 to 80",
+                                "Annually at 40 to 70",
+                                "Biennial at 50 to 80"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Activities of daily living include all of the following, except:",
+                              "options": [
+                                "Bathing",
+                                "Feeding",
+                                "Dressing",
+                                "Shopping"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Mini nutritional assessment short form for geriatric, depends on:",
+                              "options": [
+                                "Weight loss in past 3 months",
+                                "Acute illness in past 3 months",
+                                "Food intake decline in past 3 months",
+                                "All of the above"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "The leading cause of injuries and death from injuries in elderly is:",
+                              "options": [
+                                "Diabetes Mellitus",
+                                "Falls",
+                                "Hypertension",
+                                "Infections"
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "The test shown in the image is used for:",
+                              "options": [
+                                "Vision screening",
+                                "Fall screening",
+                                "Incontinence screening",
+                                "Dementia screening"
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Regarding Presbycusis:",
+                              "options": [
+                                "It is conductive hearing loss due to cerumen impaction.",
+                                "It is age related sensorineural hearing loss.",
+                                "It is selective Low-frequency hearing loss.",
+                                "It is noise-induced hearing loss."
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Functional incontinence :",
+                              "options": [
+                                "Results in trickling of urine.",
+                                "Is due to overactive bladder.",
+                                "Is inability to reach toileting facilities.",
+                                "Is due to increased intra-abdominal pressure."
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Regarding 20% DEET:",
+                              "options": [
+                                "Used on clothing and skin, its protection lasts for several hours.",
+                                "Its protection lasts for more than one week.",
+                                "Effective even with washing.",
+                                "Used on clothing and bed netting."
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Jet lag is:",
+                              "options": [
+                                "Blockage of Eustachian tube.",
+                                "Relieved by decongestants.",
+                                "Impaired alertness.",
+                                "Risk of venous thrombosis."
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Pregnant women are allowed to fly:",
+                              "options": [
+                                "Up to 37 weeks gestation.",
+                                "Up to 38 weeks gestation.",
+                                "Up to 39 weeks gestation.",
+                                "Should avoid air travel."
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Pregnant women with complicated pregnancies are allowed to fly:",
+                              "options": [
+                                "Up to 37 weeks gestation.",
+                                "Up to 38 weeks gestation.",
+                                "Up to 39 weeks gestation.",
+                                "Should avoid air travel."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "All of the following about Bismuth Subsalicylate are correct, except:",
+                              "options": [
+                                "It reduces the risk of traveler diarrhea.",
+                                "It causes blackening of tongue and stool.",
+                                "It is given to children with viral infection safely.",
+                                "It causes constipation and tinnitus."
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Regarding traveler diarrhea:",
+                              "options": [
+                                "Prophylactic antibiotics are routinely used.",
+                                "Antibiotics are given for mild cases.",
+                                "Anti-motility agents are given alone for severe cases only.",
+                                "Anti-motility agents with antibiotics are given for severe cases only."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Which of the following is used as a chemo-prophylaxis for malaria",
+                              "options": [
+                                "Primaquine.",
+                                "Proguanil.",
+                                "Doxycycline.",
+                                "All of the above."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Which of the following can be used safely as a chemo-prophylaxis for malaria during pregnancy:",
+                              "options": [
+                                "Chloroquine - Primaquine",
+                                "Primaquine - Mefloquine",
+                                "Primaquine - Doxycycline",
+                                "Chloroquine - Mefloquine"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Regarding COVID-19 Vaccine:",
+                              "options": [
+                                "Can be given to Diabetic and hypertensive patients only.",
+                                "Can be given in asthma and pulmonary diseases only.",
+                                "Can't be given to none of the above.",
+                                "Can be given safely to all of the above."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Regarding acute conjunctivitis:",
+                              "options": [
+                                "It is the most common eye problem.",
+                                "It may affect one in 8 children every year.",
+                                "It is not associated with change in visual acuity.",
+                                "All of the above."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "All of the following are red flags in acute conjunctivitis, Except:",
+                              "options": [
+                                "Photophopia",
+                                "Diminution of vision",
+                                "Purulent discharge",
+                                "Circumcorneal redness"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Regarding allergic conjunctivitis, which of the following is incorrect:",
+                              "options": [
+                                "Treated with antihistamines",
+                                "Bilateral symptoms in both eyes",
+                                "Starts in on eye and spreads to the other",
+                                "Topical steroids are avoided"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Pyelonephritis is associated with:",
+                              "options": [
+                                "Urgency and dysuria.",
+                                "Incontinence and offensive urine.",
+                                "Loin pain and fever",
+                                "Low abdominal pain and hematuria"
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "A 49 years old female with history of uncontrolled hypertension, she is working from home and leading a sedentary lifestyle, her HbA1C is 5.9%:",
+                              "options": [
+                                "She is diabetic.",
+                                "She needs screening every 1 year.",
+                                "She needs no screening.",
+                                "She needs screening every 3 years."
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "All of the following are considered chronic micro-vascular complications for diabetes, Except:",
+                              "options": [
+                                "Retinopathy.",
+                                "Dermopathy.",
+                                "Peripheral vascular diseases.",
+                                "Diabetic foot."
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Eating patterns for type 2 diabetes management include:",
+                              "options": [
+                                "Mediterranean diets",
+                                "DASH and Plant based diets.",
+                                "Diet rich in monounsaturated fats.",
+                                "All of the above"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "80% of your daily carbohydrates Should be of:",
+                              "options": [
+                                "Low glycemic index",
+                                "Moderate glycemic index",
+                                "High glycemic index",
+                                "MEDIEM"
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Regarding Moderate glycemic index carbohydrates:",
+                              "options": [
+                                "Its is recommended to eat 20% of your daily carbohydrates from this group.",
+                                "Its is recommended to eat 80% of your daily carbohydrates from this group.",
+                                "They are carbohydrates that quickly raise blood glucose.",
+                                "They induce food cravings and overeating."
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Which of the following medications is associated with fatigue:",
+                              "options": [
+                                "Antihistamines",
+                                "Antidepressants",
+                                "Muscle relaxants",
+                                "All of the above"
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Vertigo is a type of dizziness with:",
+                              "options": [
+                                "Off-balance occurs mainly with movement.",
+                                "False sense of motion, possibly spinning sensation.",
+                                "Feeling of losing consciousness or blacking out.",
+                                "Feeling disconnected with the environment."
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Orthostatic hypotension is diagnosed when:",
+                              "options": [
+                                "Systolic blood pressure decreases by 20 mm Hg",
+                                "Systolic blood pressure decreases by 10 mm Hg",
+                                "Diastolic blood pressure decreases by 20 mm Hg",
+                                "Diastolic blood pressure is constant."
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Which of the following is false, regarding Benign Paroxysmal Positional Vertigo (BPPV):",
+                              "options": [
+                                "It is a disorder arising in the inner ear.",
+                                "It is a disorder arising in the middle ear.",
+                                "Spinning sensation with changes in the position of the head.",
+                                "The otoconia are dislodged from their usual position within the utricl."
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Regarding blood pressure measurement:",
+                              "options": [
+                                "Cuff should encircle 50% of the arm.",
+                                "Small cuff will falsely reduce the reading.",
+                                "Clothing under the cuff will falsely elevate the reading",
+                                "Clothing under the cuff will falsely reduce the reading."
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "During blood pressure measurement, The patient shouldn't:",
+                              "options": [
+                                "Support his back and arm",
+                                "Sit with crossed legs",
+                                "Empty urinary bladder",
+                                "Sit with his feet flat on floor"
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Regarding clinical blood pressure, Which is incorrect:",
+                              "options": [
+                                "Take second measurement, if the first is 140/90mmHg.",
+                                "Take third measurement, only if the second is different from the first.",
+                                "It is the lower of the last 2 measurement.",
+                                "It is the higher of the last 2 measurement."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Which is incorrect, Regarding Health education for Hypertension management:",
+                              "options": [
+                                "Potassium supplements should be offered.",
+                                "Enhance intake of dietary potassium.",
+                                "Reduce intake of dietary sodium.",
+                                "Reduce coffee intake."
+                              ],
+                              "correct": 0
+                            },
+                            {
+                              "stem": "Regarding hypertensive patients follow up, it is :",
+                              "options": [
+                                "Every 1:4 weeks till controlled.",
+                                "Every 3:6 months if controlled.",
+                                "Every month if not controlled.",
+                                "All of the above."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "Regarding the following instrument (Peak Expiratory Flow Meter), Which is incorrect:",
+                              "options": [
+                                "It is used to monitor improvement of asthma",
+                                "The patient should be standing upright",
+                                "The marker on the peak flow meter should be reset to zero.",
+                                "The Lowest of the reading values should be recorded."
+                              ],
+                              "correct": 3
+                            },
+                            {
+                              "stem": "The following image is showing:",
+                              "options": [
+                                "How to use PEFM.",
+                                "How to use an Inhaler.",
+                                "How to use a spacer.",
+                                "Asthma action plan."
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Regarding the use of the spacer, which of the following is incorrect:",
+                              "options": [
+                                "It greatly improves drug delivery.",
+                                "the patient takes 5 normal breaths.",
+                                "Double dose of medicine is released from the inhaler.",
+                                "Its is repeat if required."
+                              ],
+                              "correct": 2
+                            },
+                            {
+                              "stem": "Cigarette smoking quit date, should be:",
+                              "options": [
+                                "Within the next 30 days",
+                                "Within 2 weeks.",
+                                "Within 2 months.",
+                                "Within 5 days."
+                              ],
+                              "correct": 1
+                            },
+                            {
+                              "stem": "Which of the following is started one week before the target quit date:",
+                              "options": [
+                                "Bupropion",
+                                "E-Cigarettes",
+                                "Varenicline",
+                                "Nicotine nasal spray."
+                              ],
+                              "correct": 2
+                            }
+                          ]
+                        }
+                      },
                       {
                         "id": "family-medicine-revision",
                         "title": "Family Medicine Revision",

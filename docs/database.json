@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-05T01:36:34.438Z",
+  "generatedAt": "2025-10-05T16:21:25.023Z",
   "tree": {
     "nub": {
       "children": {
@@ -3976,7 +3976,7 @@
                                 "Snellen’s chart.",
                                 "Cover uncover test."
                               ],
-                              "correct": 1
+                              "correct": 0
                             },
                             {
                               "stem": "A 6-month-old boy is presenting with his mother for immunization. His history is free. According to AAP he should be screened for anemia at the age of:",
@@ -4076,7 +4076,7 @@
                                 "Triple test",
                                 "Quadruple test"
                               ],
-                              "correct": 3
+                              "correct": 2
                             },
                             {
                               "stem": "A 28-year-old woman in her 27th week of gestation presents for a routine prenatal visit. She doesn’t have any complaints. Examination is normal. The patient is asked to ingest 50 mg of glucose and have her blood glucose checked in one hour; it returns as 145 mg/dL. Which of the following is the best next step in the management of this patient?",

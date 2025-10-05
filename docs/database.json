@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-04T20:48:38.393Z",
+  "generatedAt": "2025-10-05T01:36:34.438Z",
   "tree": {
     "nub": {
       "children": {
@@ -3921,15 +3921,15 @@
                             {
                               "stem": "A 6-month-old girl is brought to the family medicine clinic by her mother for common cold. The mother is asking you about the developmental milestones that should be attained by the child at this age. You told her that she can",
                               "options": [
-                                "Sit unsupported.",
-                                "Start crawling.",
-                                "Wave bye-bye.",
-                                "Say mama/dada."
+                                "a) Sit unsupported.",
+                                "b) Start crawling.",
+                                "c) Wave bye-bye.",
+                                "d) Say mama/dada."
                               ],
                               "correct": 0
                             },
                             {
-                              "stem": "A mother of a 12-month-old boy is asking you about the ideal weight for her child...What are you going to tell her?",
+                              "stem": "A mother of a 12-month-old boy is asking you about the ideal weight for her child. His birthweight was 3 kg and he looks thinner than boys of his age at the nursery. Examination is within normal, his growth chart as seen in the figure above. What are you going to tell her?",
                               "options": [
                                 "His weight is within normal no need to worry.",
                                 "He is now below the expected and need further assessment.",
@@ -3939,7 +3939,7 @@
                               "correct": 0
                             },
                             {
-                              "stem": "A mother brings her 3 years old daughter for regular check up...How are you going to confirm her condition?",
+                              "stem": "A mother brings her 3 years old daughter for regular check up. Her weight is 21 kgs above the 97th percentile. Her height and head circumference are at 50th percentiles. The mother is concerned as more than 1 family member is obese and she is worried about her child’s future risk. How are you going to confirm her condition?",
                               "options": [
                                 "Nothing, her weight is normal.",
                                 "She is obese based on the weight growth charts.",
@@ -3951,15 +3951,15 @@
                             {
                               "stem": "This is the height growth chart of a 16-year-old boy. What is the most common cause of this condition?",
                               "options": [
-                                "Familial short stature",
-                                "Constitutional delay of growth",
-                                "Chromosomal abnormality e.g., down & turner syndrome",
-                                "Psychosocial e.g, nutritional"
+                                "a. Familial short stature",
+                                "b. Constitutional delay of growth",
+                                "c. Chromosomal abnormality e.g., down & turner syndrome",
+                                "d. Psychosocial e.g, nutritional"
                               ],
                               "correct": 0
                             },
                             {
-                              "stem": "When should screening for hearing problems start at PHC?",
+                              "stem": "A-boy is brought to family medicine clinic by his mother for hearing assessment before taking his scheduled set of immunization. When should screening for hearing problems start at PHC?",
                               "options": [
                                 "At birth till 1 month",
                                 "2-3 months",
@@ -3969,17 +3969,17 @@
                               "correct": 0
                             },
                             {
-                              "stem": "Which of the following test will you use?",
+                              "stem": "The mother of a 1-month-old girl is presenting to you concerned that her daughter has this lesion. She says that she doesn’t notice everyday but most of the days her eyes are abnormal. Examination revealed the following photo. Which of the following test will you use?",
                               "options": [
                                 "Light reflex.",
                                 "Red reflex.",
                                 "Snellen’s chart.",
                                 "Cover uncover test."
                               ],
-                              "correct": 3
+                              "correct": 1
                             },
                             {
-                              "stem": "A 6-month-old boy is presenting with his mother for immunization...According to AAP he should be screened for anemia at the age of:",
+                              "stem": "A 6-month-old boy is presenting with his mother for immunization. His history is free. According to AAP he should be screened for anemia at the age of:",
                               "options": [
                                 "6 months",
                                 "8 months",
@@ -3989,7 +3989,7 @@
                               "correct": 3
                             },
                             {
-                              "stem": "The mother of a 2-month-old baby ask you about vitamins...What will be your answer ?",
+                              "stem": "The mother of a 2-month-old baby ask you about vitamins. She is breastfeeding her baby and wants iron as her sister’s baby, who was given iron supplementation. What will be your answer ?",
                               "options": [
                                 "vitamin D supplementation of 400 IU daily is recommended for infants who are breast fed",
                                 "iron supplementation is recommended because breast milk has less iron than formula",
@@ -4009,7 +4009,7 @@
                               "correct": 2
                             },
                             {
-                              "stem": "you started taking psychosocial history by asking about HEADSSS. D represents which of the following?",
+                              "stem": "While taking history from a 14-year-old adolescent presenting to you for health maintenance, you started taking psychosocial history by asking about HEADSSS. D represents which of the following?",
                               "options": [
                                 "Disease",
                                 "Diet",
@@ -4029,7 +4029,7 @@
                               "correct": 3
                             },
                             {
-                              "stem": "regarding the food guide pyramid, he should receive daily 6 servings of:",
+                              "stem": "A 13-year-old adolescent is presenting to you for nutritional advice to prevent obesity. You told him that regarding the food guide pyramid, he should receive daily 6 servings of:",
                               "options": [
                                 "Carbohydrates as rice and pasta.",
                                 "Vegetables and fruits.",
@@ -4039,7 +4039,7 @@
                               "correct": 0
                             },
                             {
-                              "stem": "asking you about her due vaccine for this age group. You will recommend for her:",
+                              "stem": "The mother of an 11-year-old girl who has completed all her childhood vaccines is asking you about her due vaccine for this age group. You will recommend for her:",
                               "options": [
                                 "Polio vaccine (IPV)",
                                 "Hepatitis B Vaccine",
@@ -4049,7 +4049,7 @@
                               "correct": 3
                             },
                             {
-                              "stem": "What is the most appropriate next step in the management of this couple?",
+                              "stem": "A 24-year-old woman and her 26-year-old fiancé come for premarital counselling. They are first cousins. Neither has any current health issues, but they express concern about passing genetic conditions to their future children. What is the most appropriate next step in the management of this couple?",
                               "options": [
                                 "No further action is needed since they are asymptomatic",
                                 "Advise them to cancel this marriage",
@@ -4059,7 +4059,7 @@
                               "correct": 2
                             },
                             {
-                              "stem": "What is the dose of folic acid that is recommended for her in this pregnancy to prevent recurrence of this condition?",
+                              "stem": "A 27-year-old pregnant female is presenting to you for ANC. This is her second pregnancy. Her first child suffered from the following lesion. What is the dose of folic acid that is recommended for her in this pregnancy to prevent recurrence of this condition?",
                               "options": [
                                 "0.4 mg",
                                 "300 microgram",
@@ -4069,7 +4069,7 @@
                               "correct": 2
                             },
                             {
-                              "stem": "What is the screening test she should do in her first trimester?",
+                              "stem": "A 29-year-old primigravida is presenting to you for ANC. Her medical and family history is free except that her sister has a baby with the following condition. What is the screening test she should do in her first trimester?",
                               "options": [
                                 "Amniocentesis",
                                 "Chorionic villous sampling",
@@ -4079,7 +4079,7 @@
                               "correct": 3
                             },
                             {
-                              "stem": "Which of the following is the best next step in the management of this patient?",
+                              "stem": "A 28-year-old woman in her 27th week of gestation presents for a routine prenatal visit. She doesn’t have any complaints. Examination is normal. The patient is asked to ingest 50 mg of glucose and have her blood glucose checked in one hour; it returns as 145 mg/dL. Which of the following is the best next step in the management of this patient?",
                               "options": [
                                 "Treat with insulin.",
                                 "Treat with sulfonylurea.",
@@ -4089,7 +4089,7 @@
                               "correct": 3
                             },
                             {
-                              "stem": "When should she have her blood pressure measured?",
+                              "stem": "A 32-year-old female is presenting to you for postnatal assessment. Her pregnancy was free except for pregnancy induced hypertension that was controlled. When should she have her blood pressure measured?",
                               "options": [
                                 "Within 7 days after delivery",
                                 "Within 14 days after delivery",
@@ -4099,7 +4099,7 @@
                               "correct": 0
                             },
                             {
-                              "stem": "What will you ask her to do?",
+                              "stem": "A 22-year-old, 2 weeks postnatal female reported passage of drops of urine while coughing or sneezing otherwise, she doesn’t complain of urine leakage. Her examination is free. What will you ask her to do?",
                               "options": [
                                 "Increase dietary fiber",
                                 "Pelvic floor muscle exercise",
@@ -4119,7 +4119,7 @@
                               "correct": 3
                             },
                             {
-                              "stem": "What is the most appropriate first-line management?",
+                              "stem": "A 5-year-old girl is brought in for bedwetting. She is otherwise healthy and has no daytime symptoms. Her parents are concerned but not distressed. They have not yet tried any interventions. What is the most appropriate first-line management?",
                               "options": [
                                 "Start anticholinergic medication",
                                 "Prescribe desmopressin immediately",
@@ -4129,7 +4129,7 @@
                               "correct": 2
                             },
                             {
-                              "stem": "What would you prescribe for her?",
+                              "stem": "An 18-year-old female college student comes with her mother to see you in the office. She started having mild acne 4 months ago. She has been using OTC topical creams. She mentions that it worked initially but not anymore. Her mother is concerned because the patient is embarrassed to go to college because of the acne getting worse. Examination as seen. What would you prescribe for her?",
                               "options": [
                                 "Doxycycline 100 mg daily with benzoyl peroxide cream",
                                 "Azithromycin 500 mg twice daily",
@@ -4139,7 +4139,7 @@
                               "correct": 0
                             },
                             {
-                              "stem": "How are you going to treat this patient?",
+                              "stem": "A 14-year-old girl comes to your office with a 6-month history of lower midabdominal pain. The pain is colicky in nature, radiates to the back and upper thighs, begins with onset of menses, and lasts for 2 to 4 days. She has missed several days of school during the past 2 months because the pain was so severe. Menarche began 18 months ago, and her menses became regular 6 months ago. Physical examination, including abdomen, is normal. The patient has normal growth and development including secondary sexual development. How are you going to treat this patient?",
                               "options": [
                                 "Reassurance and explanation that this is normal",
                                 "Prescribe NSAID",
@@ -4149,222 +4149,222 @@
                               "correct": 1
                             },
                             {
-                              "stem": "Regardless of her family history, when should Mrs. Magda starts her screening for cancer breast:",
+                              "stem": "Mrs. Magda 38 years old, has a family history of cancer breast. Based on that history, you decide to refer her to breast mammography. Regardless of her family history, when should Mrs. Magda starts her screening for cancer breast:",
                               "options": [
-                                "At the age of 50.",
-                                "At her current age.",
-                                "At the age of 55.",
-                                "At the age of 40."
+                                "a) At the age of 50.",
+                                "b) At her current age.",
+                                "c) At the age of 55.",
+                                "d) At the age of 40."
                               ],
                               "correct": 3
                             },
                             {
                               "stem": "What other screening strategies are used for colorectal cancer other than fecal occult blood?",
                               "options": [
-                                "Colonoscopy every 5 years.",
-                                "CT colonography every 10 years.",
-                                "Stool DNA-FIT every 5 years.",
-                                "Sigmoidoscopy every 5 years."
+                                "a) Colonoscopy every 5 years.",
+                                "b) CT colonography every 10 years.",
+                                "c) Stool DNA-FIT every 5 years.",
+                                "d) Sigmoidoscopy every 5 years."
                               ],
                               "correct": 3
                             },
                             {
                               "stem": "A 21 years old male is concerned about colorectal cancer and wishes to screen for it. He has no risk factor for colorectal cancer, what would you tell him?",
                               "options": [
-                                "You can start screening at 50 years.",
-                                "You can start screening at 55 years.",
-                                "You can start screening at 60 years.",
-                                "You can start screening at 45 years."
+                                "a) You can start screening at 50 years.",
+                                "b) You can start screening at 55 years.",
+                                "c) You can start screening at 60 years.",
+                                "d) You can start screening at 45 years."
                               ],
                               "correct": 3
                             },
                             {
                               "stem": "Mr. Ali is concerned about his father's health. He asks about when he should give his father the pneumococcal vaccine?",
                               "options": [
-                                "At the age of 50.",
-                                "At the age of 55.",
-                                "At the age of 60.",
-                                "At the age of 65."
+                                "A) At the age of 50.",
+                                "B) At the age of 55.",
+                                "C) At the age of 60.",
+                                "D) At the age of 65."
                               ],
                               "correct": 3
                             },
                             {
                               "stem": "You asked Mr. Salah to do the clock-drawing test. His result as shown in the picture refers to abnormality in his?",
                               "options": [
-                                "Mood.",
-                                "Cognition.",
-                                "Basic daily activity.",
-                                "Balance."
+                                "A) Mood.",
+                                "B) Cognition.",
+                                "C) Basic daily activity.",
+                                "D) Balance."
                               ],
                               "correct": 1
                             },
                             {
-                              "stem": "A 68-year-old white woman presents complaining of low back pain for exactly 2 weeks after a minimal fall...which of the following may be the cause of this back pain?",
+                              "stem": "A 68-year-old white woman presents complaining of low back pain for exactly 2weeks after a minimal fall. She has no history of fever, unexplained weight loss, diabetes, or cancer, her physical examination revealed vertebral tenderness, the rest of examination is free. which of the following may be the cause of this back pain?",
                               "options": [
-                                "Lumbar strain.",
-                                "Degenerative changes.",
-                                "Visceral cause.",
-                                "Osteoporotic compression fracture."
+                                "a) Lumbar strain.",
+                                "b) Degenerative changes.",
+                                "c) Visceral cause.",
+                                "d) Osteoporotic compression fracture."
                               ],
                               "correct": 3
                             },
                             {
                               "stem": "A 45-year-old patient presents with new onset back pain along with saddle anaesthesia and recent onset of urinary retention. Which of the following is the most likely diagnosis?",
                               "options": [
-                                "Spinal Stenosis.",
-                                "Lumbar strain.",
-                                "Cauda Equina Syndrome.",
-                                "Osteomyelitis."
+                                "a) Spinal Stenosis.",
+                                "b) Lumbar strain.",
+                                "c) Cauda Equina Syndrome.",
+                                "d) Osteomyelitis."
                               ],
                               "correct": 2
                             },
                             {
                               "stem": "What is the name of this test:",
                               "options": [
-                                "Femoral nerve stretch test.",
-                                "Schober’s test.",
-                                "Patrick-FABER test.",
-                                "The straight leg raise."
+                                "a) Femoral nerve stretch test.",
+                                "b) Schober’s test.",
+                                "c) Patrick-FABER test.",
+                                "d) The straight leg raise."
                               ],
                               "correct": 3
                             },
                             {
-                              "stem": "A 42 years old male, presents with a 6-week history of persistent sadness...Which of the following best confirms the diagnosis of major depressive disorder?",
+                              "stem": "A 42 years old male, presents with a 6-week history of persistent sadness, loss of interest in work, poor sleep, and decreased appetite. He has lost 4 kg unintentionally. He denies hallucinations or mania. On examination, he appears withdrawn and tearful. Which of the following best confirms the diagnosis of major depressive disorder?",
                               "options": [
-                                "Presence of low mood and anhedonia for at least 1 week.",
-                                "Presence of low mood and anhedonia for at least 2 weeks, with functional impairment.",
-                                "Presence of fatigue and poor concentration for at least 4 weeks.",
-                                "Presence of low mood, anhedonia, and hallucinations for 2 days."
+                                "a) Presence of low mood and anhedonia for at least 1 week.",
+                                "b) Presence of low mood and anhedonia for at least 2 weeks, with functional impairment.",
+                                "c) Presence of fatigue and poor concentration for at least 4 weeks.",
+                                "d) Presence of low mood, anhedonia, and hallucinations for 2 days."
                               ],
                               "correct": 1
                             },
                             {
                               "stem": "Which tool is used to diagnose depression in older adults?",
                               "options": [
-                                "GDS.",
-                                "PHQ 10.",
-                                "MSE.",
-                                "Mini Cog test."
+                                "a) GDS.",
+                                "b) PHQ 10.",
+                                "c) MSE.",
+                                "d) Mini Cog test."
                               ],
                               "correct": 0
                             },
                             {
                               "stem": "You are giving some advice to a 43-year hypertensive male with a blood pressure 138/88 about his diet. You tell him to add fiber to his diet by eating:",
                               "options": [
-                                "Whole grains.",
-                                "Fresh fruits and vegetables.",
-                                "Beans.",
-                                "All of the above."
+                                "a) Whole grains.",
+                                "b) Fresh fruits and vegetables.",
+                                "c) Beans.",
+                                "d) All of the above."
                               ],
                               "correct": 3
                             },
                             {
                               "stem": "You are giving some advice to a 30-year asthmatic female. So, you tell her that to prevent asthma attacks she should try and do all the following EXCEPT……",
                               "options": [
-                                "Avoid triggers.",
-                                "Keep surroundings as free as possible from asthma triggers.",
-                                "Take medications only when he or she feels like it.",
-                                "Have an action plan."
+                                "a) Avoid triggers.",
+                                "b) Keep surroundings as free as possible from asthma triggers.",
+                                "c) Take medications only when he or she feels like it.",
+                                "d) Have an action plan."
                               ],
                               "correct": 2
                             },
                             {
                               "stem": "What this device is used for?:",
                               "options": [
-                                "To measure oxygen saturation.",
-                                "To measure peak inspiratory flow.",
-                                "To measure respiratory rate.",
-                                "To diagnose and monitor asthma."
+                                "a) To measure oxygen saturation.",
+                                "b) To measure peak inspiratory flow.",
+                                "c) To measure respiratory rate.",
+                                "d) To diagnose and monitor asthma."
                               ],
                               "correct": 3
                             },
                             {
-                              "stem": "Mr Ibrahim 40-Year-Old banker is newly diagnosed with type 2 DM...As his treating physician, you should examine his feet every:",
+                              "stem": "Mr Ibrahim 40-Year-Old banker is newly diagnosed with type 2 DM. After detailed history, examination and investigation, he has low risk for diabetic foot. As his treating physician, you should examine his feet every:",
                               "options": [
-                                "Month.",
-                                "6 months.",
-                                "Year.",
-                                "There Is no need to examine his feet unless a red flag appears."
+                                "a) Month.",
+                                "b) 6 months.",
+                                "c) Year.",
+                                "d) There Is no need to examine his feet unless a red flag appears."
                               ],
                               "correct": 2
                             },
                             {
-                              "stem": "You give him how to care for his feet. Which of the following practices is NOT recommended for preventing diabetic foot complications?",
+                              "stem": "Mr Ibrahim 40-Year-Old banker is newly diagnosed with type 2 DM. You give him how to care for his feet. Which of the following practices is NOT recommended for preventing diabetic foot complications?",
                               "options": [
-                                "Inspecting feet daily for cuts, blisters, and sores.",
-                                "Wearing tight-fitting shoes to protect the feet.",
-                                "Keeping feet clean and dry.",
-                                "Moisturizing feet daily, avoiding the areas between the toes."
+                                "a) Inspecting feet daily for cuts, blisters, and sores.",
+                                "b) Wearing tight-fitting shoes to protect the feet.",
+                                "c) Keeping feet clean and dry.",
+                                "d) Moisturizing feet daily, avoiding the areas between the toes."
                               ],
                               "correct": 1
                             },
                             {
-                              "stem": "A 30-year-old female patient is pregnant and wants to quit smoking...What is the safest smoking cessation method for her during pregnancy?",
+                              "stem": "A 30-year-old female patient is pregnant and wants to quit smoking to ensure a healthy pregnancy. She smokes about 10 cigarettes a day. What is the safest smoking cessation method for her during pregnancy?",
                               "options": [
-                                "Nicotine patches.",
-                                "Behavioral therapy.",
-                                "E-cigarettes.",
-                                "Prescription medications."
+                                "a) Nicotine patches.",
+                                "b) Behavioral therapy.",
+                                "c) E-cigarettes.",
+                                "d) Prescription medications."
                               ],
                               "correct": 1
                             },
                             {
                               "stem": "A 40-year-old male patient with a history of heart disease. He is concerned about the potential weight gain associated with quitting smoking. Which of the following strategies can help him manage weight gain while quitting smoking?",
                               "options": [
-                                "Increasing physical activity.",
-                                "Using nicotine gum.",
-                                "Eating more snacks.",
-                                "Drinking more coffee."
+                                "a) Increasing physical activity.",
+                                "b) Using nicotine gum.",
+                                "c) Eating more snacks.",
+                                "d) Drinking more coffee."
                               ],
                               "correct": 0
                             },
                             {
                               "stem": "A 55-year-old male traveler with a history of diabetes and peripheral neuropathy is planning a trip to Southeast Asia. He is concerned about the risk of foot ulcers. What advice would you give him?",
                               "options": [
-                                "Wear open-toed sandals.",
-                                "Inspect his feet daily.",
-                                "Avoid using insect repellent.",
-                                "Skip foot hygiene during the trip."
+                                "a) Wear open-toed sandals.",
+                                "b) Inspect his feet daily.",
+                                "c) Avoid using insect repellent.",
+                                "d) Skip foot hygiene during the trip."
                               ],
                               "correct": 1
                             },
                             {
-                              "stem": "A 30-year-old male traveler plans to travel widely in sub-Saharan Africa...Which of the following is the most important and appropriate single vaccine you would recommend?",
+                              "stem": "A 30-year-old male traveler plans to travel widely in sub-Saharan Africa in August for 4 weeks, leaving on 12 August. He has had no previous travel vaccines. You see him on 1 August. Which of the following is the most important and appropriate single vaccine you would recommend?",
                               "options": [
-                                "Cholera vaccine.",
-                                "Polio vaccine.",
-                                "Meningococcal vaccine.",
-                                "Measles vaccine."
+                                "a) Cholera vaccine.",
+                                "b) Polio vaccine.",
+                                "c) Meningococcal vaccine.",
+                                "d) Measles vaccine."
                               ],
                               "correct": 2
                             },
                             {
-                              "stem": "A 35-year-old female traveler is flying from New York to Tokyo...She is concerned about her risk of VTE during the long flight. What advice would you give her?",
+                              "stem": "A 35-year-old female traveler is flying from New York to Tokyo. She has no significant medical history, except for taking COCs for 5 years. She is concerned about her risk of VTE during the long flight. What advice would you give her?",
                               "options": [
-                                "Avoid alcohol during the flight.",
-                                "Perform calf muscle exercises.",
-                                "Take a direct flight without layovers.",
-                                "Skip using compression stockings."
+                                "a) Avoid alcohol during the flight.",
+                                "b) Perform calf muscle exercises.",
+                                "c) Take a direct flight without layovers.",
+                                "d) Skip using compression stockings."
                               ],
                               "correct": 1
                             },
                             {
-                              "stem": "An 84-year-old female, Mrs. Nabila, presents to your emergency department (ED) after a collapse...When breaking this news to Mrs. Nabila, which communication principle is essential?",
+                              "stem": "An 84-year-old female, Mrs. Nabila, presents to your emergency department (ED) after a collapse at home. Her Glasgow Coma Scale (GCS) is 6. You decide to take her to CT without intubation, and the scan reveals a massive intracerebral hemorrhage. When breaking this news to Mrs. Nabila, which communication principle is essential?",
                               "options": [
-                                "Using medical jargon to ensure accuracy.",
-                                "Providing vague information to soften the impact.",
-                                "Demonstrating empathy and compassion.",
-                                "Rushing through the conversation."
+                                "a) Using medical jargon to ensure accuracy.",
+                                "b) Providing vague information to soften the impact.",
+                                "c) Demonstrating empathy and compassion.",
+                                "d) Rushing through the conversation."
                               ],
                               "correct": 2
                             },
                             {
-                              "stem": "You are an oncologist. Mrs. Rasha, a 55-year-old woman, had a breast biopsy a week ago...What is the purpose of using a ‘warning shot’ phrase when delivering bad news?",
+                              "stem": "You are an oncologist. Mrs. Rasha, a 55-year-old woman, had a breast biopsy a week ago. She comes in with the pathology report which says that she has breast cancer. What is the purpose of using a ‘warning shot’ phrase when delivering bad news?",
                               "options": [
-                                "To create suspense.",
-                                "To soften the impact.",
-                                "To avoid the conversation altogether.",
-                                "To prepare the listener for difficult information."
+                                "a) To create suspense.",
+                                "b) To soften the impact.",
+                                "c) To avoid the conversation altogether.",
+                                "d) To prepare the listener for difficult information."
                               ],
                               "correct": 3
                             }

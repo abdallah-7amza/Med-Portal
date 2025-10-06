@@ -319,7 +319,7 @@
         "c) Stool DNA-FIT every 5 years.",
         "d) Sigmoidoscopy every 5 years."
       ],
-      "correct": 2
+      "correct": 3
     },
     {
       "stem": "A 21 years old male is concerned about colorectal cancer and wishes to screen for it. He has no risk factor for colorectal cancer, what would you tell him?",
@@ -329,7 +329,7 @@
         "c) You can start screening at 60 years.",
         "d) You can start screening at 45 years."
       ],
-      "correct": 3
+      "correct": 0
     },
     {
       "stem": "Mr. Ali is concerned about his father's health. He asks about when he should give his father the pneumococcal vaccine?",

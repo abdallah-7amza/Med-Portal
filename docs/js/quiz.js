@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', async function() {
     const urlParams = new URLSearchParams(window.location.search);
     const path = urlParams.get('path') || '';
     const collectionId = urlParams.get('collection');
-    const isLessonQuiz = urlParams.has('lessonQuiz');
+    // isLessonQuiz is no longer needed with the new structure
     const selectedUniId = localStorage.getItem('selectedUni');
 
     // ... (All existing DOM element variables)
@@ -36,30 +36,41 @@ document.addEventListener('DOMContentLoaded', async function() {
     let quizData = null;
     let storageKey = '';
 
-    // --- 2. LOAD QUIZ DATA ---
+    // --- 2. LOAD QUIZ DATA (MODIFIED FOR LAZY LOADING) ---
     try {
-        if (!selectedUniId || !path) throw new Error("University or Path not specified.");
-
-        const response = await fetch('./database.json');
-        const data = await response.json();
-        let currentNode = data.tree[selectedUniId];
-        siteTitleEl.textContent = `${currentNode.name} Med Portal`;
-
-        const pathSegments = path.split('/').filter(Boolean).slice(1);
-        for (const segment of pathSegments) {
-            currentNode = currentNode.children[segment];
+        if (!selectedUniId || !path || !collectionId) {
+            throw new Error("Required parameters (University, Path, or Collection ID) are missing from the URL.");
         }
 
-        if (isLessonQuiz) {
-            quizData = currentNode.resources?.lessonQuiz;
-            storageKey = `quiz-progress-${path}`;
-        } else if (collectionId) {
-            const collectionQuiz = currentNode.resources?.collectionQuizzes?.find(q => q.id === collectionId);
-            quizData = collectionQuiz?.quizData;
-            storageKey = `quiz-progress-${path}-${collectionId}`;
-        }
+        // 💡 الخطوة 1: جلب ملف الفهرس الصغير فقط (للحصول على اسم الجامعة)
+        const indexResponse = await fetch('./database.json');
+        if (!indexResponse.ok) throw new Error("Could not load the site's database index.");
+        const indexData = await indexResponse.json();
+        const universityNode = indexData.tree[selectedUniId.toLowerCase()];
+        if (!universityNode) throw new Error("Selected university not found in the database.");
+        siteTitleEl.textContent = `${universityNode.name} Med Portal`;
 
-        if (!quizData || !quizData.questions) throw new Error('Quiz data could not be found.');
+        // 💡 الخطوة 2: بناء المسار المباشر لملف الاختبار بناءً على البارامترات
+        // المسار الأساسي لملفات الاختبارات الجديدة (يجب أن يكون بالأحرف الصغيرة)
+        const QUIZ_BASE_URL = './content/quizzes/';
+        // إزالة / البداية من المسار وتحويله إلى أحرف صغيرة
+        const relativePath = path.substring(1).toLowerCase();
+        const quizId = collectionId.toLowerCase();
+
+        // مثال: ./content/quizzes/nub/year5/pediatrics/cardiology/kaf.json
+        const quizFileUrl = `${QUIZ_BASE_URL}${relativePath}/${quizId}.json`;
+
+        // 💡 الخطوة 3: جلب ملف الاختبار المحدد مباشرة
+        const quizResponse = await fetch(quizFileUrl);
+        if (!quizResponse.ok) {
+            throw new Error(`Quiz data file not found at ${quizFileUrl}. Check if the file exists and the path is correct.`);
+        }
+        quizData = await quizResponse.json();
+        
+        // تحديد مفتاح التخزين لضمان حفظ التقدم بشكل فريد
+        storageKey = `quiz-progress-${selectedUniId}-${path}-${collectionId}`;
+
+        if (!quizData || !quizData.questions) throw new Error('Quiz data is invalid or missing questions.');
 
         // ## START SURGICAL ADDITION 2: Call the new settings function ##
         setupSettings();
@@ -74,11 +85,8 @@ document.addEventListener('DOMContentLoaded', async function() {
 
     // ## START SURGICAL ADDITION 3: The new settings function ##
     function setupSettings() {
-        // Load saved setting on page load
         let isCelebrationEnabled = localStorage.getItem(CELEBRATION_KEY) === 'true';
         celebrationToggle.checked = isCelebrationEnabled;
-
-        // Listen for toggle changes and save the new setting
         celebrationToggle.addEventListener('change', function() {
             localStorage.setItem(CELEBRATION_KEY, this.checked);
         });
@@ -86,17 +94,15 @@ document.addEventListener('DOMContentLoaded', async function() {
     // ## END SURGICAL ADDITION 3 ##
 
 
-    // --- 3. ALL QUIZ FUNCTIONS (STABLE VERSION) ---
+    // --- 3. ALL QUIZ FUNCTIONS (STABLE VERSION, NO CHANGES NEEDED HERE) ---
     function initializeQuiz() {
         const savedProgress = localStorage.getItem(storageKey);
         userAnswers = savedProgress ? JSON.parse(savedProgress) : new Array(quizData.questions.length).fill(null);
-
         let resumeIndex = userAnswers.findIndex(answer => answer === null);
-        if (resumeIndex === -1) { // If all answered, show results
+        if (resumeIndex === -1) {
             showResults();
             return;
         }
-
         displayQuestion(resumeIndex);
     }
 
@@ -108,7 +114,6 @@ document.addEventListener('DOMContentLoaded', async function() {
         optionsContainer.innerHTML = '';
         optionsContainer.classList.remove('options-disabled');
         explanationContainer.style.display = 'none';
-
         question.options.forEach((option, i) => {
             const optionElement = document.createElement('div');
             optionElement.className = 'option';
@@ -119,7 +124,6 @@ document.addEventListener('DOMContentLoaded', async function() {
             optionElement.addEventListener('click', () => selectOption(i));
             optionsContainer.appendChild(optionElement);
         });
-
         if (userAnswers[index] !== null) {
             showFeedback();
         }
@@ -140,11 +144,8 @@ document.addEventListener('DOMContentLoaded', async function() {
         optionsContainer.classList.add('options-disabled');
         const correctIndex = quizData.questions[currentQuestionIndex].correct;
         const explanationText = quizData.questions[currentQuestionIndex].explanation;
-
-        // Check if the user's answer is correct AND celebration mode is on
         const isCelebrationEnabled = localStorage.getItem(CELEBRATION_KEY) === 'true';
         if (userAnswers[currentQuestionIndex] === correctIndex && isCelebrationEnabled) {
-            // 1. Play a light, popping sound effect
             if (typeof Tone !== 'undefined') {
                 const synth = new Tone.Synth({
                     oscillator: { type: 'sine' },
@@ -152,8 +153,6 @@ document.addEventListener('DOMContentLoaded', async function() {
                 }).toDestination();
                 synth.triggerAttackRelease("C6", "8n");
             }
-
-            // 2. Launch the confetti
             if (typeof confetti === 'function') {
                 confetti({
                     particleCount: 150,
@@ -162,13 +161,10 @@ document.addEventListener('DOMContentLoaded', async function() {
                 });
             }
         }
-
-        // This part is untouched and works as before
         document.querySelectorAll('.option').forEach((opt, i) => {
             if (i === correctIndex) opt.classList.add('correct');
             else if (userAnswers[currentQuestionIndex] === i) opt.classList.add('incorrect');
         });
-
         if (explanationText) {
             explanationContainer.innerHTML = `<strong>Explanation:</strong> ${explanationText}`;
             explanationContainer.style.display = 'block';
@@ -202,7 +198,6 @@ document.addEventListener('DOMContentLoaded', async function() {
         resultsScreen.style.display = 'none';
         reviewScreen.style.display = 'block';
         reviewScreen.innerHTML = '<h2>Quiz Review</h2>';
-
         quizData.questions.forEach((question, index) => {
             const questionBlock = document.createElement('div');
             questionBlock.className = 'review-question-block';
@@ -220,7 +215,6 @@ document.addEventListener('DOMContentLoaded', async function() {
             `;
             reviewScreen.appendChild(questionBlock);
         });
-
         const backBtn = document.createElement('button');
         backBtn.textContent = 'Back to Results';
         backBtn.className = 'button button-secondary';
@@ -254,7 +248,8 @@ document.addEventListener('DOMContentLoaded', async function() {
     }
 
     function showError(message) {
-        quizInterface.innerHTML = `<p style="color: red; text-align: center;">${message}</p>`;
+        console.error("Quiz Error:", message);
+        quizInterface.innerHTML = `<p style="color: red; text-align: center; font-weight: bold;">Error: ${message}</p>`;
     }
 
     // --- EVENT LISTENERS ---
@@ -265,31 +260,21 @@ document.addEventListener('DOMContentLoaded', async function() {
             showResults();
         }
     });
-
     prevBtn.addEventListener('click', () => {
         if (currentQuestionIndex > 0) {
             displayQuestion(currentQuestionIndex - 1);
         }
     });
-
     reviewBtn.addEventListener('click', showReview);
-
-    browseBtn.addEventListener('click', () => {
-        browseModal.classList.remove('hidden');
-    });
-
-    closeModalBtn.addEventListener('click', () => {
-        browseModal.classList.add('hidden');
-    });
-
+    browseBtn.addEventListener('click', () => browseModal.classList.remove('hidden'));
+    closeModalBtn.addEventListener('click', () => browseModal.classList.add('hidden'));
     browseModal.addEventListener('click', (e) => {
-        if (e.target === browseModal) {
-            browseModal.classList.add('hidden');
-        }
+        if (e.target === browseModal) browseModal.classList.add('hidden');
     });
-
     resetBtn.addEventListener('click', () => {
-        localStorage.removeItem(storageKey);
-        window.location.reload();
+        if (confirm("Are you sure you want to reset your progress for this quiz?")) {
+            localStorage.removeItem(storageKey);
+            window.location.reload();
+        }
     });
 });

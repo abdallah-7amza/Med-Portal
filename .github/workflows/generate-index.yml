@@ -1,4 +1,4 @@
-name: Generate Database Index
+name: Generate Database Index 
 on:
   push:
     branches:
@@ -17,8 +17,9 @@ jobs:
       run: npm install
     - name: Generate database index
       run: npm run build
-    - name: Commit database.json
+    - name: Commit Generated Files (Database and Content)
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "ci: auto-generate database.json"
-        file_pattern: "docs/database.json"
+        commit_message: "ci: auto-generate static index and content files"
+        # 💡 التعديل هنا: إضافة مجلد docs/content بالكامل
+        file_pattern: "docs/database.json docs/content/**"

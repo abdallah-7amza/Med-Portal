@@ -1,0 +1,133 @@
+{
+  "title": "Gynaecology Revision",
+  "cards": [
+    {
+      "front": "What is the most important fertility factor?",
+      "back": "Mother's age."
+    },
+    {
+      "front": "What is the most common cause of infertility?",
+      "back": "Ovarian factors (e.g., anovulation)."
+    },
+    {
+      "front": "What is the most common cause of primary amenorrhea?",
+      "back": "Turner syndrome."
+    },
+    {
+      "front": "What are the indications and contraindications for a Hysterosalpingogram (HSG)?",
+      "back": "Indications: Infertility, suspected intrauterine anomalies.\nContraindications: Suspicion of pregnancy, Pelvic Inflammatory Disease (PID)."
+    },
+    {
+      "front": "A patient with a history of 2 D&Cs complaining of amenorrhea and infertility suggests what diagnosis and management?",
+      "back": "Diagnosis: Asherman syndrome (Intrauterine adhesions). Management: Hysteroscopic adhesiolysis."
+    },
+    {
+      "front": "What embryological error causes an imperforate hymen?",
+      "back": "Improper canalization of the urogenital sinus."
+    },
+    {
+      "front": "A patient complaining of Metrorrhagia & infertility with a filling defect on Hysteroscopy likely has what condition?",
+      "back": "Endometrial Polyp. Management is Hysteroscopic Polypectomy."
+    },
+    {
+      "front": "What are the high-risk HPV types for Cervical Cancer?",
+      "back": "Types 16 and 18."
+    },
+    {
+      "front": "What is the most definitive diagnostic tool for suspected cervical cancer?",
+      "back": "A biopsy from the cervix."
+    },
+    {
+      "front": "What is the most common route of metastasis for cervical cancer and the most common cause of death?",
+      "back": "Route: Lymphatic spread. Cause of death: Uremia."
+    },
+    {
+      "front": "Which type of Endometrial Hyperplasia (EH) carries the highest potential for malignancy?",
+      "back": "Complex EH with atypia (29% risk)."
+    },
+    {
+      "front": "What is the management for stage 1 and stage 2 endometrial carcinoma?",
+      "back": "Stage 1: Pan-hysterectomy (TAH-BSO).\nStage 2: Wertheim's operation (radical hysterectomy)."
+    },
+    {
+      "front": "What are the risk factors for Ovarian Cancer?",
+      "back": "Increasing age, Nulliparity & infertility, Family history, low parity."
+    },
+    {
+      "front": "What is the most common type of ovarian tumor?",
+      "back": "Epithelial tumors (90%)."
+    },
+    {
+      "front": "What is the most common benign and malignant epithelial ovarian tumor?",
+      "back": "Benign: Serous cystadenoma.\nMalignant: Serous cystadenocarcinoma."
+    },
+    {
+      "front": "What histological finding is characteristic of a Serous Cystadenocarcinoma of the ovary?",
+      "back": "Psammoma bodies."
+    },
+    {
+      "front": "What histological finding is characteristic of a Brenner tumor of the ovary?",
+      "back": "Coffee bean-shaped nuclei."
+    },
+    {
+      "front": "Match the tumor marker to the ovarian tumor: AFP, HCG, LDH, CA-125.",
+      "back": "AFP: Yolk Sac Tumor\nHCG: Chorio-Carcinoma\nLDH: Dysgerminoma\nCA-125: Epithelial Tumor & endometriotic cyst."
+    },
+    {
+      "front": "What is the most common cause of Pelvic Inflammatory Disease (PID)?",
+      "back": "Ascending infection from the lower genital tract."
+    },
+    {
+      "front": "What is the most common cause of stress incontinence?",
+      "back": "Repeated childbirth / Vaginal delivery."
+    },
+    {
+      "front": "What is procidentia?",
+      "back": "A severe form of uterine prolapse where the entire uterus, including the fundus, is outside the introitus."
+    },
+    {
+      "front": "What evidence proves that a Fibroid is estrogen dependent?",
+      "back": "It does not develop before puberty, atrophies after menopause, and is associated with conditions like endometriosis."
+    },
+    {
+      "front": "What is the management for an asymptomatic 3-4 cm intramural fibroid?",
+      "back": "Follow-up."
+    },
+    {
+      "front": "What are the typical laparoscopic findings for Endometriosis?",
+      "back": "Adhesions, fixed retroverted uterus, tender pelvic mass (kissing ovaries), Douglas pouch nodules, chocolate ovarian cyst."
+    },
+    {
+      "front": "What is the hormonal imbalance in Polycystic Ovarian Syndrome (PCOS)?",
+      "back": "High LH, Estrogen, androgen, insulin with low FSH."
+    },
+    {
+      "front": "What is the best management for a virgin patient with PCOS who doesn't desire fertility?",
+      "back": "Oral contraceptive pills with an antiandrogen (e.g., Diane)."
+    },
+    {
+      "front": "What are some absolute contraindications for Combined Oral Contraceptive Pills (COCPs)?",
+      "back": "History of DVT/thromboembolism, coronary heart disease, stroke, malignancy of the genital system."
+    },
+    {
+      "front": "What is the mechanism of action for Copper IUD vs. Mirena (LNG-IUD)?",
+      "back": "Copper IUD: Prevents fertilization/implantation.\nMirena (LNG-IUD): Causes endometrial atrophy by secreting Progesterone."
+    },
+    {
+      "front": "Is a Subserous fibroid a contraindication for IUD insertion?",
+      "back": "No."
+    },
+    {
+      "front": "What is the standard treatment for both bacterial vaginosis and trichomoniasis?",
+      "back": "Metronidazole (Flagyl)."
+    },
+    {
+      "front": "What is the purpose of Urodynamic studies?",
+      "back": "To differentiate genuine stress incontinence from urge incontinence."
+    },
+    {
+      "front": "What are the most common causes of abnormal bleeding by age group?",
+      "back": "Childhood: Foreign body or Vulvovaginitis.\nAdolescence/pre-menopausal: Anovulation.\nPost-menopausal: Atrophy of the endometrium."
+    }
+  ]
+}

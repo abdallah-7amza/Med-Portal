@@ -1,0 +1,3378 @@
+{
+  "title": "VIP",
+  "questions": [
+{
+      "stem": "Warning symptoms in pregnancy include all of the following EXCEPT:",
+      "options": [
+        "Gush of fluid from the vagina",
+        "Vaginal bleeding",
+        "Abdominal pains",
+        "Tachypnea (rapid breathing)"
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists bleeding, regular colicky pains, persistent vomiting, a sudden escape of fluid, severe persistent headache, blurring of vision, and marked swelling as warning symptoms. While dyspnea (difficulty breathing) can be a complaint, simple tachypnea is not listed as a primary warning sign in the same category."
+    },
+    {
+      "stem": "Which of the following is routinely performed in a primigravida woman?",
+      "options": [
+        "Rh typing",
+        "Complete Blood Count (CBC)",
+        "Gestational age assessment",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "During the first antenatal care (ANC) visit, a thorough history is taken to calculate gestational age and the EDD. Routine laboratory tests include blood group and Rh typing, as well as a complete blood picture (CBC)."
+    },
+    {
+      "stem": "What is the commonest cause of abortion in the first trimester?",
+      "options": [
+        "Uterine anomalies",
+        "Maternal infections",
+        "Chromosomal abnormalities",
+        "Endocrine disorders"
+      ],
+      "correct": 2,
+      "explanation": "Genetic or chromosomal abnormalities are the most common cause of early pregnancy loss, responsible for over 50% of spontaneous abortion cases."
+    },
+    {
+      "stem": "A pregnant patient with spotting is found by US to have a viable fetus in the uterine cavity with a closed cervix. The diagnosis is:",
+      "options": [
+        "Threatened abortion",
+        "Inevitable abortion",
+        "Incomplete abortion",
+        "Missed abortion"
+      ],
+      "correct": 0,
+      "explanation": "The clinical picture of a threatened abortion includes minimal vaginal bleeding (spotting), a closed cervix, and an ultrasound confirming a living fetus within the uterus."
+    },
+    {
+      "stem": "Which of the following is a characteristic feature of an inevitable abortion?",
+      "options": [
+        "Open cervix with bleeding",
+        "Closed cervix",
+        "Closed cervix with bleeding"
+      ],
+      "correct": 0,
+      "explanation": "An inevitable abortion is characterized by moderate to severe vaginal bleeding and a dilated (open) cervix, indicating that the pregnancy cannot be salvaged."
+    },
+    {
+      "stem": "A patient presents with hypotension, tachycardia, and signs of hemoperitoneum. The most likely diagnosis is:",
+      "options": [
+        "Ruptured ectopic pregnancy",
+        "Molar pregnancy",
+        "Threatened abortion"
+      ],
+      "correct": 0,
+      "explanation": "A disturbed or ruptured ectopic pregnancy with severe internal hemorrhage presents with signs of shock, including a rapid pulse (tachycardia), a fall in blood pressure (hypotension), and signs of peritoneal irritation from blood in the abdomen (hemoperitoneum)."
+    },
+    {
+      "stem": "In a suspected ectopic pregnancy with hCG of 1200 and no IUP on US, the next step is:",
+      "options": [
+        "Give methotrexate",
+        "Immediate surgery",
+        "Repeat hCG and US after 48 hours"
+      ],
+      "correct": 2,
+      "explanation": "An intrauterine pregnancy should typically be visible on transvaginal ultrasound when hCG levels reach 1500 IU/mL. Since the level is below this 'discriminatory zone,' it's necessary to repeat the hCG level after 48 hours to check for the appropriate doubling time of a viable intrauterine pregnancy."
+    },
+    {
+      "stem": "Methotrexate treatment for ectopic pregnancy is contraindicated if:",
+      "options": [
+        "There is no fetal heart activity",
+        "The ectopic mass is < 3.5 cm",
+        "The serum hCG level is > 6000 IU/L"
+      ],
+      "correct": 2,
+      "explanation": "Medical management of ectopic pregnancy with methotrexate is indicated for early, undisturbed cases where the mass is small, there is no fetal cardiac activity, and the hCG level is below 6000 mIU/ml."
+    },
+    {
+      "stem": "An incomplete molar pregnancy typically results from:",
+      "options": [
+        "Fertilization by 1 sperm",
+        "Fertilization by 2 sperms",
+        "An empty ovum"
+      ],
+      "correct": 1,
+      "explanation": "A partial (incomplete) mole originates from the fertilization of a normal ovum by two sperms, leading to a triploid karyotype (e.g., 69 chromosomes)."
+    },
+    {
+      "stem": "Which type of ovarian cyst is associated with a complete molar pregnancy?",
+      "options": [
+        "Theca-lutein cyst",
+        "Corpus luteal cyst",
+        "Follicular cyst"
+      ],
+      "correct": 0,
+      "explanation": "Theca-lutein cysts occur in 25-60% of complete molar pregnancies due to ovarian hyperstimulation from the very high levels of hCG produced by the trophoblastic cells."
+    },
+    {
+      "stem": "Diagnosis of Down syndrome in the first trimester is suggested by:",
+      "options": [
+        "High hCG and Nuchal Translucency (NT) > 3mm on US",
+        "Low hCG and low PAPP-A",
+        "Isolated finding of a short femur"
+      ],
+      "correct": 0,
+      "explanation": "First-trimester screening for Down syndrome (Double Marker Test) combines maternal serum markers with ultrasound. Fetuses with Down syndrome typically show high hCG, low PAPP-A, and an increased nuchal translucency (NT) measurement of >3.0 mm."
+    },
+    {
+      "stem": "Nuchal Translucency (NT) is performed at what gestational age?",
+      "options": [
+        "8-10 weeks",
+        "11-13 weeks",
+        "15-18 weeks"
+      ],
+      "correct": 1,
+      "explanation": "The measurement of the nuchal translucency skin fold on the fetal neck is performed between 11 and 13 weeks of gestation as part of first-trimester aneuploidy screening."
+    },
+    {
+      "stem": "All of the following are functions of the placenta EXCEPT:",
+      "options": [
+        "Transport of nutrients and toxins",
+        "Immunity acceptance",
+        "Secretion of hormones",
+        "Initiating uterine contractions for labor"
+      ],
+      "correct": 3,
+      "explanation": "The placenta's main functions are nutrient transfer, endocrine/metabolic activity (hormone production), and immunological protection. While placental hormones are involved in the process leading to labor, the placenta itself does not directly initiate uterine contractions."
+    },
+    {
+      "stem": "The maternal part of the placenta is formed from the:",
+      "options": [
+        "Decidua basalis",
+        "Decidua capsularis",
+        "Chorion frondosum"
+      ],
+      "correct": 0,
+      "explanation": "The placenta is a dual-origin organ formed from the fetal chorion frondosum and the maternal decidua basalis."
+    },
+    {
+      "stem": "A placenta with an accessory lobe is known as:",
+      "options": [
+        "Placenta previa",
+        "Succenturiate Placenta",
+        "Circumvallate placenta"
+      ],
+      "correct": 1,
+      "explanation": "A succenturiate placenta is characterized by a small, separate accessory lobe connected to the main placental body by membranes and blood vessels."
+    },
+    {
+      "stem": "Cervical incompetence is typically managed by:",
+      "options": [
+        "Progesterone supplements",
+        "Bed rest only",
+        "Cervical cerclage"
+      ],
+      "correct": 2,
+      "explanation": "The standard treatment for cervical incompetence during pregnancy is a cerclage operation, which involves placing a circumferential suture around the cervix to reinforce it."
+    },
+    {
+      "stem": "What is the first thing to be done before the second stage of labor begins?",
+      "options": [
+        "Administer anesthesia",
+        "Evacuate the bladder",
+        "Start an oxytocin drip"
+      ],
+      "correct": 1,
+      "explanation": "Ensuring the bladder is empty, either by spontaneous voiding or catheterization, is a key first step in managing the second stage of labor to allow for fetal descent."
+    },
+    {
+      "stem": "The third stage of labor is defined as the period from:",
+      "options": [
+        "Full cervical dilatation to the delivery of the fetus",
+        "The delivery of the fetus to the delivery of the placenta",
+        "The delivery of the placenta to one hour postpartum"
+      ],
+      "correct": 1,
+      "explanation": "The third stage of labor begins immediately after the delivery of the fetus and ends with the complete expulsion of the placenta and membranes."
+    },
+    {
+      "stem": "A patient in the third stage of labor has a firmly contracted uterus but continues to bleed. What is the likely cause?",
+      "options": [
+        "Uterine atony",
+        "Retained placental fragments",
+        "Genital tract laceration"
+      ],
+      "correct": 2,
+      "explanation": "If postpartum hemorrhage occurs while the uterus is firmly contracted, the cause is likely traumatic (e.g., a cervical, vaginal, or perineal laceration) rather than atonic (a soft, boggy uterus) or from retained products."
+    },
+    {
+      "stem": "The relation of the fetal parts to one another is defined as:",
+      "options": [
+        "Fetal lie",
+        "Fetal attitude",
+        "Fetal position"
+      ],
+      "correct": 1,
+      "explanation": "Fetal attitude describes the relation of the fetal parts to each other, which is typically an attitude of flexion."
+    },
+    {
+      "stem": "Which fetal head diameter presents in a well-flexed vertex delivery?",
+      "options": [
+        "Biparietal diameter",
+        "Suboccipitobregmatic diameter",
+        "Occipitofrontal diameter"
+      ],
+      "correct": 1,
+      "explanation": "The suboccipitobregmatic diameter (SOB), approximately 9.5 cm, is the engaging diameter when the fetal head is fully flexed."
+    },
+    {
+      "stem": "What is the presenting diameter in a brow presentation, making vaginal delivery impossible unless it converts?",
+      "options": [
+        "Suboccipitobregmatic (9.5 cm)",
+        "Occipitofrontal (11.5 cm)",
+        "Mentovertical (13.5 cm)"
+      ],
+      "correct": 2,
+      "explanation": "In a brow presentation, the head is partially extended, presenting the mentovertical diameter (13.5 cm), which is too large to pass through the maternal pelvis, causing obstructed labor."
+    },
+    {
+      "stem": "What is the single most common cause of breech presentation at term?",
+      "options": [
+        "Idiopathic",
+        "Preterm labor",
+        "Uterine anomalies"
+      ],
+      "correct": 0,
+      "explanation": "While prematurity is a major factor, in at least one-third of breech presentations at term, no specific underlying cause can be identified, making it idiopathic."
+    },
+    {
+      "stem": "In breech presentation, which variety is a strong indication for a Cesarean section?",
+      "options": [
+        "Footling breech",
+        "Frank breech with adequate pelvis",
+        "Complete breech in a multipara"
+      ],
+      "correct": 0,
+      "explanation": "A footling breech is an indication for Cesarean section due to the high risk of umbilical cord prolapse and the presenting part being a poor dilating wedge."
+    },
+    {
+      "stem": "Management for a persistent occipito-posterior (OP) position with arrest of descent is often:",
+      "options": [
+        "Manual rotation",
+        "Cesarean section",
+        "Application of forceps"
+      ],
+      "correct": 1,
+      "explanation": "When the fetal head fails to rotate from an OP position and descent arrests (deep transverse arrest), labor becomes obstructed. A Cesarean section is often the safest mode of delivery."
+    },
+    {
+      "stem": "In a multiparous woman, obstructed labor can eventually lead to:",
+      "options": [
+        "Hypotonic uterine inertia",
+        "Hypertonic inertia",
+        "Uterine rupture"
+      ],
+      "correct": 2,
+      "explanation": "Obstructed labor places immense strain on the lower uterine segment, which can lead to thinning and eventual rupture, a life-threatening obstetric emergency."
+    },
+    {
+      "stem": "What is the most common cause of uterine rupture?",
+      "options": [
+        "A scar from a previous Cesarean section",
+        "Grand multiparity",
+        "Obstructed labor"
+      ],
+      "correct": 0,
+      "explanation": "The presence of a uterine scar, most commonly from a previous Cesarean section, is the single most significant risk factor for uterine rupture in subsequent pregnancies."
+    },
+    {
+      "stem": "Upon diagnosing a cord prolapse, what is the IMMEDIATE first step?",
+      "options": [
+        "Manually elevate the presenting fetal part to relieve pressure on the cord.",
+        "Place the mother in the Trendelenburg position.",
+        "Rush the patient for immediate Cesarean section."
+      ],
+      "correct": 0,
+      "explanation": "The immediate first aid measure for a cord prolapse is to manually lift the presenting fetal part off the umbilical cord to restore blood flow to the fetus while preparing for emergency delivery."
+    },
+    {
+      "stem": "A 23-year-old at 42 weeks gestation has a favorable cervix (soft, 2 cm dilated, 50% effaced). What is the recommended management?",
+      "options": [
+        "Immediate caesarian section",
+        "Induction by vaginal misoprostol",
+        "Oxytocin infusion and artificial rupture of membranes",
+        "Continue monitoring for another week"
+      ],
+      "correct": 2,
+      "explanation": "At 42 weeks (post-term pregnancy), induction of labor is indicated. Since the cervix is favorable (high Bishop score), cervical ripening with prostaglandins is not needed, and induction can proceed directly with an oxytocin infusion and/or amniotomy."
+    },
+    {
+      "stem": "What does the obstetrical history G3P2L2 mean?",
+      "options": [
+        "Three pregnancies, two births, two living children",
+        "Two pregnancies, three births, two living children",
+        "Three pregnancies, three births, two living children"
+      ],
+      "correct": 0
+    },
+{
+        "stem": "When do we diagnose preeclampsia?",
+        "options": [
+            "BP 120/80 with proteinuria",
+            "BP 140/90 with proteinuria",
+            "160/110 without proteinuria",
+            "BP 130/85 with headache"
+        ],
+        "correct": 1,
+        "explanation": "Preeclampsia is diagnosed when sustained hypertension (BP ≥ 140/90 mm Hg) occurs after 20 weeks of gestation and is accompanied by proteinuria."
+    },
+    {
+        "stem": "What is the first investigation to be done if preeclampsia is suspected?",
+        "options": [
+            "CBC",
+            "Liver enzymes",
+            "Urine analysis",
+            "Ultrasound"
+        ],
+        "correct": 2,
+        "explanation": "Since preeclampsia diagnosis requires both hypertension and proteinuria, urine analysis is a critical initial investigation to detect proteinuria."
+    },
+    {
+        "stem": "What is the definitive treatment for preeclampsia?",
+        "options": [
+            "Methyldopa",
+            "Magnesium sulfate",
+            "Termination of pregnancy",
+            "Steroids"
+        ],
+        "correct": 2,
+        "explanation": "The only definitive cure for preeclampsia is the termination of pregnancy, as signs and symptoms resolve rapidly after the placenta is delivered."
+    },
+    {
+        "stem": "When do we classify preeclampsia as severe?",
+        "options": [
+            "BP≥130/90",
+            "BP≥140/90",
+            "BP≥150/100",
+            "BP≥160/110"
+        ],
+        "correct": 3,
+        "explanation": "Preeclampsia is classified as severe with sustained systolic blood pressure of ≥160 mm Hg and/or diastolic blood pressure of ≥110 mm Hg."
+    },
+    {
+        "stem": "Which of the following is a known complication of severe preeclampsia?",
+        "options": [
+            "HELLP syndrome",
+            "DKA",
+            "Ectopic pregnancy",
+            "Hyperthyroidism"
+        ],
+        "correct": 0,
+        "explanation": "HELLP syndrome (Hemolysis, Elevated Liver enzymes, and Low Platelet count) is a known complication and a criterion for severe preeclampsia."
+    },
+    {
+        "stem": "The most common cause of antepartum hemorrhage is:",
+        "options": [
+            "Placenta previa",
+            "Placental abruption",
+            "Uterine rupture",
+            "Cervical carcinoma"
+        ],
+        "correct": 1,
+        "explanation": "Placental abruption (separation of a normally implanted placenta) is the most common cause of antepartum hemorrhage."
+    },
+    {
+        "stem": "The most common cause of postpartum hemorrhage is:",
+        "options": [
+            "Uterine rupture",
+            "Atony",
+            "Retained products of placenta",
+            "Trauma to birth canal"
+        ],
+        "correct": 1,
+        "explanation": "Uterine atony is the most common cause of primary postpartum hemorrhage, accounting for over 75% of cases."
+    },
+    {
+        "stem": "The most common cause of secondary postpartum hemorrhage is:",
+        "options": [
+            "Retained products of placenta",
+            "Uterine inversion",
+            "Placenta previa",
+            "Trauma"
+        ],
+        "correct": 0,
+        "explanation": "Secondary postpartum hemorrhage (occurring >24 hours after delivery) is most commonly associated with retained placental tissue."
+    },
+    {
+        "stem": "Management of PROM without fever, TLC normal:",
+        "options": [
+            "Immediate termination",
+            "Conservative management + antibiotics + dexamethasone",
+            "Cesarean section",
+            "Tocolytics only"
+        ],
+        "correct": 1,
+        "explanation": "For preterm PROM without signs of chorioamnionitis, conservative management includes hospitalization, prophylactic antibiotics, and corticosteroids to enhance fetal lung maturity."
+    },
+    {
+        "stem": "Management of PROM with fever, TLC:",
+        "options": [
+            "Continue conservative",
+            "Immediate termination of pregnancy",
+            "Antibiotics only",
+            "Steroids only"
+        ],
+        "correct": 1,
+        "explanation": "In PROM with evidence of chorioamnionitis (fever, elevated TLC), the pregnancy should be promptly terminated after initiating IV broad-spectrum antibiotics."
+    },
+    {
+        "stem": "If a woman had myomectomy before pregnancy, what is the safest mode of delivery?",
+        "options": [
+            "Vaginal delivery always",
+            "Cesarean section",
+            "Assisted vaginal delivery",
+            "Induction of labor"
+        ],
+        "correct": 1,
+        "explanation": "A history of myomectomy increases the risk of uterine rupture during labor, making Cesarean section the safest mode of delivery."
+    },
+    {
+        "stem": "Before 28 weeks, the surgical method of delivery is:",
+        "options": [
+            "Classical cesarean section",
+            "Hysterotomy",
+            "Vaginal delivery only",
+            "Forceps delivery"
+        ],
+        "correct": 1,
+        "explanation": "Hysterotomy is the surgical procedure for delivering a fetus before viability (typically before 24 weeks)."
+    },
+    {
+        "stem": "After 28 weeks, the surgical method of delivery is:",
+        "options": [
+            "Hysterotomy",
+            "Cesarean section",
+            "Vaginal delivery",
+            "Forceps extraction"
+        ],
+        "correct": 1,
+        "explanation": "After 28 weeks, the fetus is considered viable, and Cesarean section is the standard surgical delivery method."
+    },
+    {
+        "stem": "The drug of choice for bacterial vaginosis is:",
+        "options": [
+            "Amoxicillin",
+            "Metronidazole",
+            "Clindamycin cream",
+            "Doxycycline"
+        ],
+        "correct": 1,
+        "explanation": "The textbook does not specify a drug of choice, but Metronidazole is the widely accepted standard treatment."
+    },
+    {
+        "stem": "The first-line treatment for Candida vaginitis is:",
+        "options": [
+            "Antifungal agents (Clotrimazole/Fluconazole)",
+            "Metronidazole",
+            "Tetracycline",
+            "Ciprofloxacin"
+        ],
+        "correct": 0,
+        "explanation": "The textbook does not specify, but antifungal agents are the standard first-line treatment for Candida vaginitis."
+    },
+    {
+        "stem": "The drug of choice for Trichomonas vaginalis infection is:",
+        "options": [
+            "Metronidazole",
+            "Clotrimazole",
+            "Penicillin",
+            "Ceftriaxone"
+        ],
+        "correct": 0,
+        "explanation": "The textbook does not specify, but Metronidazole is the standard drug of choice for Trichomonas infection."
+    },
+    {
+        "stem": "Risk factors that increase the recurrence of Candida infection include all of the following except:",
+        "options": [
+            "Diabetes mellitus",
+            "Pregnancy",
+            "Broad-spectrum antibiotic use",
+            "Alkaline vaginal pH"
+        ],
+        "correct": 3,
+        "explanation": "Candida prefers an acidic environment, so an alkaline vaginal pH would not be a risk factor for recurrence."
+    },
+    {
+        "stem": "The most common complication of twin pregnancy is:",
+        "options": [
+            "Hypertension",
+            "Preterm delivery",
+            "Post-term delivery",
+            "Uterine rupture"
+        ],
+        "correct": 1,
+        "explanation": "Preterm labor (PTL) is the most common and major complication in multifetal pregnancies."
+    },
+    {
+        "stem": "In twin-to-twin transfusion (TTTS), the recipient twin usually shows:",
+        "options": [
+            "Anemia and oligohydramnios",
+            "Macrosomia, polycythemia, polyhydramnios",
+            "IUGR, anemia, oligohydramnios",
+            "Normal growth"
+        ],
+        "correct": 1,
+        "explanation": "The recipient twin in TTTS receives excessive blood, leading to macrosomia (large size), polycythemia (increased red cells), and polyhydramnios (excess amniotic fluid)."
+    },
+    {
+        "stem": "The donor twin in TTTS usually shows:",
+        "options": [
+            "Polycythemia and macrosomia",
+            "Normal growth",
+            "Anemia, IUGR, oligohydramnios",
+            "Hydrops fetalis"
+        ],
+        "correct": 2,
+        "explanation": "The donor twin in TTTS receives insufficient blood, resulting in anemia, intrauterine growth restriction (IUGR), and oligohydramnios (reduced amniotic fluid)."
+    },
+    {
+        "stem": "The best treatment for severe twin-to-twin transfusion (TTTS) is:",
+        "options": [
+            "Amnioreduction",
+            "Steroids only",
+            "Laser disconnection of vessels",
+            "Termination of pregnancy"
+        ],
+        "correct": 2,
+        "explanation": "The primary management for severe TTTS is fetoscopic laser ablation of placental anastomoses to disconnect the shared blood vessels."
+    },
+    {
+        "stem": "The most common type of twin pregnancy is:",
+        "options": [
+            "Dichorionic, diamniotic",
+            "Monochorionic, diamniotic",
+            "Monochorionic, monoamniotic",
+            "Dichorionic, monoamniotic"
+        ],
+        "correct": 1,
+        "explanation": "Monochorionic, diamniotic twinning is the most common type of monozygotic (identical) twin pregnancy."
+    },
+    {
+        "stem": "Puerperal sepsis is best treated with:",
+        "options": [
+            "Antibiotics safe during lactation",
+            "Corticosteroids",
+            "Termination of pregnancy",
+            "Antifungals"
+        ],
+        "correct": 0,
+        "explanation": "Puerperal sepsis is treated with a combination of broad-spectrum antibiotics. While safety in lactation is a consideration, the primary treatment is antibiotics."
+    },
+    {
+        "stem": "The most accurate investigation for diagnosing placenta previa is:",
+        "options": [
+            "Clinical history",
+            "Abdominal ultrasound",
+            "Vaginal ultrasound",
+            "MRI pelvis"
+        ],
+        "correct": 2,
+        "explanation": "While transabdominal ultrasound is the gold standard for initial diagnosis, transvaginal ultrasound is more reliable for precisely measuring the distance to the internal os."
+    },
+    {
+        "stem": "In placenta previa, vaginal examination is:",
+        "options": [
+            "Contraindicated",
+            "First-line investigation",
+            "Performed routinely in all cases",
+            "Done only at term"
+        ],
+        "correct": 0,
+        "explanation": "Vaginal examination is strictly contraindicated in placenta previa due to the high risk of provoking severe, uncontrollable hemorrhage."
+    },
+    {
+        "stem": "The most common type of anemia seen in pregnancy is:",
+        "options": [
+            "Iron deficiency anemia",
+            "Megaloblastic anemia",
+            "Aplastic anemia",
+            "Hemolytic anemia"
+        ],
+        "correct": 0,
+        "explanation": "Iron deficiency anemia is by far the most common type of anemia encountered during pregnancy."
+    },
+    {
+        "stem": "In umbilical artery Doppler, which finding is ominous and predicts intrauterine death?",
+        "options": [
+            "Increased diastolic flow",
+            "Absent diastolic flow",
+            "Reversed diastolic flow",
+            "Increased systolic flow"
+        ],
+        "correct": 2,
+        "explanation": "Reversed diastolic flow in the umbilical artery is a very dangerous sign of severe placental insufficiency, often necessitating immediate termination due to the risk of IUFD."
+    },
+    {
+        "stem": "A patient on oral contraceptives presents with leg edema and redness. What is the next step?",
+        "options": [
+            "Continue OCPs",
+            "Stop OCPs immediately",
+            "Give antifungal therapy",
+            "Perform myomectomy"
+        ],
+        "correct": 1,
+        "explanation": "Symptoms like leg edema and redness in a patient on OCPs are suggestive of DVT, a known risk. OCPs should be stopped immediately."
+    },
+    {
+        "stem": "In suspected missed abortion, the first investigation to confirm diagnosis is:",
+        "options": [
+            "Pregnancy test",
+            "Ultrasound",
+            "X-ray",
+            "Serum hCG only"
+        ],
+        "correct": 0,
+        "explanation": "While ultrasound confirms fetal demise, inadequate doubling or decreasing serum beta-hCG levels (from a pregnancy test) provide earlier evidence of a non-viable pregnancy."
+    },
+    {
+        "stem": "The most serious complication of oxytocin use in labor is:",
+        "options": [
+            "Uterine rupture",
+            "Tetanus-like hyperstimulation",
+            "Placental abruption",
+            "Retained placenta"
+        ],
+        "correct": 1,
+        "explanation": "The most serious complication of oxytocin is hyperactive uterine action (hyperstimulation), which can lead to fetal hypoxia and uterine rupture."
+    },
+    {
+        "stem": "Which of the following is a contraindication to induction of labor?",
+        "options": [
+            "Fetal distress",
+            "Placenta previa (centralis)",
+            "Obstructed labor",
+            "All of the above"
+        ],
+        "correct": 3,
+        "explanation": "Induction is contraindicated in placenta previa and obstructed labor (which require C-section), and fetal distress which requires rapid delivery, not induction."
+    },
+    {
+        "stem": "The most serious complication of postpartum hemorrhage is:",
+        "options": [
+            "Uterine rupture",
+            "Shock and DIC",
+            "Retained placenta only",
+            "Anemia"
+        ],
+        "correct": 1,
+        "explanation": "The most serious complications of PPH are severe hypovolemic shock and disseminated intravascular coagulation (DIC)."
+    },
+    {
+        "stem": "Management of severe postpartum hemorrhage includes all of the following except:",
+        "options": [
+            "Uterine massage",
+            "Bakri balloon",
+            "Subtotal hysterectomy",
+            "Corticosteroids"
+        ],
+        "correct": 3,
+        "explanation": "Management of severe PPH involves resuscitation, ecbolics, uterine massage, and interventional procedures like Bakri balloon or hysterectomy. Corticosteroids are not part of the protocol."
+    },
+    {
+        "stem": "In vasa previa, the origin of bleeding is:",
+        "options": [
+            "Maternal blood",
+            "Fetal blood",
+            "Mixed origin",
+            "Cervical source"
+        ],
+        "correct": 1,
+        "explanation": "In vasa previa, bleeding is from the umbilical cord vessels, meaning it is fetal blood, which can lead to rapid fetal distress."
+    },
+    {
+        "stem": "The treatment of vasa previa is:",
+        "options": [
+            "Immediate C-section",
+            "Vaginal delivery with forceps",
+            "Expectant management",
+            "Oxytocin induction"
+        ],
+        "correct": 0,
+        "explanation": "Vasa previa is an obstetric emergency requiring immediate Cesarean section to prevent severe fetal hemorrhage and death."
+    },
+    {
+        "stem": "Asymptomatic bacteriuria in pregnancy is diagnosed when urine culture shows:",
+        "options": [
+            ">1000 organisms",
+            ">10,000 organisms",
+            ">100,000 organisms",
+            ">300,000 organisms"
+        ],
+        "correct": 2,
+        "explanation": "Asymptomatic bacteriuria is diagnosed when a urine culture yields >100,000 colony-forming units (CFU) of a single organism."
+    },
+    {
+        "stem": "The antibiotic of choice for asymptomatic bacteriuria in pregnancy is:",
+        "options": [
+            "Ceftriaxone (3rd generation cephalosporin)",
+            "Ciprofloxacin",
+            "Doxycycline",
+            "Gentamicin"
+        ],
+        "correct": 0,
+        "explanation": "The textbook suggests ampicillin empirically, but 3rd generation cephalosporins like Ceftriaxone are also a safe and common choice, especially for pyelonephritis."
+    },
+    {
+        "stem": "Pyelonephritis in pregnancy is characterized by:",
+        "options": [
+            "Loin pain",
+            "Fever",
+            "Bacteriuria",
+            "All of the above"
+        ],
+        "correct": 3,
+        "explanation": "Pyelonephritis is a systemic infection characterized by high fever, loin pain, and a positive urine culture (bacteriuria)."
+    },
+    {
+        "stem": "Kernicterus develops when bilirubin levels exceed:",
+        "options": [
+            "10 mg/dl",
+            "15 mg/dl",
+            "20 mg/dl",
+            "25 mg/dl"
+        ],
+        "correct": 2,
+        "explanation": "Kernicterus develops when fetal bilirubin levels exceed 20 mg%, allowing bilirubin to cross the blood-brain barrier."
+    },
+    {
+        "stem": "Complication of untreated fourth-degree perineal tear:",
+        "options": [
+            "Rectovaginal fistula",
+            "Urethral stricture",
+            "Uterine rupture",
+            "Vaginal atresia"
+        ],
+        "correct": 0,
+        "explanation": "A significant complication of untreated fourth-degree tears, which involve the rectal mucosa, is the formation of a rectovaginal fistula."
+    },
+    {
+        "stem": "In retroplacental hematoma with maternal hypotension, tachycardia, and fetal distress on CTG, which finding indicates the worst fetal outcome?",
+        "options": [
+            "CTG showing severe fetal distress",
+            "Absent fetal heart sounds",
+            "Reversed umbilical artery flow",
+            "Severe maternal DIC"
+        ],
+        "correct": 1,
+        "explanation": "Absent fetal heart sounds confirm intrauterine fetal death (IUFD), which is the worst possible fetal outcome."
+    },
+    {
+        "stem": "Management for placenta previa covering the internal os with bleeding at >37 weeks:",
+        "options": [
+            "Termination by cesarean section",
+            "Induction of labor",
+            "Conservative until 40 weeks",
+            "Vaginal delivery"
+        ],
+        "correct": 0,
+        "explanation": "Placenta previa completely covering the internal os with bleeding at term (>37 weeks) necessitates delivery by Cesarean section."
+    },
+    {
+        "stem": "Most common cause of primary postpartum hemorrhage:",
+        "options": [
+            "Uterine atony",
+            "Retained placenta",
+            "Uterine rupture",
+            "Genital tract trauma"
+        ],
+        "correct": 0,
+        "explanation": "Uterine atony is the most common cause of primary postpartum hemorrhage, responsible for over 75% of cases."
+    },
+    {
+        "stem": "Most common neonatal outcome in poorly managed maternal diabetes:",
+        "options": [
+            "Hypoglycemia",
+            "Hyperbilirubinemia",
+            "Macrosomia",
+            "Congenital anomalies"
+        ],
+        "correct": 0,
+        "explanation": "Neonatal hypoglycemia is a common outcome in infants of mothers with poorly managed diabetes due to fetal hyperinsulinemia."
+    },
+    {
+        "stem": "Most significant risk factor for fetal macrosomia:",
+        "options": [
+            "Maternal diabetes",
+            "Maternal obesity",
+            "Multiparity",
+            "Post-term pregnancy"
+        ],
+        "correct": 0,
+        "explanation": "Maternal diabetes (gestational and overt) is the most common and significant risk factor for fetal macrosomia."
+    },
+    {
+        "stem": "Chronic placental insufficiency typically causes all except:",
+        "options": [
+            "Polyhydramnios",
+            "IUGR",
+            "Oligohydramnios",
+            "Hypoxia"
+        ],
+        "correct": 0,
+        "explanation": "Chronic placental insufficiency leads to IUGR, oligohydramnios, and hypoxia. Polyhydramnios is not a typical consequence."
+    },
+    {
+        "stem": "Most common congenital anomaly in infants of diabetic mothers:",
+        "options": [
+            "VSD",
+            "PDA",
+            "Neural tube defect",
+            "Cleft palate"
+        ],
+        "correct": 0,
+        "explanation": "Ventricular Septal Defect (VSD) is among the most common congenital anomalies in infants of diabetic mothers."
+    },
+    {
+        "stem": "Most specific congenital anomaly in infants of diabetic mothers:",
+        "options": [
+            "Sacral agenesis (Caudal regression syndrome)",
+            "Cleft palate",
+            "ASD",
+            "Hydrocephalus"
+        ],
+        "correct": 0,
+        "explanation": "Sacral agenesis, also known as caudal regression syndrome, is considered the most specific congenital anomaly associated with maternal diabetes."
+    },
+    {
+        "stem": "All of the following are diagnostic criteria for preeclampsia, except:",
+        "options": [
+            "Lower limb edema",
+            "Hypertension",
+            "Proteinuria",
+            "Epigastric pain"
+        ],
+        "correct": 0,
+        "explanation": "Lower limb edema is a common finding in normal pregnancy and is no longer considered a diagnostic criterion for preeclampsia."
+    },
+    {
+        "stem": "HELLP syndrome includes all of the following except:",
+        "options": [
+            "Hemolysis",
+            "Elevated liver enzymes",
+            "Low platelets",
+            "Edema"
+        ],
+        "correct": 3,
+        "explanation": "HELLP syndrome is defined by Hemolysis, Elevated Liver enzymes, and Low Platelet count. Edema is not part of the diagnostic criteria."
+    },
+    {
+        "stem": "All of the following are signs of severe preeclampsia, except:",
+        "options": [
+            "Epistaxis",
+            "Severe hypertension",
+            "Blurred vision",
+            "Epigastric pain"
+        ],
+        "correct": 0,
+        "explanation": "Signs of severe preeclampsia include severe hypertension, blurred vision, and epigastric pain. Epistaxis is not a listed sign."
+    },
+    {
+        "stem": "Definitive treatment of preeclampsia:",
+        "options": [
+            "Termination of pregnancy",
+            "Antihypertensives only",
+            "Magnesium sulfate only",
+            "Steroids only"
+        ],
+        "correct": 0,
+        "explanation": "The only definitive cure for preeclampsia is the termination of pregnancy and delivery of the placenta."
+    },
+    {
+        "stem": "Vaginal Birth After Cesarean (VBAC) is indicated in:",
+        "options": [
+            "Previous upper segment CS",
+            "Repeated lower segment CS",
+            "Previous CS for malpresentation",
+            "Current non-vertex presentation",
+            "Current twin pregnancy"
+        ],
+        "correct": 2,
+        "explanation": "VBAC is considered when the previous CS was for a non-persistent cause, such as a malpresentation."
+    },
+    {
+        "stem": "All of the following are favorable criteria for VBAC, except:",
+        "options": [
+            "Previous classical CS",
+            "Previous LSCS for non-recurrent cause",
+            "Adequate pelvis",
+            "No contraindication to vaginal delivery"
+        ],
+        "correct": 0,
+        "explanation": "A previous classical (upper segment) CS is a significant risk factor for uterine rupture and is a contraindication for VBAC."
+    },
+    {
+        "stem": "Cephalhematoma is characterized by all except:",
+        "options": [
+            "Restricted to one cranial bone",
+            "May cause neonatal jaundice",
+            "Appears after birth (not at delivery)",
+            "Resolves in weeks",
+            "Commonly associated with intracranial hemorrhage"
+        ],
+        "correct": 4,
+        "explanation": "Cephalhematoma is rarely associated with intracranial hemorrhage; it is a separate, more severe birth injury."
+    },
+    {
+        "stem": "Common indications for cesarean section in twins:",
+        "options": [
+            "First twin non-vertex",
+            "Monoamniotic twins",
+            "Conjoined twins",
+            "Fetal distress"
+        ],
+        "correct": 0,
+        "explanation": "The provided answer was 'All of the above', but in a single-choice format, 'First twin non-vertex' is a primary indication. Monoamniotic and conjoined twins are also strong indications."
+    },
+    {
+        "stem": "Primary management of severe TTTS (Twin-Twin Transfusion Syndrome):",
+        "options": [
+            "Amnioreduction",
+            "Fetoscopic laser ablation of placental anastomoses",
+            "Selective termination",
+            "Bed rest only"
+        ],
+        "correct": 1,
+        "explanation": "The primary management for severe TTTS is fetoscopic laser ablation to disconnect the shared vessels."
+    },
+    {
+        "stem": "All of the following increase risk of puerperal sepsis, except:",
+        "options": [
+            "Aseptic measures",
+            "Prolonged labor",
+            "PROM",
+            "Frequent vaginal exams"
+        ],
+        "correct": 0,
+        "explanation": "Aseptic measures are designed to reduce, not increase, the risk of infection."
+    },
+    {
+        "stem": "Prostaglandins can be used for induction in all except:",
+        "options": [
+            "Placenta previa",
+            "Oligohydramnios",
+            "Post-term pregnancy",
+            "Preeclampsia"
+        ],
+        "correct": 0,
+        "explanation": "Placenta previa is an absolute contraindication to induction of labor and requires a C-section."
+    },
+    {
+        "stem": "First step in managing active vaginal bleeding immediately after delivery:",
+        "options": [
+            "Resuscitation (ABC, IV access, fluids, anti-shock measures)",
+            "Uterine massage",
+            "Oxytocin infusion",
+            "Surgical exploration"
+        ],
+        "correct": 0,
+        "explanation": "The immediate first step in managing active PPH is resuscitation and correction of hypovolemic shock (ABCs)."
+    },
+    {
+        "stem": "Serious complication of hyperemesis gravidarum:",
+        "options": [
+            "Hypokalemia",
+            "Hypertension",
+            "Proteinuria",
+            "Hyperglycemia"
+        ],
+        "correct": 0,
+        "explanation": "A serious complication of severe hyperemesis gravidarum is electrolyte imbalance, specifically hypokalemia (decreased potassium)."
+    },
+    {
+        "stem": "Anti-D immunoglobulin should be given within:",
+        "options": [
+            "24 hours",
+            "48 hours",
+            "72 hours",
+            "1 week"
+        ],
+        "correct": 2,
+        "explanation": "Anti-D immunoglobulin should be given to Rh-negative mothers within 72 hours of delivering an Rh-positive baby."
+    },
+    {
+        "stem": "All of the following are routine postpartum care, except:",
+        "options": [
+            "Strict prolonged bed rest",
+            "Early ambulation",
+            "Lactation support",
+            "Uterine involution monitoring"
+        ],
+        "correct": 0,
+        "explanation": "Routine postpartum care emphasizes early ambulation, not strict prolonged bed rest."
+    },
+    {
+        "stem": "What is the most important management in preterm labor (PTL)?",
+        "options": [
+            "Antibiotics",
+            "Tocolysis",
+            "Corticosteroids",
+            "Magnesium sulfate"
+        ],
+        "correct": 2,
+        "explanation": "The most important management in PTL is corticosteroid therapy to enhance fetal lung maturity."
+    },
+    {
+        "stem": "What is the absolute contraindication for induction of labor?",
+        "options": [
+            "Placenta previa",
+            "PROM",
+            "Oligohydramnios",
+            "Hypertension"
+        ],
+        "correct": 0,
+        "explanation": "Placenta previa is an absolute contraindication for induction of labor."
+    },
+    {
+        "stem": "Which of the following is a complication of PPH?",
+        "options": [
+            "Sheehan's syndrome",
+            "Hyperprolactinemia",
+            "Uterine fibroids",
+            "Dysmenorrhea"
+        ],
+        "correct": 0,
+        "explanation": "Sheehan's syndrome (acute pituitary necrosis) is a recognized complication of severe blood loss from PPH."
+    },
+    {
+        "stem": "Time for complete uterine involution postpartum?",
+        "options": [
+            "2 weeks",
+            "4 weeks",
+            "6 weeks",
+            "8 weeks"
+        ],
+        "correct": 2,
+        "explanation": "Complete uterine involution, including endometrial regeneration, typically occurs within 4-6 weeks postpartum."
+    },
+    {
+        "stem": "What indicates fetal distress in placental abruption?",
+        "options": [
+            "Non-reassuring CTG",
+            "Maternal tachycardia",
+            "Vaginal bleeding",
+            "Uterine tenderness"
+        ],
+        "correct": 0,
+        "explanation": "Fetal distress in placental abruption is indicated by non-reassuring Cardiotocography (CTG) patterns."
+    },
+    {
+        "stem": "Treatment of DVT in pregnancy?",
+        "options": [
+            "Aspirin",
+            "LMWH (Clexane)",
+            "Warfarin",
+            "Heparin only postpartum"
+        ],
+        "correct": 1,
+        "explanation": "Low molecular weight heparin (LMWH) is the preferred treatment for DVT during pregnancy as it does not cross the placenta."
+    },
+    {
+        "stem": "Most common complication of GDM?",
+        "options": [
+            "Macrosomia",
+            "Hypoglycemia",
+            "IUFD",
+            "IUGR"
+        ],
+        "correct": 0,
+        "explanation": "Fetal macrosomia is the most common complication of gestational diabetes mellitus (GDM)."
+    },
+    {
+        "stem": "Most common cause of polyhydramnios?",
+        "options": [
+            "Diabetes mellitus",
+            "Twin pregnancy",
+            "Idiopathic",
+            "Fetal anomalies"
+        ],
+        "correct": 2,
+        "explanation": "The majority of polyhydramnios cases are idiopathic (unknown etiology)."
+    },
+    {
+        "stem": "Most common cause of primary PPH?",
+        "options": [
+            "Uterine rupture",
+            "Uterine atony",
+            "Trauma",
+            "Retained placenta"
+        ],
+        "correct": 1,
+        "explanation": "Uterine atony is the most common cause of primary postpartum hemorrhage."
+    },
+    {
+        "stem": "Earliest sign of placental abruption?",
+        "options": [
+            "Vaginal bleeding",
+            "Abdominal pain",
+            "Decreased fetal movement",
+            "Maternal shock"
+        ],
+        "correct": 2,
+        "explanation": "While the textbook highlights bleeding and pain, decreased fetal movement can be an early sign of fetal compromise from abruption."
+    },
+    {
+        "stem": "Most common indication for cesarean section?",
+        "options": [
+            "Placenta previa",
+            "Malpresentation",
+            "Previous CS",
+            "Fetal distress"
+        ],
+        "correct": 2,
+        "explanation": "A previous Cesarean section is currently the most common indication for a repeat Cesarean section."
+    },
+    {
+        "stem": "What cures pre-eclampsia?",
+        "options": [
+            "Antihypertensives",
+            "Termination of pregnancy",
+            "Magnesium sulfate",
+            "Bed rest"
+        ],
+        "correct": 1,
+        "explanation": "The only definitive cure for preeclampsia is termination of pregnancy and delivery of the placenta."
+    },
+    {
+        "stem": "Features of vesicular mole include all, except:",
+        "options": [
+            "High HCG",
+            "Ovarian cysts",
+            "Pallor",
+            "Low fundal height"
+        ],
+        "correct": 3,
+        "explanation": "A characteristic feature of a vesicular mole is a fundal height that is larger than expected for gestational age."
+    },
+    {
+        "stem": "Most common complication of twins?",
+        "options": [
+            "Post-term labor",
+            "Preterm labor/abortion",
+            "Macrosomia",
+            "Polyhydramnios"
+        ],
+        "correct": 1,
+        "explanation": "Preterm labor is the most common and major complication in twin pregnancies."
+    },
+    {
+        "stem": "Which symptom is NOT seen in severe preeclampsia?",
+        "options": [
+            "Epistaxis",
+            "Headache",
+            "Visual disturbances",
+            "Epigastric pain"
+        ],
+        "correct": 0,
+        "explanation": "Epistaxis is not listed as a primary symptom of severe preeclampsia, which includes headache, visual changes, and epigastric pain."
+    },
+    {
+        "stem": "Abnormalities in hyperemesis gravidarum (HEG)?",
+        "options": [
+            "Hyponatremia, hypokalemia, hypoglycemia",
+            "Hypernatremia, hypokalemia",
+            "Hypoglycemia, hypercalcemia",
+            "Hyperkalemia, hyponatremia"
+        ],
+        "correct": 0,
+        "explanation": "Severe HEG leads to electrolyte imbalances like hyponatremia and hypokalemia due to vomiting and starvation ketosis, which can be associated with hypoglycemia."
+    },
+    {
+        "stem": "When is cesarean section NOT indicated in twins?",
+        "options": [
+            "First cephalic, second breech",
+            "Both breech",
+            "Monoamniotic twins",
+            "Conjoined twins"
+        ],
+        "correct": 0,
+        "explanation": "C-section is generally not indicated if the first twin is cephalic, as vaginal delivery can be attempted."
+    },
+    {
+        "stem": "What does a 2nd-degree perineal tear involve?",
+        "options": [
+            "Vaginal mucosa only",
+            "Vaginal mucosa + perineal muscles",
+            "Anal sphincter",
+            "Rectal mucosa"
+        ],
+        "correct": 1,
+        "explanation": "A second-degree perineal tear involves the vaginal mucosa and the muscles of the perineal body."
+    },
+    {
+        "stem": "Antidote for magnesium sulfate toxicity?",
+        "options": [
+            "Calcium gluconate",
+            "Atropine",
+            "Vitamin K",
+            "Naloxone"
+        ],
+        "correct": 0,
+        "explanation": "The antidote for magnesium sulfate toxicity is Calcium Gluconate 10% administered intravenously."
+    },
+{
+        "stem": "Nuchal translucency screening is best done at which gestational week?",
+        "options": [
+            "8-10 weeks",
+            "11-14 weeks",
+            "15-18 weeks",
+            "20 weeks"
+        ],
+        "correct": 1,
+        "explanation": "Nuchal translucency (NT) screening is performed as part of the double marker test at 11-13 weeks gestation. The 11-14 week range provided in the answer encompasses this optimal period."
+    },
+    {
+        "stem": "The first stage of labor is defined as:",
+        "options": [
+            "Full dilatation to delivery",
+            "Delivery of placenta",
+            "Onset of regular painful contractions to full cervical dilatation",
+            "Delivery of fetus"
+        ],
+        "correct": 2,
+        "explanation": "The first stage of labor starts with the onset of true labor pains and ends with full cervical effacement and full dilatation (approximately 10 cm)."
+    },
+    {
+        "stem": "Normal rate of cervical dilatation in active phase (nullipara):",
+        "options": [
+            "0.5 cm/hr",
+            "1.2 cm/hr",
+            "2 cm/hr",
+            "3 cm/hr"
+        ],
+        "correct": 1,
+        "explanation": "In a primigravida (nullipara), the normal rate of cervical dilatation during the active phase of the first stage of labor is 1.2 cm/hour."
+    },
+    {
+        "stem": "Do effacement and dilatation occur together?",
+        "options": [
+            "Yes, especially in nulliparas",
+            "No, only sequentially",
+            "Only in multiparas",
+            "Never"
+        ],
+        "correct": 0,
+        "explanation": "Note: This answer is inconsistent with the textbook, which states that in a primigravida (nullipara), effacement precedes dilatation. In multigravidas, effacement and dilatation occur simultaneously."
+    },
+    {
+        "stem": "Management of persistent occipito-posterior position is:",
+        "options": [
+            "Wait for spontaneous correction",
+            "Manual rotation",
+            "Cesarean section if arrest of labor",
+            "Instrumental delivery in all cases"
+        ],
+        "correct": 2,
+        "explanation": "For persistent occipito-posterior (OP) positions leading to obstructed labor, Cesarean section is considered safer, especially in primigravidas."
+    },
+    {
+        "stem": "Most common malpresentation in obstetrics is:",
+        "options": [
+            "Face",
+            "Brow",
+            "Breech",
+            "Shoulder"
+        ],
+        "correct": 2,
+        "explanation": "Breech presentation is the commonest malpresentation, encountered in 3% of term pregnancies."
+    },
+    {
+        "stem": "In breech presentation, the denominator is:",
+        "options": [
+            "Occiput",
+            "Sacrum",
+            "Mentum",
+            "Shoulder"
+        ],
+        "correct": 1,
+        "explanation": "The bony landmark used to denote the position in breech presentation (the denominator) is the sacrum."
+    },
+    {
+        "stem": "Types of breech are classified according to leg position. Which type has flexed hips and knees?",
+        "options": [
+            "Complete breech",
+            "Frank breech",
+            "Footling breech",
+            "Knee breech"
+        ],
+        "correct": 0,
+        "explanation": "Complete breech is characterized by both hips and knees being flexed, with the feet presenting alongside the buttocks."
+    },
+    {
+        "stem": "Most common cause of breech presentation is:",
+        "options": [
+            "Preterm labor",
+            "Uterine anomaly",
+            "Fibroid",
+            "Idiopathic"
+        ],
+        "correct": 3,
+        "explanation": "Note: This answer is inconsistent with the textbook, which explicitly states that prematurity is the 'major factor' for breech presentation, while idiopathic causes account for 'at least 1/3 of cases'."
+    },
+    {
+        "stem": "In breech presentation, cesarean section is indicated in:",
+        "options": [
+            "Extended legs (frank breech)",
+            "Flexed breech",
+            "Footling breech",
+            "Complete breech"
+        ],
+        "correct": 2,
+        "explanation": "Footling breech presentation is an indication for Cesarean section due to the probable risk of premature rupture of membranes and delivery before full cervical dilatation."
+    },
+    {
+        "stem": "Cervical cerclage is indicated in:",
+        "options": [
+            "Ectopic pregnancy",
+            "Incompetent cervix",
+            "Fibroid uterus",
+            "Post-term pregnancy"
+        ],
+        "correct": 1,
+        "explanation": "Cervical (Isthmic) Incompetence is treated by a cerclage operation."
+    },
+    {
+        "stem": "Bleeding during the 3rd stage of labor most likely indicates:",
+        "options": [
+            "Cervical incompetence",
+            "Uterine atonia",
+            "Ovulation disorder",
+            "Placenta previa"
+        ],
+        "correct": 1,
+        "explanation": "Primary postpartum hemorrhage (PPH) during the third stage of labor is most commonly caused by uterine atony, accounting for over 75% of cases."
+    },
+    {
+        "stem": "Pregnant patient with spotting, ultrasound shows viable fetus inside uterine cavity. Diagnosis is:",
+        "options": [
+            "Missed abortion",
+            "Incomplete abortion",
+            "Threatened abortion",
+            "Ectopic pregnancy"
+        ],
+        "correct": 2,
+        "explanation": "Threatened abortion is characterized by minimal vaginal bleeding, a closed cervix, and an ultrasound confirming a viable fetus."
+    },
+    {
+        "stem": "Screening for Down syndrome (Trisomy 21) shows:",
+        "options": [
+            "Low hCG and NT < 3 mm",
+            "High hCG and NT > 3 mm",
+            "Normal hCG and thickened NT",
+            "Low hCG and normal NT"
+        ],
+        "correct": 1,
+        "explanation": "Down syndrome fetuses typically show high human chorionic gonadotropin (hCG) levels and an increased nuchal translucency (NT), usually greater than 3.0 mm."
+    },
+    {
+        "stem": "Red infarcts in pregnancy are associated with:",
+        "options": [
+            "Preeclampsia / Hypertension",
+            "Diabetes",
+            "Infections",
+            "Fibroids"
+        ],
+        "correct": 0,
+        "explanation": "Red infarcts, caused by hemorrhage from maternal vessels, occur more frequently in hypertensive conditions."
+    },
+    {
+        "stem": "Decidua basalis forms which structure?",
+        "options": [
+            "Placenta",
+            "Amnion",
+            "Chorion laeve",
+            "Decidua capsularis"
+        ],
+        "correct": 0,
+        "explanation": "The placenta is formed from the chorion frondosum and the decidua basalis."
+    },
+    {
+        "stem": "Pregnant patient with cord prolapse, first step of management is:",
+        "options": [
+            "Push the cord back inside",
+            "Feel pulsation of the cord and prepare for emergency CS",
+            "Immediate vaginal delivery",
+            "Wait until full dilatation"
+        ],
+        "correct": 1,
+        "explanation": "The first step is to palpate the cord for fetal pulsations to exclude IUFD. If the fetus is living, immediate Cesarean section is typically the next step if the cervix is not fully dilated."
+    },
+    {
+        "stem": "Most common cause of rupture uterus is:",
+        "options": [
+            "Trauma",
+            "Obstructed labor",
+            "Previous CS scar",
+            "Oxytocin misuse"
+        ],
+        "correct": 2,
+        "explanation": "A uterine scar, particularly a previous Cesarean section scar, is the primary risk factor and the most common cause of uterine rupture."
+    },
+    {
+        "stem": "Perineal tear involving anal sphincter but not mucosa is:",
+        "options": [
+            "1st degree",
+            "2nd degree",
+            "3rd degree",
+            "4th degree"
+        ],
+        "correct": 2,
+        "explanation": "Third-degree tears involve the vagina, perineal muscles, and the anal sphincter, but not the anal mucosa."
+    },
+    {
+        "stem": "Antidote of MgSO4 toxicity is:",
+        "options": [
+            "Protamine",
+            "Calcium gluconate",
+            "Atropine",
+            "Vitamin K"
+        ],
+        "correct": 1,
+        "explanation": "The antidote for magnesium sulfate toxicity is Calcium Gluconate 10%, administered intravenously."
+    },
+    {
+        "stem": "PROM (Premature rupture of membranes) is diagnosed by:",
+        "options": [
+            "X-ray",
+            "Nitrazine paper test and ferning test",
+            "Ultrasound only",
+            "Biopsy"
+        ],
+        "correct": 1,
+        "explanation": "PROM is diagnosed by the Nitrazine paper test (which turns blue/purple) or the Fern test (showing arborization of amniotic fluid on a slide)."
+    },
+    {
+        "stem": "The most important management in preterm labor (PTL) is:",
+        "options": [
+            "Tocolytics",
+            "Corticosteroids",
+            "Antibiotics",
+            "Bed rest"
+        ],
+        "correct": 1,
+        "explanation": "Initiating corticosteroid therapy is the most important management in PTL to enhance fetal lung maturity and minimize neonatal respiratory distress syndrome."
+    },
+    {
+        "stem": "Absolute contraindication for induction of labor is:",
+        "options": [
+            "Post-term pregnancy",
+            "Twins",
+            "Placenta previa",
+            "Oligohydramnios"
+        ],
+        "correct": 2,
+        "explanation": "Placenta previa is an absolute contraindication for induction of labor, as it necessitates delivery by Cesarean section."
+    },
+    {
+        "stem": "Partogram is used in which stage of labor?",
+        "options": [
+            "1st stage (cervical dilatation)",
+            "2nd stage (delivery)",
+            "3rd stage (placental)",
+            "All stages"
+        ],
+        "correct": 0,
+        "explanation": "The Partogram is a graphic record used to monitor the progress of labor by assessing the rate of cervical dilatation, which occurs during the first stage."
+    },
+    {
+        "stem": "Normal placental delivery occurs in:",
+        "options": [
+            "5-10 min",
+            "10-20 min",
+            "20-30 min",
+            ">30 min retained"
+        ],
+        "correct": 1,
+        "explanation": "Note: The textbook states the average duration is 10-30 minutes. Retained placenta is defined as failure to deliver within 30 minutes. The answer '10-20 min' is a narrower range."
+    },
+    {
+        "stem": "Most common type of postpartum hemorrhage (PPH) is:",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Traumatic",
+            "Retained placenta"
+        ],
+        "correct": 0,
+        "explanation": "Primary PPH, occurring within the first 24 hours postpartum, is the most common type."
+    },
+    {
+        "stem": "Most common cause of primary PPH is:",
+        "options": [
+            "Trauma",
+            "Uterine atonia",
+            "Retained placenta",
+            "Coagulopathy"
+        ],
+        "correct": 1,
+        "explanation": "Uterine atony is the most common cause of primary PPH, accounting for over 75% of cases."
+    },
+    {
+        "stem": "Earliest sign of placental abruption is:",
+        "options": [
+            "Vaginal bleeding",
+            "Decreased fetal movement",
+            "Maternal shock",
+            "Uterine tenderness"
+        ],
+        "correct": 1,
+        "explanation": "Note: The textbook highlights vaginal bleeding and uterine tenderness as common presentations. Decreased fetal movement is a sign of fetal compromise but not explicitly stated as the 'earliest' sign."
+    },
+    {
+        "stem": "Fetal distress in placental abruption is diagnosed by:",
+        "options": [
+            "USG biometry",
+            "Maternal symptoms",
+            "Non-reassuring CTG",
+            "Biophysical profile"
+        ],
+        "correct": 2,
+        "explanation": "Non-reassuring Cardiotocography (CTG) patterns are key indicators of fetal distress in conditions like placental abruption."
+    },
+    {
+        "stem": "Pregnant woman with prolonged ROM, meconium-stained liquor, 3 cm dilatation, large baby, station -2. Next step is:",
+        "options": [
+            "Wait",
+            "Oxytocin augmentation",
+            "Immediate CS",
+            "Instrumental delivery"
+        ],
+        "correct": 2,
+        "explanation": "Given multiple high-risk factors (prolonged ROM, meconium, large baby, unengaged head), immediate Cesarean section is indicated for rapid delivery."
+    },
+    {
+        "stem": "Deep transverse arrest and persistent occipito-posterior are indications for:",
+        "options": [
+            "Forceps delivery",
+            "CS",
+            "Vacuum delivery",
+            "Symphysiotomy"
+        ],
+        "correct": 1,
+        "explanation": "Both deep transverse arrest and persistent OP positions can lead to obstructed labor, making Cesarean section the safer mode of delivery."
+    },
+    {
+        "stem": "Rupture uterus is more common in:",
+        "options": [
+            "Lower uterine segment",
+            "Upper uterine segment",
+            "Cervix",
+            "Broad ligament"
+        ],
+        "correct": 1,
+        "explanation": "Rupture is more common and dangerous in upper uterine segment scars, such as from a classical Cesarean section."
+    },
+    {
+        "stem": "Which of the following does NOT cause septic shock?",
+        "options": [
+            "IUFD",
+            "Cardiogenic shock",
+            "Puerperal sepsis",
+            "Chorioamnionitis"
+        ],
+        "correct": 1,
+        "explanation": "Cardiogenic shock results from cardiac failure and is a distinct type of shock; it does not cause septic shock, which results from infection."
+    },
+    {
+        "stem": "First sign of pregnancy is:",
+        "options": [
+            "Quickening",
+            "Amenorrhea",
+            "Breast tenderness",
+            "Nausea"
+        ],
+        "correct": 1,
+        "explanation": "A missed period (amenorrhea) is the earliest symptom of pregnancy."
+    },
+    {
+        "stem": "Physiological drop in Hb in 2nd trimester is due to:",
+        "options": [
+            "Iron deficiency",
+            "Vitamin B12 deficiency",
+            "Hemodilution (↑ plasma volume)",
+            "Hemolysis"
+        ],
+        "correct": 2,
+        "explanation": "The physiological anemia of pregnancy is primarily due to hemodilution, as plasma volume increases more than red cell mass."
+    },
+    {
+        "stem": "Quiescent hormone in pregnancy (maintains uterine relaxation) is:",
+        "options": [
+            "Estrogen",
+            "Progesterone",
+            "Prolactin",
+            "Relaxin"
+        ],
+        "correct": 1,
+        "explanation": "Progesterone inhibits uterine activity throughout pregnancy, maintaining uterine relaxation."
+    },
+    {
+        "stem": "Theories of onset of labor in humans, which is NOT proved?",
+        "options": [
+            "Progesterone withdrawal",
+            "Prostaglandin release",
+            "Oxytocin surge",
+            "Stretch receptor activation"
+        ],
+        "correct": 0,
+        "explanation": "While progesterone withdrawal is a proposed theory, the exact cause for the onset of labor in humans is unknown and not definitively proven."
+    },
+    {
+        "stem": "PPH is diagnosed when blood loss is:",
+        "options": [
+            ">300 ml vaginal, >800 ml CS",
+            ">500 ml vaginal, >1000 ml CS",
+            ">400 ml vaginal, >900 ml CS",
+            ">600 ml vaginal, >1200 ml CS"
+        ],
+        "correct": 1,
+        "explanation": "Postpartum hemorrhage (PPH) is defined as blood loss exceeding 500 ml following vaginal delivery and 1000 ml following Cesarean section."
+    },
+    {
+        "stem": "Most common cause of cesarean section is:",
+        "options": [
+            "Malpresentation",
+            "Previous CS",
+            "Obstructed labor",
+            "Fetal distress"
+        ],
+        "correct": 1,
+        "explanation": "Currently, a previous Cesarean section is the most common indication for performing a repeat Cesarean section."
+    },
+    {
+        "stem": "Definitive cure for preeclampsia is:",
+        "options": [
+            "Antihypertensives",
+            "Termination of pregnancy",
+            "Magnesium sulfate",
+            "Corticosteroids"
+        ],
+        "correct": 1,
+        "explanation": "The only definitive cure for preeclampsia is the termination of pregnancy, as symptoms resolve rapidly once the placenta is delivered."
+    },
+    {
+        "stem": "Most common complication of gestational diabetes mellitus (GDM) is:",
+        "options": [
+            "Congenital anomalies",
+            "Macrosomia",
+            "Stillbirth",
+            "Miscarriage"
+        ],
+        "correct": 1,
+        "explanation": "Fetal macrosomia is the most common complication of GDM, caused by maternal hyperglycemia leading to enhanced fetal growth."
+    },
+    {
+        "stem": "Most common cause of polyhydramnios is:",
+        "options": [
+            "GDM",
+            "Anencephaly",
+            "Duodenal atresia",
+            "Idiopathic"
+        ],
+        "correct": 3,
+        "explanation": "The majority of polyhydramnios cases are classified as idiopathic, with no known underlying cause."
+    },
+    {
+        "stem": "In chorioamnionitis with fever, tachycardia, foul vaginal discharge, best management is:",
+        "options": [
+            "Tocolysis",
+            "Antibiotics and wait",
+            "Termination of pregnancy",
+            "Steroids only"
+        ],
+        "correct": 2,
+        "explanation": "In chorioamnionitis, the best management involves starting IV broad-spectrum antibiotics and promptly terminating the pregnancy."
+    },
+    {
+        "stem": "Tocolysis with indomethacin may cause:",
+        "options": [
+            "Increased AF",
+            "Closure of ductus arteriosus",
+            "Polyhydramnios",
+            "Increased fetal movements"
+        ],
+        "correct": 1,
+        "explanation": "Indomethacin is generally not used as a tocolytic after 32 weeks because it can cause premature closure of the ductus arteriosus in the fetus."
+    },
+    {
+        "stem": "Complete involution of the uterus occurs within:",
+        "options": [
+            "2 weeks",
+            "4 weeks",
+            "6 weeks",
+            "8 weeks"
+        ],
+        "correct": 2,
+        "explanation": "Complete regeneration of the endometrium and full involution generally occurs within 4-6 weeks postpartum."
+    },
+    {
+        "stem": "Most common complication of twins is:",
+        "options": [
+            "IUGR",
+            "Preterm labor / abortion",
+            "Preeclampsia",
+            "Malpresentation"
+        ],
+        "correct": 1,
+        "explanation": "Preterm labor (PTL) is a major risk and the most common complication in multifetal pregnancies."
+    },
+    {
+        "stem": "CS in twins is indicated in all EXCEPT:",
+        "options": [
+            "First cephalic, second breech",
+            "Both breech",
+            "First transverse",
+            "Obstructed labor"
+        ],
+        "correct": 0,
+        "explanation": "Vaginal delivery is allowed if the first twin is cephalic, regardless of the second twin's presentation. Therefore, it is not an absolute indication for CS."
+    },
+    {
+        "stem": "Conjoint twins with one body and two heads occur when the fertilized ovum splits after:",
+        "options": [
+            "1-3 days",
+            "4-7 days",
+            "8-11 days",
+            "12 days"
+        ],
+        "correct": 3,
+        "explanation": "Conjoined twins result from incomplete cleavage of a single embryo that occurs after 12 days following fertilization."
+    },
+    {
+        "stem": "Patient with ectopic pregnancy, β-hCG = 400 mIU/ml, no fetal heartbeat, stable. Best management:",
+        "options": [
+            "Salpingectomy",
+            "Salpingostomy",
+            "Methotrexate injection",
+            "Hysterectomy"
+        ],
+        "correct": 2,
+        "explanation": "For an undisturbed early ectopic pregnancy in a stable patient with no heart activity and a low β-hCG level (<6000 mIU/ml), methotrexate injection is the indicated medical treatment."
+    },
+    {
+        "stem": "Most important risk factor for recurrence of ectopic pregnancy is:",
+        "options": [
+            "IUCD use",
+            "Previous ectopic pregnancy",
+            "PID",
+            "Tuboplasty"
+        ],
+        "correct": 1,
+        "explanation": "A previous ectopic gestation is the most important risk factor for recurrence, with rates up to 30%."
+    },
+    {
+        "stem": "Red degeneration of fibroid during pregnancy presents mainly with:",
+        "options": [
+            "Amenorrhea",
+            "Severe pain",
+            "Bleeding",
+            "Urinary retention"
+        ],
+        "correct": 1,
+        "explanation": "Note: The provided textbook does not contain information on the clinical presentation of 'red degeneration of fibroid' during pregnancy."
+    },
+    {
+        "stem": "Management of red degeneration of fibroid in pregnancy is:",
+        "options": [
+            "Myomectomy",
+            "Antibiotics",
+            "Conservative (analgesics + fluids)",
+            "CS"
+        ],
+        "correct": 2,
+        "explanation": "Note: The provided textbook does not contain information on the management of 'red degeneration of fibroid' in pregnancy."
+    },
+    {
+        "stem": "Features of vesicular mole include all EXCEPT:",
+        "options": [
+            "High hCG",
+            "Ovarian cysts",
+            "Pallor",
+            "Fundal height less than gestational age"
+        ],
+        "correct": 3,
+        "explanation": "A characteristic feature of molar pregnancy is a fundal level larger than the calculated gestational age. Therefore, a smaller fundal height is incorrect."
+    },
+    {
+        "stem": "In partial/incomplete mole, fetal tissue can be detected.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "In a partial (incomplete) mole, histological features can include the presence of an umbilical cord, amniotic membrane, or fetal tissues."
+    },
+    {
+        "stem": "Which fetal head diameter is responsible for opening the vagina during a normal vertex delivery?",
+        "options": [
+            "Biparietal diameter",
+            "Suboccipitobregmatic diameter",
+            "Occipitofrontal diameter",
+            "Mentovertical diameter"
+        ],
+        "correct": 1,
+        "explanation": "Note: This is inconsistent with the textbook, which states the Suboccipito-frontal (SOF) diameter extends the vulva, while the Suboccipito-bregmatic (SOB) is the engaging diameter."
+    },
+    {
+        "stem": "Which of the following is the narrowest part of the pelvis, commonly causing obstruction in labor?",
+        "options": [
+            "Ischial spines",
+            "Ischial promontory",
+            "Sacral promontory",
+            "Pubic arch"
+        ],
+        "correct": 0,
+        "explanation": "The ischial spines mark the plane of the least pelvic dimensions, the narrowest part of the pelvis and a common site for obstruction."
+    },
+    {
+        "stem": "What is the relation of fetal parts to other parts in terms of?",
+        "options": [
+            "Fetal lie",
+            "Fetal attitude",
+            "Fetal position",
+            "Fetal presentation"
+        ],
+        "correct": 2,
+        "explanation": "Note: This answer is inconsistent. The textbook defines this concept as 'FETAL ATTITUDE' (The relation of the fetal parts to each other)."
+    },
+    {
+        "stem": "What is the percentage of successful correction of deflection in occipital posterior labor?",
+        "options": [
+            "60%",
+            "70%",
+            "80%",
+            "90%"
+        ],
+        "correct": 1,
+        "explanation": "Note: This answer contradicts the textbook, which states that in around 90% of OP cases, long anterior rotation occurs successfully."
+    },
+    {
+        "stem": "Brow labor is classified as:",
+        "options": [
+            "Incomplete presentation",
+            "Complete presentation",
+            "Normal presentation",
+            "Compound presentation"
+        ],
+        "correct": 0,
+        "explanation": "Note: The textbook classifies brow presentation as a 'malpresentation' and does not explicitly use the term 'incomplete presentation' for it."
+    },
+    {
+        "stem": "Position of brow labor is usually:",
+        "options": [
+            "Occipito-anterior",
+            "Occipito-posterior",
+            "Mento-anterior",
+            "Mento-posterior"
+        ],
+        "correct": 2,
+        "explanation": "Note: The textbook does not specify positions like 'mento-anterior' for brow labor, as these are typically used for face presentations."
+    },
+    {
+        "stem": "What is recommended during the first stage of labor?",
+        "options": [
+            "Fasting only",
+            "Light diet",
+            "Complete bed rest",
+            "Immediate C-section"
+        ],
+        "correct": 1,
+        "explanation": "During the first stage of labor, a light diet with oral fluids and juices is recommended to prevent hypoglycemia."
+    },
+    {
+        "stem": "Frank labor is:",
+        "options": [
+            "Incomplete",
+            "Complete",
+            "Complicated",
+            "Precipitate"
+        ],
+        "correct": 1,
+        "explanation": "Note: The term 'Frank labor' is not defined in the textbook. However, 'Frank breech' is described as a type of incomplete breech."
+    },
+    {
+        "stem": "Which of the following is a feature of inevitable abortion?",
+        "options": [
+            "Open cervix with bleeding",
+            "Closed cervix without bleeding",
+            "Closed cervix with bleeding",
+            "Cervix long and thick"
+        ],
+        "correct": 0,
+        "explanation": "Inevitable abortion is characterized by moderate to severe vaginal bleeding and a cervix that is usually dilated (open)."
+    },
+    {
+        "stem": "Which of the following is true about cervical incompetence, except?",
+        "options": [
+            "Cerclage procedure is standard treatment",
+            "Cervix is short (<2.5 cm)",
+            "Common cause of first-trimester abortion",
+            "Always associated with uterine anomalies"
+        ],
+        "correct": 3,
+        "explanation": "The statement 'Always associated with uterine anomalies' is false. Cervical incompetence is very rarely associated with congenital uterine anomalies."
+    },
+    {
+        "stem": "An incomplete mole results from:",
+        "options": [
+            "1 sperm",
+            "2 sperms",
+            "0 sperms",
+            "3 sperms"
+        ],
+        "correct": 1,
+        "explanation": "An incomplete (partial) mole originates from the fertilization of a normal ovum by two sperms."
+    },
+    {
+        "stem": "Methotrexate is indicated in all of the following except:",
+        "options": [
+            "No heart activity",
+            "Mass <3 cm",
+            "β-hCG more than 6000",
+            "Stable patient"
+        ],
+        "correct": 2,
+        "explanation": "A β-hCG level more than 6000 mIU/ml is a contraindication for methotrexate treatment in ectopic pregnancy, not an indication."
+    },
+    {
+        "stem": "A patient with hypotension, tachycardia, vaginal bleeding, and blood in peritoneum has which diagnosis and management?",
+        "options": [
+            "Ectopic pregnancy, exploration",
+            "Molar pregnancy, surgery",
+            "Ovarian pregnancy, methotrexate",
+            "Threatened abortion, observation"
+        ],
+        "correct": 0,
+        "explanation": "These symptoms are characteristic of a disturbed ectopic pregnancy, which is an emergency requiring urgent surgical exploration."
+    },
+    {
+        "stem": "Which type of ovarian cyst is associated with a complete mole?",
+        "options": [
+            "Theca-lutein cyst",
+            "Corpus luteum cyst",
+            "Follicular cyst",
+            "Dermoid cyst"
+        ],
+        "correct": 0,
+        "explanation": "Functional ovarian theca-lutein cysts commonly occur with complete moles due to ovarian hyperstimulation from high hCG levels."
+    },
+    {
+        "stem": "Warning symptoms in pregnancy include all of the following except:",
+        "options": [
+            "Gush of fluid per vagina",
+            "Vaginal bleeding",
+            "Abdominal pain",
+            "Tachypnea"
+        ],
+        "correct": 3,
+        "explanation": "Warning symptoms include vaginal bleeding, a sudden gush of fluid, and abdominal pain. Tachypnea is not listed as a primary warning symptom."
+    },
+    {
+        "stem": "Which of the following tests is routinely performed in a primigravida woman?",
+        "options": [
+            "Rh typing",
+            "CBC",
+            "Gestational age assessment",
+            "All of the above"
+        ],
+        "correct": 3,
+        "explanation": "Routine procedures during the first antenatal visit include calculating gestational age, Rh typing, and a complete blood count (CBC)."
+    },
+    {
+        "stem": "All of the following indicate a high-risk pregnancy except:",
+        "options": [
+            "27-year-old female",
+            "Previous ectopic pregnancy",
+            "Family history of anomalies",
+            "Hypertension in pregnancy"
+        ],
+        "correct": 0,
+        "explanation": "High-risk factors include advanced maternal age (>35), previous ectopic pregnancy, family history of anomalies, and hypertension. A 27-year-old female is not high-risk based on age alone."
+    },
+    {
+        "stem": "All of the following are functions of the placenta except:",
+        "options": [
+            "Transport nutrients and toxins",
+            "Immune tolerance",
+            "Hormone secretion",
+            "Gas exchange"
+        ],
+        "correct": 0,
+        "explanation": "The placenta's functions include nutrient transfer, endocrine secretion, immune tolerance, and gas exchange. Actively transporting toxins is not a primary function."
+    },
+    {
+        "stem": "Case G3P3L2 indicates:",
+        "options": [
+            "3 pregnancies, 3 deliveries, 2 living children",
+            "3 pregnancies, 2 deliveries, 3 living children",
+            "3 pregnancies, 3 abortions, 2 living",
+            "3 pregnancies, 3 cesareans, 2 abortions"
+        ],
+        "correct": 0,
+        "explanation": "Note: The G-P-L (Gravida, Parity, Living children) system is not explicitly defined in the provided textbook."
+    },
+    {
+        "stem": "Which of the following is true about the pathological retraction ring?",
+        "options": [
+            "Always between upper and lower uterine segments",
+            "Palpable lower near cervix",
+            "Never palpable",
+            "Associated only with twins"
+        ],
+        "correct": 0,
+        "explanation": "The pathological retraction ring (Bandl's ring) is a groove that forms as a demarcation between the active upper uterine segment and the passive lower uterine segment."
+    },
+{
+        "stem": "What is the definition of abortion?",
+        "options": [
+            "Pregnancy loss after fetal viability",
+            "Pregnancy loss before fetal viability",
+            "Termination of pregnancy after 20 weeks",
+            "Delivery of a non-viable fetus after 24 weeks"
+        ],
+        "correct": 1,
+        "explanation": "Abortion is defined as the termination of pregnancy before the fetus reaches viability, which in Egypt is considered before 24 weeks of gestation."
+    },
+    {
+        "stem": "What percentage of clinically recognizable pregnancies result in spontaneous abortion?",
+        "options": [
+            "5-10%",
+            "15-20%",
+            "25-30%",
+            "30-40%"
+        ],
+        "correct": 1,
+        "explanation": "Spontaneous abortion occurs in 15-20% of clinically recognizable pregnancies, with most cases happening in the early first trimester."
+    },
+    {
+        "stem": "Which of the following is NOT a maternal risk factor for spontaneous abortion?",
+        "options": [
+            "Maternal age > 40",
+            "Uncontrolled diabetes mellitus",
+            "Heavy smoking and alcohol intake",
+            "Regular exercise"
+        ],
+        "correct": 3,
+        "explanation": "Maternal risk factors include age over 40, uncontrolled diabetes, and heavy smoking/alcohol intake. Regular exercise is not a risk factor."
+    },
+    {
+        "stem": "In a threatened abortion, what is the recommended management?",
+        "options": [
+            "Immediate surgical evacuation",
+            "Reassurance, rest, and progesterone support",
+            "High-dose antibiotics",
+            "Induction of labor with misoprostol"
+        ],
+        "correct": 1,
+        "explanation": "Recommended management for threatened abortion includes physical/mental rest and hormonal support, such as natural progesterone."
+    },
+    {
+        "stem": "What is the first-line medical treatment for a missed abortion in the second trimester?",
+        "options": [
+            "Oxytocin infusion",
+            "Methotrexate",
+            "Misoprostol",
+            "Ergometrine"
+        ],
+        "correct": 2,
+        "explanation": "For missed abortion in the second trimester (>12 weeks), medical induction using prostaglandins like misoprostol is a primary method."
+    },
+    {
+        "stem": "Which of the following is a complication of surgical evacuation in incomplete abortion?",
+        "options": [
+            "Uterine perforation",
+            "Hyperemesis gravidarum",
+            "Gestational hypertension",
+            "Polyhydramnios"
+        ],
+        "correct": 0,
+        "explanation": "Surgical evacuation procedures, such as curettage, carry a risk of uterine perforation."
+    },
+    {
+        "stem": "Septic abortion is characterized by:",
+        "options": [
+            "Abortion + hemorrhage",
+            "Abortion + infection",
+            "Abortion + retained products of conception",
+            "Abortion + cervical incompetence"
+        ],
+        "correct": 1,
+        "explanation": "Septic abortion is characterized by an infection superimposed on any type of abortion, most commonly an incomplete abortion."
+    },
+    {
+        "stem": "What is the diagnostic criterion for recurrent pregnancy loss (RPL)?",
+        "options": [
+            "≥ 1 successive spontaneous abortions",
+            "≥ 2 successive spontaneous abortions",
+            "≥ 3 successive spontaneous abortions",
+            "≥ 4 successive spontaneous abortions"
+        ],
+        "correct": 2,
+        "explanation": "Recurrent pregnancy loss (RPL), or habitual abortion, is defined as three or more successive spontaneous abortions."
+    },
+    {
+        "stem": "Which of the following is a treatment option for cervical insufficiency?",
+        "options": [
+            "Progesterone supplementation",
+            "Cerclage procedure",
+            "Immediate induction of labor",
+            "High-dose aspirin"
+        ],
+        "correct": 1,
+        "explanation": "The primary treatment for cervical insufficiency is a cerclage operation, which involves placing a circumferential suture in the cervix."
+    },
+    {
+        "stem": "In septic abortion, what is the preferred management if the uterus is >12 weeks?",
+        "options": [
+            "Immediate hysterectomy",
+            "Medical induction of abortion",
+            "Gentle surgical evacuation",
+            "No intervention needed"
+        ],
+        "correct": 1,
+        "explanation": "If the uterus is >12 weeks in a septic abortion, medical induction is preferred. If it fails or severe bleeding occurs, hysterotomy or hysterectomy may be necessary."
+    },
+    {
+        "stem": "Which of the following is a common presenting symptom of spontaneous abortion?",
+        "options": [
+            "Severe headache",
+            "Vaginal bleeding and lower abdominal pain",
+            "Back pain without bleeding",
+            "Hypertension"
+        ],
+        "correct": 1,
+        "explanation": "Common presenting symptoms of spontaneous abortion include vaginal bleeding and lower abdominal (colicky) pain."
+    },
+    {
+        "stem": "What is the most common cause of first-trimester spontaneous abortions?",
+        "options": [
+            "Maternal diabetes",
+            "Chromosomal abnormalities",
+            "Uterine fibroids",
+            "Cervical incompetence"
+        ],
+        "correct": 1,
+        "explanation": "Genetic or chromosomal abnormalities are the most common cause of spontaneous abortions, accounting for over 50% of cases."
+    },
+    {
+        "stem": "In incomplete abortion, what is the preferred management if bleeding is mild and retained products are minimal?",
+        "options": [
+            "Immediate surgical evacuation",
+            "Medical evacuation with Misoprostol",
+            "Expectant management only",
+            "High-dose antibiotics"
+        ],
+        "correct": 1,
+        "explanation": "Note: The textbook primarily recommends surgical evacuation for incomplete abortion and does not explicitly state medical evacuation as the preferred management for this specific scenario."
+    },
+    {
+        "stem": "Which of the following is NOT a complication of septic abortion?",
+        "options": [
+            "Endometritis",
+            "Septic shock",
+            "Hemorrhagic shock",
+            "Polycystic ovary syndrome (PCOS)"
+        ],
+        "correct": 3,
+        "explanation": "Complications of septic abortion include septic shock, renal/liver failure, and DIC. PCOS is a chronic endocrine disorder and not a direct complication."
+    },
+    {
+        "stem": "What is the first-line investigation for monitoring early pregnancy loss?",
+        "options": [
+            "MRI",
+            "Serial quantitative β-hCG",
+            "CT scan",
+            "Amniocentesis"
+        ],
+        "correct": 1,
+        "explanation": "Serial quantitative beta-hCG estimation is a crucial investigation for monitoring early pregnancy loss, as inadequate doubling or decreasing levels indicate an abnormal pregnancy."
+    },
+    {
+        "stem": "Which risk factor is associated with recurrent pregnancy loss (RPL)?",
+        "options": [
+            "Mild exercise",
+            "Antiphospholipid syndrome (APS)",
+            "Normal BMI",
+            "Occasional alcohol intake"
+        ],
+        "correct": 1,
+        "explanation": "Antiphospholipid syndrome (APS) is a common immunologic disorder associated with RPL, as its antibodies can lead to thrombosis of placental vessels."
+    },
+    {
+        "stem": "In inevitable abortion with severe bleeding at 14 weeks, what is the most appropriate management?",
+        "options": [
+            "Surgical evacuation",
+            "Medical evacuation with prostaglandins",
+            "Abdominal hysterotomy",
+            "Conservative management"
+        ],
+        "correct": 2,
+        "explanation": "For inevitable abortion with severe bleeding at >12 weeks (e.g., 14 weeks), abdominal hysterotomy is the appropriate management."
+    },
+    {
+        "stem": "What is the most common organism causing septic abortion?",
+        "options": [
+            "Streptococcus pneumoniae",
+            "Escherichia coli",
+            "Mycobacterium tuberculosis",
+            "Herpes simplex virus"
+        ],
+        "correct": 1,
+        "explanation": "Escherichia coli (E. coli) is the most common organism causing septic abortion, originating from the endogenous bacterial flora of the genital tract."
+    },
+    {
+        "stem": "Which of the following is a diagnostic feature of missed abortion on ultrasound?",
+        "options": [
+            "Fetal cardiac activity present",
+            "Empty gestational sac",
+            "Absent fetal heartbeat in a previously viable fetus",
+            "Thickened endometrium only"
+        ],
+        "correct": 2,
+        "explanation": "Ultrasound is diagnostic for missed abortion, revealing intrauterine fetal demise, which includes the absence of fetal heartbeat in a previously viable fetus."
+    },
+    {
+        "stem": "What is the recommended treatment for cervical insufficiency in the second trimester?",
+        "options": [
+            "Progesterone suppositories",
+            "McDonald cerclage",
+            "Immediate delivery",
+            "Antibiotic prophylaxis"
+        ],
+        "correct": 1,
+        "explanation": "The recommended treatment for cervical insufficiency in the second trimester is a cerclage operation, with the McDonald cerclage being a common type."
+    },
+    {
+        "stem": "A 32-year-old G3P0020 with 2 prior first-trimester losses presents at 8 weeks with spotting. US shows a viable IUP. Which intervention is MOST evidence-based?",
+        "options": [
+            "Empiric progesterone supplementation",
+            "Cervical cerclage",
+            "Low-dose aspirin + LMWH",
+            "Bed rest alone"
+        ],
+        "correct": 0,
+        "explanation": "In a patient with recurrent losses and spotting with a viable pregnancy, progesterone supplementation is beneficial, particularly in cases of luteal phase defect."
+    },
+    {
+        "stem": "A septic abortion patient develops hypotension, petechiae, and oliguria. Which pathological process is MOST likely?",
+        "options": [
+            "Acute adrenal insufficiency",
+            "Disseminated intravascular coagulation (DIC)",
+            "Thrombotic thrombocytopenic purpura (TTP)",
+            "Hemolytic uremic syndrome (HUS)"
+        ],
+        "correct": 1,
+        "explanation": "Hypotension, petechiae, and oliguria in a septic patient suggest Disseminated Intravascular Coagulation (DIC), a serious complication of septic abortion."
+    },
+    {
+        "stem": "Which finding MOST reliably distinguishes incomplete vs. missed abortion without ultrasound?",
+        "options": [
+            "β-hCG >1000 IU/mL",
+            "Open cervical os",
+            "Uterine size < dates",
+            "Absent fetal heart tones"
+        ],
+        "correct": 1,
+        "explanation": "An open cervical os is a reliable clinical finding that distinguishes incomplete abortion (os is open) from missed abortion (os is usually closed)."
+    },
+    {
+        "stem": "A 10-week miscarriage patient develops fever, uterine tenderness, and foul discharge after unsafe abortion. Which antibiotic covers Clostridium perfringens?",
+        "options": [
+            "Ceftriaxone",
+            "Clindamycin + Gentamicin",
+            "Azithromycin",
+            "Metronidazole"
+        ],
+        "correct": 1,
+        "explanation": "In septic abortion, a broad-spectrum antibiotic combination is used. Clindamycin or metronidazole are specifically indicated for anaerobic organisms like Clostridium perfringens."
+    },
+    {
+        "stem": "Which thrombophilia is MOST strongly linked to SECOND-trimester recurrent losses?",
+        "options": [
+            "Factor V Leiden",
+            "Antiphospholipid syndrome",
+            "Protein S deficiency",
+            "Prothrombin gene mutation"
+        ],
+        "correct": 1,
+        "explanation": "Antiphospholipid syndrome (APS) and other thrombophilias are strongly associated with recurrent pregnancy loss, particularly in the late first and second trimesters, due to placental thrombosis."
+    },
+    {
+        "stem": "A post-abortion US shows an echogenic endometrial stripe but no retained products. β-hCG is 450 IU/mL. Next step?",
+        "options": [
+            "Repeat US in 2 weeks",
+            "Surgical evacuation",
+            "Methotrexate",
+            "Expectant management"
+        ],
+        "correct": 3,
+        "explanation": "Note: While the textbook doesn't cover this specific scenario, a low β-hCG with no definitive retained products on ultrasound logically leads to observation (expectant management) for a resolving process."
+    },
+    {
+        "stem": "Which finding warrants emergent dilation & curettage in first-trimester abortion?",
+        "options": [
+            "Hemoglobin 9.8 g/dL",
+            "Uterine size 12 weeks",
+            "β-hCG drop <50% in 48h",
+            "BP 80/50 mmHg unresponsive to fluids"
+        ],
+        "correct": 3,
+        "explanation": "Severe hypotension (BP 80/50 mmHg) unresponsive to fluids indicates hemorrhagic shock, requiring emergent surgical evacuation (D&C) to control the bleeding source."
+    },
+    {
+        "stem": "A recurrent loss workup reveals a septate uterus. Which intervention improves live birth rate?",
+        "options": [
+            "Progesterone pessaries",
+            "Hysteroscopic metroplasty",
+            "Transabdominal cerclage",
+            "IVF with PGT-A"
+        ],
+        "correct": 1,
+        "explanation": "For RPL due to a septate uterus, hysteroscopic excision of the septum (metroplasty) is performed between pregnancies to improve live birth rates."
+    },
+    {
+        "stem": "Which medication is CONTRAINDICATED in medical abortion at 14 weeks?",
+        "options": [
+            "Misoprostol",
+            "Mifepristone",
+            "Oxytocin",
+            "Ergometrine"
+        ],
+        "correct": 3,
+        "explanation": "Note: While not explicitly contraindicated in the textbook for this use, ergometrine is a strong uterotonic, and its use in a second-trimester uterus carries a theoretical risk of complications like rupture."
+    },
+    {
+        "stem": "A post-miscarriage Rh-negative patient declines anti-D immunoglobulin. What is her risk in future pregnancies?",
+        "options": [
+            "Placenta accreta",
+            "Fetal neural tube defects",
+            "Hemolytic disease of the newborn",
+            "Gestational trophoblastic disease"
+        ],
+        "correct": 2,
+        "explanation": "An Rh-negative patient who is not given Anti-D immunoglobulin after a miscarriage risks developing antibodies if the fetus was Rh-positive, leading to hemolytic disease of the newborn in future Rh-positive pregnancies."
+    },
+    {
+        "stem": "Which ultrasound finding predicts failed medical abortion?",
+        "options": [
+            "Gestational sac >25 mm",
+            "Yolk sac present",
+            "Mean sac diameter <8 mm",
+            "Retained products <15 mm"
+        ],
+        "correct": 0,
+        "explanation": "Note: The provided textbook does not specify ultrasound findings, like gestational sac size, that predict failed medical abortion."
+    },
+    {
+        "stem": "A patient with 3 consecutive losses has a balanced translocation. What is her approximate recurrence risk?",
+        "options": [
+            "5-10%",
+            "15-30%",
+            "50%",
+            "75%"
+        ],
+        "correct": 1,
+        "explanation": "Note: The textbook identifies parental balanced translocations as a cause of RPL but does not provide a specific recurrence risk percentage."
+    },
+    {
+        "stem": "Which test is LEAST useful in recurrent pregnancy loss workup?",
+        "options": [
+            "Karyotyping of products of conception",
+            "Thyroid-stimulating hormone (TSH)",
+            "HbA1c",
+            "Endometrial biopsy"
+        ],
+        "correct": 3,
+        "explanation": "The workup for RPL includes various tests like karyotyping and screening for thrombophilias. Endometrial biopsy is not listed as a routinely useful test in this context."
+    },
+    {
+        "stem": "A patient with prior cervical conization presents at 18 weeks with cervical dilation. Which cerclage is BEST?",
+        "options": [
+            "McDonald",
+            "Shirodkar",
+            "Transabdominal",
+            "Emergency"
+        ],
+        "correct": 2,
+        "explanation": "For cervical insufficiency after conization, an abdominal cerclage may be recommended, especially if the vaginal approach is difficult due to distorted anatomy."
+    },
+    {
+        "stem": "Which complication is MOST specific to misoprostol use in second-trimester abortion?",
+        "options": [
+            "Uterine rupture",
+            "Placenta accreta",
+            "Amniotic fluid embolism",
+            "Ovarian hyperstimulation"
+        ],
+        "correct": 0,
+        "explanation": "Uterine rupture is a significant complication associated with prostaglandin use (like misoprostol) for medical abortion, especially in advanced gestation or scarred uteri."
+    },
+    {
+        "stem": "What is the most common site of ectopic pregnancy?",
+        "options": [
+            "Cervix",
+            "Ovary",
+            "Tubal (Fallopian tube)",
+            "Abdominal cavity"
+        ],
+        "correct": 2,
+        "explanation": "The fallopian tube is the most common site for ectopic pregnancy, with the ampullary portion being the most frequent location."
+    },
+    {
+        "stem": "Which of the following is NOT a risk factor for ectopic pregnancy?",
+        "options": [
+            "Previous ectopic pregnancy",
+            "Multiparity (>5 deliveries)",
+            "Pelvic inflammatory disease (PID)",
+            "Progesterone-only contraceptives"
+        ],
+        "correct": 1,
+        "explanation": "Risk factors for ectopic pregnancy include previous ectopic gestation, PID, endometriosis, and prior tubal surgery. Multiparity is not a risk factor."
+    },
+    {
+        "stem": "What is the recurrence rate of ectopic pregnancy in a woman with a previous history?",
+        "options": [
+            "5%",
+            "10%",
+            "30%",
+            "50%"
+        ],
+        "correct": 2,
+        "explanation": "A woman with a previous history of ectopic gestation has a recurrence rate that may reach up to 30%."
+    },
+    {
+        "stem": "Which of the following is a classic triad of symptoms in ectopic pregnancy?",
+        "options": [
+            "Fever, nausea, vomiting",
+            "Delayed menstruation, abdominal pain, vaginal bleeding",
+            "Hypertension, proteinuria, edema",
+            "Dysuria, frequency, urgency"
+        ],
+        "correct": 1,
+        "explanation": "The classic triad of symptoms includes a short period of amenorrhea, abdominal pain, and slight vaginal bleeding."
+    },
+    {
+        "stem": "What is the most likely ultrasound finding in a tubal ectopic pregnancy?",
+        "options": [
+            "Empty uterus with adnexal mass",
+            "Intrauterine gestational sac with fetal pole",
+            "Thickened endometrium only",
+            "Multiple ovarian cysts"
+        ],
+        "correct": 0,
+        "explanation": "The most likely ultrasound finding is an empty uterus accompanied by an adnexal mass and possibly pelvic fluid."
+    },
+    {
+        "stem": "Which of the following is a contraindication for methotrexate therapy in ectopic pregnancy?",
+        "options": [
+            "Hemodynamically stable patient",
+            "Fetal cardiac activity detected",
+            "Serum β-hCG < 2000 mIU/mL",
+            "Mild abdominal pain"
+        ],
+        "correct": 1,
+        "explanation": "Methotrexate is indicated only in cases with no fetal cardiac activity; therefore, its detection is a contraindication."
+    },
+    {
+        "stem": "What is the first-line diagnostic tool for a suspected ectopic pregnancy in a hemodynamically unstable patient?",
+        "options": [
+            "Serial β-hCG monitoring",
+            "Diagnostic laparoscopy",
+            "MRI pelvis",
+            "CT scan"
+        ],
+        "correct": 1,
+        "explanation": "In an unstable patient, urgent surgical interference (diagnostic laparoscopy or laparotomy) is mandatory for immediate confirmation and management."
+    },
+    {
+        "stem": "Which surgical option preserves the fallopian tube in ectopic pregnancy?",
+        "options": [
+            "Salpingectomy",
+            "Salpingostomy",
+            "Hysterectomy",
+            "Oophorectomy"
+        ],
+        "correct": 1,
+        "explanation": "Salpingostomy is a conservative surgical option that involves a linear incision to remove the ectopic gestation, preserving the fallopian tube."
+    },
+    {
+        "stem": "What is the most serious complication of a ruptured ectopic pregnancy?",
+        "options": [
+            "Infertility",
+            "Hemorrhagic shock",
+            "Chronic pelvic pain",
+            "Ovarian torsion"
+        ],
+        "correct": 1,
+        "explanation": "The most serious complication is severe intraperitoneal hemorrhage, leading to hemorrhagic shock."
+    },
+    {
+        "stem": "A woman with a previous cesarean section presents with vaginal bleeding and a gestational sac embedded in the scar. What is the diagnosis?",
+        "options": [
+            "Cervical ectopic",
+            "Cesarean scar pregnancy (CSP)",
+            "Ovarian ectopic",
+            "Interstitial pregnancy"
+        ],
+        "correct": 1,
+        "explanation": "The presence of a gestational sac embedded within a previous C-section scar is diagnostic of a Cesarean Scar Pregnancy (CSP)."
+    },
+    {
+        "stem": "What is the recommended follow-up after methotrexate treatment for ectopic pregnancy?",
+        "options": [
+            "Immediate attempt to conceive",
+            "Serial β-hCG monitoring until negative",
+            "No follow-up needed",
+            "Laparoscopy confirmation"
+        ],
+        "correct": 1,
+        "explanation": "Following methotrexate treatment, serial serum beta-hCG monitoring is essential until levels become negative to ensure treatment success."
+    },
+    {
+        "stem": "Which type of ectopic pregnancy carries the highest risk of massive hemorrhage?",
+        "options": [
+            "Tubal",
+            "Interstitial (cornual)",
+            "Ovarian",
+            "Cervical"
+        ],
+        "correct": 1,
+        "explanation": "Note: The textbook highlights marked internal hemorrhage for pregnancy in a rudimentary horn (anatomically similar to interstitial/cornual), implying a high risk, but does not explicitly state it as the highest risk across all types."
+    },
+    {
+        "stem": "What is the most common cause of maternal death in the first trimester?",
+        "options": [
+            "Hyperemesis gravidarum",
+            "Ruptured ectopic pregnancy",
+            "Spontaneous abortion",
+            "Gestational trophoblastic disease"
+        ],
+        "correct": 1,
+        "explanation": "Ruptured ectopic pregnancy is a major cause of severe hemorrhage and a common cause of maternal death in the first trimester."
+    },
+    {
+        "stem": "A woman with a positive pregnancy test, β-hCG of 1500 mIU/mL, and no intrauterine gestational sac on transvaginal ultrasound is most likely experiencing:",
+        "options": [
+            "Normal intrauterine pregnancy",
+            "Ectopic pregnancy",
+            "Complete miscarriage",
+            "Molar pregnancy"
+        ],
+        "correct": 1,
+        "explanation": "An empty uterus on transvaginal ultrasound with a beta-hCG level of 1500 mIU/mL (the discriminatory zone) confirms an ectopic pregnancy."
+    },
+    {
+        "stem": "Which of the following β-hCG trends is most suggestive of an ectopic pregnancy?",
+        "options": [
+            "Rising but suboptimal (<50% in 48 hours)",
+            "Doubling every 48 hours",
+            "Declining by >50% in 48 hours",
+            "Undetectable levels"
+        ],
+        "correct": 0,
+        "explanation": "An improper doubling of serum beta-hCG (less than a 60% increase in 48 hours) is highly suggestive of an unhealthy pregnancy, like an ectopic."
+    },
+    {
+        "stem": "A hemodynamically unstable patient with suspected ruptured ectopic pregnancy requires:",
+        "options": [
+            "Methotrexate therapy",
+            "Emergency laparotomy",
+            "Expectant management",
+            "Repeat β-hCG in 48 hours"
+        ],
+        "correct": 1,
+        "explanation": "An unstable patient with suspected rupture requires emergency surgical interference, typically a laparotomy, to control hemorrhage."
+    },
+    {
+        "stem": "Which contraceptive method increases the risk of ectopic pregnancy?",
+        "options": [
+            "Combined oral contraceptive pills (COCPs)",
+            "Copper IUD",
+            "Barrier methods",
+            "Progestin-only pills (POPs)"
+        ],
+        "correct": 1,
+        "explanation": "If a pregnancy occurs while a Copper IUD is in place, it has a higher likelihood of being an ectopic pregnancy."
+    },
+    {
+        "stem": "What is the 'discriminatory zone' for transvaginal ultrasound?",
+        "options": [
+            "500 mIU/mL",
+            "1500–2000 mIU/mL",
+            "5000 mIU/mL",
+            "10,000 mIU/mL"
+        ],
+        "correct": 1,
+        "explanation": "The discriminatory zone for TVS is a beta-hCG level of 1500 IU/mL, above which an intrauterine sac should be visible. An empty uterus at this level confirms an ectopic pregnancy."
+    },
+    {
+        "stem": "Which of the following is a late complication of untreated ectopic pregnancy?",
+        "options": [
+            "Ovarian hyperstimulation syndrome (OHSS)",
+            "Chronic pelvic pain and adhesions",
+            "Gestational hypertension",
+            "Macrosomia"
+        ],
+        "correct": 1,
+        "explanation": "Untreated ectopic pregnancy leading to pelvic hematocele can result in chronic pelvic pain and adhesions."
+    },
+    {
+        "stem": "A woman with a history of PID presents with lower abdominal pain and vaginal bleeding. On examination, she has cervical motion tenderness. The most likely diagnosis is:",
+        "options": [
+            "Uterine fibroids",
+            "Ectopic pregnancy",
+            "UTI",
+            "Appendicitis"
+        ],
+        "correct": 1,
+        "explanation": "A history of PID, lower abdominal pain, bleeding, and cervical motion tenderness are highly suggestive of an ectopic pregnancy."
+    },
+    {
+        "stem": "Which of the following is a relative contraindication for methotrexate in ectopic pregnancy?",
+        "options": [
+            "Hemodynamically stable patient",
+            "Fetal cardiac activity",
+            "β-hCG > 6000 mIU/mL",
+            "All of the above"
+        ],
+        "correct": 3,
+        "explanation": "Note: This is inconsistent. The textbook states that a stable patient is an INDICATION, while fetal cardiac activity and β-hCG > 6000 are CONTRAINDICATIONS. Therefore, 'All of the above' is incorrect."
+    },
+    {
+        "stem": "A patient with an ectopic pregnancy is treated with methotrexate. What is the most important monitoring parameter?",
+        "options": [
+            "Serial β-hCG levels",
+            "Liver enzymes",
+            "White blood cell count",
+            "Serum creatinine"
+        ],
+        "correct": 0,
+        "explanation": "After methotrexate treatment, serial beta-hCG monitoring is the most important parameter to track treatment success."
+    },
+    {
+        "stem": "Which type of ectopic pregnancy has the highest risk of rupture due to its vascularity?",
+        "options": [
+            "Isthmic tubal",
+            "Interstitial (cornual)",
+            "Fimbrial",
+            "Ovarian"
+        ],
+        "correct": 1,
+        "explanation": "Note: The textbook notes that pregnancy in a rudimentary horn (anatomically similar to interstitial/cornual) is associated with marked internal hemorrhage, implying a high risk."
+    },
+    {
+        "stem": "A woman with a previous cesarean section presents with painless vaginal bleeding and a gestational sac in the lower uterine segment. The most likely diagnosis is:",
+        "options": [
+            "Placenta previa",
+            "Cesarean scar pregnancy (CSP)",
+            "Cervical ectopic",
+            "Abruptio placentae"
+        ],
+        "correct": 1,
+        "explanation": "A gestational sac embedded in a previous C-section scar with painless bleeding is characteristic of a Cesarean Scar Pregnancy (CSP)."
+    },
+    {
+        "stem": "Which of the following is NOT a treatment option for cesarean scar pregnancy?",
+        "options": [
+            "Methotrexate",
+            "Uterine artery embolization",
+            "Vaginal delivery",
+            "Hysteroscopic resection"
+        ],
+        "correct": 2,
+        "explanation": "Treatment for CSP includes methotrexate, feticide, and hysterotomy. Vaginal delivery is contraindicated due to the high risk of uterine rupture."
+    },
+    {
+        "stem": "A patient with an ectopic pregnancy undergoes salpingectomy. What is the most important histopathological finding to confirm the diagnosis?",
+        "options": [
+            "Trophoblastic tissue in the fallopian tube",
+            "Endometrial hyperplasia",
+            "Ovarian cysts",
+            "Decidual reaction"
+        ],
+        "correct": 0,
+        "explanation": "The definitive histopathological finding is the presence of trophoblastic tissue within the fallopian tube."
+    },
+    {
+        "stem": "What is the most common site for tubal ectopic pregnancy?",
+        "options": [
+            "Ampulla (70%)",
+            "Isthmus",
+            "Fimbria",
+            "Interstitial"
+        ],
+        "correct": 0,
+        "explanation": "The most common site for tubal ectopic pregnancy is the ampullary portion, accounting for about 70% of cases."
+    },
+    {
+        "stem": "A woman presents with shoulder tip pain and hypotension. The most likely diagnosis is:",
+        "options": [
+            "Ovarian torsion",
+            "Ruptured ectopic pregnancy with hemoperitoneum",
+            "Appendicitis",
+            "Uterine rupture"
+        ],
+        "correct": 1,
+        "explanation": "Shoulder tip pain with hypotension is a classic sign of massive hemoperitoneum from a ruptured ectopic pregnancy, caused by phrenic nerve irritation."
+    },
+    {
+        "stem": "Which of the following is the best initial step in managing a stable patient with suspected ectopic pregnancy?",
+        "options": [
+            "Immediate surgery",
+            "Transvaginal ultrasound + β-hCG",
+            "MRI pelvis",
+            "Diagnostic D&C"
+        ],
+        "correct": 1,
+        "explanation": "In a stable patient, the best initial steps involve combined transvaginal ultrasound (TVS) and serum beta-hCG estimation."
+    },
+    {
+        "stem": "A patient with an ectopic pregnancy is treated with methotrexate. When can she attempt conception again?",
+        "options": [
+            "Immediately",
+            "After 3 months",
+            "After 6 months",
+            "Never"
+        ],
+        "correct": 1,
+        "explanation": "After methotrexate treatment, it is recommended to delay subsequent pregnancy attempts for 3 months."
+    },
+    {
+        "stem": "Which of the following is a rare but life-threatening ectopic pregnancy location?",
+        "options": [
+            "Tubal",
+            "Abdominal (peritoneal implantation)",
+            "Ovarian",
+            "Cervical"
+        ],
+        "correct": 1,
+        "explanation": "Advanced abdominal pregnancy is a rare but life-threatening ectopic location due to the risk of severe internal hemorrhage."
+    },
+    {
+        "stem": "A woman with an ectopic pregnancy is Rh-negative. What additional treatment does she need?",
+        "options": [
+            "Anti-D immunoglobulin",
+            "Iron supplements",
+            "Heparin",
+            "Folic acid"
+        ],
+        "correct": 0,
+        "explanation": "An Rh-negative woman with an ectopic pregnancy requires Anti-D immunoglobulin to prevent maternal sensitization."
+    },
+    {
+        "stem": "Which of the following is the most common type of GTD?",
+        "options": [
+            "Choriocarcinoma",
+            "Invasive mole",
+            "Hydatidiform mole (complete or partial)",
+            "Placental site trophoblastic tumor (PSTT)"
+        ],
+        "correct": 2,
+        "explanation": "Hydatidiform mole (complete and partial types) is the most common presentation of Gestational Trophoblastic Disease (GTD)."
+    },
+    {
+        "stem": "A 28-year-old woman presents with vaginal bleeding, severe nausea, and a uterus larger than expected. Ultrasound reveals a 'snowstorm appearance' with no fetal parts. What is the most likely karyotype of this condition?",
+        "options": [
+            "46,XX (maternal only)",
+            "46,XY (paternal only)",
+            "69,XXX (triploidy)",
+            "45,X (Turner syndrome)"
+        ],
+        "correct": 1,
+        "explanation": "Note: The textbook states that a complete mole most commonly results in a 46,XX karyotype from duplication of a single sperm's DNA, not 46,XY."
+    },
+    {
+        "stem": "Which of the following features differentiates a partial mole from a complete mole?",
+        "options": [
+            "Diffuse trophoblastic proliferation",
+            "Presence of fetal tissue",
+            "Theca lutein cysts",
+            "Markedly elevated β-hCG (>100,000 mIU/mL)"
+        ],
+        "correct": 1,
+        "explanation": "The key differentiating feature is the presence of fetal tissue in a partial mole, which is absent in a complete mole."
+    },
+    {
+        "stem": "A patient with a recent molar pregnancy evacuation has persistent vaginal bleeding and β-hCG levels that plateau for 3 weeks. What is the most likely diagnosis?",
+        "options": [
+            "Complete hydatidiform mole",
+            "Invasive mole",
+            "Choriocarcinoma",
+            "Ectopic pregnancy"
+        ],
+        "correct": 1,
+        "explanation": "Persistent bleeding and plateauing beta-hCG levels after evacuation indicate Persistent Trophoblastic Disease (PTD), most likely an invasive mole."
+    },
+    {
+        "stem": "Which of the following is the gold standard treatment for a molar pregnancy?",
+        "options": [
+            "Methotrexate chemotherapy",
+            "Total abdominal hysterectomy",
+            "Suction evacuation and curettage",
+            "Radiation therapy"
+        ],
+        "correct": 2,
+        "explanation": "The gold standard treatment is suction evacuation, often followed by gentle curettage."
+    },
+    {
+        "stem": "A patient with a history of a complete mole develops lung metastases 6 months after evacuation. Which of the following is the most likely diagnosis?",
+        "options": [
+            "Invasive mole",
+            "Choriocarcinoma",
+            "PSTT",
+            "ETT"
+        ],
+        "correct": 1,
+        "explanation": "The development of lung metastases after a complete mole is most likely indicative of choriocarcinoma, a highly malignant GTD form known for early metastases."
+    },
+    {
+        "stem": "Which of the following is the first-line chemotherapy for low-risk GTN?",
+        "options": [
+            "Cisplatin",
+            "Actinomycin D",
+            "Methotrexate",
+            "Etoposide"
+        ],
+        "correct": 2,
+        "explanation": "For low-risk Gestational Trophoblastic Neoplasia (GTN), methotrexate is the first-line single-agent chemotherapy."
+    },
+    {
+        "stem": "A patient with a prior molar pregnancy wishes to conceive again. What is the recommended waiting period before attempting pregnancy?",
+        "options": [
+            "3 months",
+            "6 months",
+            "1 year",
+            "No waiting is necessary"
+        ],
+        "correct": 2,
+        "explanation": "Patients are recommended to avoid pregnancy for 1 year after molar evacuation to allow for proper beta-hCG monitoring."
+    },
+    {
+        "stem": "Which of the following is a risk factor for developing GTN after a molar pregnancy?",
+        "options": [
+            "Maternal age < 20 years",
+            "β-hCG levels < 50,000 mIU/mL",
+            "Theca lutein cysts > 6 cm",
+            "Partial mole (rather than complete mole)"
+        ],
+        "correct": 2,
+        "explanation": "Note: The textbook mentions theca lutein cysts can occur but does not explicitly list a size >6 cm as a specific risk factor for GTN."
+    },
+    {
+        "stem": "Which of the following is a hallmark histological feature of choriocarcinoma?",
+        "options": [
+            "Hydropic villi",
+            "Syncytiotrophoblast and cytotrophoblast without villi",
+            "Focal trophoblastic proliferation",
+            "Amniotic sac remnants"
+        ],
+        "correct": 1,
+        "explanation": "The hallmark histological feature of choriocarcinoma is malignant trophoblastic cells (syncytio- and cytotrophoblasts) with a complete loss of the villous pattern."
+    },
+    {
+        "stem": "A 32-year-old woman presents with vaginal bleeding and an ultrasound showing a fetus with severe growth restriction alongside a cystic placenta. What is the most likely karyotype?",
+        "options": [
+            "46,XX (maternal and paternal)",
+            "69,XXY (triploidy)",
+            "45,X (Turner syndrome)",
+            "47,XXY (Klinefelter syndrome)"
+        ],
+        "correct": 1,
+        "explanation": "A partial mole arises from fertilization by two sperms, resulting in an embryo with triploidy (69 chromosomes), and may present with fetal growth restriction."
+    },
+    {
+        "stem": "Which of the following is pathognomonic for a complete hydatidiform mole on ultrasound?",
+        "options": [
+            "Fetal cardiac activity",
+            "\"Snowstorm\" appearance with no fetus",
+            "Placental calcifications",
+            "Oligohydramnios"
+        ],
+        "correct": 1,
+        "explanation": "The pathognomonic ultrasound finding for a complete mole is a characteristic 'snowstorm' appearance in the absence of a fetus or amniotic sac."
+    },
+    {
+        "stem": "A patient with a recent molar pregnancy develops thyrotoxicosis. What is the most likely mechanism?",
+        "options": [
+            "Ectopic thyroid tissue in the mole",
+            "Cross-reactivity between hCG and TSH receptors",
+            "Autoimmune thyroid destruction",
+            "Iodine deficiency"
+        ],
+        "correct": 1,
+        "explanation": "Extremely high hCG in molar pregnancies can stimulate TSH receptors, leading to hyperthyroidism due to cross-reactivity."
+    },
+    {
+        "stem": "Which of the following is the most aggressive form of GTN?",
+        "options": [
+            "Invasive mole",
+            "Choriocarcinoma",
+            "PSTT",
+            "ETT"
+        ],
+        "correct": 1,
+        "explanation": "Choriocarcinoma is the most aggressive form of GTN, characterized by its highly malignant nature and early metastases."
+    },
+    {
+        "stem": "A patient’s β-hCG levels fail to normalize 6 months after molar evacuation but show no rise. What is the next step?",
+        "options": [
+            "Immediate hysterectomy",
+            "Start methotrexate",
+            "Repeat hCG in 2 weeks",
+            "Pelvic radiation"
+        ],
+        "correct": 1,
+        "explanation": "If beta-hCG levels fail to normalize 6 months after evacuation, it indicates Persistent Trophoblastic Disease (PTD), for which methotrexate is usually given."
+    },
+    {
+        "stem": "Which of the following is NOT a risk factor for GTN after molar pregnancy?",
+        "options": [
+            "Uterine size > dates",
+            "Age > 40 years",
+            "Partial mole (vs. complete mole)",
+            "Theca lutein cysts > 6 cm"
+        ],
+        "correct": 2,
+        "explanation": "Note: The textbook states that the risk of invasive mole is 20% in a complete mole vs. 4% in a partial mole, making a partial mole a lower risk, not a risk factor."
+    },
+    {
+        "stem": "A patient with GTN develops dyspnea and hemoptysis. Which metastatic site is most likely?",
+        "options": [
+            "Liver",
+            "Lungs",
+            "Brain",
+            "Vagina"
+        ],
+        "correct": 1,
+        "explanation": "The lungs are the most common metastatic site for malignant GTN (80% of cases). Dyspnea and hemoptysis are consistent with lung involvement."
+    },
+    {
+        "stem": "Which of the following is true about placental site trophoblastic tumor (PSTT)?",
+        "options": [
+            "Highly sensitive to methotrexate",
+            "Arises from intermediate trophoblasts",
+            "Associated with extremely high hCG levels",
+            "Commonly metastasizes to bone"
+        ],
+        "correct": 1,
+        "explanation": "Note: The provided textbook does not contain specific information about PSTT's origin, sensitivity to methotrexate, or hCG levels."
+    },
+    {
+        "stem": "What is the most appropriate contraceptive method for a patient undergoing follow-up after molar evacuation?",
+        "options": [
+            "Combined oral contraceptives (COCs)",
+            "Progestin-only pills (POPs)",
+            "Copper IUD",
+            "Barrier methods"
+        ],
+        "correct": 0,
+        "explanation": "Combined oral contraceptive pills (COCs) are recommended as the best contraceptive method for 1 year during follow-up."
+    },
+    {
+        "stem": "A patient with a prior complete mole has a second molar pregnancy. What is her approximate risk of a third molar pregnancy?",
+        "options": [
+            "1%",
+            "10%",
+            "33%",
+            "50%"
+        ],
+        "correct": 2,
+        "explanation": "After two molar pregnancies, the approximate risk of a third may reach 33%."
+    },
+    {
+        "stem": "A 25-year-old with a first-trimester miscarriage. Histopathology reveals focal hydropic villi and trophoblastic proliferation with fetal erythrocytes in villous capillaries. Diagnosis?",
+        "options": [
+            "Complete hydatidiform mole",
+            "Partial hydatidiform mole",
+            "Choriocarcinoma",
+            "Placental site trophoblastic tumor"
+        ],
+        "correct": 1,
+        "explanation": "Focal hydropic villi, focal trophoblastic proliferation, and fetal erythrocytes are characteristic of a partial hydatidiform mole."
+    },
+    {
+        "stem": "Which biochemical marker is MOST specific for monitoring treatment response in GTN?",
+        "options": [
+            "CA-125",
+            "Alpha-fetoprotein (AFP)",
+            "Beta-human chorionic gonadotropin (β-hCG)",
+            "Lactate dehydrogenase (LDH)"
+        ],
+        "correct": 2,
+        "explanation": "Beta-hCG is the gold standard biochemical marker for diagnosing and monitoring GTD/GTN treatment response."
+    },
+    {
+        "stem": "A patient with persistent GTN develops resistance to methotrexate. What is the next best treatment option?",
+        "options": [
+            "Actinomycin D",
+            "Cisplatin",
+            "Paclitaxel",
+            "Tamoxifen"
+        ],
+        "correct": 0,
+        "explanation": "For methotrexate-resistant low-risk GTN, Actinomycin D is typically considered as an alternative single-agent or as part of a multi-agent regimen."
+    },
+    {
+        "stem": "Which histologic finding distinguishes choriocarcinoma from an invasive mole?",
+        "options": [
+            "Presence of chorionic villi",
+            "Syncytiotrophoblasts without cytotrophoblasts",
+            "Absence of villous structures",
+            "Focal (not diffuse) trophoblastic proliferation"
+        ],
+        "correct": 2,
+        "explanation": "The key distinguishing feature is the complete loss of the villous pattern in choriocarcinoma, whereas invasive moles retain whole villi."
+    },
+    {
+        "stem": "A patient with a complete mole develops acute respiratory distress shortly after suction evacuation. What is the most likely cause?",
+        "options": [
+            "Pulmonary embolism",
+            "Trophoblastic embolization",
+            "Preeclampsia-related pulmonary edema",
+            "Metastatic lung disease"
+        ],
+        "correct": 1,
+        "explanation": "Acute respiratory distress after suction evacuation is most likely caused by trophoblastic embolization to the lungs, leading to RDS."
+    },
+    {
+        "stem": "Which of the following is the LEAST common metastatic site for choriocarcinoma?",
+        "options": [
+            "Lungs",
+            "Vagina",
+            "Brain",
+            "Bones"
+        ],
+        "correct": 3,
+        "explanation": "Common metastatic sites include lungs (80%), vagina (30%), brain (10%), and liver (10%). Bones are not listed as a common site."
+    },
+    {
+        "stem": "A 40-year-old woman with GTN has brain metastases. What is the MOST appropriate initial treatment?",
+        "options": [
+            "Whole-brain radiation",
+            "Intrathecal methotrexate",
+            "EMA-CO chemotherapy + neurosurgical consult",
+            "Hysterectomy"
+        ],
+        "correct": 2,
+        "explanation": "High-risk GTN with brain metastases requires aggressive multi-agent chemotherapy (e.g., EMA-CO) and neurosurgical consultation."
+    },
+    {
+        "stem": "Which of the following is TRUE about epithelioid trophoblastic tumor (ETT)?",
+        "options": [
+            "It secretes high levels of β-hCG",
+            "It arises from syncytiotrophoblasts",
+            "It is highly sensitive to methotrexate",
+            "It mimics squamous cell carcinoma histologically"
+        ],
+        "correct": 3,
+        "explanation": "Note: The provided textbook does not contain information regarding ETT or its specific histological features."
+    },
+    {
+        "stem": "A patient’s β-hCG levels rise 6 months after molar evacuation. Pelvic ultrasound shows no retained tissue. What is the next step?",
+        "options": [
+            "Repeat ultrasound in 4 weeks",
+            "Chest X-ray and abdominal-pelvic CT",
+            "Diagnostic laparoscopy",
+            "Start oral contraceptives"
+        ],
+        "correct": 1,
+        "explanation": "Rising beta-hCG 6 months after evacuation indicates malignant GTN. A metastatic workup (CXR, CT) is necessary to detect distant spread."
+    },
+    {
+        "stem": "Which of the following is a FIGO prognostic score criterion for GTN that carries the HIGHEST points (4)?",
+        "options": [
+            "Brain metastases",
+            "Serum β-hCG >100,000 IU/L",
+            "Interval >12 months since antecedent pregnancy",
+            "Prior failed chemotherapy"
+        ],
+        "correct": 3,
+        "explanation": "Note: The textbook discusses FIGO staging and risk factors but does not detail the specific prognostic scoring system or assign numerical points."
+    },
+    {
+        "stem": "What is the most common gestational age for spontaneous abortion to occur?",
+        "options": [
+            "< 8 weeks",
+            "8–12 weeks",
+            "12–20 weeks",
+            "> 20 weeks"
+        ],
+        "correct": 0,
+        "explanation": "Spontaneous abortions occur predominantly in the early first trimester, making <8 weeks the most common gestational age."
+    },
+    {
+        "stem": "Which of the following is NOT a maternal risk factor for spontaneous abortion?",
+        "options": [
+            "Uncontrolled diabetes mellitus",
+            "Maternal age > 40",
+            "Toxoplasma infection",
+            "Rh-negative blood group"
+        ],
+        "correct": 3,
+        "explanation": "Rh-negative blood group is not listed as a direct maternal risk factor for spontaneous abortion."
+    },
+    {
+        "stem": "A 32-year-old woman presents with vaginal bleeding and lower abdominal pain at 10 weeks gestation. Ultrasound shows a viable fetus with a closed cervical os. What is the most likely diagnosis?",
+        "options": [
+            "Incomplete abortion",
+            "Threatened abortion",
+            "Inevitable abortion",
+            "Missed abortion"
+        ],
+        "correct": 1,
+        "explanation": "Vaginal bleeding, lower abdominal pain, a viable fetus, and a closed cervical os are classic features of a threatened abortion."
+    },
+    {
+        "stem": "Which of the following is the FIRST-LINE medical management for a missed abortion in the second trimester?",
+        "options": [
+            "Methotrexate",
+            "Misoprostol",
+            "Oxytocin infusion",
+            "Surgical evacuation"
+        ],
+        "correct": 1,
+        "explanation": "For a missed abortion in the second trimester, first-line medical management involves induction with prostaglandins like misoprostol."
+    },
+    {
+        "stem": "A woman presents with fever, offensive vaginal discharge, and a tender uterus after an incomplete abortion. What is the most likely diagnosis?",
+        "options": [
+            "Septic abortion",
+            "Threatened abortion",
+            "Ectopic pregnancy",
+            "Molar pregnancy"
+        ],
+        "correct": 0,
+        "explanation": "Fever, offensive discharge, and a tender uterus after an incomplete abortion strongly suggest septic abortion."
+    },
+    {
+        "stem": "Which of the following is a complication of surgical evacuation in abortion management?",
+        "options": [
+            "Ovarian hyperstimulation syndrome",
+            "Uterine perforation",
+            "Hyperemesis gravidarum",
+            "Cholestasis of pregnancy"
+        ],
+        "correct": 1,
+        "explanation": "Surgical evacuation procedures like curettage carry a known risk of uterine perforation."
+    },
+    {
+        "stem": "Recurrent pregnancy loss (RPL) is defined as:",
+        "options": [
+            "≥ 1 consecutive spontaneous abortions",
+            "≥ 2 consecutive spontaneous abortions",
+            "≥ 3 consecutive spontaneous abortions",
+            "≥ 4 consecutive spontaneous abortions"
+        ],
+        "correct": 2,
+        "explanation": "RPL is formally defined as three or more successive spontaneous abortions."
+    },
+    {
+        "stem": "Which of the following is NOT a recommended management for recurrent pregnancy loss (RPL)?",
+        "options": [
+            "Low-dose aspirin",
+            "Progesterone supplementation",
+            "High-dose estrogen therapy",
+            "Low molecular weight heparin"
+        ],
+        "correct": 2,
+        "explanation": "Recommended management for RPL includes progesterone, aspirin, and LMWH in specific cases. High-dose estrogen therapy is not mentioned."
+    },
+    {
+        "stem": "Cervical insufficiency is most commonly diagnosed in which trimester?",
+        "options": [
+            "First trimester",
+            "Second trimester",
+            "Third trimester",
+            "Postpartum"
+        ],
+        "correct": 1,
+        "explanation": "Cervical insufficiency typically manifests with mid-trimester abortions, so it is most commonly diagnosed in the second trimester."
+    },
+    {
+        "stem": "Which of the following is a surgical treatment for cervical insufficiency?",
+        "options": [
+            "Progesterone pessaries",
+            "McDonald cerclage",
+            "Methotrexate injection",
+            "Antibiotic prophylaxis"
+        ],
+        "correct": 1,
+        "explanation": "The McDonald cerclage is a surgical procedure used to treat cervical insufficiency."
+    },
+    {
+        "stem": "A 28-year-old G3P2 with a history of two prior first-trimester losses presents at 8 weeks with mild vaginal bleeding. US reveals a subchorionic hematoma but a viable fetus. Which intervention is MOST evidence-based?",
+        "options": [
+            "Immediate surgical evacuation",
+            "High-dose estrogen therapy",
+            "Progesterone supplementation",
+            "Intravenous oxytocin infusion"
+        ],
+        "correct": 2,
+        "explanation": "In a patient with prior losses and current bleeding with a viable fetus (threatened abortion), progesterone supplementation is an evidence-based intervention."
+    },
+    {
+        "stem": "Which maternal infection is MOST strongly associated with second-trimester miscarriage rather than first-trimester loss?",
+        "options": [
+            "Toxoplasma gondii",
+            "Mycoplasma hominis",
+            "Listeria monocytogenes",
+            "Chlamydia trachomatis"
+        ],
+        "correct": 0,
+        "explanation": "Note: While the textbook lists infections as a cause of abortion, it does not specify which are associated with second vs. first trimester loss."
+    },
+    {
+        "stem": "A patient with septic abortion develops hypotension, tachycardia, and petechiae. Lab results show thrombocytopenia and prolonged PT/aPTT. What is the MOST likely complication?",
+        "options": [
+            "Hemorrhagic shock",
+            "Disseminated intravascular coagulation (DIC)",
+            "Acute fatty liver of pregnancy",
+            "Amniotic fluid embolism"
+        ],
+        "correct": 1,
+        "explanation": "The combination of hypotension, tachycardia, petechiae, thrombocytopenia, and prolonged PT/aPTT in septic abortion is a classic presentation of DIC."
+    },
+    {
+        "stem": "Which of the following is an ABSOLUTE contraindication to medical management with misoprostol for incomplete abortion?",
+        "options": [
+            "History of cesarean delivery",
+            "Suspected ectopic pregnancy",
+            "Mild asthma",
+            "Maternal age > 35 years"
+        ],
+        "correct": 1,
+        "explanation": "Suspected ectopic pregnancy is an absolute contraindication, as it requires different and urgent management."
+    },
+    {
+        "stem": "A 40-year-old woman with RPL and a history of venous thrombosis tests positive for lupus anticoagulant. What is the MOST appropriate long-term management?",
+        "options": [
+            "Aspirin alone",
+            "Aspirin + low molecular weight heparin (LMWH)",
+            "Corticosteroids",
+            "Warfarin throughout pregnancy"
+        ],
+        "correct": 1,
+        "explanation": "For RPL due to Antiphospholipid Syndrome, the appropriate management during pregnancy is low-dose aspirin combined with LMWH."
+    },
+    {
+        "stem": "In a missed abortion at 14 weeks, which ultrasound finding is MOST diagnostic?",
+        "options": [
+            "Gestational sac without a yolk sac",
+            "Fetal pole with absent cardiac activity",
+            "Cervical os dilation",
+            "Retroplacental hematoma"
+        ],
+        "correct": 1,
+        "explanation": "The most diagnostic ultrasound finding for missed abortion is a fetal pole with confirmed absent cardiac activity."
+    },
+    {
+        "stem": "Which risk factor is MOST predictive of cervical insufficiency?",
+        "options": [
+            "Prior first-trimester surgical abortion",
+            "Cervical conization for CIN III",
+            "Gestational diabetes",
+            "Polyhydramnios in a prior pregnancy"
+        ],
+        "correct": 1,
+        "explanation": "Traumatic injury to the cervix, such as from conization, is a significant etiological factor and strong predictor of cervical insufficiency."
+    },
+    {
+        "stem": "A patient with incomplete abortion and hemorrhage undergoes surgical evacuation but develops sudden hypoxia and hypotension. What is the NEXT step?",
+        "options": [
+            "Administer misoprostol",
+            "Suspect amniotic fluid embolism and initiate CPR",
+            "Perform a hysterectomy",
+            "Give tranexamic acid"
+        ],
+        "correct": 1,
+        "explanation": "Sudden hypoxia and hypotension during uterine instrumentation are highly suggestive of amniotic fluid embolism (AFE), requiring immediate CPR."
+    },
+    {
+        "stem": "Which of the following is LEAST likely to be associated with recurrent pregnancy loss?",
+        "options": [
+            "Balanced translocation in either parent",
+            "Uncontrolled hypothyroidism",
+            "Isolated episode of E. coli UTI",
+            "Uterine septum"
+        ],
+        "correct": 2,
+        "explanation": "An isolated E. coli UTI is least likely to be associated with RPL, which typically involves chronic or systemic issues."
+    },
+    {
+        "stem": "A Shirodkar cerclage is preferred over McDonald cerclage in which scenario?",
+        "options": [
+            "Short cervix detected at 20 weeks",
+            "Prior failed McDonald cerclage",
+            "History of preterm labor at 32 weeks",
+            "Twin pregnancy"
+        ],
+        "correct": 1,
+        "explanation": "Note: The textbook describes both procedures but does not provide criteria for preferring one over the other."
+    },
+    {
+        "stem": "A 34-year-old G4P0 with three prior first-trimester losses presents at 9 weeks with bleeding. US shows a viable fetus and a 4 cm subchorionic hematoma. Her anticardiolipin IgM is elevated. What is the NEXT BEST step?",
+        "options": [
+            "Start aspirin 81 mg daily",
+            "Begin enoxaparin 40 mg SC daily",
+            "Administer IV immunoglobulin",
+            "High-dose progesterone vaginally"
+        ],
+        "correct": 1,
+        "explanation": "In a patient with RPL, bleeding, and elevated anticardiolipin IgM (indicating APS), the next step is to begin LMWH (enoxaparin) in addition to aspirin."
+    },
+    {
+        "stem": "A septic abortion patient develops oliguria, jaundice, and confusion 48 hours after uterine evacuation. Labs show: Hb 7.8, platelets 42k, creatinine 3.4, total bilirubin 5.2. Underlying pathology?",
+        "options": [
+            "Clostridial myometritis",
+            "HELLP syndrome",
+            "Toxic shock syndrome",
+            "Parvovirus B19 infection"
+        ],
+        "correct": 0,
+        "explanation": "The patient's presentation of oliguria, jaundice, confusion, and lab findings after septic abortion is highly suggestive of clostridial sepsis leading to multi-organ dysfunction."
+    },
+    {
+        "stem": "In a patient with recurrent second-trimester losses, which finding would MOST STRONGLY suggest cervical insufficiency?",
+        "options": [
+            "Painless cervical dilation to 4 cm at 18 weeks",
+            "Heavy bleeding with uterine tenderness at 16 weeks",
+            "Fetal demise with intact membranes at 20 weeks",
+            "PPROM at 17 weeks with chorioamnionitis"
+        ],
+        "correct": 0,
+        "explanation": "Painless cervical dilation in the second trimester is a strong indicator of cervical insufficiency."
+    },
+    {
+        "stem": "A 42-year-old with missed abortion at 10 weeks develops DIC after misoprostol administration. What is the MOST CRITICAL immediate intervention?",
+        "options": [
+            "Uterine artery embolization",
+            "Emergency hysterectomy",
+            "Surgical evacuation under ultrasound guidance",
+            "Fresh frozen plasma transfusion"
+        ],
+        "correct": 2,
+        "explanation": "When DIC develops after a missed abortion, the most critical intervention is surgical evacuation to remove the retained products causing the consumptive coagulopathy."
+    },
+    {
+        "stem": "Which thrombophilia carries the HIGHEST risk of recurrent pregnancy loss?",
+        "options": [
+            "Heterozygous Factor V Leiden",
+            "Protein S deficiency",
+            "Antiphospholipid syndrome",
+            "Prothrombin gene mutation"
+        ],
+        "correct": 2,
+        "explanation": "Antiphospholipid Syndrome (APS) is the most common immunologic disorder causing early RPL and carries a significant fetal loss risk."
+    },
+    {
+        "stem": "A patient with inevitable abortion at 14 weeks develops sudden severe hypotension during oxytocin infusion. US shows free fluid in the pouch of Douglas. LEAST LIKELY explanation?",
+        "options": [
+            "Uterine perforation",
+            "Amniotic fluid embolism",
+            "Ruptured cornual ectopic",
+            "Ovarian hyperstimulation"
+        ],
+        "correct": 3
+    }
+  ]
+}

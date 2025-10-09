@@ -1,0 +1,145 @@
+{
+  "title": "PBL of Nutrition",
+  "questions": [
+    {
+      "stem": "Which of the following features is constant feature of KWO?",
+      "options": [
+        "hepatomegaly",
+        "hair changes",
+        "edema",
+        "skin changes"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The most common form of under nutrition is:",
+      "options": [
+        "marasmus",
+        "Kwo",
+        "wasting",
+        "Stunting"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "From variable features of",
+      "options": [
+        "edema.",
+        "skin changes.",
+        "Apathy",
+        "Failure of growth"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The daily caloric requirement of marasmis infant?",
+      "options": [
+        "50 cal/kg/day",
+        "100 cal/kg/day",
+        "150 cal/kg/day",
+        "75 cal/kg/day"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "You are in the clinic and a mother comes worried about her milk supply and wants to add formula feeding, the baby is a 5-day- old full term newborn with a birth weight of 3.5 kg and now he has the same weight. He wets 8 diapers and does 3 times stools per day. What would you tell her?",
+      "options": [
+        "Switch to formula feeding.",
+        "Your baby needs special formula.",
+        "Your breast feeding is adequate.",
+        "You need to add formula."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following is TRUE about breast milk:",
+      "options": [
+        "Colostrum has a lower protein content than breast milk.",
+        "Colostrum is produced within 2 to 3 weeks.",
+        "Mature breast milk has a higher mineral content.",
+        "Mature breast milk is usually thinner in consistency than colostrum."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "You are in charge of 1.3-kilogram- preterm baby in the NICU and you decide to give him formula. Why do you better pick the preterm ?",
+      "options": [
+        "It has higher lactose content than term formula.",
+        "It has higher protein content than term formula.",
+        "It has lower calorie content than mature formula.",
+        "Lipids are in the form of long chain fatty acids"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "To ensure successful breast feeding, what would be a correct advice to give to the mother?",
+      "options": [
+        "Avoid skin to skin contact with the newborn baby.",
+        "Start giving oral glucose immediately after delivery.",
+        "Start pacifier use immediately after delivery.",
+        "Try to establish early breast feeding."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "On the 1st day of life, which of the following supplemental vitamins should be administrated to a term newborn, regardless of future plans to breastfeed or offer formula?",
+      "options": [
+        "Iron.",
+        "Vitamin D.",
+        "Vitamin E.",
+        "Vitamin K."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is the number of calories present in mature breast milk ?",
+      "options": [
+        "100 kcal/dl.",
+        "90 kcal/dl",
+        "81 kcal/dl.",
+        "67 kcal/dl."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A mother brings her 3-week- old female baby born 2.4-kg-weight complaining of abdominal distension, vomiting and continuous crying. On examination, the baby looks healthy, well hydrated, passing stools, a current weight of 5 kg and distended abdomen. What is your MOST LIKELY diagnosis?",
+      "options": [
+        "Duodenal atresia.",
+        "Neonatal sepsis.",
+        "Over-feeding.",
+        "Pyloric stenosis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A mother brings her 6-month-old boy for a well-child visit. Which of the following is TRUE about weaning her baby?",
+      "options": [
+        "Add salt to food for a better food acceptance.",
+        "Avoid high risk choking foods.",
+        "Fresh juice is mandatory.",
+        "Start by cow's milk derivatives."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "To ensure successful breast feeding, what would be correct advice to give to the mother?",
+      "options": [
+        "Avoid skin to skin contact with the newborn baby",
+        "Start giving oral glucose immediately after delivery",
+        "Start pacifier use immediately after delivery",
+        "Try to establish early breast feeding"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Hyper vitaminosis D is manifested by the following except",
+      "options": [
+        "constipation.",
+        "renal stones",
+        "convulsions",
+        "polyuria"
+      ],
+      "correct": 2
+    }
+  ]
+}

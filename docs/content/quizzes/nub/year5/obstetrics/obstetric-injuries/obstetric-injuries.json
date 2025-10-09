@@ -1,0 +1,161 @@
+{
+  "title": "OBSTETRIC INJURIES",
+  "questions": [
+    {
+      "stem": "An anemic 39 years old, G5 P5, presented with rupture uterus and intraperitoneal hemorrhage during spontaneous vaginal delivery at home. Risk factors of rupture uterus in this case include all of the followings EXCEPT:",
+      "options": [
+        "Maternal anemia.",
+        "Pelvic osteomalacia.",
+        "False sense of security.",
+        "Weak uterine muscles with excess fibrous tissues.",
+        "Pendulous abdomen."
+      ],
+      "correct": 0,
+      "explanation": "The textbook lists specific risks for uterine rupture in grand multiparas (women with five or more previous deliveries), such as osteomalacia affecting the bony pelvis, false sense of security, and complications leading from malpresentations due to a pendulous abdomen and weak abdominal muscles, which can result in obstructed labor. While severe maternal anemia is a serious condition that can increase the risk of shock during hemorrhage and affect uterine contractility (predisposing to atonic PPH), it is not directly identified in the provided text as a predisposing factor for the uterine rupture itself, unlike the other options which are linked to grand multiparity or factors that lead to rupture."
+    },
+    {
+      "stem": "Regarding the previous case: Best management includes:",
+      "options": [
+        "Cesarean section.",
+        "Hysterectomy.",
+        "B-Lynch sutures.",
+        "Laparoscopy.",
+        "Selective embolization of the uterine arteries."
+      ],
+      "correct": 1,
+      "explanation": "In cases of uterine rupture, especially when it is extensive beyond proper repair and leads to severe bleeding risking the life of the patient, abdominal hysterectomy is indicated. This is particularly relevant in elderly grand multiparas who may not desire future fertility. Given the description of rupture uterus with intraperitoneal hemorrhage in a 39-year-old G5 P5 patient, hysterectomy is often the most definitive and life-saving measure. While surgical repair of the uterus is the primary approach for less extensive ruptures, hysterectomy is preferred when repair is not feasible or bleeding is uncontrolled."
+    },
+    {
+      "stem": "An 8th gravida para 7 during the 2nd stage of labor had cessation of uterine contractions and slight vaginal bleeding. Fetal head receded up. Her blood pressure became 100/60 and pulse rate became 120/minute with disturbed conscious level. What is your 1st differential diagnosis?",
+      "options": [
+        "Accidental hemorrhage.",
+        "Obstructed labor.",
+        "Rupture uterus.",
+        "Uterine inertia.",
+        "Constriction ring opposite fetal neck."
+      ],
+      "correct": 2,
+      "explanation": "The constellation of symptoms—cessation of uterine contractions, slight vaginal bleeding, recession of the fetal head to a higher pelvic station, and signs of hypovolemic shock (low blood pressure, rapid pulse, disturbed conscious level)—during labor, especially in a grand multipara (8th gravida), are classic signs and symptoms of uterine rupture. Other conditions like accidental hemorrhage (placental abruption) typically present with a tender, hard uterus, and obstructed labor with persistent tonic contractions and a pathological retraction ring."
+    },
+    {
+      "stem": "What will be your next step in management in this case?",
+      "options": [
+        "Ask the patient to bear down maximally aided by fundal pressure to enhance labor.",
+        "Trial of vacuum fetal head extraction.",
+        "Fluid replacement and oxytocin drip to regain uterine contractions.",
+        "Urgent Blood transfusion and immediate laparotomy.",
+        "General anesthesia to relax the constriction ring."
+      ],
+      "correct": 3,
+      "explanation": "For a diagnosed uterine rupture, the immediate management priority is resuscitation and antishock measures (which includes blood transfusion for hypovolemic shock). This must be followed by exploratory laparotomy and surgical repair to arrest the uterine bleeding and repair the torn myometrium. Attempting to enhance labor or instrumental delivery is contraindicated in cases of uterine rupture."
+    },
+    {
+      "stem": "A 2nd G, P 1, previous CS had a trial for vaginal delivery. When cervix became fully dilated, uterine contractions ceased off, slight vaginal bleeding occurred and fetal head receded up. What is your 1st differential diagnosis?",
+      "options": [
+        "Uterine inertia.",
+        "Accidental hemorrhage.",
+        "Obstructed labor",
+        "Rupture uterus.",
+        "Constriction ring opposite fetal neck."
+      ],
+      "correct": 3,
+      "explanation": "A previous Cesarean Section (CS) scar is a significant risk factor for uterine rupture. The clinical picture of cessation of uterine contractions, vaginal bleeding, and recession of the fetal head are key diagnostic signs of uterine rupture. This combination of factors, particularly the history of previous CS, strongly points to uterine rupture as the primary diagnosis."
+    },
+    {
+      "stem": "In a trial for vaginal delivery after cesarean section, choose the most warning sign of impending scar dehiscence:",
+      "options": [
+        "Early rupture of membranes.",
+        "Tender scar.",
+        "Continuous vaginal blood trickling.",
+        "Fetal heart rate variability.",
+        "Failed progress of labor."
+      ],
+      "correct": 2,
+      "explanation": "Scar dehiscence is a form of uterine rupture. While various signs might indicate a problem, sudden onset of bleeding, which can be external vaginal bleeding, is a direct symptom of uterine rupture. Continuous vaginal blood trickling indicates active bleeding from the scar separation, making it a very direct and urgent warning sign of impending or occurring dehiscence. The textbook also mentions that no tenderness over the CS scar is a prerequisite for VBAC, implying tenderness is a warning sign. However, active bleeding (trickling) indicates a more critical progression."
+    },
+    {
+      "stem": "Warning signs of impending rupture cesarean section scar include:",
+      "options": [
+        "Infrequent uterine contractions.",
+        "Tender scar.",
+        "Increased fetal movements.",
+        "Severe vaginal bleeding.",
+        "Meconium stained liquor."
+      ],
+      "correct": 1,
+      "explanation": "The textbook states that for a trial of vaginal birth after Cesarean Section (VBAC), a prerequisite is 'No tenderness over the CS scar'. This implies that a tender scar is a crucial warning sign that the scar might be compromised and at risk of rupture or dehiscence. Other signs like severe vaginal bleeding or cessation of contractions are typically indicative of actual rupture, rather than impending rupture."
+    },
+    {
+      "stem": "After difficult forceps application under anesthesia, the baby is delivered dead; the patient rapidly deteriorated with shock and collapse. There is mild vaginal bleeding and failed placental delivery. What is your provisional diagnosis?",
+      "options": [
+        "Rupture uterus.",
+        "Perineal tear.",
+        "Neurogenic shock.",
+        "Amniotic fluid embolism.",
+        "Heart failure."
+      ],
+      "correct": 0,
+      "explanation": "Difficult obstetric manipulations, such as instrumental deliveries (e.g., forceps application), are explicitly listed as a cause of traumatic uterine rupture. The clinical presentation of a dead baby, rapid maternal deterioration with shock and collapse due to massive blood loss, mild vaginal bleeding, and failed placental delivery (the placenta may be extruded into the peritoneal cavity) are all highly consistent with a uterine rupture."
+    },
+    {
+      "stem": "Rupture uterus due to difficult obstetric forceps is characterized by all the followings EXCEPT:",
+      "options": [
+        "It extends from the cervix up to lateral uterine walls.",
+        "Broad ligament hematoma commonly occurs.",
+        "It is usually complete type.",
+        "Combined abdominal-vaginal repair is mostly done.",
+        "Severe vaginal bleeding is usually present due to associated lower genital tract lacerations."
+      ],
+      "correct": 2,
+      "explanation": "The textbook defines complete rupture as a tear of all uterine layers with fetal extrusion into the peritoneal cavity, and scar dehiscence as a separation of all layers except the visceral peritoneum. However, the text does not explicitly state that rupture due to difficult obstetric forceps is usually of the complete type. Traumatic ruptures from instruments can involve complex tears that may be incomplete or extend from the cervix. Other options are generally consistent with traumatic rupture: tears can extend from the cervix laterally, broad ligament hematoma can occur with lateral tears, combined abdominal-vaginal repair is often needed for extensive tears, and lower genital tract lacerations with severe vaginal bleeding are common with instrumental delivery."
+    },
+    {
+      "stem": "Regarding silent uterine rupture; all of the followings are true EXCEPT:",
+      "options": [
+        "It is an incomplete rupture.",
+        "It occurs only in lower segment CS scar",
+        "May be detected accidently during performing CS.",
+        "Vaginal bleeding may be marked.",
+        "Baby is usually not affected."
+      ],
+      "correct": 3,
+      "explanation": "Silent uterine rupture is often synonymous with scar dehiscence, which the textbook describes as involving 'all layers except the visceral peritoneum' and the fetus being 'kept in utero with no fetal parts extruded'. This is an incomplete rupture that occurs at the lower segment CS scar and can indeed be detected accidentally during CS. Because the peritoneum remains intact and the fetus is contained, the baby is usually not as acutely affected as in a complete rupture. The term 'silent' implies that the clinical signs, including bleeding, are not typically marked or overt, making the statement that vaginal bleeding may be marked the exception for this type of rupture."
+    },
+    {
+      "stem": "Predisposing factors for cervical tears include all the following EXCEPT:",
+      "options": [
+        "Precipitate labor.",
+        "Preterm labor.",
+        "Fibrosis due to previous cerclage.",
+        "Vigorous PV examinations.",
+        "Instrumental delivery."
+      ],
+      "correct": 1,
+      "explanation": "The textbook lists precipitate labor, fibrosis due to previous cerclage (under previous scarring), and instrumental delivery as explicit risk factors for cervical lacerations. While vigorous PV examinations align with rough obstetric manipulations that can cause trauma. The text states that cervical tears can occur from 'Delivery through incompletely dilated cervix as in Preterm delivery'. This means that preterm delivery is a circumstance where the cervix may be incompletely dilated, leading to a tear, rather than preterm labor itself being a predisposing factor inherent to the cervix, like rigidity or scarring."
+    },
+    {
+      "stem": "Predisposing factors for perineal tears include:",
+      "options": [
+        "Grand multiparity.",
+        "Previous episiotomy.",
+        "Augmentation of labor by oxytocin.",
+        "Coexisting rectocele.",
+        "Omitting an indicated episiotomy."
+      ],
+      "correct": 4,
+      "explanation": "The textbook states that perineal lacerations can occur from 'Delivery of an LGA or a macrosomic fetus without an adequate episiotomy' and 'Instrumental delivery especially in absence of an adequate episiotomy'. Furthermore, episiotomy is performed 'when the perineum threatens to tear' to prevent extensive lacerations. Therefore, omitting an indicated episiotomy directly contributes to the occurrence of perineal tears."
+    },
+    {
+      "stem": "A perineal tear involving: vaginal mucosa, perineal skin, transverse perineal muscles and external anal sphincter, is:",
+      "options": [
+        "First degree perineal tear.",
+        "Second degree perineal tear.",
+        "Third degree perineal tear.",
+        "Forth degree perineal tear.",
+        "Hidden perineal tear."
+      ],
+      "correct": 2,
+      "explanation": "According to the textbook's classification of lacerations, a third-degree tear involves 'the vagina, perineal muscles, and the anal sphincter'. The description of involving the vaginal mucosa, perineal skin, transverse perineal muscles, and specifically the external anal sphincter, precisely matches this definition. A first-degree tear involves only mucosa, a second-degree tear includes the muscles of the perineal body, and a fourth-degree tear extends to the anal mucosa."
+    }
+  ]
+}

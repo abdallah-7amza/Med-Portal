@@ -1,0 +1,412 @@
+{
+  "title": "KAF",
+  "questions": [
+    {
+      "stem": "A 14-year-old adolescent girl presented with palpable purpuric rash on the buttocks and lower extremities with arthritis of ankles and knees. Investigations: erythrocyte sedimentation rate, C-reactive protein, and white blood cell count are elevated; the platelet count is normal, urinalysis shows evidence of hematuria. Which of the following is the most common immune complex associated with this disease?",
+      "options": [
+        "IgA",
+        "IgG",
+        "IgM",
+        "IgD"
+      ],
+      "correct": 0,
+      "explanation": "Henoch-Schonlein Purpura (HSP) is the most common vasculitis of childhood. It is characterized by IgA deposition in the small vessels of the skin, joints, gastrointestinal tract, and kidney."
+    },
+    {
+      "stem": "A 12-year-old girl presents with symmetrically painful wrists. She has had intermittent episodes of fever and malaise associated with arthralgia and myalgia. Over the past 6 months, she has progressively lost weight and suffered from alopecia. Recently, on returning from the beach, she was found to have a facial rash. Other features of this disorder include:",
+      "options": [
+        "Deforming arthritis",
+        "Erythema marginatum",
+        "Thrombocytopenia",
+        "Intussusception"
+      ],
+      "correct": 2,
+      "explanation": "Systemic Lupus Erythematosus (SLE) is an autoimmune disease with multi-system inflammation. Hematological findings can include hemolytic anemia, leukopenia, lymphopenia, and thrombocytopenia (platelet count less than 100,000/mm³). Other options like deforming arthritis and erythema marginatum are not characteristic of SLE. Intussusception is a rare complication of Henoch-Schonlein purpura."
+    },
+    {
+      "stem": "A 2-year-old-boy presented with fever 6 days ago associated with periungual desquamation. Examination showed a strawberry tongue, cervical lymphadenopathy, truncal polymorphous rash. The laboratory investigations of this patient include",
+      "options": [
+        "Elevated ESR and CRP",
+        "Hematuria",
+        "Leucopenia",
+        "Thrombocytopenia"
+      ],
+      "correct": 0,
+      "explanation": "The clinical presentation of a 2-year-old boy with a 6-day history of high fever, periungual desquamation, strawberry tongue, cervical lymphadenopathy, and a truncal polymorphous rash is characteristic of Kawasaki disease. In the acute phase of this disease, laboratory findings typically include leukocytosis with neutrophilia, elevated ESR and CRP, and hypoalbuminemia. Thrombocytosis is usually seen in the subacute phase, not the initial presentation. Hematuria is not a classic feature."
+    },
+    {
+      "stem": "An 8-year-old-girl complains from morning stiffness and pain of 4 joints in the last 6 months with uveitis. On physical examination, signs of inflammation are present, including joint tenderness, erythema, and effusion, but no fever or weight loss. Laboratory result: ANA positive, rheumatoid factor negative. Which of the following is the most commonly involved joint?",
+      "options": [
+        "Ankle",
+        "Hip",
+        "Knee",
+        "Wrist"
+      ],
+      "correct": 2,
+      "explanation": "The patient's presentation of arthritis in four joints over the last six months with uveitis, positive ANA, and negative rheumatoid factor is consistent with oligoarticular Juvenile Idiopathic Arthritis (JIA). This is the most common type of JIA, and it typically involves an asymmetrical pattern in large joints, such as the knees and ankles. The knee is a common joint affected in this type of JIA."
+    },
+    {
+      "stem": "A 9-year-old girl has a raised erythematous rash on the cheeks; pleural effusion and tenderness of the small joints of the hands; with history of recurrent mouth and nasal ulcers, urine analysis shows proteinuria. Which of the following findings is not suspected in this patient?",
+      "options": [
+        "Hemolytic anemia",
+        "Leukopenia",
+        "Lymphopenia",
+        "Thrombocytosis"
+      ],
+      "correct": 3,
+      "explanation": "The clinical picture of malar rash, oral/nasal ulcers, serositis (pleural effusion), arthritis, and proteinuria is characteristic of Juvenile Systemic Lupus Erythematosus (JSLE). Hematological manifestations of SLE include hemolytic anemia, lymphopenia, leukopenia, and thrombocytopenia. Thrombocytosis is not a feature of SLE."
+    },
+    {
+      "stem": "A 10-year-old female with history of insidious onset of fatigue, malaise, and progressive muscle weakness, accompanied by low-grade fevers and scaly, red plaques are found across the knuckles, she is not able to sit up from a supine position, investigations revealed: elevated muscle enzymes (ALT, AST, LDH, CPK, and aldolase), EMG abnormalities suggestive of inflammatory myositis. Which of the following is the most common cause of morbidity?",
+      "options": [
+        "Avascular necrosis",
+        "Calcinosis",
+        "Infections",
+        "Myocardial infarction"
+      ],
+      "correct": 1,
+      "explanation": "The description of a 10-year-old girl with insidious fatigue, progressive proximal muscle weakness, low-grade fever, scaly red plaques on the knuckles (Gottron's papules), and inability to sit up from a supine position, along with elevated muscle enzymes, is classic for Juvenile Dermatomyositis (JDM). The most common cause of morbidity in this disease is calcinosis, which can occur in severe cases."
+    },
+    {
+      "stem": "A 5-year-old girl presented with history of chronic knee and ankle arthritis and iridocyclitis. What is the laboratory test that can be done to help in the diagnosis?",
+      "options": [
+        "Antinuclear antibody",
+        "Antistreptolysin O antibody",
+        "Erythrocyte sedimentation rate",
+        "Rheumatoid factor"
+      ],
+      "correct": 0,
+      "explanation": "The presentation of chronic knee and ankle arthritis with iridocyclitis is characteristic of oligoarticular Juvenile Idiopathic Arthritis (JIA). This type of JIA is associated with a high risk of chronic asymptomatic iridocyclitis, especially in patients with a positive Antinuclear Antibody (ANA) test. Therefore, testing for ANA is helpful in the diagnostic workup."
+    },
+    {
+      "stem": "You have been asked to evaluate this young boy, who presented with 8 days history of high grade fever and maculopapular skin rash. He was treated with oral antibiotic with poor response. What is the laboratory test that can help in diagnosis?",
+      "options": [
+        "Antinuclear antibody",
+        "Antistreptolysin O antibody",
+        "Complement level",
+        "Serum albumin"
+      ],
+      "correct": 3,
+      "explanation": "The clinical presentation of high-grade fever and a maculopapular rash that is unresponsive to oral antibiotics could be consistent with Kawasaki disease. In these cases, laboratory findings include elevated ESR and CRP, leukocytosis with neutrophilia, and hypoalbuminemia."
+    },
+    {
+      "stem": "Your treatment choice for this boy in (Q 8) is?",
+      "options": [
+        "Broad spectrum antibiotic intravenously to complete 10 days",
+        "High dose of IVIG",
+        "High dose of IVIG and Corticosteroids.",
+        "High doses of IVIG and Acetylsalicylic acid"
+      ],
+      "correct": 3,
+      "explanation": "The treatment for Kawasaki disease involves high-dose intravenous immunoglobulin (IVIG) to reduce the risk of coronary artery disease when administered within 10 days of fever onset, as well as high-dose aspirin for its anti-inflammatory and antithrombotic effects."
+    },
+    {
+      "stem": "This patient is at risk of developing",
+      "options": [
+        "Coronary artery aneurysms",
+        "Proliferative glomerulonephritis",
+        "Septic meningitis",
+        "Transient Uveitis."
+      ],
+      "correct": 0,
+      "explanation": "Kawasaki disease is the leading cause of acquired heart disease in children in developed countries, and it commonly affects the coronary arteries. Coronary artery aneurysms are a significant cardiovascular complication."
+    },
+    {
+      "stem": "An 8-year-old girl presents with symptoms of high fever lasting for 3 days. She is also complaining of severe abdominal pain and an erythematous rash on her lower legs. In the past medical history she has had several episodes of high fever and abdominal pain over the past 6 months which eventually gets better after a few days. What is the most likely diagnosis?",
+      "options": [
+        "Dermatomyositis",
+        "Familial Mediterranean fever",
+        "Inflammatory bowel disease",
+        "Recurrent urinary tract infections"
+      ],
+      "correct": 1,
+      "explanation": "The patient's history of recurrent attacks of high fever and severe abdominal pain over the past six months, along with the current presentation of a fever and an erythematous rash on the lower legs, is highly suggestive of Familial Mediterranean fever (FMF). FMF is characterized by recurrent, self-limited attacks of fever, serositis (abdominal pain, chest pain), and a rash. An erysipelas-like rash on the ankle or dorsum of the foot is a classic finding."
+    },
+    {
+      "stem": "You have been asked to evaluate a female patient who's known to have poly-articular juvenile idiopathic arthritis who started to complain of joint deformities. You would expect that this complication is due to",
+      "options": [
+        "Disease progression",
+        "High dose of corticosteroids",
+        "Methotrexate",
+        "Poor nutrition"
+      ],
+      "correct": 0,
+      "explanation": "The development of joint deformities in polyarticular Juvenile Idiopathic Arthritis (JIA) is a hallmark of disease progression. It indicates that the arthritis is aggressive and has caused permanent damage, and is not a side effect of medication."
+    },
+    {
+      "stem": "A boy 4 years old suffered from gastroenteritis followed by transient joint swellings in his lower limbs. The probable diagnosis of his joint condition is",
+      "options": [
+        "Bone disorder",
+        "Hemophilia",
+        "Reactive arthritis",
+        "Toxic synovitis"
+      ],
+      "correct": 2,
+      "explanation": "Reactive arthritis is a self-limited, transient oligoarticular arthritis that can occur as a reaction to a preceding bacterial infection, such as an enteric infection with Salmonella or Shigella. The boy's history of gastroenteritis followed by transient joint swellings is a classic presentation."
+    },
+    {
+      "stem": "A 7-year-old boy has crampy abdominal pain and a rash mainly on the back of his legs and buttocks as well as on the extensor surfaces of his forearms. Laboratory analysis reveals proteinuria and hematuria. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Dermatomyositis",
+        "Henoch Schönlein purpura",
+        "Post-streptococcal glomerulonephritis",
+        "Systemic lupus erythematosus"
+      ],
+      "correct": 1,
+      "explanation": "The combination of palpable purpura on the lower legs and buttocks, crampy abdominal pain, proteinuria, and hematuria is the classic tetrad of Henoch-Schonlein Purpura (HSP)."
+    },
+    {
+      "stem": "A 5-year-old boy, who was previously well, has a low grade fever colicky abdominal pain and a rash mainly on the back of his legs and buttocks. On examination there is no abdominal tenderness or masses. Laboratory analysis reveals stool positive for blood and normal platelets count. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Anaphylactoid purpura",
+        "Dermatomyositis",
+        "Post streptococcal glomerulonephritis",
+        "Systemic lupus erythematosus"
+      ],
+      "correct": 0,
+      "explanation": "Anaphylactoid purpura is an old name for Henoch-Schonlein Purpura (HSP). The clinical picture of a low-grade fever, colicky abdominal pain, a rash on the legs and buttocks, and stool positive for blood with a normal platelet count is highly characteristic of this condition. A normal platelet count is an important feature differentiating it from other causes of purpura like ITP."
+    },
+    {
+      "stem": "A 12-year-old girl presents with symmetrically painful wrists. She has had intermittent episodes of fever and malaise associated with arthralgia and myalgia. Laboratory results demonstrate anemia, elevated ESR, positive antinuclear antibodies and urinalysis with +2 blood and +2 protein. Recently, on returning from the beach, she was found to have a facial rash. What is the most likely diagnosis?",
+      "options": [
+        "Acute rheumatic fever.",
+        "Henoch-Schonlein purpura",
+        "Rheumatoid arthritis",
+        "Systemic lupus erythematosus."
+      ],
+      "correct": 3,
+      "explanation": "The presentation of a 12-year-old girl with symmetrically painful wrists, intermittent fever, arthralgia, myalgia, weight loss, alopecia, photosensitive facial rash, anemia, elevated ESR, positive ANA, and signs of nephritis (proteinuria and hematuria) is a textbook case of Juvenile Systemic Lupus Erythematosus (JSLE)."
+    },
+    {
+      "stem": "A 14-year-old girl presents with joint pains, fever, chronic fatigue, and weight loss of 2 months' duration. Blood pressure is 160/100 mm Hg, Urine analysis reveals: protein (+), 15 to 20 red blood cells; and 5 to 10 white blood cells. Laboratory tests reveal elevated antinuclear antibody (ANA) and anti-DNA levels and low serum complement levels (C3, C4). What is the most likely diagnosis?",
+      "options": [
+        "Juvenile rheumatoid arthritis",
+        "Systemic lupus erythematosus",
+        "Henoch-Schonlein purpura",
+        "Familial Mediterranean fever"
+      ],
+      "correct": 1,
+      "explanation": "A 14-year-old girl with a history of joint pains, fever, chronic fatigue, weight loss, hypertension, hematuria, proteinuria, elevated ANA, high anti-DNA levels, and low serum complement levels (C3, C4) has multiple clinical and laboratory criteria for Systemic Lupus Erythematosus."
+    },
+    {
+      "stem": "In case 17, what is the investigation needed for definite diagnosis of renal disease?",
+      "options": [
+        "Albumin/creatinine ratio",
+        "Renal biopsy",
+        "Renal ultrasonography",
+        "Urine analysis"
+      ],
+      "correct": 1,
+      "explanation": "Renal biopsy is the most definitive investigation for renal disease in a patient with SLE. It is used to stage lupus nephritis, which is crucial for guiding treatment."
+    },
+    {
+      "stem": "In case 17, what is the most common complication of this disease?",
+      "options": [
+        "Heart failure",
+        "Hepatic failure",
+        "Malignancy",
+        "Renal failure"
+      ],
+      "correct": 3,
+      "explanation": "In patients with SLE, particularly in the case of juvenile onset, there is a higher incidence of CNS and renal involvement compared to adults. Renal failure is a common and serious complication of lupus nephritis."
+    },
+    {
+      "stem": "A child has a 2 week history of spiking fever that reaches as high as 40C°. She has spindle shaped swellings of finger joints and complains of upper sternal pain. When she has fever, the parent note faint salmon-colored rash that resolves with the resolution of the fever. What is the most likely the diagnosis?",
+      "options": [
+        "Juvenile rheumatoid arthritis",
+        "Osteoarthritis",
+        "Rheumatic fever",
+        "Septic arthritis"
+      ],
+      "correct": 0,
+      "explanation": "A child with a two-week history of spiking fever, joint swellings (spindle shaped), upper sternal pain, and a faint, salmon-colored rash that appears with fever is presenting with a classic picture of systemic-onset Juvenile Idiopathic Arthritis (SJIA). The fever pattern, rash, and arthritis are all characteristic features."
+    },
+    {
+      "stem": "A 3-year-old boy presents with an 8-day history of high fever, rash, red eyes, persistent crying, and refusal to walk. His conjunctivae are injected. He has cracked, red lips, and a red tongue. He has a few enlarged, tender left cervical lymph nodes; His heart examination is normal except for tachycardia. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Kawasaki disease.",
+        "Scarlet fever",
+        "Systemic lupus erythematosus",
+        "Systemic onset juvenile idiopathic arthritis"
+      ],
+      "correct": 0,
+      "explanation": "The clinical findings of a 3-year-old boy with a high fever for eight days, rash, conjunctival injection, red/cracked lips, strawberry tongue, and cervical lymphadenopathy are the core diagnostic criteria for classic Kawasaki disease."
+    },
+    {
+      "stem": "A mother brings her 3-year-old daughter for evaluation of left knee swelling. The child's symptoms began approximately 30 days ago with morning stiffness that initially lasted 30 minutes. However, she now limps all day. On examination the left ankle and knee are swollen and have decreased range of motion. The review of symptoms is negative for fevers, rash, sore throat. Which of the following is the likely diagnosis?",
+      "options": [
+        "Oligoarticular juvenile idiopathic arthritis",
+        "Polyarticular juvenile idiopathic arthritis",
+        "Systemic lupus erythematosus",
+        "Systemic onset juvenile idiopathic arthritis"
+      ],
+      "correct": 0,
+      "explanation": "A 3-year-old girl with a history of unilateral knee swelling and limping for a month, followed by ankle involvement (a total of less than 4 joints), and no systemic symptoms like fever or rash, fits the description of oligoarticular Juvenile Idiopathic Arthritis (JIA). This is the most common form of JIA and is characterized by asymmetrical involvement of large joints."
+    },
+    {
+      "stem": "Juvenile rheumatoid arthritis is characterized by one of the following:",
+      "options": [
+        "Commonly affects large joints",
+        "Rheumatoid factor is always positive",
+        "Excellent response to steroids in all cases",
+        "Commonly affects small joints"
+      ],
+      "correct": 3,
+      "explanation": "Polyarticular JIA affects five or more joints, including small and large joints, and is usually symmetrical. Therefore, commonly affecting small joints is a characteristic feature of polyarticular JIA."
+    },
+    {
+      "stem": "Which of the following laboratory results would not support a diagnosis of Kawasaki disease?",
+      "options": [
+        "Elevated white blood cell count",
+        "Normal erythrocyte sedimentation rate (ESR)",
+        "Elevated liver transaminases",
+        "White blood cells in the urine with a negative urine culture"
+      ],
+      "correct": 1,
+      "explanation": "In Kawasaki disease, laboratory findings typically include an elevated ESR and CRP. Therefore, a normal ESR would not support the diagnosis. Leukocytosis and elevated liver transaminases are also common findings. Sterile pyuria (white blood cells in the urine with a negative culture) can also occur."
+    },
+    {
+      "stem": "Fever in rheumatic diseases is caused by cytokine release and can take many forms. Regular temperature spikes, once or twice a day is seen in",
+      "options": [
+        "Behçet syndrome",
+        "Dermatomyositis",
+        "Kawasaki disease",
+        "Systemic-onset juvenile idiopathic arthritis"
+      ],
+      "correct": 3,
+      "explanation": "Systemic-onset Juvenile Idiopathic Arthritis (SJIA) is characterized by a high, spiking fever that occurs daily for at least two weeks."
+    },
+    {
+      "stem": "Malar rash is seen in which of the following pediatric diseases?",
+      "options": [
+        "Kawasaki disease",
+        "Leukemia",
+        "Rheumatic fever",
+        "Systemic lupus erythematosus"
+      ],
+      "correct": 3,
+      "explanation": "Malar rash (a butterfly-shaped rash across the cheeks and nose) is a characteristic mucocutaneous manifestation of Systemic Lupus Erythematosus (SLE)."
+    },
+    {
+      "stem": "Non fixed erythematous rash (related to fever) is seen in which of the following pediatric arthritis syndromes?",
+      "options": [
+        "Kawasaki disease",
+        "Lupus erythematosus",
+        "Juvenile idiopathic arthritis",
+        "Sarcoidosis."
+      ],
+      "correct": 2,
+      "explanation": "Systemic-onset Juvenile Idiopathic Arthritis (SJIA) is a subtype of JIA that presents with a non-fixed, erythematous rash that is related to the fever spikes."
+    },
+    {
+      "stem": "Chronic arthritis (>6 weeks) in the following pediatric arthritis syndromes, is mostly seen in",
+      "options": [
+        "Juvenile idiopathic arthritis",
+        "Kawasaki disease",
+        "Leukemia",
+        "Lymphoma"
+      ],
+      "correct": 0,
+      "explanation": "Juvenile idiopathic arthritis (JIA) is a chronic illness of childhood defined by arthritis lasting for more than six weeks."
+    },
+    {
+      "stem": "Skin manifestations in Henoch-Schonlein purpura (HSP) occur in what percentage of cases?",
+      "options": [
+        "20%",
+        "40%",
+        "60%",
+        "100%"
+      ],
+      "correct": 3,
+      "explanation": "Palpable purpura on the lower limbs and buttocks is the hallmark of Henoch-Schonlein Purpura (HSP) and is a consistent finding in all cases."
+    },
+    {
+      "stem": "Criteria for diagnosis of Kawasaki disease do not include",
+      "options": [
+        "Bilateral suppurative conjunctivitis",
+        "Fever of>5 days duration",
+        "Periungual desquamation",
+        "Polymorphous rash"
+      ],
+      "correct": 0,
+      "explanation": "The clinical criteria for classic Kawasaki disease include bilateral bulbar conjunctival injection without exudate. Suppurative conjunctivitis, which involves pus, is not a feature of this disease."
+    },
+    {
+      "stem": "The most common form of juvenile idiopathic arthritis (JIA) is",
+      "options": [
+        "Oligo articular juvenile idiopathic arthritis",
+        "Polyarticular juvenile idiopathic arthritis",
+        "Psoriatic arthritis",
+        "Systemic onset juvenile idiopathic arthritis"
+      ],
+      "correct": 0,
+      "explanation": "Oligoarticular JIA is the most common form of juvenile idiopathic arthritis, accounting for 50% of cases."
+    },
+    {
+      "stem": "The attack of Familial Mediterranean fever usually lasts",
+      "options": [
+        "30 minutes",
+        "2 hours",
+        "14 days",
+        "6 hours to 1 week"
+      ],
+      "correct": 3,
+      "explanation": "Familial Mediterranean fever (FMF) attacks are characterized by recurrent fever, serositis, rash, and musculoskeletal involvement. An attack typically lasts from 6 hours to 96 hours, or up to 4 days, with some sources listing up to one week."
+    },
+    {
+      "stem": "The first option in the treatment of JIA is",
+      "options": [
+        "Hydroxychloroquine",
+        "Nonsteroidal anti-inflammatory drugs",
+        "Physiotherapy",
+        "Systemic corticosteroids"
+      ],
+      "correct": 1,
+      "explanation": "The first line of drug treatment for JIA is typically non-steroidal anti-inflammatory drugs (NSAIDs) such as Ibuprofen or diclofenac, especially in the oligoarticular type."
+    },
+    {
+      "stem": "Which of the following rheumatic diseases of childhood, heliotropic rash of the eyelids and gottrons papules are seen?",
+      "options": [
+        "Henoch-Schonlein purpura",
+        "Kawasaki disease",
+        "Juvenile dermatomyositis",
+        "Systemic lupus erythematosus"
+      ],
+      "correct": 2,
+      "explanation": "Heliotropic rash on the eyelids and Gottron's papules (scaly, red plaques over the knuckles) are classic features of Juvenile Dermatomyositis (JDM)."
+    },
+    {
+      "stem": "Familial Mediterranean fever attacks include",
+      "options": [
+        "Fever",
+        "Rash",
+        "Serositis",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "Familial Mediterranean fever (FMF) attacks are characterized by recurrent fever, serositis (such as abdominal pain or chest pain), and a rash. Arthritis is also a common feature."
+    },
+    {
+      "stem": "Which of the following is the most appropriate laboratory test to diagnose systemic lupus erythematosus?",
+      "options": [
+        "Antinuclear antibody",
+        "Anti-histone antibody",
+        "Anti-ß 2 glycoprotein I antibody",
+        "Anti-double stranded DNA antibody"
+      ],
+      "correct": 0,
+      "explanation": "Antinuclear antibodies (ANA) are a key immunological criterion for the diagnosis of Systemic Lupus Erythematosus (SLE) and are found in nearly all patients."
+    },
+    {
+      "stem": "The most common complication of Familial Mediterranean fever in severe untreated cases is",
+      "options": [
+        "Amyloidosis",
+        "Deformities",
+        "Endocarditis",
+        "Uveitis"
+      ],
+      "correct": 0,
+      "explanation": "In severe, untreated cases of Familial Mediterranean fever (FMF), a major complication is the development of amyloidosis."
+    }
+  ]
+}

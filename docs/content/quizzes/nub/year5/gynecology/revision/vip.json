@@ -1,0 +1,1905 @@
+{
+  "title": "VIP",
+  "questions": [
+    {
+      "stem": "What is the syndrome of absent uterus and upper vagina?",
+      "options": [
+        "Mayer-Rokitansky-Küster-Hauser (MRKH) Syndrome",
+        "Turner Syndrome",
+        "Asherman Syndrome"
+      ],
+      "correct": 0,
+      "explanation": "Mayer-Rokitansky-Küster-Hauser (MRKH) Syndrome is characterized by females with a congenital failure of development of the Mullerian duct (para-mesonephric duct) structures, which include the uterus, cervix, and upper vagina."
+    },
+    {
+      "stem": "A patient with a 46,XX karyotype, normal ovaries, but an absent uterus and vagina may have which condition?",
+      "options": [
+        "Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome",
+        "Asherman syndrome"
+      ],
+      "correct": 0,
+      "explanation": "Females with Mullerian agenesis (MRKH Syndrome) have a 46,XX karyotype and congenital failure of development of the uterus, cervix, and upper vagina. They have normal ovaries that are capable of producing normal amounts of estrogen."
+    },
+    {
+      "stem": "What is the karyotype in Mayer-Rokitansky-Küster-Hauser Syndrome?",
+      "options": [
+        "46, XX",
+        "45, X",
+        "46, XY"
+      ],
+      "correct": 0,
+      "explanation": "In Mayer-Rokitansky-Küster-Hauser (MRKH) Syndrome, the genetic study of a blood sample reveals a 46, XX chromosomal pattern."
+    },
+    {
+      "stem": "Estrogen has an effect on all of the following EXCEPT:",
+      "options": [
+        "Breast development",
+        "Uterine growth",
+        "Axillary & pubic hair growth",
+        "Endometrial proliferation"
+      ],
+      "correct": 2,
+      "explanation": "Estrogen contributes to breast development, uterine growth, and endometrial proliferation. However, axillary and pubic hair growth occurs under the effect of ACTH and androgens, not estrogen."
+    },
+    {
+      "stem": "Which hormones characteristically increase after Menopause?",
+      "options": [
+        "Estrogen and Progesterone",
+        "FSH and LH",
+        "Prolactin"
+      ],
+      "correct": 1,
+      "explanation": "After menopause, there is a marked increase in serum FSH & LH levels due to the depletion of ovarian primordial follicles and subsequent cessation of ovarian estrogen (E2) secretion, releasing the pituitary gland from negative feedback."
+    },
+    {
+      "stem": "According to Tanner staging, what is often the first physical sign of puberty in girls?",
+      "options": [
+        "Growth spurt",
+        "Thelarche (breast budding)",
+        "Pubarche (growth of pubic hair)"
+      ],
+      "correct": 1,
+      "explanation": "The Tanner stages of pubertal growth indicate that the pubertal cascade starts usually by growth spurt, followed by breast development (thelarche), pubic hair, menarche, and finally axillary hair."
+    },
+    {
+      "stem": "An 8-year-old girl has vaginal bleeding & breast enlargement but no axillary or pubic hair. The diagnosis is:",
+      "options": [
+        "Constitutional true puberty",
+        "Estrogen-secreting ovarian tumor",
+        "McCune-Albright syndrome"
+      ],
+      "correct": 1,
+      "explanation": "Precocious puberty describes the appearance of secondary sexual characters before 8 years of age. If there is vaginal bleeding and breast enlargement (signs of estrogen effect) but no axillary or pubic hair (which would be influenced by androgens), it suggests a source of estrogen that is not also producing androgens, such as an estrogen-secreting ovarian tumor."
+    },
+    {
+      "stem": "What is the most common cause of primary amenorrhea?",
+      "options": [
+        "Turner syndrome",
+        "Imperforate hymen",
+        "Cervical atresia"
+      ],
+      "correct": 0,
+      "explanation": "Turner syndrome (Gonadal Dysgenesis) is the commonest cause of primary amenorrhea, being responsible for 30% of cases."
+    },
+    {
+      "stem": "All are features of imperforate hymen EXCEPT:",
+      "options": [
+        "Primary amenorrhea",
+        "Cyclic, monthly abdominal pain",
+        "Short stature"
+      ],
+      "correct": 2,
+      "explanation": "Imperforate hymen can cause primary amenorrhea and cyclic, monthly abdominal pain due to accumulation of menstrual blood (hematocolpos and hematometra). Short stature is a characteristic feature of Turner syndrome, not imperforate hymen."
+    },
+    {
+      "stem": "In cervical atresia, all of the following are present EXCEPT:",
+      "options": [
+        "Hematometra",
+        "Hematocolpos",
+        "Hematosalpinx"
+      ],
+      "correct": 1,
+      "explanation": "In congenital cervical atresia, failure of canalization of the cervical canal leads to accumulation of menstrual blood, resulting in marked hematometra (blood in uterus) but no hematocolpos (blood in vagina) because the cervix is blocked. The source does not list hematosalpinx as a feature present in cervical atresia."
+    },
+    {
+      "stem": "Where does fertilization normally occur?",
+      "options": [
+        "Distal part of the fallopian tube (Ampulla)",
+        "Proximal part of the fallopian tube",
+        "Uterus"
+      ],
+      "correct": 0,
+      "explanation": "Fertilization normally occurs in the distal part of the fallopian tube (Ampulla)."
+    },
+    {
+      "stem": "Which part of the uterus is retained during the menstrual cycle?",
+      "options": [
+        "Basal layer",
+        "Functional layer",
+        "Intermediate layer"
+      ],
+      "correct": 0,
+      "explanation": "The endometrium has a basal portion (basalis) which represents the basal 25% of the endometrium, and is retained during menstruation. The functional portion (superficial and intermediate layers) is shed during menstruation."
+    },
+    {
+      "stem": "Ovulation occurs approximately how long after the onset of the LH surge?",
+      "options": [
+        "12 hours",
+        "24 hours",
+        "36 hours"
+      ],
+      "correct": 2,
+      "explanation": "Ovulation (oocyte release) occurs approximately 36 hours after the onset of the LH surge and about 12 hours after the LH peak."
+    },
+    {
+      "stem": "What is the most common cause of infertility?",
+      "options": [
+        "Ovarian",
+        "Tubal",
+        "Uterine"
+      ],
+      "correct": 0,
+      "explanation": "Ovulatory disturbance (an ovarian factor) is the most commonly encountered factor for female infertility, being the primary cause in almost 40% of cases. Tubal damage and peritoneal adhesions are also frequent causes."
+    },
+    {
+      "stem": "What is the first investigation for male infertility?",
+      "options": [
+        "Semen analysis",
+        "Hormonal assay",
+        "Scrotal ultrasound"
+      ],
+      "correct": 0,
+      "explanation": "Semen analysis should be obtained from all males during infertility investigations and is presented as the first special investigation listed for male factor diagnosis."
+    },
+    {
+      "stem": "IVF is indicated in all of the following EXCEPT:",
+      "options": [
+        "Mild oligospermia",
+        "Failure of IUI",
+        "Severe tubal adhesions"
+      ],
+      "correct": 0,
+      "explanation": "Mild oligospermia is listed as an indication for Intra Uterine Insemination (IUI). IVF/ICSI is indicated for severe male factor, failed IUI, severe tubal adhesions, and unexplained infertility."
+    },
+    {
+      "stem": "IVF is used in all of the following EXCEPT:",
+      "options": [
+        "Tubal blockage",
+        "Azoospermia",
+        "Unexplained infertility"
+      ],
+      "correct": 1,
+      "explanation": "IVF, particularly with ICSI, is indicated for tubal blockage, severe male factor, and unexplained infertility. While severe male factor is an indication, the question implies azoospermia as an exception, potentially because it may require additional procedures for sperm retrieval or donor sperm, which fall outside the typical direct 'use' of IVF without preliminary steps."
+    },
+    {
+      "stem": "The pudendal artery is a branch of which artery?",
+      "options": [
+        "External iliac artery",
+        "Internal iliac artery",
+        "Femoral artery"
+      ],
+      "correct": 1,
+      "explanation": "The internal pudendal artery is one of the two terminal branches of the anterior division of the internal iliac artery."
+    },
+    {
+      "stem": "What is the main support of the uterus?",
+      "options": [
+        "Round ligament",
+        "Cardinal (transverse cervical) ligament",
+        "Pelvic floor muscles"
+      ],
+      "correct": 1,
+      "explanation": "The cervical ligaments, which include the Mackenrodt’s ligaments (lateral cervical or cardinal ligaments of the cervix), are described as the strongest cervical ligaments and act as the chief support of the uterus and pelvic structures."
+    },
+    {
+      "stem": "All of the following support the uterus EXCEPT:",
+      "options": [
+        "Uterosacral ligament",
+        "Cardinal ligament",
+        "Sacrospinous Ligament"
+      ],
+      "correct": 2,
+      "explanation": "The uterosacral ligament, cardinal ligament, and pelvic floor muscles (which include pubococcygeus) are all listed as supports of the uterus. The sacrospinous ligament is not listed as a direct support for the uterus in the provided context."
+    },
+    {
+      "stem": "A uterine anomaly with 2 cavities and one cervix is known as:",
+      "options": [
+        "Septate uterus",
+        "Bicornuate uterus",
+        "Uterus didelphys"
+      ],
+      "correct": 0,
+      "explanation": "A septate uterus is a uterine anomaly where the uterine cavity is divided by a longitudinal complete median septum."
+    },
+    {
+      "stem": "What is the most used method for diagnosis of fibroids and uterine anomalies?",
+      "options": [
+        "HSG",
+        "Hysteroscopy",
+        "3D Ultrasound"
+      ],
+      "correct": 2,
+      "explanation": "Introduction of 3D US and Saline Infusion Sonography (SIS), has improved the accuracy of US diagnosis for congenital uterine anomalies and uterine leiomyomas, making it the gold standard."
+    },
+    {
+      "stem": "What is the most common pathological change in a myoma during menopause?",
+      "options": [
+        "Atrophy",
+        "Red degeneration",
+        "Malignant transformation"
+      ],
+      "correct": 0,
+      "explanation": "Atrophy is the commonest change occurring in the menopause due to estrogen deficiency."
+    },
+    {
+      "stem": "A common type of degeneration in a leiomyoma during pregnancy is:",
+      "options": [
+        "Red degeneration",
+        "Hyaline degeneration",
+        "Malignant degeneration"
+      ],
+      "correct": 0,
+      "explanation": "Red degeneration (Necro-biosis) is the commonest change during pregnancy in a leiomyoma, possibly as the tumor may outgrow its blood supply."
+    },
+    {
+      "stem": "Malignant transformation to leiomyosarcoma is suspected in which case?",
+      "options": [
+        "Menopause with rapid enlargement of a fibroid",
+        "A small, asymptomatic fibroid",
+        "Red degeneration during pregnancy"
+      ],
+      "correct": 0,
+      "explanation": "Malignancy to leiomyosarcoma is suspected whenever tumors that first appear, or increase in size, in the menopause or tumors that elicit a rapid growth without evidence of degeneration."
+    },
+    {
+      "stem": "What is the gold standard to diagnose endometriosis?",
+      "options": [
+        "Ultrasound",
+        "Laparoscopy with biopsy",
+        "CA-125 level"
+      ],
+      "correct": 1,
+      "explanation": "Diagnostic Laparoscopy (with or without biopsy) is the gold standard in diagnosis and staging of endometriosis."
+    },
+    {
+      "stem": "All are symptoms of endometriosis EXCEPT:",
+      "options": [
+        "Dysmenorrhea",
+        "Dyspareunia",
+        "Amenorrhea"
+      ],
+      "correct": 2,
+      "explanation": "Common symptoms of endometriosis include dysmenorrhea and dyspareunia, as well as chronic pelvic pain. Amenorrhea is the absence or cessation of menstruation and is not listed as a typical symptom of endometriosis; rather, endometriosis can cause painful menses (dysmenorrhea)."
+    },
+    {
+      "stem": "A female with dysmenorrhea and pelvic pain due to endometriosis (post-surgery) needs management to relieve pain. Which is a suitable option?",
+      "options": [
+        "GnRH agonists",
+        "Danazol",
+        "COCs",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "Medical treatment for endometriosis pain includes GnRH agonists, Danazol (formerly used), and Continuous Combined Oral Contraceptive Pills (COCs). Thus, all listed options are suitable."
+    },
+    {
+      "stem": "Asherman Syndrome can be diagnosed by all these tools EXCEPT:",
+      "options": [
+        "HSG",
+        "Hysteroscopy",
+        "Laparoscopy"
+      ],
+      "correct": 2,
+      "explanation": "HSG (Hysterosalpingography) and hysteroscopy are excellent diagnostic tools for Asherman's syndrome. Laparoscopy is not mentioned as a primary diagnostic tool for Asherman Syndrome (intrauterine adhesions)."
+    },
+    {
+      "stem": "Treatment of uterine synechiae (Asherman syndrome) includes all of the following EXCEPT:",
+      "options": [
+        "Surgery",
+        "Corticosteroids (to decrease fibrosis)",
+        "GnRH agonists"
+      ],
+      "correct": 2,
+      "explanation": "Treatment of uterine synechiae (Asherman syndrome) involves lysis of adhesions via hysteroscopy, followed by cyclic combined EST/PRG therapy to restore endometrial regeneration. Corticosteroids are also mentioned as part of the treatment for uterine synechiae (Asherman syndrome). GnRH agonists are not listed as part of the treatment for Asherman syndrome."
+    },
+    {
+      "stem": "In a pituitary stalk lesion, which hormone level is expected to increase?",
+      "options": [
+        "Prolactin",
+        "Growth Hormone (GH)",
+        "FSH"
+      ],
+      "correct": 0,
+      "explanation": "Damage to the pituitary stalk will result in hypopituitarism for FSH, LH, GH, ACTH, and TSH, but with an associated increase in PRL (prolactin) secretion because prolactin is under chronic inhibition by prolactin inhibiting factor (PIF)."
+    },
+    {
+      "stem": "Causes of hyperprolactinemia include all of the following EXCEPT:",
+      "options": [
+        "Pregnancy",
+        "Lactation",
+        "Dopamine agonists"
+      ],
+      "correct": 2,
+      "explanation": "Causes of hyperprolactinemia include pregnancy, lactation, drug-induced effects (e.g., psychotropic drugs reducing dopamine), primary hypothyroidism, pituitary adenomas, and hypothalamic disorders. Dopamine agonists are actually used as treatment for hyperprolactinemia because dopamine is the prolactin inhibiting factor (PIF)."
+    },
+    {
+      "stem": "A patient with hirsutism is diagnosed with PCOS and does not need fertility for the next two years. What is the best management?",
+      "options": [
+        "Cyclic contraceptive pills",
+        "Bromocriptine"
+      ],
+      "correct": 0,
+      "explanation": "For hirsutism management in PCOS patients who do not need fertility, oral contraceptive pills (OCPs), containing combined low dose E and P, decrease ovarian androgen production, increase SHBG, and decrease free T levels."
+    },
+    {
+      "stem": "All of the following are causes of anovulation EXCEPT:",
+      "options": [
+        "Hypothyroidism",
+        "Asherman syndrome",
+        "Polycystic Ovary Syndrome (PCOS)"
+      ],
+      "correct": 1,
+      "explanation": "Hypothyroidism and Polycystic Ovary Syndrome (PCOS) are both listed as causes of anovulation. Asherman syndrome is characterized by acquired intrauterine adhesions that prevent endometrial proliferation, leading to secondary amenorrhea, but it is not a primary cause of anovulation; rather, it's a uterine factor."
+    },
+    {
+      "stem": "Investigation of Androgen Insensitivity Syndrome includes all of the following EXCEPT:",
+      "options": [
+        "Karyotyping",
+        "Pelvic ultrasound",
+        "Endometrial biopsy"
+      ],
+      "correct": 2,
+      "explanation": "Investigations for Androgen Insensitivity Syndrome include karyotyping (revealing 46, XY) and pelvic ultrasound (revealing absent uterus and small or absent vagina, with testes possibly in inguinal region). An endometrial biopsy is not applicable because these individuals typically have an absent uterus."
+    },
+    {
+      "stem": "A 28-year-old female with an IUD needs it replaced. She has a fibroid at the fundus. Management should be:",
+      "options": [
+        "Replace the IUD",
+        "Shift to combined oral contraceptive pills and follow up on the fibroid",
+        "Perform a myomectomy"
+      ],
+      "correct": 0,
+      "explanation": "Uterine leiomyomas are listed as a contraindication for IUD use if they interfere with proper insertion or cause complications. However, the presence of a fibroid at the fundus, especially if not described as large or interfering with insertion, does not automatically contraindicate IUD replacement, implying that it can be replaced as long as proper placement is ensured. The option 'replace the IUD' implies that it's feasible given the specific information."
+    },
+    {
+      "stem": "What is the gold standard diagnostic tool in dermatomyositis?",
+      "options": [
+        "Ultrasound (US)",
+        "Laparoscopy",
+        "Muscle Biopsy"
+      ],
+      "correct": 2,
+      "explanation": "Muscle Biopsy is listed as the gold standard diagnostic tool for dermatomyositis."
+    },
+{
+      "stem": "1. Trichomoniasis:",
+      "options": [
+        "Itching is the main presenting symptom",
+        "May present with purulent offensive discharge",
+        "Symptoms usually increase with pregnancy",
+        "Is sensitive to metronidazole and tinidazole"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "2. Regarding vaginal candida infection, the following is true except:",
+      "options": [
+        "The probability of symptomatic infection increases with use of combined Ocps",
+        "infection flourishes with lowered vaginal acidity",
+        "itching is the main symptom",
+        "vaginal miconazole is an effective treatment"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "3. Candida albicans:",
+      "options": [
+        "Is a bacterium",
+        "Incidence is increased in diabetics",
+        "Ascending infection may reach the tubes",
+        "Symptoms increase post menstrual"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "4. Regarding genuine stress incontinence, all of the following is true except:",
+      "options": [
+        "it is more common in parous women",
+        "is associated with a high urethral pressure on urodynamic studies",
+        "it can be treated surgically",
+        "This condition is commonly associated with prolapse"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "6. Regarding uretro-vaginal fistula, all of the following is true except:",
+      "options": [
+        "The patient usually complains of partial incontinence",
+        "Cystoscopy shows intact bladder",
+        "Methylene blue test shows wet unstained gauze",
+        "Cystoscope shows urine efflux on the affected side"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "7. Mechanism of action of copper IUD as contraception include all of the following except:",
+      "options": [
+        "making endometrium hostile for implantation",
+        "changes in cervical mucus",
+        "change tubal motility",
+        "toxic to fertilized ovum"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "8. The main support maintaining uterus and vagina in place to decrease incidence of prolapse is:",
+      "options": [
+        "Uterosacral ligament",
+        "Broad ligament",
+        "Pubocervical ligament",
+        "Mackenrodt's ligament"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "9. Regarding trophic ulcers in prolapse all are correct except:",
+      "options": [
+        "Occur in long standing prolapse",
+        "Must be treated before operations by progesterone cream especially in post menopause",
+        "Can be cause of recurrent prolapse after surgery",
+        "Treated by vaginal packs to decrease congestion"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "11. Most common cause of neoplastic ovarian swellings is:",
+      "options": [
+        "epithelial ovarian tumors",
+        "granulosa cell tumors",
+        "immature teratoma",
+        "fibroma"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "12. The following is considered a contraindication to IUD:",
+      "options": [
+        "During lactation",
+        "Previous CS",
+        "Previous missed IUD threads",
+        "Previous ectopic pregnancy"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "13. A 60 years old hypertensive multipara, menopausal for 10 years, presented by an attack of mild vaginal bleeding. TVS revealed normal size AVF uterus with a 10 mm endometrial thickness. How can you counsel this patient?",
+      "options": [
+        "Just control hypertension and follow up",
+        "Progestogens for few months will stop bleeding",
+        "Fractional curettage is mandatory",
+        "Check F.SH and L.H. before taking an action"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "14. All the following are late complication of PID, EXCEPT:",
+      "options": [
+        "Raised WBC count",
+        "Ectopic pregnancy",
+        "Subfertility",
+        "Chronic PID"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "15. A 52-year-old multi-para complains of vaginal pressure and fullness which is especially evident when she bears down. During examination, with straining the external os of the cervix is seen slightly protruding outside the introitus. What degree of her uterine prolapse?",
+      "options": [
+        "1st degree",
+        "2nd degree",
+        "3rd degree",
+        "Procidentia"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "16. A 62-year-old woman presenting with a history of recent weight loss, vague abdominal pain and distention, on examination a large pelviabdominal mass is felt extending 2 finger breadth above the umbilicus, ultrasound shows a left sided ovarian mass with high vascularity, laboratory investigations show elevated CA 125 the most likely diagnosis is:",
+      "options": [
+        "Ovarian endometrioma",
+        "Ovarian dermoid",
+        "Ovarian malignant neoplasm",
+        "Ovarian haemorrhagic cyst"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "17. causes of valvular ulcers include all of the following except:",
+      "options": [
+        "chancre",
+        "chancroid",
+        "gonorrhoea",
+        "tuberculosis"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "18. Appropriate treatment of an acute Bartholin abcess include all of the following except:",
+      "options": [
+        "analgesics and local heat",
+        "antibiotics",
+        "incision and drainage",
+        "marsuplization"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "19. most responsive ovarian tumour to radiotherapy:",
+      "options": [
+        "dysgerminoma",
+        "mucinous cystadenocarcinoma",
+        "endometroid adenocarcinoma",
+        "malignant solid teratoma"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "20. All of the following are causes of anovulation except:",
+      "options": [
+        "Polycystic ovary syndrome (PCO)",
+        "Hyperprolactinemia",
+        "Asherman's syndrome",
+        "Hypothyroidism"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "21. which of the following is true regarding investigations of infertility cases:",
+      "options": [
+        "Semen analysis is usually not needed",
+        "Hysterosalpingography (H.S.G) reveals abnormalities of the uterine cavity and fallopian tubes",
+        "Laparoscopy is used to diagnose endometrial lesions",
+        "Hysteroscopy can be used to treat peritoneal adhesions"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "22. Regarding tubal factors of infertility, all of the following are true except:",
+      "options": [
+        "Salpingitis can lead to damage of the fallopian tube and infertility",
+        "Can be diagnosed by hysterosalpingography",
+        "In vitro fertilization (I.V.F) is a treatment option",
+        "Hormonal assay is needed to diagnose tubal factors of infertility"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "23. Choose the correct statement regarding indications of assisted reproductive techniques:",
+      "options": [
+        "Bilateral tubal damage",
+        "Severe asthenozoospermia",
+        "Severe oligozoospermia",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "24. complications of female genital mutilation include all following except:",
+      "options": [
+        "bleeding",
+        "infection",
+        "urinary problems",
+        "increase sexual satisfaction"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "25. Investigations done to reach cause of hyperprolactinemia include all except:",
+      "options": [
+        "Serum prolactin",
+        "Serum FSH and LH",
+        "CT skull",
+        "Serum TSH"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "26. A 28-year-old nullipara who has been seeking pregnancy is diagnosed with PCO. She is generally healthy, but her BMI is in obese range. Which of the following should be recommended as first line management of her anovulation?",
+      "options": [
+        "Gonadotrophins",
+        "Clomiphene citrate",
+        "Weight loss and exercise",
+        "Insulin sensitizing agents"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "27. The Mullerian duct is the origin of all the following EXCEPT:",
+      "options": [
+        "Ovaries",
+        "Uterus",
+        "Cervix",
+        "Upper 4/5 of the vagina"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "28. A 17 years old patient presents for evaluation as she has not started her period. On examination, she has no breast budding, she has no pubic hair, she has a cervix and a uterus, the ovaries are not palpable. Serum FSH and LH are high. Which is the most likely cause:",
+      "options": [
+        "Congenital adrenal hyperplasia",
+        "Kallman syndrome",
+        "Gonadal dysgenesis",
+        "Mullerian agenesis"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "29. A 19 years old patient presents for evaluation of primary amenorrhea. She is medically free. On examination, normal breast and pubic hair, but uterus and vagina are absent. Which is the most likely cause:",
+      "options": [
+        "complete androgen insensitivity",
+        "Gonadal dysgenesis",
+        "Mullerian agenesis",
+        "Turner syndrome"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "30. A 47 years old G3P3 patient presents with severe progressive menstrual cramps and heavy menstrual bleeding. Pelvic examination demonstrates a tender, diffusely enlarged uterus with no adenexal tenderness. A pap test and endometrial biopsy normal. What is the most likely diagnosis?",
+      "options": [
+        "endometriosis",
+        "endometritis",
+        "Adenomyosis",
+        "Leiomyoma"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "31. A 28-year-old patient presents for follow up of chronic pelvic pain and dyspareunia, She recently underwent a diagnostic laparoscopy that demonstrated endometriosis... Which medications are the best option for ttt of endometriosis related pain:",
+      "options": [
+        "continuous estrogen",
+        "combined oral contraceptive pills",
+        "Danazol",
+        "A Gnrh agonist"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "32. The aromatase enzyme in the granulosa cell allows conversion of androstenedione to:",
+      "options": [
+        "Estrogen",
+        "prolactin",
+        "Progesterone",
+        "Testosterone"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "33. Ovulation:",
+      "options": [
+        "Is followed by the development of proliferative endometrium",
+        "Is associated with LH surge",
+        "Is followed by decrease in body temperature",
+        "Occurs as a result of elevation of prolactin hormone"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "34. The first stage in pubertal development is:",
+      "options": [
+        "Menarche",
+        "Growth spurt",
+        "Appearance of breast bud",
+        "Appearance of pubic hair"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "35. Management of the menopause includes:",
+      "options": [
+        "Counselling & reassurance",
+        "Calcium supplementation",
+        "Estrogen replacement to selected cases",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+{
+      "stem": "1. Anomaly of the uterus with 2 cavities and one cervix is:",
+      "options": [
+        "Didelphys uterus",
+        "Septate uterus",
+        "Bicornuate uterus",
+        "Unicornuate uterus"
+      ],
+      "correct": 2,
+      "explanation": "A bicornuate uterus is defined as a uterine body divided into 'two horns, both attached to one cervix'."
+    },
+    {
+      "stem": "2. The main support of the uterus is:",
+      "options": [
+        "Round ligament",
+        "Broad ligament",
+        "Uterosacral & cardinal ligaments",
+        "Ovarian ligament"
+      ],
+      "correct": 2,
+      "explanation": "The cervical ligaments, which include the cardinal (Mackenrodt's) and uterosacral ligaments, act as the 'chief support of the uterus and pelvic structures'."
+    },
+    {
+      "stem": "3. Internal pudendal artery is a branch of:",
+      "options": [
+        "External iliac artery",
+        "Internal iliac artery",
+        "Uterine artery",
+        "Inferior mesenteric artery"
+      ],
+      "correct": 1,
+      "explanation": "The internal pudendal artery is one of the two terminal branches of the anterior division of the internal iliac artery."
+    },
+    {
+      "stem": "4. The infundibulopelvic ligament contains which structure?",
+      "options": [
+        "Uterine vessels",
+        "Ovarian vessels",
+        "Internal pudendal vessels",
+        "Superior vesical vessels"
+      ],
+      "correct": 1,
+      "explanation": "The infundibulopelvic ligament carries the ovarian vessels, nerves, and lymphatics."
+    },
+    {
+      "stem": "5. The uterine artery supplies which of the following?",
+      "options": [
+        "Ovary",
+        "Uterus",
+        "Vagina",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "The uterine artery is the main supply to the uterus, gives additional branches to the lower vagina, and anastomoses with the ovarian artery to supply the tube and ovary."
+    },
+    {
+      "stem": "7. Which part of the uterus is retained during menstrual cycle?",
+      "options": [
+        "Basal layer",
+        "Superficial layer",
+        "Functional layer",
+        "Intermediate layer"
+      ],
+      "correct": 0,
+      "explanation": "The basal portion (basalis) of the endometrium is the layer that is retained during menstruation."
+    },
+    {
+      "stem": "8. Estrogen has the following effect:",
+      "options": [
+        "Inhibits endometrial growth",
+        "Activates osteoblasts",
+        "Causes amenorrhea",
+        "Decreases breast development"
+      ],
+      "correct": 1,
+      "explanation": "Estrogen deficiency leads to osteoporosis due to increased activity of osteoclasts (bone-destroying cells), implying that estrogen normally preserves bone density by supporting bone-building cells."
+    },
+    {
+      "stem": "9. Constitutional precocious puberty is:",
+      "options": [
+        "Puberty due to brain tumor",
+        "Idiopathic true precocious puberty",
+        "Secondary to hypothyroidism",
+        "Due to exogenous hormones"
+      ],
+      "correct": 1,
+      "explanation": "The constitutional type of precocious puberty is due to idiopathic premature activation of the gene in the GnRH cell."
+    },
+    {
+      "stem": "10. During ovulation, which event occurs?",
+      "options": [
+        "LH surge",
+        "FSH suppression",
+        "Progesterone peak",
+        "Endometrium proliferation"
+      ],
+      "correct": 0,
+      "explanation": "High estrogen levels produce an LH surge, and ovulation occurs approximately 36 hours after its onset."
+    },
+    {
+      "stem": "11. PCOS is most commonly associated with:",
+      "options": [
+        "Hypoandrogenism",
+        "Chronic anovulation",
+        "Low LH",
+        "High FSH"
+      ],
+      "correct": 1,
+      "explanation": "PCOS is a syndrome characterized by chronic anovulation and hyperandrogenism."
+    },
+    {
+      "stem": "12. PCOS is associated with all EXCEPT:",
+      "options": [
+        "↑LH, ↑ estrogen, ↑ androgens",
+        "Insulin resistance",
+        "Low FSH",
+        "High progesterone"
+      ],
+      "correct": 3,
+      "explanation": "Since PCOS is a state of chronic anovulation, the corpus luteum does not form, and therefore progesterone levels are low."
+    },
+    {
+      "stem": "13. FSH is secreted from:",
+      "options": [
+        "Acidophilic cells, stimulates theca cells",
+        "Basophilic cells, stimulates granulosa cells",
+        "Cortical cells, stimulates endometrium",
+        "Posterior pituitary"
+      ],
+      "correct": 1,
+      "explanation": "FSH is produced by gonadotrophs (a type of basophilic cell) and stimulates the granulosa cells of the ovarian follicles to multiply."
+    },
+    {
+      "stem": "14. Most important factor for fertility is:",
+      "options": [
+        "Tubal patency",
+        "Mothers age",
+        "Cervical mucus",
+        "Ovarian reserve"
+      ],
+      "correct": 1,
+      "explanation": "The age of the female is the single most important factor in anovulatory infertility, with fertility declining rapidly after age 35."
+    },
+    {
+      "stem": "15. Induction with human menopausal gonadotropin (FSH+LH) is best used in:",
+      "options": [
+        "Hypogonadotropic anovulation",
+        "Hyperprolactinemia",
+        "PCOS",
+        "Ovarian failure"
+      ],
+      "correct": 0,
+      "explanation": "A primary indication for using pituitary gonadotropins like HMG is for cases with hypogonadotrophic anovulation (low FSH / LH levels)."
+    },
+    {
+      "stem": "16. MRKH syndrome is characterized by:",
+      "options": [
+        "45 XO, streak gonads",
+        "46 XY with testes",
+        "46 XX, absent uterus, normal ovaries",
+        "47 XXY"
+      ],
+      "correct": 2,
+      "explanation": "MRKH Syndrome affects females with a '46 XX karyotype' who have a congenital absence of the uterus and upper vagina but have 'normal ovaries'."
+    },
+    {
+      "stem": "17. Complete androgen insensitivity syndrome is characterized by:",
+      "options": [
+        "Female phenotype with 46 XY",
+        "46 XX with streak ovaries",
+        "45 XO",
+        "47 XXY"
+      ],
+      "correct": 0,
+      "explanation": "CAIS affects individuals with a '46 XY karyotype' who, due to androgen resistance, 'develop phenotypically as females'."
+    },
+    {
+      "stem": "18. In menopause with rapid enlargement of fibroid, the most likely diagnosis is:",
+      "options": [
+        "Red degeneration",
+        "Malignant change (sarcomatous)",
+        "Hyaline degeneration",
+        "Cystic degeneration"
+      ],
+      "correct": 1,
+      "explanation": "Malignancy is suspected in tumors that 'first appear, or increase in size, in the menopause'."
+    },
+    {
+      "stem": "19. PMS (premenstrual syndrome) may present with all EXCEPT:",
+      "options": [
+        "Anxiety",
+        "Mastalgia",
+        "Lower abdominal pain",
+        "Hair loss"
+      ],
+      "correct": 3,
+      "explanation": "The list of PMS symptoms includes anxiety and breast tenderness (mastalgia), but hair loss is not mentioned."
+    },
+    {
+      "stem": "21. What is the most common cause of primary amenorrhea?",
+      "options": [
+        "Turner syndrome",
+        "Imperforate hymen",
+        "Cervical atresia",
+        "Asherman syndrome"
+      ],
+      "correct": 0,
+      "explanation": "Turner syndrome 'is the commonest cause of 1ry amenorrhea, being responsible for 30% of cases'."
+    },
+    {
+      "stem": "22. In cervical atresia, all of the following are present except:",
+      "options": [
+        "Hematometra",
+        "Hematocolpos",
+        "Hematosalpinx",
+        "Normal menstruation"
+      ],
+      "correct": 1,
+      "explanation": "Cervical atresia leads to trapped menstrual blood, causing hematometra and hematosalpinx, but diagnosis reveals 'absent cervix, and no hematocolpos' (no blood collection in the vagina)."
+    },
+    {
+      "stem": "23. First investigation for male infertility is:",
+      "options": [
+        "Hormonal assay",
+        "Semen analysis",
+        "Testicular biopsy",
+        "Ultrasound of testes"
+      ],
+      "correct": 1,
+      "explanation": "A semen analysis should be obtained from all males during infertility investigations before proceeding to invasive female tests."
+    },
+    {
+      "stem": "25. Best diagnostic test for Asherman syndrome is:",
+      "options": [
+        "Ultrasound",
+        "Hysterosalpingography",
+        "Hysteroscopy",
+        "MRI"
+      ],
+      "correct": 2,
+      "explanation": "Both HSG and hysteroscopy are described as 'excellent diagnostic tools' for Asherman's syndrome; however, hysteroscopy allows for direct visualization and simultaneous treatment."
+    },
+    {
+      "stem": "26. Best management of Ashermans adhesions is:",
+      "options": [
+        "Laparoscopy",
+        "Hysteroscopic adhesiolysis",
+        "Hysterectomy",
+        "Dilatation and curettage"
+      ],
+      "correct": 1,
+      "explanation": "The recommended treatment is 'Lysis of adhesions under vision via hysteroscopy'."
+    },
+    {
+      "stem": "27. Embryological cause of transverse vaginal septum is:",
+      "options": [
+        "Failure of canalization of urogenital sinus",
+        "Failure of fusion between Müllerian ducts & urogenital sinus",
+        "Abnormal regression of Wolffian ducts",
+        "Ovarian dysgenesis"
+      ],
+      "correct": 1,
+      "explanation": "A transverse vaginal septum results from 'improper fusion between the urogenital sinus and the Mullerian ducts'."
+    },
+    {
+      "stem": "28. Imperforate hymen is due to:",
+      "options": [
+        "Failure of canalization of urogenital sinus",
+        "Failure of Müllerian duct fusion",
+        "Persistence of cloacal membrane",
+        "Gonadal dysgenesis"
+      ],
+      "correct": 0,
+      "explanation": "An imperforate hymen occurs due to 'improper canalization of the urogenital sinus'."
+    },
+    {
+      "stem": "29. IVF is indicated in all of the following except:",
+      "options": [
+        "Mild oligospermia",
+        "Failure of IUI",
+        "Severe tubal adhesions",
+        "Absolute azoospermia"
+      ],
+      "correct": 0,
+      "explanation": "IVF/ICSI is indicated for 'Severe male factor,' whereas Intrauterine insemination (IUI) is indicated for cases with 'Mild oligospermia'."
+    },
+    {
+      "stem": "30. What is the most common cause of infertility?",
+      "options": [
+        "Ovarian",
+        "Tubal",
+        "Uterine",
+        "Cervical"
+      ],
+      "correct": 0,
+      "explanation": "Ovulatory disturbance is the 'most commonly encountered factor for female infertility being the primary cause in almost 40% of cases'."
+    },
+    {
+      "stem": "31. All of the following are ovarian causes of anovulation except:",
+      "options": [
+        "PCOS",
+        "Hypothyroidism",
+        "Premature ovarian failure",
+        "Resistant ovary syndrome"
+      ],
+      "correct": 1,
+      "explanation": "Hypothyroidism is listed as an 'Endocrine Disorder' that can cause anovulation, whereas the other options are listed as primary 'Ovarian Disorders'."
+    },
+    {
+      "stem": "32. Uterine synechiae (Asherman syndrome) is treated by all except:",
+      "options": [
+        "Surgery",
+        "Corticosteroids (to decrease fibrosis)",
+        "Estrogen therapy post-op",
+        "Hysteroscopic adhesiolysis"
+      ],
+      "correct": 1,
+      "explanation": "The treatment described involves 'Lysis of adhesions under vision via hysteroscopy' followed by cyclic estrogen/progestin therapy; corticosteroids are not mentioned."
+    },
+    {
+      "stem": "33. A patient with hirsutism is diagnosed with PCOS and does not need fertility for the next two years. Best management?",
+      "options": [
+        "Cyclic contraceptive pills",
+        "Bromocriptine",
+        "Metformin",
+        "Clomiphene citrate"
+      ],
+      "correct": 0,
+      "explanation": "For PCOS patients not requesting pregnancy, 'Combined OCP... to establish regular cycles' is a recommended treatment. OCPs also help treat hirsutism by decreasing ovarian androgen production."
+    },
+    {
+      "stem": "34. Treatment of hyperprolactinemia except:",
+      "options": [
+        "Dopamine agonists (Bromocriptine)",
+        "Cabergoline",
+        "Corticosteroids",
+        "Surgery if resistant"
+      ],
+      "correct": 2,
+      "explanation": "Treatments listed for hyperprolactinemia are dopamine agonists (Bromocriptine, Cabergoline) and surgery; corticosteroids are not mentioned."
+    },
+    {
+      "stem": "35. Most accurate investigation for endometriosis is:",
+      "options": [
+        "Ultrasound",
+        "MRI",
+        "Laparoscopy",
+        "Hysteroscopy"
+      ],
+      "correct": 2,
+      "explanation": "'Diagnostic Laparoscopy (with or without biopsy) is the gold standard in diagnosis and staging of endometriosis'."
+    },
+    {
+      "stem": "36. Gold standard diagnosis of endometriosis is:",
+      "options": [
+        "Ultrasound",
+        "MRI",
+        "Laparoscopy",
+        "Hysteroscopy"
+      ],
+      "correct": 2,
+      "explanation": "'Diagnostic Laparoscopy (with or without biopsy) is the gold standard in diagnosis and staging of endometriosis'."
+    },
+    {
+      "stem": "37. Endometriosis is diagnosed by laparoscopy and appears as:",
+      "options": [
+        "Adhesions, fixed retroverted uterus, kissing ovaries, chocolate cysts",
+        "Omentum nodules",
+        "Smooth ovarian cysts",
+        "Fibroid-like masses"
+      ],
+      "correct": 0,
+      "explanation": "Laparoscopic findings include brown or black 'powder burn lesions' on peritoneal surfaces surrounded by adhesions, while clinical signs include a fixed retroverted uterus and endometriomas (chocolate cysts)."
+    },
+    {
+      "stem": "38. Endometriosis is:",
+      "options": [
+        "Estrogen dependent",
+        "Progesterone dependent",
+        "hCG dependent",
+        "Insulin dependent"
+      ],
+      "correct": 0,
+      "explanation": "Medical treatments aim to create a pseudo-pregnancy or pseudo-menopause state to induce atrophy of the ectopic endometrial tissue, indicating its dependence on the normal estrogen-driven cycle."
+    },
+    {
+      "stem": "40. Complication of endometriosis all are true EXCEPT:",
+      "options": [
+        "Dyspareunia",
+        "Amenorrhea",
+        "Infertility",
+        "Chronic pelvic pain"
+      ],
+      "correct": 1,
+      "explanation": "The two major clinical presentations of endometriosis are pain (including dyspareunia and chronic pelvic pain) and infertility; amenorrhea is not a listed symptom."
+    },
+    {
+      "stem": "41. Fibroid all are true EXCEPT:",
+      "options": [
+        "More common in white women",
+        "More common in black women",
+        "Estrogen-dependent tumor",
+        "Can cause infertility"
+      ],
+      "correct": 0,
+      "explanation": "fibroids are 'more common in dark races than in white and yellow races'."
+    },
+    {
+      "stem": "42. Best initial investigation for fibroid uterus is:",
+      "options": [
+        "MRI pelvis",
+        "Ultrasound pelvis",
+        "CT scan",
+        "Hysteroscopy"
+      ],
+      "correct": 1,
+      "explanation": "'Ultrasonography (US...) is considered the gold standard in the diagnosis of uterine leiomyomata'."
+    },
+    {
+      "stem": "43. A 3-4 cm intramural fibroid, asymptomatic, found on US during follow-up. Best management is:",
+      "options": [
+        "Surgery",
+        "Medical therapy",
+        "Follow-up (no treatment)",
+        "Myomectomy"
+      ],
+      "correct": 2,
+      "explanation": "For small asymptomatic leiomyomas, periodic follow-up every 6-12 months is the appropriate management."
+    },
+    {
+      "stem": "44. Fibroid is estrogen dependent because:",
+      "options": [
+        "Does not develop before puberty or after menopause",
+        "Atrophies after menopause",
+        "Associated with other estrogen-dependent conditions",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "Fibroids appear only in the childbearing period, increase in size during pregnancy, and do not develop after menopause, all of which indicate estrogen dependence."
+    },
+    {
+      "stem": "45. Leiomyosarcoma is:",
+      "options": [
+        "Benign tumor",
+        "Always recurrent and malignant",
+        "Hormone-dependent",
+        "Always asymptomatic"
+      ],
+      "correct": 1,
+      "explanation": "Leiomyosarcoma is a rare malignant tumor, and rapid recurrence after myomectomy is a sign that raises suspicion for it."
+    },
+    {
+      "stem": "46. Leiomyoma may undergo:",
+      "options": [
+        "Red degeneration",
+        "Malignant transformation always",
+        "Necrosis only",
+        "Never degenerates"
+      ],
+      "correct": 0,
+      "explanation": " several types of pathologic changes (degenerations) that can occur in fibroids, with red degeneration being the most common during pregnancy."
+    },
+    {
+      "stem": "47. Gold standard investigation for cervical cancer is:",
+      "options": [
+        "Pap smear",
+        "Colposcopy",
+        "Biopsy",
+        "HPV DNA test"
+      ],
+      "correct": 2,
+      "explanation": "'Histopathologic examination of cervical tissue biopsies... is the gold standard for diagnosis of cervical cancer'."
+    },
+    {
+      "stem": "48. Most common histological type of cervical cancer is:",
+      "options": [
+        "Adenocarcinoma of endocervix",
+        "Squamous cell carcinoma of ectocervix",
+        "Sarcoma",
+        "Melanoma"
+      ],
+      "correct": 1,
+      "explanation": "Squamous cell carcinoma accounts for 70% of cases, while adenocarcinoma accounts for 30%."
+    },
+    {
+      "stem": "49. High-risk HPV types for cervical cancer are:",
+      "options": [
+        "6, 11",
+        "16, 18",
+        "21, 33",
+        "1, 2"
+      ],
+      "correct": 1,
+      "explanation": "High-risk HPV types include 16, 18, 31, 33, and 35, among others. Types 16 and 18 are the most well-known."
+    },
+    {
+      "stem": "50. High-risk HPV types strongly associated with cervical cancer are:",
+      "options": [
+        "6, 11",
+        "1, 2",
+        "16, 18, 31, 33, 35",
+        "21, 25"
+      ],
+      "correct": 2,
+      "explanation": "HPV types 16, 18, 31, 33, and 35 have all been strongly associated with CIN."
+    },
+    {
+      "stem": "51. Gold standard investigation for ovarian cancer is:",
+      "options": [
+        "Ultrasound",
+        "CA-125",
+        "Laparotomy with biopsy and staging",
+        "CT scan"
+      ],
+      "correct": 2,
+      "explanation": "The final diagnosis of ovarian cancer can only be made at exploratory laparotomy, which serves for diagnosis, staging, and treatment."
+    },
+    {
+      "stem": "52. Most common ovarian tumor is:",
+      "options": [
+        "Germ cell",
+        "Stromal",
+        "Epithelial",
+        "Granulosa"
+      ],
+      "correct": 2,
+      "explanation": "Epithelial tumors are the most common, accounting for around 90% of ovarian tumors."
+    },
+    {
+      "stem": "54. Best next step to confirm thick endometrial lining in a 50-year-old woman is:",
+      "options": [
+        "Ultrasound",
+        "Hysteroscopy with biopsy",
+        "CT scan",
+        "Pap smear"
+      ],
+      "correct": 1,
+      "explanation": "Fractional Curettage (FC) is the gold standard method for the diagnosis of endometrial carcinoma, and a biopsy is required to investigate a thickened endometrium."
+    },
+    {
+      "stem": "55. Most common cause of postmenopausal bleeding is:",
+      "options": [
+        "Endometrial carcinoma",
+        "Cervical carcinoma",
+        "Atrophic vaginitis",
+        "Endometrial hyperplasia"
+      ],
+      "correct": 2,
+      "explanation": "Benign conditions like atrophic vaginitis and atrophic endometritis are the 'most common causes' of postmenopausal bleeding."
+    },
+    {
+      "stem": "56. Most dangerous cause of postmenopausal bleeding is:",
+      "options": [
+        "Atrophic vaginitis",
+        "Endometrial carcinoma",
+        "Polyp",
+        "Endometrial hyperplasia"
+      ],
+      "correct": 1,
+      "explanation": "Gynecologic malignancies, including endometrial cancer, are listed as the 'most serious causes' of postmenopausal bleeding."
+    },
+    {
+      "stem": "57. Endometrial hyperplasia highest malignant risk is:",
+      "options": [
+        "Simple without atypia",
+        "Simple with atypia",
+        "Complex without atypia",
+        "Complex with atypia"
+      ],
+      "correct": 3,
+      "explanation": "The risk of progression to endometrial cancer is highest for complex hyperplasia with atypia, at 29%."
+    },
+    {
+      "stem": "59. Candida infection is treated by:",
+      "options": [
+        "Metronidazole",
+        "Ceftriaxone",
+        "Fluconazole",
+        "Penicillin"
+      ],
+      "correct": 2,
+      "explanation": "For non-complicated cases of vaginal candidiasis, the recommended oral preparation is a 'Single oral dose 150 mg' of Fluconazole."
+    },
+    {
+      "stem": "60. Most common cell in bacterial vaginosis is:",
+      "options": [
+        "Clue cell",
+        "RBC",
+        "WBC",
+        "Plasma cell"
+      ],
+      "correct": 0,
+      "explanation": "Microscopic examination in bacterial vaginosis reveals 'characteristic clue cells which are vaginal epithelial cells heavily coated with bacteria'."
+    },
+    {
+      "stem": "61. Organism in gonorrhea is:",
+      "options": [
+        "Gram positive diplococci",
+        "Gram negative diplococci",
+        "Gram negative rods",
+        "Spirochete"
+      ],
+      "correct": 1,
+      "explanation": "Gonorrhea is caused by Neisseria gonorrhea, which is a 'Gram-negative diplococcus'."
+    },
+    {
+      "stem": "62. Treatment of gonorrhea is:",
+      "options": [
+        "Azithromycin",
+        "Metronidazole",
+        "Ceftriaxone",
+        "Penicillin"
+      ],
+      "correct": 2,
+      "explanation": "The recommended regimen for uncomplicated gonorrhea is Ceftriaxone 250-500 mg IM in a single dose."
+    },
+    {
+      "stem": "63. PID risk factors include all EXCEPT:",
+      "options": [
+        "Previous PID",
+        "IUD use",
+        "Multiple sexual partners",
+        "Cervical diaphragm"
+      ],
+      "correct": 3,
+      "explanation": "A cervical diaphragm is a barrier method of contraception, which is listed as a factor that decreases the risk for PID."
+    },
+    {
+      "stem": "64. Most probable diagnosis in a patient with tubo-ovarian abscess, fever, pus from cervix:",
+      "options": [
+        "Endometriosis",
+        "Ruptured pelvic abscess",
+        "Fibroid degeneration",
+        "Adenomyosis"
+      ],
+      "correct": 1,
+      "explanation": "This clinical picture is characteristic of severe Pelvic Inflammatory Disease (PID), for which a tubo-ovarian abscess is a known complication."
+    },
+    {
+      "stem": "65. Pelvic organ prolapse is mainly managed by:",
+      "options": [
+        "Pessary",
+        "Surgery",
+        "Hormonal therapy",
+        "Exercise only"
+      ],
+      "correct": 1,
+      "explanation": "'Surgical treatment is the only curative approach for symptomatic fit cases' of pelvic organ prolapse."
+    },
+    {
+      "stem": "67. The most common cause of recto-vaginal fistula in developing countries is:",
+      "options": [
+        "Surgical trauma",
+        "Obstetric trauma",
+        "Radiation",
+        "Malignancy"
+      ],
+      "correct": 1,
+      "explanation": "The text identifies obstetric trauma from a 'badly healed complete perineal tear' as the 'commonest cause of a recto-vaginal fistula'."
+    },
+    {
+      "stem": "68. Most common cause of rectovaginal fistula is:",
+      "options": [
+        "Obstructed labor",
+        "Undiagnosed complete perineal tear during labor",
+        "Malignancy",
+        "Crohns disease"
+      ],
+      "correct": 1,
+      "explanation": "The 'commonest cause of a recto-vaginal fistula is badly healed complete perineal tear'."
+    },
+    {
+      "stem": "69. Copper IUD acts mainly by:",
+      "options": [
+        "Preventing ovulation",
+        "Preventing implantation/fertilization",
+        "Causing endometrial atrophy",
+        "Destroying the embryo"
+      ],
+      "correct": 1,
+      "explanation": "The two main mechanisms are interference with blastocyst implantation and interference with sperm motility, preventing fertilization."
+    },
+    {
+      "stem": "70. LNG-IUD acts mainly by:",
+      "options": [
+        "Preventing ovulation",
+        "Endometrial atrophy",
+        "Increasing cervical mucus",
+        "All of the above"
+      ],
+      "correct": 1,
+      "explanation": "The LNG-IUS works by inducing atrophic endometrial changes and producing thick cervical mucus; endometrial atrophy is a primary mechanism for both contraception and control of bleeding."
+    },
+    {
+      "stem": "71. Combined oral contraceptives (COCs) prevent pregnancy mainly by:",
+      "options": [
+        "Inhibiting implantation",
+        "Preventing ovulation",
+        "Enhancing tubal motility",
+        "Increasing endometrial thickness"
+      ],
+      "correct": 0,
+      "explanation": "The estrogen component of COCs inhibits ovulation by suppressing GnRH, FSH, and the LH surge."
+    },
+    {
+      "stem": "73. A 5-month postpartum patient seeking contraception for 5 years, most appropriate method is:",
+      "options": [
+        "OCPS",
+        "Depot progesterone",
+        "IUD",
+        "Tubectomy"
+      ],
+      "correct": 2,
+      "explanation": "An IUD is an ideal method for lactating women as it provides long-term contraception (7-10 years for copper IUDs) without interfering with lactation."
+    },
+    {
+      "stem": "76. In a pituitary stalk lesion, which hormone is not affected?",
+      "options": [
+        "Prolactin",
+        "Growth Hormone",
+        "FSH",
+        "LH"
+      ],
+      "correct": 0,
+      "explanation": "Damage to the pituitary stalk results in hypopituitarism for most hormones but an increase in prolactin secretion, because the stalk's inhibitory signal (dopamine) is cut off."
+    },
+    {
+      "stem": "77. A patient with no uterus and vagina but normal ovaries may have which of the following?",
+      "options": [
+        "Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome",
+        "Asherman syndrome",
+        "Turner syndrome",
+        "Complete androgen insensitivity"
+      ],
+      "correct": 0,
+      "explanation": "MRKH syndrome is characterized by the congenital absence of the uterus and upper vagina in a patient with a 46,XX karyotype and normal ovaries."
+    },
+{
+      "stem": "1. Which part of the fallopian tube is described as the widest and most tortuous?",
+      "options": [
+        "Interstitial part",
+        "Isthmus",
+        "Ampulla",
+        "Infundibulum"
+      ],
+      "correct": 2,
+      "explanation": "The ampulla is described as the 'widest, tortuous, and thin-walled outer part' of the fallopian tube."
+    },
+    {
+      "stem": "2. Which of the following is a recognized symptom of Premenstrual Syndrome (PMS)?",
+      "options": [
+        "Fever",
+        "Weight gain",
+        "Hair loss",
+        "Joint swelling"
+      ],
+      "correct": 1,
+      "explanation": "The symptoms of PMS include headache, weight gain, bloating, and breast tenderness."
+    },
+    {
+      "stem": "3. Hydrosalpinx is a known sequela of which condition?",
+      "options": [
+        "Endometriosis",
+        "Uterine fibroids",
+        "Acute salpingitis",
+        "Ovarian cysts"
+      ],
+      "correct": 2,
+      "explanation": "A hydrosalpinx is a sequela of acute catarrhal salpingitis."
+    },
+    {
+      "stem": "4. For a patient with endometriosis-related pain who desires medical management, which of the following is a standard treatment option?",
+      "options": [
+        "Continuous Combined Oral Contraceptives (COCs)",
+        "Unopposed estrogen therapy",
+        "Antibiotics",
+        "Antifungal creams"
+      ],
+      "correct": 0,
+      "explanation": "Continuous use of COCs induces a pseudo-pregnancy state, leading to pseudo-decidualization followed by atrophy of the ectopic endometrium."
+    },
+    {
+      "stem": "5. According to the source, what is the most important risk factor for epithelial ovarian cancer?",
+      "options": [
+        "Nulliparity",
+        "Prolonged use of OCPs",
+        "A family history of breast or ovarian cancer",
+        "Smoking"
+      ],
+      "correct": 2,
+      "explanation": "The most important risk factor is a family history of breast or ovarian cancer, with up to 25% of patients having an inherited genetic predisposition."
+    },
+    {
+      "stem": "6. The causative organism of Gonorrhea, Neisseria gonorrhea, is described as:",
+      "options": [
+        "A spirochete",
+        "A Gram-negative diplococcus",
+        "A fungus",
+        "A protozoon"
+      ],
+      "correct": 1,
+      "explanation": "Gonorrhea is an STD caused by the Gram-negative diplococci Neisseria gonorrhea."
+    },
+
+    {
+      "stem": "8. What is considered one of the most serious risks associated with the use of Combined Oral Contraceptives (COCs)?",
+      "options": [
+        "Weight gain",
+        "Venous thrombo-embolism (VTE)",
+        "Acne",
+        "Spotting"
+      ],
+      "correct": 1,
+      "explanation": "The risk for DVT and pulmonary embolism is increased from 4 to 6 folds with OCP use, making thrombo-embolic disorders a significant risk."
+    },
+    {
+      "stem": "9. What is a significant risk in subsequent pregnancies after a myomectomy?",
+      "options": [
+        "Gestational diabetes",
+        "Placenta previa",
+        "Uterine scar rupture during labor",
+        "Preeclampsia"
+      ],
+      "correct": 2,
+      "explanation": "A recognized delayed complication of myomectomy is the 'Rupture uterine scar during labor, or rarely during pregnancy'."
+    },
+    {
+      "stem": "10. Which of the following is a recognized complication of using a uterine sound?",
+      "options": [
+        "Uterine perforation",
+        "Ovarian torsion",
+        "Cervical polyps",
+        "Hydrosalpinx"
+      ],
+      "correct": 0,
+      "explanation": "The complications listed for the use of a uterine sound include perforation, infection, and abortion if used in a pregnant uterus."
+    },
+{
+      "stem": "1. Trichomoniasis:",
+      "options": [
+        "Itching is the main presenting symptom",
+        "May present with purulent offensive discharge",
+        "Symptoms usually increase with pregnancy",
+        "Is sensitive to metronidazole and tinidazole"
+      ],
+      "correct": 1,
+      "explanation": "The discharge in Trichomoniasis is described as 'Copious, yellow or green, frothy, offensive'."
+    },
+    {
+      "stem": "2. Regarding vaginal candida infection, the following is true except:",
+      "options": [
+        "The probability of symptomatic infection increases with use of combined Ocps",
+        "infection flourishes with lowered vaginal acidity",
+        "itching is the main symptom",
+        "vaginal miconazole is an effective treatment"
+      ],
+      "correct": 1,
+      "explanation": "This statement is false because Candida 'flourishes in acidic media' (low pH), not in an environment with lowered acidity (higher pH)."
+    },
+    {
+      "stem": "3. Candida albicans:",
+      "options": [
+        "Is a bacterium",
+        "Incidence is increased in diabetics",
+        "Ascending infection may reach the tubes",
+        "Symptoms increase post menstrual"
+      ],
+      "correct": 1,
+      "explanation": "Diabetes mellitus is listed as a predisposing factor that alters host immunity, leading to symptomatic Candida infection. Candida is a fungus, not a bacterium."
+    },
+    {
+      "stem": "4. Regarding genuine stress incontinence, all of the following is true except:",
+      "options": [
+        "it is more common in parous women",
+        "is associated with a high urethral pressure on urodynamic studies",
+        "it can be treated surgically",
+        "This condition is commonly associated with prolapse"
+      ],
+      "correct": 1,
+      "explanation": "This statement is false. Stress incontinence occurs when intra-vesical pressure (IVPR) exceeds intra-urethral pressure (IUPR), indicating a relative weakness or insufficiency of urethral pressure, not high pressure."
+    },
+    {
+      "stem": "6. Regarding uretro-vaginal fistula, all of the following is true except:",
+      "options": [
+        "The patient usually complains of partial incontinence",
+        "Cystoscopy shows intact bladder",
+        "Methylene blue test shows wet unstained gauze",
+        "Cystoscope shows urine efflux on the affected side"
+      ],
+      "correct": 3,
+      "explanation": "This statement is false. In a uretero-vaginal fistula, cystoscopy shows 'presence of the ureteric efflux on only one side' (the unaffected side), as urine from the affected ureter leaks into the vagina before reaching the bladder."
+    },
+    {
+      "stem": "7. Mechanism of action of copper IUD as contraception include all of the following except:",
+      "options": [
+        "making endometrium hostile for implantation",
+        "changes in cervical mucus",
+        "change tubal motility",
+        "toxic to fertilized ovum"
+      ],
+      "correct": 1,
+      "explanation": "The production of thick cervical mucus hostile to sperm is a mechanism of the progesterone-releasing IUD (LNG-IUS), not the copper IUD."
+    },
+    {
+      "stem": "8. The main support maintaining uterus and vagina in place to decrease incidence of prolapse is:",
+      "options": [
+        "Uterosacral ligament",
+        "Broad ligament",
+        "Pubocervical ligament",
+        "Mackenrodt's ligament"
+      ],
+      "correct": 3,
+      "explanation": "The Mackenrodt’s (cardinal) ligaments are described as the 'most important support of the uterus' and the 'strongest cervical ligaments'."
+    },
+    {
+      "stem": "9. Regarding trophic ulcers in prolapse all are correct except:",
+      "options": [
+        "Occur in long standing prolapse",
+        "Must be treated before operations by progesterone cream especially in post menopause",
+        "Can be cause of recurrent prolapse after surgery",
+        "Treated by vaginal packs to decrease congestion"
+      ],
+      "correct": 1,
+      "explanation": "This statement is false because trophic ulcers in postmenopausal women are related to atrophic, estrogen-deficient tissue. The appropriate hormonal treatment would be estrogen cream to improve tissue quality, not progesterone cream."
+    },
+    {
+      "stem": "11. Most common cause of neoplastic ovarian swellings is:",
+      "options": [
+        "epithelial ovarian tumors",
+        "granulosa cell tumors",
+        "immature teratoma",
+        "fibroma"
+      ],
+      "correct": 0,
+      "explanation": "Epithelial tumors are the most common type, accounting for 'around 90% of ovarian tumors'."
+    },
+    {
+      "stem": "12. The following is considered a contraindication to IUD:",
+      "options": [
+        "During lactation",
+        "Previous CS",
+        "Previous missed IUD threads",
+        "Previous ectopic pregnancy"
+      ],
+      "correct": 3,
+      "explanation": "A history of ectopic pregnancy is listed as a 'relative contraindication for fear of higher incidence of repeat ectopic gestation'."
+    },
+    {
+      "stem": "13. A 60 years old hypertensive multipara, menopausal for 10 years, presented by an attack of mild vaginal bleeding. TVS revealed normal size AVF uterus with a 10 mm endometrial thickness. How can you counsel this patient?",
+      "options": [
+        "Just control hypertension and follow up",
+        "Progestogens for few months will stop bleeding",
+        "Fractional curettage is mandatory",
+        "Check F.SH and L.H. before taking an action"
+      ],
+      "correct": 2,
+      "explanation": "Postmenopausal bleeding with an endometrial thickness greater than 5 mm is highly suspicious for malignancy. Fractional Curettage (FC) is the 'gold standard method for diagnosis of EC' and is required for a definitive diagnosis."
+    },
+    {
+      "stem": "14. All the following are late complication of PID, EXCEPT:",
+      "options": [
+        "Raised WBC count",
+        "Ectopic pregnancy",
+        "Subfertility",
+        "Chronic PID"
+      ],
+      "correct": 0,
+      "explanation": "A raised WBC count (Leucocytosis) is a diagnostic finding in acute PID, not a late complication or remote sequela. Ectopic pregnancy, infertility, and chronic PID are listed as remote sequelae."
+    },
+    {
+      "stem": "15. A 52-year-old multi-para complains of vaginal pressure and fullness which is especially evident when she bears down. During examination, with straining the external os of the cervix is seen slightly protruding outside the introitus. What degree of her uterine prolapse?",
+      "options": [
+        "1st degree",
+        "2nd degree",
+        "3rd degree",
+        "Procidentia"
+      ],
+      "correct": 1,
+      "explanation": "A 2nd-degree uterine prolapse is defined as when 'The external os reaches or slightly protrudes outside the introitus'."
+    },
+    {
+      "stem": "16. A 62-year-old woman presenting with a history of recent weight loss, vague abdominal pain and distention, on examination a large pelviabdominal mass... ultrasound shows a left sided ovarian mass with high vascularity, laboratory investigations show elevated CA 125 the most likely diagnosis is:",
+      "options": [
+        "Ovarian endometrioma",
+        "Ovarian dermoid",
+        "Ovarian malignant neoplasm",
+        "Ovarian haemorrhagic cyst"
+      ],
+      "correct": 2,
+      "explanation": "The combination of older age, rapid weight loss, a large complex mass, ascites (suggested by distention), and high CA-125 are all features highly suggestive of a malignant ovarian tumor."
+    },
+    {
+      "stem": "17. causes of valvular ulcers include all of the following except:",
+      "options": [
+        "chancre",
+        "chancroid",
+        "gonorrhoea",
+        "tuberculosis"
+      ],
+      "correct": 2,
+      "explanation": "The sourcebook describes genital ulcers as features of chancroid and tuberculosis. A chancre is the classic lesion of syphilis. Gonorrhea typically causes mucopurulent discharge, not primary ulcers."
+    },
+    {
+      "stem": "18. Appropriate treatment of an acute Bartholin abcess include all of the following except:",
+      "options": [
+        "analgesics and local heat",
+        "antibiotics",
+        "incision and drainage",
+        "marsuplization"
+      ],
+      "correct": 3,
+      "explanation": "The treatment for a Bartholin abscess is 'incision and drainage'. Marsupialization is the treatment for a recurrent or symptomatic Bartholin cyst to prevent recurrence."
+    },
+    {
+      "stem": "19. most responsive ovarian tumour to radiotherapy:",
+      "options": [
+        "dysgerminoma",
+        "mucinous cystadenocarcinoma",
+        "endometroid adenocarcinoma",
+        "malignant solid teratoma"
+      ],
+      "correct": 0,
+      "explanation": "In contrast to epithelial cancers, 'dysgerminoma is a radiosensitive tumor'. Radiation therapy has little place in treating epithelial ovarian cancer."
+    },
+    {
+      "stem": "20. All of the following are causes of anovulation except:",
+      "options": [
+        "Polycystic ovary syndrome (PCO)",
+        "Hyperprolactinemia",
+        "Asherman's syndrome",
+        "Hypothyroidism"
+      ],
+      "correct": 2,
+      "explanation": "Asherman's syndrome is a uterine disorder involving intrauterine adhesions that prevent endometrial proliferation, causing amenorrhea despite normal ovulation. The other options are known causes of ovulatory dysfunction."
+    },
+    {
+      "stem": "21. which of the following is true regarding investigations of infertility cases:",
+      "options": [
+        "Semen analysis is usually not needed",
+        "Hysterosalpingography (H.S.G) reveals abnormalities of the uterine cavity and fallopian tubes",
+        "Laparoscopy is used to diagnose endometrial lesions",
+        "Hysteroscopy can be used to treat peritoneal adhesions"
+      ],
+      "correct": 1,
+      "explanation": "HSG is described as an 'essential primary investigation in evaluation of tubal factor of infertility, it also gives an idea of uterine factors'."
+    },
+    {
+      "stem": "22. Regarding tubal factors of infertility, all of the following are true except:",
+      "options": [
+        "Salpingitis can lead to damage of the fallopian tube and infertility",
+        "Can be diagnosed by hysterosalpingography",
+        "In vitro fertilization (I.V.F) is a treatment option",
+        "Hormonal assay is needed to diagnose tubal factors of infertility"
+      ],
+      "correct": 3,
+      "explanation": "Hormonal assays are used to assess the ovarian factor (ovulation). Tubal factors are assessed with imaging like HSG or direct visualization with laparoscopy."
+    },
+    {
+      "stem": "23. Choose the correct statement regarding indications of assisted reproductive techniques:",
+      "options": [
+        "Bilateral tubal damage",
+        "Severe asthenozoospermia",
+        "Severe oligozoospermia",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "Indications for IVF/ICSI include 'Severe tubo-peritoneal factor with tubal damage' and 'Severe male factor: as severe oligoasthenospermia,' which covers both severe asthenozoospermia and severe oligozoospermia."
+    },
+    {
+      "stem": "24. complications of female genital mutilation include all following except:",
+      "options": [
+        "bleeding",
+        "infection",
+        "urinary problems",
+        "increase sexual satisfaction"
+      ],
+      "correct": 3,
+      "explanation": "The sourcebook lists bleeding, infection, and urinary problems as complications. It also lists sexual problems including 'pain during intercourse, decreased satisfaction, etc.'."
+    },
+    {
+      "stem": "25. Investigations done to reach cause of hyperprolactinemia include all except:",
+      "options": [
+        "Serum prolactin",
+        "Serum FSH and LH",
+        "CT skull",
+        "Serum TSH"
+      ],
+      "correct": 1,
+      "explanation": "Direct investigations for the cause of hyperprolactinemia include serum prolactin, CT/MRI of the skull (for prolactinoma), and TSH (for hypothyroidism). FSH and LH levels are affected by hyperprolactinemia but do not help diagnose its cause."
+    },
+    {
+      "stem": "26. A 28-year-old nullipara who has been seeking pregnancy is diagnosed with PCO. She is generally healthy, but her BMI is in obese range. Which of the following should be recommended as first line management of her anovulation?",
+      "options": [
+        "Gonadotrophins",
+        "Clomiphene citrate",
+        "Weight loss and exercise",
+        "Insulin sensitizing agents"
+      ],
+      "correct": 2,
+      "explanation": "For obese females with PCOS, 'a reduction of 5-10% of body weight, reduces insulin and androgen and improves response to therapy, and may by itself re-establish ovulation'."
+    },
+    {
+      "stem": "27. The Mullerian duct is the origin of all the following EXCEPT:",
+      "options": [
+        "Ovaries",
+        "Uterus",
+        "Cervix",
+        "Upper 4/5 of the vagina"
+      ],
+      "correct": 0,
+      "explanation": "The Müllerian ducts form the 'Fallopian tubes, uterus, cervix and the upper 4/5 of the vagina'. The ovaries develop separately from the 'genital ridges'."
+    },
+    {
+      "stem": "28. A 17 years old patient presents for evaluation as she has not started her period. On examination, she has no breast budding, she has no pubic hair, she has a cervix and a uterus, the ovaries are not palpable. Serum FSH and LH are high. Which is the most likely cause:",
+      "options": [
+        "Congenital adrenal hyperplasia",
+        "Kallman syndrome",
+        "Gonadal dysgenesis",
+        "Mullerian agenesis"
+      ],
+      "correct": 2,
+      "explanation": "High FSH and LH levels (hypergonadotropic) with primary amenorrhea and absent secondary sexual characteristics point to a failure of the gonads. This is the classic presentation of gonadal dysgenesis (e.g., Turner Syndrome), where 'streak gonads fail to produce enough E2, inspite of elevated FSH and LH levels'."
+    },
+    {
+      "stem": "29. A 19 years old patient presents for evaluation of primary amenorrhea. She is medically free. On examination, normal breast and pubic hair, but uterus and vagina are absent. Which is the most likely cause:",
+      "options": [
+        "complete androgen insensitivity",
+        "Gonadal dysgenesis",
+        "Mullerian agenesis",
+        "Turner syndrome"
+      ],
+      "correct": 2,
+      "explanation": "This patient has normal secondary sexual development, which implies normal ovarian function. The absence of the uterus and vagina points to Mullerian agenesis. Normal pubic hair distinguishes it from complete androgen insensitivity syndrome, where pubic hair is typically absent or sparse."
+    },
+    {
+      "stem": "30. A 47 years old G3P3 patient presents with severe progressive menstrual cramps and heavy menstrual bleeding. Pelvic examination demonstrates a tender, diffusely enlarged uterus with no adenexal tenderness. A pap test and endometrial biopsy normal. What is the most likely diagnosis?",
+      "options": [
+        "endometriosis",
+        "endometritis",
+        "Adenomyosis",
+        "Leiomyoma"
+      ],
+      "correct": 2,
+      "explanation": "The classic symptoms of adenomyosis are 'Heavy Menstrual Bleeding (HMB) (Menorrhagia) and 2ry dysmenorrhea,' and the key sign is a 'Symmetrically enlarged tender uterus'."
+    },
+    {
+      "stem": "31. A 28-year-old patient presents for follow up of chronic pelvic pain and dyspareunia... diagnostic laparoscopy that demonstrated endometriosis... all visible lesions were excised or ablated... Which medications are the best option for ttt of endometriosis related pain:",
+      "options": [
+        "continuous estrogen",
+        "combined oral contraceptive pills",
+        "Danazol",
+        "A Gnrh agonist"
+      ],
+      "correct": 1,
+      "explanation": "Continuous COCs are a standard medical treatment for endometriosis. They induce a 'pseudo pregnancy state' leading to atrophy of the ectopic endometrial tissue, thereby alleviating pain."
+    },
+    {
+      "stem": "32. The aromatase enzyme in the granulosa cell allows conversion of androstenedione to:",
+      "options": [
+        "Estrogen",
+        "prolactin",
+        "Progesterone",
+        "Testosterone"
+      ],
+      "correct": 0,
+      "explanation": "Within granulosa cells, FSH 'stimulates aromatization of androgens into estrogens by the enzyme aromatase'."
+    },
+    {
+      "stem": "33. Ovulation:",
+      "options": [
+        "Is followed by the development of proliferative endometrium",
+        "Is associated with LH surge",
+        "Is followed by decrease in body temperature",
+        "Occurs as a result of elevation of prolactin hormone"
+      ],
+      "correct": 1,
+      "explanation": "High estrogen levels trigger an 'LH surge,' and 'Ovulation (oocyte release) occurs approximately 36 hours after the onset of the LH surge'."
+    },
+    {
+      "stem": "34. The first stage in pubertal development is:",
+      "options": [
+        "Menarche",
+        "Growth spurt",
+        "Appearance of breast bud",
+        "Appearance of pubic hair"
+      ],
+      "correct": 1,
+      "explanation": "The 'Growth spurt: is the first sign of puberty to occur,' starting the pubertal cascade."
+    },
+    {
+      "stem": "35. Management of the menopause includes:",
+      "options": [
+        "Counselling & reassurance",
+        "Calcium supplementation",
+        "Estrogen replacement to selected cases",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "Management includes reassurance, education for a healthy lifestyle (including a calcium-rich diet), and hormone therapy (estrogen) in selected cases for severe symptoms."
+    }
+  ]
+}

@@ -1,0 +1,851 @@
+{
+  "title": "Lecture Qs",
+  "questions": [
+    {
+      "stem": "You are in your final year in medical school and your neighbor is a 42-year-old diabetic patient is calling you to ask about his headache that started 2 days ago. He is asking you what specialty doctor he should head to:",
+      "options": [
+        "A Neurologist",
+        "A Neurosurgeon",
+        "An IM specialist",
+        "An Ophthalmologist"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "You are taking history from a family of a newborn. You found that both parents are smoking 1 pack of cigarettes daily. What do you expect the baby to have?",
+      "options": [
+        "Prematurity",
+        "Macrosomia",
+        "Spinal cord defect",
+        "Cardiomegaly"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "You are taking history from a family of a newborn. You found that both parents are smoking 1 pack of cigarettes daily. What do you expect the baby to have?",
+      "options": [
+        "Prematurity",
+        "Macrosomia",
+        "Spinal cord defect",
+        "Cardiomegaly",
+        "All of the above"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A mother of a 4-month-old boy is asking you about the ideal weight for her child. His birthweight was 3 kg and now he is 5 kg and he looks thinner than boys of his age at the nursery. What are you going to tell her?",
+      "options": [
+        "His weight is within normal no need to worry.",
+        "He is below the expected and need further assessment.",
+        "He is above the expected for his age.",
+        "There is wide range of variations among children of same age."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is the most common cause of short stature in children?",
+      "options": [
+        "Familial short stature",
+        "Constitutional delay of growth",
+        "Chromosomal abnormality e.g., down & turner syndrome",
+        "Chronic disease e.g., Hypothyroidism, CHD, CRF",
+        "Psychosocial e.g., social deprivation, nutritional"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A-boy is brought to family medicine clinic by his mother for assessment before taking his scheduled set of immunization. He can walk without support and build a tower of 2 blocks. How old is the boy?",
+      "options": [
+        "9-11 months",
+        "12-15 months",
+        "16-18 months",
+        "19-20 months",
+        "21-24 months"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The mother of a 1-month-old girl is presenting to you concerned that her daughter has squint. She says that she doesn't notice everyday but most of the days her eyes are abnormal. Examination revealed the following photo. True or false: Intermittent strabismus is normal before a certain age.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "explanation": "It is normal for infants to have occasional ocular misalignment (strabismus) until 3 months of age. After 3 months (or with constant eye deviation), strabismus should be evaluated and managed by an ophthalmologist to prevent possible blindness in the affected eye."
+    },
+    {
+      "stem": "The mother of a 2-month-old baby ask you about vitamins. She says that her sister's baby, who was 8 weeks preterm, was given iron supplementation. What will be your answer?",
+      "options": [
+        "vitamin D supplementation of 400 IU daily is recommended for infants who are breast fed",
+        "fluoride supplementation is recommended for breastfed infants, regardless of the concentration in the water of the community",
+        "iron supplementation is recommended because breast milk has less iron than formula",
+        "no supplementation of any sort is needed for breastfed infants until 1 year of age",
+        "Give her any commercial multivitamin."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A woman who just delivered her first baby 2 weeks earlier comes to your office for a routine visit. She says that her milk 'just isn't enough' and she plans to start supplementing because her baby cries all the time. She appears tired, and the baby continued to feed at the breast during the entire time of the interview. He is at the 50th percentile for weight and the 50th percentile for length and has gained an average of 50 g/d since being discharged from the hospital. He is feeding every 2 hours at present. What are you going to tell her?",
+      "options": [
+        "She does have enough milk, as the baby's weight gain is excellent, and that infants use the breast for comfort as well as nutrition",
+        "She could decrease the feeds to every 4 hours on a set schedule to ease her fatigue",
+        "She could alternate every other feed by breast and bottle",
+        "She could switch from breastfeeding to bottle-feeding",
+        "Recommend a lactagogue such as metoclopramide for the mother"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The mother of a 3-month-old infant is coming for routine visit. Although the infant is doing well, his mother is concerned that she might need to start infant cereal or baby food to make sure that he is getting enough nutrition. Your response is which of the following?",
+      "options": [
+        "go ahead and feed him cereal at night to help him sleep better",
+        "introduce cereal at 4 to 6 months and then add one food of the 'first foods' every week or two",
+        "introduce cereal at approximately 3 months, and then add one new food every day",
+        "introduce cereal at any time he seems to be hungry after breastfeeding",
+        "Introduce any food starting at the age of 6 months."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Which of the following conditions is a contraindication to influenza vaccination?",
+      "options": [
+        "Allergy to eggs",
+        "Allergy to red dye",
+        "Allergy to penicillin",
+        "Allergy to milk",
+        "Allergy to dust mites"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following tests is considered routine (recommended) in the initial evaluation of a patient with hypertension?",
+      "options": [
+        "Chest x-ray",
+        "TSH",
+        "Uric acid level",
+        "24-hour urine protein",
+        "ECG"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Which one of the following represents an optimal screening strategy for colorectal cancer?",
+      "options": [
+        "Colonoscopy every 5 years",
+        "Computed tomographic (CT) colonography every 10 years",
+        "High-sensitivity fecal occult blood test (FOBT) every 2 years",
+        "Sigmoidoscopy every 5 years with high-sensitivity FOBT every 3 years",
+        "Sigmoidoscopy every 5 years"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Which of the following is the most appropriate medication for the treatment of hypertension in a diabetic patient?",
+      "options": [
+        "-Blocker",
+        "ACE inhibitor",
+        "Diuretic",
+        "CCB",
+        "a-Blocker"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The pneumococcal vaccine should be administered to healthy individuals beginning at age:",
+      "options": [
+        "50 years",
+        "55 years",
+        "60 years",
+        "65 years",
+        "70 years"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 60-year-old man presents to your office inquiring about prostate cancer screening. Choose the correct statement:",
+      "options": [
+        "PSA is the gold standard test for prostate cancer screening.",
+        "PSA should be checked annually starting at 50 years of age to screen for prostate cancer.",
+        "PSA can produce false-positive results, which can be associated with negative psychological effects.",
+        "Men who have false-positive test are less likely to have additional testing.",
+        "The USPSTF recommends PSA testing to screen for prostate cancer at age 60."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Based on the USPSTF recommendation, screening DEXA in all woman without fracture risk factors should start:",
+      "options": [
+        "At age 50",
+        "At age 55",
+        "At age 60",
+        "At age 65",
+        "At age 70"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "You are counseling one of your patients who is planning a trip overseas. He is concerned about becoming ill while traveling. Which of the following is the most common illness reported by international travelers?",
+      "options": [
+        "Diarrhea",
+        "Upper respiratory infection",
+        "Parasitic infection",
+        "Malaria",
+        "Hepatitis"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The most effective drug for the treatment of traveler's diarrhea is:",
+      "options": [
+        "Metronidazole",
+        "Tetracycline",
+        "Ciprofloxacin",
+        "Trimethoprim-sulfamethoxazole (TMP-SMX)",
+        "Doxycycline"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "You are performing a physical examination on a student traveling to Mexico with her college Spanish class. She is concerned about traveler's diarrhea and asks about antibiotic prophylaxis. What will you tell him?",
+      "options": [
+        "He should take trimethoprim-sulfamethoxazole.",
+        "He should take doxycycline",
+        "He should take ciprofloxacin",
+        "The CDC does not have an antibiotic guideline regarding antibiotic prophylaxis for traveler's diarrhea",
+        "He should take metronidazole"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A family has moved into the area and brings their 12-month-old girl in for a well-child examination. They bring her medical records with them. Her parents have no concerns, and she has been healthy however her growth chart concerns you. Her length tracks along the 25th percentile. but her weight has gone gradually from around the 25th to 50th percentile at 0 to 6 months old down to the 10th percentile at 9 months old, and now is at the 5th percentile at 12 months. which of the following most likely explains her pattern of growth?",
+      "options": [
+        "Normal variant",
+        "Familial short stature",
+        "Prenatal insult such as exposure to drugs or infection",
+        "Hypothyroidism",
+        "Inadequate nutrition"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Taking more history, you discover that the patient eats mostly rice and fruit. she does not like meat. She is picky. She drinks about 2 cups of whole milk and 2 cups of apple juice each day. She is active and developmentally appropriate. Her review of systems is negative as is her past medical history. What is the least appropriate way to proceed with evaluation and management of this patient?",
+      "options": [
+        "Allow the child to feed herself whenever she is hungry or thirsty. parents should offer food and drink frequently throughout the day",
+        "Obtain CBC, iron studies, and urinalysis",
+        "Limit juice intake",
+        "Consult a registered dietitian",
+        "Prescribe a multivitamin"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 20-day-old term male infant is brought to the clinic for evaluation of fever. He was born via uncomplicated vaginal delivery. At the clinic, the infant has a temperature of 38.5°c but is otherwise vigorous with normal vital signs. What should be done next?",
+      "options": [
+        "Discharge home with follow-up the next day",
+        "Treat with empiric antibiotics, cultures are not necessary for this age group",
+        "Obtain a chest x-ray",
+        "Admit to the hospital",
+        "Treat with ibuprofen"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 7-month-old fully immunized female presents to the office with fever. mom reports she has 'not been herself' and felt 'a bit warm on the forehead.' Vitals reveal a temperature of 39.2°c. physical examination reveals an ill-appearing, nontoxic, and well-hydrated infant. You perform a complete history and physical but are unable to identify a source of the fever. After ensuring appropriate hemodynamics, what is the first step in your approach to this child?",
+      "options": [
+        "obtain a urinalysis and urine culture",
+        "admit for observation and perform blood, urine, and csf for culture",
+        "give an intramuscular dose of ceftriaxone",
+        "order acetaminophen 30 mg/kg and discharge the patient if the temperature comes down",
+        "admit for iv fluids overnight"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 10-month-old child is presenting to you with his terrified mother after an attack of seizure. The child has been previously healthy and has not taken antibiotics recently. He was only suffering from fever that was not totally affecting his health. The mother gave him antipyretic infrequently. Physical examination is unremarkable with no meningeal signs and a normal neurologic examination. The kid is cruising in the exam room trying to open drawers. What diagnostic testing should be performed?",
+      "options": [
+        "lumbar puncture",
+        "EEG",
+        "Neuroimaging such as head CT or MRI",
+        "Serum electrolytes",
+        "None of the above"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 3-year-old comes to your office with fatigue and irritability and a low-grade fever that he has had for 3 days. The father tells you that the child attends daycare, where a virus is 'going around.' The father used acetaminophen, which has helped decrease irritability; although the child's appetite is suppressed, he is still taking a good amount of fluids. On physical examination, the child does not look ill. his temperature is 38°C. his skin examination shows scattered, small vesicles on an erythematous base. the rash was seen first on the face and seems to be spreading to the trunk. What is the most likely diagnosis in this child?",
+      "options": [
+        "Rubella (german measles)",
+        "Adenoviral exanthem",
+        "Varicella-zoster",
+        "Mumps",
+        "Rubeola (measles)"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 3-year-old child who attends a day care is recently diagnosed with chicken pox. One of the teachers, who has never had chickenpox herself, finds out that she is pregnant the day after being exposed to chickenpox. she is not yet symptomatic- from the pregnancy or the chickenpox. The best advice for this potential mother about her pregnancy is:",
+      "options": [
+        "Consider termination since it is likely that the child will have congenital varicella",
+        "Get treated within 96 hours of exposure with varicella immune globulin",
+        "Get treated within 96 hours of exposure with varicella immune globulin plus varicella vaccine",
+        "No further action is needed"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "All of children at the day care have been infected with varicella zoster, the question arises about how long these children are considered infectious:",
+      "options": [
+        "5 days after the first lesion appears",
+        "10 to 14 days after the first lesion appears",
+        "New lesions are no longer forming",
+        "All lesions are crusted over",
+        "They are no longer febrile"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 2-year-old child is presenting to you with high fever from 2 days. Examination is totally free. You prescribed antipyretic and discharged the mother. 2 days later the mother presents to you complaining of rash that appeared once the fever resolves. The rash is maculopapular rash on the trunk. The rest of the examination is free. What is the most probable diagnosis?",
+      "options": [
+        "Erythema infectiosum",
+        "Scarlet fever",
+        "Rubeola",
+        "Rubella",
+        "Roseola"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 3-year-old child presents to your office with a history of bright red cheeks. Over the past several days, he has had mild fever with mild muscle aches. Except for the rash, the child is now asymptomatic. The most likely cause of this patient's illness is:",
+      "options": [
+        "Erythema infectiosum",
+        "Scarlet fever",
+        "Rubeola",
+        "Rubella",
+        "Roseola"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 5-year-old whose family believes that immunizations can cause autism is brought to the office with a 3-day history of fever, nonproductive cough, and conjunctivitis. This morning, a rash appeared on his forehead and behind the ears, and it appears to be spreading to his upper arms and chest. On physical examination, you note a fine maculopapular rash over the face that appears to be spreading to the back and thighs. What is the most likely diagnosis in this patient?",
+      "options": [
+        "Roseola infantum",
+        "Scarlet fever",
+        "Meningococcemia",
+        "Rubeola",
+        "Rubella"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The exanthem of rubeola begins around the fourth febrile day, with discrete lesions that become confluent as they spread from the hairline downward, sparing the palms and soles. The exanthem typically lasts four to six days. The lesions fade gradually in order of appearance, leaving a residual yellow-tan coloration or faint desquamation. Rubeola is also distinguished by the presence of koplik's spots in the oral mucosa. There is no specific therapy. Treatment is entirely supportive. Antipyretics (acetaminophen or ibuprofen) for fever, bed rest, and adequate fluid intake are advised. Bacterial complications (e.g., otitis media) may need to be treated with antibiotics. Rubella is similar to rubeola. However, it causes less severe symptoms, and its exanthem characteristically has a shorter duration (two to three days). What would be the recommendations for the exposed members of the family?",
+      "options": [
+        "None",
+        "Administration of immune globulin and measles vaccine",
+        "Immune globulin only",
+        "Measles vaccine",
+        "Vitamin A"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 7-year-old child is presenting to you with a fever and sore throat one to two days before a rash develops on the upper trunk. The rash spreads throughout the body, sparing the palms and soles. The rash is characterized by fine macules, resembling a sunburn, and sandpaper-like papules. petechiae on the palate as well as erythematous, swollen papillae with a white coating on the tongue (white strawberry tongue). What is the most likely diagnosis in this patient?",
+      "options": [
+        "Roseola infantum",
+        "Scarlet fever",
+        "Meningococcemia",
+        "Rubeola",
+        "Rubella"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A previously healthy 3-year-old male presents to your clinic for evaluation of 6 days of fever. Mother has been checking axillary temperatures which have reached at least 38.8°c each of the last 6 days. He is irritable. He was seen 2 days prior and given drops for 'pink eye.' He now has a new rash and his hands and feet are red and puffy. He has been drinking well and is well-hydrated. On exam, you find a large cervical lymph node on the right, peeling lips, and a red tongue and throat. He has not had cough or runny nose. Which of the following represents the best treatment strategy for this child?",
+      "options": [
+        "discharge home with watchful waiting",
+        "discharge home with a prescription for amoxicillin-clavulanate",
+        "referral to infectious disease for evaluation of prolonged fevers",
+        "admission for further evaluation and treatment",
+        "transfer to the emergency department for fluid resuscitation"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 12-month-old presents to your office in January with a 2-day history of runny nose and cough. the child now has wheezing with nasal flaring and retractions, and his oxygen saturation is 89%. there has been no fever, and several of the other children and adults in the family have had 'a cold' over the past several weeks. on examination, you hear scattered wheezes and rales. you diagnose bronchiolitis. the most likely virus involved in this child's illness is:",
+      "options": [
+        "rhinovirus",
+        "adenovirus",
+        "respiratory syncytial virus (rsv)",
+        "parainfluenza",
+        "human metapneumovirus"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "An 18-month-old is brought to the emergency department by his parent. He developed an upper respiratory tract infection 2 days ago and suddenly this evening developed a harsh, barky cough and difficulty breathing. On examination, the child is coughing and his temperature is 38.5°c His respiratory rate is 40 breaths per minute, and he is in some respiratory distress. The breath sounds that are heard appear to be transmitted from the upper airway. There is nasal flaring and suprasternal, infrasternal, and intercostal retractions. What is the most likely diagnosis in this child?",
+      "options": [
+        "viral pneumonia",
+        "acute epiglottitis",
+        "bronchiolitis",
+        "croup",
+        "bacterial pneumonia"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 3-year-old child is brought to the office for cough and fever. He has been sick for the past 4 days, but symptoms acutely worsened this morning. Appetite and activity levels are both decreased. There are no sick contacts. On physical examination, he has a temperature of 38.5°C pulse of 120 beats per minute, respiratory rate of 60 breaths per minute, and normal blood pressure. He appears mildly toxic but not cyanotic. Ears, nose, and throat are unremarkable. Retractions, grunting, and accessory muscle use are noted on the lung examination. Localized rales and wheezing are noted over the right lower lung zones. Which of the following statements about antibiotic therapy in CAP is true?",
+      "options": [
+        "antibiotic therapy should be continued for a total of 5 days",
+        "follow-up of patients treated as outpatients is required within 1 week",
+        "a transition to oral antibiotics is appropriate after 48 hours of intravenous antibiotics",
+        "the choice of antibiotics for children with CAP is generally made on an empirical basis",
+        "a patient with a negative antibody assay for pneumococcus is not at risk for strep infection and should be treated solely with macrolides"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 14-month-old girl is presenting to you with her mother with temperatures of 38.9°c at home for 2 to 3 days. She has had no upper respiratory symptoms. Her oral intake has decreased, but she is maintaining good urine output. she has had no vomiting or diarrhea. Your examination reveals a febrile child who is slightly irritable. She is nontoxic and not dehydrated. Her oral cavity shows increased tonsil size with ulcers on her tongue and lips but not on the tonsillar pillars; there are no other skin lesions. Her anterior cervical lymph nodes are enlarged. the rest of her examination is noncontributory. What is the most likely diagnosis?",
+      "options": [
+        "streptococcal pharyngitis",
+        "hand, foot, and mouth disease (HFMD)",
+        "herpetic gingivostomatitis",
+        "varicella",
+        "infectious mononucleosis"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 2-month-old baby is presenting to you with repeated spitting of her milk. Sometimes the condition is more than spitting and she vomits the whole milk but this is not common. This is getting worrisome to the parents although the child is growing well. Her medical history is unremarkable. Which of the following is recommended as standard therapy in treating this child's reflux?",
+      "options": [
+        "prone positioning of the child when sleeping",
+        "use of a proton pump inhibitor",
+        "elevating the head",
+        "thickening the formula with rice cereal",
+        "none of the above"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A young couple brings in their 18-month-old female for a 12-hour history of vomiting and diarrhea. the patient has felt warm, and her oral intake has been depressed. however, she continues to make tears with crying and has wet diapers. her medical history is unremarkable. on examination, you find a tired-looking toddler who perks up slightly when you open a bag of toys. Her temperature is 38.5°C. and her capillary refill is less than 3 seconds. the remainder of the examination is unremarkable. you think that she has a viral gastroenteritis and give the parents some advice regarding rehydration. which of the following is the most appropriate advice for this patient?",
+      "options": [
+        "avoid all solid food for the next 24 to 48 hours",
+        "use milk as the primary rehydration solution",
+        "use only watered-down tea for rehydration",
+        "use a commercially prepared oral rehydration solution and reintroduce foods as tolerated",
+        "use cola beverages (e.g., coca-cola or pepsi) because they contain more sodium than commercially available oral rehydration solutions"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 7-year-old male presents to your clinic with his mother with a complaint of enuresis. evidently, this child has never been completely continent at night, wetting his bed several times per week. this has become somewhat of a problem for him now that his friends are having sleepover birthday parties. plus, his mother confides that she's tired of paying for pull-ups and cleaning sheets. his incontinence is monosymptomatic (meaning no overactive bladder symptoms or daytime wetting). Which of the following is likely to be part of this child's history?",
+      "options": [
+        "A family history of enuresis",
+        "A stressful event in the family such as the birth of a new child or parental divorce",
+        "Increased fluid intake over the past 2 months",
+        "History of urinary tract infections"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Further evaluation of this patient should include all of the following except:",
+      "options": [
+        "asking about a history of bowel problems",
+        "assessment of growth and development",
+        "investigation into family history of nocturnal enuresis",
+        "spine MRI to rule out pathologic lesion",
+        "urinalysis"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "You find no indication of a pathologic cause, and you decide that this is primary enuresis. the parents are desperate for some sort of intervention to fix the problem, since it is becoming a major source of anxiety in the home and of teasing at school. which of the following should constitute the initial treatment of this patient's primary enuresis?",
+      "options": [
+        "patient education and motivational training (e.g., rewards for staying dry)",
+        "over-learning",
+        "enuresis alarm",
+        "nasal desmopressin (ddavp)",
+        "oral desipramine"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 9-year-old boy comes to your office with his parent. He complains of a recurrent pain at night in both legs. the pain wakes him from sleep sometimes. it is described as a 'deep pain.' The pain is bilateral. There is no associated fever, chills, limp, or other symptoms. There is no pain during the day. He has had no significant medical illnesses. On examination, the child has no leg or joint swelling, instability, limp, or leg length discrepancy. What is the most likely diagnosis in this child?",
+      "options": [
+        "slipped capital femoral epiphysis (SCFE)",
+        "legg-calvé-perthes disease",
+        "osteogenic sarcoma",
+        "growing pains",
+        "ewing sarcoma"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "You see a 10-year-old female who is presenting for a school physical. Her mother is concerned because this patient has pubic hair, which her mother thinks is premature (and scary her baby can't be growing up yet!). On your examination, she has enlarged areola and a small amount of breast tissue. She also has sparse, dark, but mostly straight pubic hair. The mom has a lot of questions about puberty. She is nervous about beginning to discuss sexual development with her daughter. What is a developmental fact that you can provide the mom for discussion with her daughter?",
+      "options": [
+        "Typically, in females, the first sign of puberty is pubic hair.",
+        "At 10 years old, the patient is experiencing premature puberty.",
+        "The height spurt occurs early during puberty and is almost complete at menarche.",
+        "Menarche occurs approximately 1 year after breast budding.",
+        "Schools discuss puberty and relieve mom or dad of that duty."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is the most common cause of short stature in adolescents?",
+      "options": [
+        "Familial short stature",
+        "Constitutional delay of growth",
+        "Chromosomal abnormality e.g., down & turner syndrome",
+        "Chronic disease e.g., Hypothyroidism, CHD, CRF",
+        "Psychosocial e.g., social deprivation, nutritional"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "With respect to bone age, which of the following statements is true?",
+      "options": [
+        "bone age is normal in both familial short stature and constitutional delay of growth.",
+        "bone age is normal in familial short stature and delayed in constitutional delay of growth.",
+        "bone age is normal in constitutional delay of growth and delayed in growth hormone deficiency.",
+        "bone age is delayed in both familial short stature and short stature caused by hypothyroidism.",
+        "bone age is variable and cannot be used to differentiate familial short stature and constitutional delay."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 14-year-old patient is presenting to you with left hip pain that started 2 days ago. The condition was not preceded by trauma. The pain is increasing and the patient is limping. Examination shows overweight teenage boy; the hip is held in abduction and external rotation, and there is marked limitation of internal rotation. You ordered radiograph which shows the following: Which of the following conditions is described by these criteria?",
+      "options": [
+        "slipped capital femoral epiphysis (SCFE)",
+        "Legg-Calvé-Perthes disease",
+        "osteogenic sarcoma",
+        "Ewing sarcoma",
+        "growing pains"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "What is the preferred treatment for the condition described?",
+      "options": [
+        "Surgical fixation",
+        "Bracing",
+        "Bed rest",
+        "Antiinflammatory medications and observation"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 14-year-old girl comes to your office with a 6-month history of lower midabdominal pain. The pain is colicky in nature, radiates to the back and upper thighs, begins with onset of menses, and lasts for 2 to 4 days. She has missed several days of school during the past 2 months because the pain was so severe. Menarche began 18 months ago, and her menses became regular 6 months ago. Physical examination, including abdomen, is normal. The patient has normal growth and development including secondary sexual development. What is the most likely etiology of this patient's pain?",
+      "options": [
+        "primary dysmenorrhea",
+        "pelvic inflammatory disease (PID)",
+        "secondary dysmenorrhea",
+        "endometriosis",
+        "premenstrual dysphoric disorder"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "An 18-year-old woman comes to your office with a 6-month history of fatigue, anxiety, emotional lability, difficulty concentrating, and insomnia. She also complains of breast tenderness, abdominal bloating, and food cravings. She denies any menstrual irregularities or life stressors. These symptoms recur on a regular basis during the week leading up to her menstrual period but completely resolve within the first 3 days of menses. She denies any suicidal ideations. However, she tearfully admits that she feels totally incapacitated when she is symptomatic and that these symptoms are adversely affecting her personal and professional life. What is the most likely diagnosis in this patient?",
+      "options": [
+        "generalized anxiety disorder",
+        "dysmenorrhea",
+        "major depression",
+        "panic disorder",
+        "premenstrual dysphoric disorder syndrome (PMDD)"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 55-year-old patient with a history of hypertriglyceridemia and severe abdominal pain with vomiting over the previous 6 hours is transferred from the emergency room to the hospital ward with the following laboratory findings: WBC count: 20,000; Glucose: 295 mg per dL; Aspartate aminotransferase: 333 IU per L; Lactate dehydrogenase: 375 IU per L. The most likely diagnosis is:",
+      "options": [
+        "Acute cholecystitis.",
+        "Acute pancreatitis.",
+        "Hepatitis.",
+        "MI."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 32-year-old woman reports frequent bouts of constipation alternating with diarrhea. She frequently experiences abdominal discomfort, which is relieved with bowel movements. Stress tends to aggravate her symptoms. The most appropriate treatment includes:",
+      "options": [
+        "Steroid enemas",
+        "5-ASA enemas",
+        "Peppermint oil",
+        "Metoclopramide",
+        "None of the above"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 39-year-old white woman complains of several episodes of right upper-quadrant pain during the past year. The episodes typically last 2 to 4 hours and are associated with nausea and vomiting. Her most recent episode occurred 2 weeks ago, and they seem to be happening more often. Which one of the following is most likely to provide an explanation for the patient's symptoms?",
+      "options": [
+        "A bilirubin level",
+        "An AST (SGOT) level",
+        "A plain film of the abdomen",
+        "An HIDA scan",
+        "Abdominal ultrasonography"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 34-year-old woman complains of abdominal pain and requests a surgical evaluation. She has a history of unexplained physical symptoms that began in her late teenage years. She is vague concerning past medical evaluations, but a review of her rather extensive medical record reveals numerous normal lab and imaging tests, and several surgical procedures that have failed to alleviate her symptoms; along with frequent requests for refills of narcotics. This history is most compatible with which one of the following?",
+      "options": [
+        "Hypochondriasis",
+        "Malingering",
+        "Panic disorder",
+        "Generalized anxiety disorder",
+        "Somatization disorder"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "When diagnosing an acute appendicitis, which of the following tests has the highest accuracy rate?",
+      "options": [
+        "Plain films of the abdomen",
+        "Barium enema",
+        "CT of the abdomen",
+        "HIDA scan",
+        "Abdominal ultrasound"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 65-year-old man presents to your office complaining of abdominal pain. His vital signs are stable. Examination reveals a pulsatile mass in the midabdomen. The most appropriate test is:",
+      "options": [
+        "Magnetic resonance imaging (MRI) of the abdomen",
+        "Laboratory tests, including CBC, electrolytes, and ESR.",
+        "Ultrasound examination of the abdomen",
+        "Upper Gl series",
+        "Barium enema"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 51-year-old woman presents to the office with a 2-day history of right-upper-quadrant, colicky abdominal pain, as well as nausea and vomiting. Examination shows significant pain with palpation in the right upper quadrant. Laboratory findings include an elevated WBC count, alkaline phosphatase, and bilirubin level. The most likely diagnosis is:",
+      "options": [
+        "Viral gastroenteritis",
+        "Dissecting abdominal aneurysm",
+        "Acute pancreatitis",
+        "Acute cholecystitis",
+        "Perforated duodenal ulcer"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 27-year-old woman presents to the emergency room complaining of periumbilical pain, anorexia, and vomiting. Physical findings show a fever of 38.6°C, rebound tenderness, and extreme pain with rectal examination. The patient is also found to have positive psoas and obturator signs. The most likely diagnosis is:",
+      "options": [
+        "Bowel infarction",
+        "Acute appendicitis",
+        "Acute cholecystitis",
+        "Torsion of the ovary",
+        "Ectopic pregnancy"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 65-year-old woman presents to your office complaining of leakage of urine when she coughs or sneezes. The most likely diagnosis is:",
+      "options": [
+        "Urinary tract infection.",
+        "Urge incontinence.",
+        "Neurogenic bladder.",
+        "Stress incontinence.",
+        "Interstitial cystitis."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 60-year-old multiparous woman presents to your office complaining of the sudden need to urinate followed by the loss of urine. The most likely diagnosis is:",
+      "options": [
+        "Urge incontinence.",
+        "Stress incontinence.",
+        "Overflow incontinence.",
+        "Interstitial cystitis.",
+        "Multiple sclerosis."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "When assessing for urinary retention, which of the following postvoid residuals (PVR) represents the threshold for an abnormal finding?",
+      "options": [
+        "25 mL",
+        "50 mL",
+        "100 mL",
+        "200 mL",
+        "500 mL"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following is indicated in the initial workup of urinary incontinence in the elderly?",
+      "options": [
+        "Voiding and bowel diary.",
+        "Urodynamic studies.",
+        "Renal ultrasound.",
+        "Urine cytology.",
+        "Intravenous pyelogram."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Diabetic foot ulcers:",
+      "options": [
+        "Are typically polymicrobial",
+        "Rarely become infected",
+        "Require topical antibiotics",
+        "Should not be debrided because of the risk of bacteremia"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following statements concerning the use of metformin is true?",
+      "options": [
+        "The drug is an oral sulfonylurea.",
+        "Weight gain is common with its use.",
+        "The most common side effect is headache.",
+        "Patients using metformin must have periodic liver function tests.",
+        "The most serious side effect is lactic acidosis."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Charcot foot is most commonly seen in patients with:",
+      "options": [
+        "Gonorrhea",
+        "Primary syphilis",
+        "Rheumatoid arthritis",
+        "Diabetes mellitus",
+        "Neurofibromatosis"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The USPSTF has recommended the use of low- to moderate-dose statins to prevent adverse cardiovascular events in patients with all of the following conditions, except which one?",
+      "options": [
+        "Aged 35 to 70 years",
+        "Current smoker",
+        "Dyslipidemia",
+        "Diabetic",
+        "Calculated 10-year risk of a cardiovascular event of ≥10%"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 53-year-old white male is in for a physical examination. He has been fasting overnight and wants his cholesterol checked and a test for diabetes because both his parents developed diabetes in their 50s. Additionally, he started smoking since he was a teenager and wants to get screened for lung cancer. He has no pulmonary complaints on your review of symptoms. Which one of the following statements according to the USPSTF is true?",
+      "options": [
+        "Yearly chest CT scans are recommended for smokers above 50 years to 70 years.",
+        "Yearly chest CT scans are recommended for male smokers above 55 years and female smokers older than 60 years.",
+        "Yearly chest CT scans are recommended for smokers above 50 years, who have a 30 pack-year smoking history.",
+        "Yearly chest CT scans are not recommended for former smokers if they have not smoked for the past 15 years."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which is the most important factor in determining the success of a smoking cessation program in an individual?",
+      "options": [
+        "The desire of the patient to quit smoking",
+        "A pharmacologic agent as a part of the smoking cessation program",
+        "The inclusion of a behavior modification component to the program",
+        "Physician advice to quit smoking",
+        "Repeated office visits"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The most effective therapy for tobacco cessation is which of the following?",
+      "options": [
+        "Bupropion",
+        "Nicotine transdermal patch",
+        "Nicotine gum",
+        "Varenicline",
+        "Clonidine"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "In an interview in which news of a serious disease is presented, which of the following is the thing to do before the patient leaves the office?",
+      "options": [
+        "Make sure the patient understands every word.",
+        "Make sure the patient understands that you are doing everything you can.",
+        "Make sure you leave the patient with a follow-up plan and provide the patient with some hope.",
+        "Make sure the patient understands the dismal prognosis.",
+        "Make sure that you have left no question unanswered."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "During the disclosure of bad news, what is important for the physician to be aware of?",
+      "options": [
+        "The patient may react by becoming angry, being in a state of emotional shock, crying because of sadness, or express his response in the form of humor.",
+        "A patient who speaks a language different from that of the physician is better served with a translator who is a family member of the patient.",
+        "It is better to be standing during the visit to show empathy.",
+        "A moment of silence when the patient starts crying is not an acceptable behavior.",
+        "A patient with terminal cancer will never ask how long he will live."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following settings is acceptable for breaking bad news?",
+      "options": [
+        "Fully occupied multi-bed hospital room",
+        "The common waiting area of a day surgery center",
+        "On the hallway while patient is on the gurney waiting for transport",
+        "Hospital lobby",
+        "Family conference room"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "When Marwa, a 14-year-old, was diagnosed with leukemia, her mother asked you what Marwa should be told and by whom. You replied how?",
+      "options": [
+        "Marwa should be told she has mononucleosis and will feel very fatigued for a while, but she will ultimately be cured.",
+        "Marwa should be told by the physician that she has cancer and may die of it, but if she survives the treatments, she may also be cured of the disease.",
+        "Marwa and her parents should hear the diagnosis from the physician together, including the name, a reasonable description of the treatment, and the hope for a cure as the outcome.",
+        "Marwa should be told she is too young to worry about a diagnosis and her parents and the physician will take care of it.",
+        "Marwa's parents should tell her whatever amount they are comfortable with and be the channel for any questions that she might have about diagnosis or treatment."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "33 years old male presenting with acute low back pain 3 weeks ago, Pain relieved with forward motion. You can suspect which of the following as cause of this pain:",
+      "options": [
+        "Spinal stenosis",
+        "Lumbar sprain",
+        "Cauda equine syndrome",
+        "Ankylosing spondylitis",
+        "Malignancy"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "It is recommended that all patients with low back pain be evaluated to identify red flags. Which of the following is considered red flag of low back pain?",
+      "options": [
+        "Onset after heavy lifting",
+        "History of cancer",
+        "Bilateral leg pain",
+        "Intended weight gain.",
+        "Working as a driver."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 25-year-old female suffering from low back pain one week ago, this occurred after lifting heavy bags. The patient has no red flags. What is the most appropriate management?",
+      "options": [
+        "Referral for urgent MRI",
+        "Recommend complete bed rest for 2 weeks.",
+        "Referral for urgent surgery",
+        "Prescribe analgesics and advise for early mobility.",
+        "Prescribe corticosteroids."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "You are called to see your 85 years old female patient who moved into a nursing home 9 months ago. Previously, she was living on her own and had managed herself since the death of her husband. During the past 9 months, she has increasing difficulties with bed wetting. She does not want to talk about this problem, but her nurse said that she had been incontinent. As apart of geriatric health maintenance, you should screen for which of the following in this patient?",
+      "options": [
+        "Lung cancer.",
+        "Colorectal cancer.",
+        "Depression.",
+        "Cervical cancer."
+      ],
+      "correct": 2
+    }
+  ]
+}

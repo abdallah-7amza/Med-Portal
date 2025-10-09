@@ -1,0 +1,1212 @@
+{
+  "title": "PBL of Neonatology",
+  "questions": [
+    {
+      "stem": "Which one of the following criteria is consistent with prematurity?",
+      "options": [
+        "Areola and nipple are well developed",
+        "Cartilage of the ear is well formed with curved helix",
+        "Faint red marks on the sole of the foot",
+        "Testes are down in the scrotum"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A full-term male infant is delivered by an emergency caesarian section for fetal distress. At birth, the baby has poor muscle tone, cyanotic, and has no respiratory effort. He is dried, suctioned, and tactile stimulated. However, no clinical improvement is noted. His heart rate is 80/minute. Which of the following is the most appropriate NEXT step?",
+      "options": [
+        "Bag and mask ventilation",
+        "Chest compressions.",
+        "Endotracheal intubation",
+        "Free flow oxygen"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "causes of hypoglycemia in small for gestational age is:",
+      "options": [
+        "hyperisulinism",
+        "hypocalcemia",
+        "poor glycogen storage",
+        "low aldosterone"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The skin of a baby with SGA is:",
+      "options": [
+        "Transparent & thin.",
+        "Few creases are found.",
+        "Dry and thick.",
+        "Hyperkeratotic"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Factors that affect the last part of pregnancy e.g Preeclampsia result in:",
+      "options": [
+        "Symmetric growth retardation.",
+        "Asymmetric growth retardation.",
+        "Do not affect the growth as it is late.",
+        "Results in IUFD"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Estimation of gestational age at birth is detected by:",
+      "options": [
+        "Date of the last menstrual period to the mother.",
+        "Serial ultrasound follow- up during pregnancy.",
+        "New Ballard score to the baby after delivery.",
+        "All of the above."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Periventricular leucomalacia in preterms:",
+      "options": [
+        "A normal finding in CT brain.",
+        "A type of intracranial hemorrhage.",
+        "Responsible for adverse neurodevelopmental outcomes in preterms.",
+        "Treated with surfactant therapy."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Antenatal steroids to the mother during pregnancy protect the neonate against:",
+      "options": [
+        "Respiratory distress syndrome.",
+        "Bronchopulmonary dysplasia.",
+        "None of the above.",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Surfactant therapy is given to the premature neonates to treat:",
+      "options": [
+        "Bronchopulmonary dysplasia (BPD).",
+        "Respiratory distress syndrome (RDS).",
+        "Pneumothorax.",
+        "Neonatal pneumonia."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Treatment of bronchopulmonary dysplasia (BPD)includes:",
+      "options": [
+        "Oxygen only.",
+        "Oxygen, diuretics, bronchodilators.",
+        "Oxygen, diuretics and prostaglandins.",
+        "Oxygen, corticosteroids, diuretics and bronchodilators."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The most common congenital anomalies in IDM is:",
+      "options": [
+        "Sacral agenesis.",
+        "Renal agenesis",
+        "Cardiac anomalies.",
+        "A&C"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "If the IDM is unable to tolerate oral feeding, glucose should be given by peripheral IV infusion at a rate of:",
+      "options": [
+        "6-8 mg/kg/min.",
+        "8-12 mg/kg/min.",
+        "4-6 mg/kg/min.",
+        "10-12 mg/kg/min."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Blood glucose should be done in IDM:",
+      "options": [
+        "After 2 hours of delivery",
+        "Within the first hour of delivery",
+        "Within the first 6 hours of delivery",
+        "If symptoms of hypoglycemia appeared"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Septal hypertrophy in IDM:",
+      "options": [
+        "Needs immediate cardiothoracic intervention.",
+        "Inotropes and ICU admission in all cases.",
+        "Usually resolves in 3-6 months.",
+        "Usually progress to heart failure"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Phrenic Nerve injury leads to:",
+      "options": [
+        "Erb's paralysis.",
+        "Diaphragmatic paralysis.",
+        "Klumpke's paralysis.",
+        "None of the above."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Asymmetric growth retardation is due to factors that affect:",
+      "options": [
+        "Early pregnancy",
+        "Mid-trimester",
+        "Late pregnancy",
+        "At any stage of pregnancy"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Hyaline membrane disease is the former name of:",
+      "options": [
+        "RDS.",
+        "BPD.",
+        "surfactant deficiency syndrome",
+        "A &C.",
+        "All are correct"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Caput succedaneum is a soft tissue oedema that can occur at birth, it usually resolves in:",
+      "options": [
+        "7 days.",
+        "4 days.",
+        "1-2 days.",
+        "12 hours."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Blood that collects between a newborn's cranium and skull periosteum:",
+      "options": [
+        "Subgaleal hematoma.",
+        "Cephalhematoma.",
+        "Caput succedaneum.",
+        "Craniotabes."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The second organ affected by hypoxia after the brain is:",
+      "options": [
+        "The liver.",
+        "The gastrointestinal tract.",
+        "The lungs.",
+        "The kidney."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Therapeutic hypothermia is a modality used in treating:",
+      "options": [
+        "RDS.",
+        "Intracranial hemorrhage.",
+        "Necrotizing enterocolitis.",
+        "Hypoxic ischemic encephalopathy."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A Brainstem reflex, that manifest as abnormal or absent brainstem reflexes in neonates with hypoxic ischemic encephalopathy:",
+      "options": [
+        "Oculocephalic reflex.",
+        "Gag reflex.",
+        "Cough reflex.",
+        "All of the above."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The initial motor abnormality in hypoxic ischemic encephalopathy (HIE) is:",
+      "options": [
+        "Hypotonia",
+        "Rigidity",
+        "Spasticity",
+        "None of the above."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Klumpke's paralysis is brachial plexus injury at the level of:",
+      "options": [
+        "C7,8.",
+        "C8,T1.",
+        "C5,6.",
+        "T1,2."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The optimal investigation in diagnosing intracranial hemorrhage is:",
+      "options": [
+        "CT Brain.",
+        "Cranial ultrasound.",
+        "MRI brain.",
+        "EEG"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Phrenic Nerve injury leads to:",
+      "options": [
+        "Erb's paralysis.",
+        "Diaphragmatic paralysis.",
+        "Klumpke's paralysis.",
+        "None of the above."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "All of the following are risk factors for shoulder dystocia except:",
+      "options": [
+        "Postdate.",
+        "Macrosomia.",
+        "Pelvic Abnormalities.",
+        "Intrauterine growth restriction"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Klumpke's paralysis due to brachial plexus injury at roots C8 and T1 is characterized by:",
+      "options": [
+        "Intact both Moro & grasp reflexes.",
+        "Absent both Moro & grasp reflex.",
+        "Intact Moro & absent grasp reflex.",
+        "Absent Moro & intact grasp reflex."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A full-term baby developed indirect hyperbilirubinemia (T. bili: 8 mg/dl, D. bili :0.5 mg/dl) on day 3, which reached its peak on day 5(T. bili: 11 mg/dI,D. Bili: 0.5 mg/di) and got resolved completely on day 9. The baby is breast fed. What is the MOST LIKELY diagnosis?",
+      "options": [
+        "Breast milk jaundice.",
+        "Galactosemia.",
+        "Hypothyroidism.",
+        "Physiological jaundice."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Complications of Meconium aspiration syndrome (MAS) include:",
+      "options": [
+        "Pneumothorax",
+        "Bronchopulmonary dysplasia",
+        "RDS",
+        "None of the above"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A full term newborn baby is born at home unattended by a doctor, the parents think that he took some time before taking his 1st breath, then they started noticing abnormal movements few hours after delivery. What would you suspect after listening to this history?",
+      "options": [
+        "Acute bilirubin encephalopathy.",
+        "Hypoglycemia",
+        "Hypoxic ischemic insult.",
+        "Transient tachypnea of the newborn"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "In the NICU, a 10- day- old preterm baby started to be hypoactive, lethargic and his blood test showed an increase in the CRP and in the WBCs count. What would you suspect?",
+      "options": [
+        "Electrolyte disturbance",
+        "Hypoxic ischemic insult.",
+        "Intracranial hemorrhage.",
+        "Late onset sepsis"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Causes of bleeding in a healthy neonate include:",
+      "options": [
+        "Septicemia",
+        "Hemorrhagic disease of the newborn",
+        "DIC",
+        "Liver diseases"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Vitamin k is given to newborns shortly after birth at dose of",
+      "options": [
+        "0.5mg",
+        "0.75mg",
+        "1mg",
+        "2mg"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The average respiratory rate of a normal newborn is:",
+      "options": [
+        "10 - 20 / min",
+        "20 - 40 / min",
+        "40 - 60 / min",
+        "60 - 80 / min"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is the Normal heart rate at birth?",
+      "options": [
+        "160 - 200 / min",
+        "110 - 160 / min",
+        "70 - 100 / min",
+        "60 - 90 / min"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following is ABNORMAL in a full-term newborn?",
+      "options": [
+        "Apex in the 4th intercostal space",
+        "Heart rate 120/minute",
+        "Respiratory rate 40 / minute",
+        "Skull circumference 50 cm"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The birth measurements of a male baby, with a 35-week-gestational age, are: Weight: 1200 g (less than 10th percentile), crown-heel length: 38 cm (on 50th percentile) and head circum-ference: 31.5 cm (on 50th percentile). The most likely explanation for the growth pattern of this infant is?",
+      "options": [
+        "Chromosomal abnormality.",
+        "Congenital viral infection.",
+        "Gestational diabetes.",
+        "nancy induced hypertension."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A one-day-old Full-term boy was delivered by normal vaginal delivery. Clinical examination revealed the presence of a soft swelling over the presenting part. What is the most likely diagnosis?",
+      "options": [
+        "Caput succedaneum",
+        "Cephalohematoma",
+        "Intracranial hemorrhage",
+        "Intraventricular hemorrhage"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 3-day-old girl is brought to her pediatrician. The mother states that while she is changing the diaper of her baby, she noticed a blood tinged mucous discharge. What is the most appropriate action?",
+      "options": [
+        "Ask for a complete blood picture.",
+        "Ask for history of trauma or sexual abuse.",
+        "Order a coagulation profile.",
+        "Reassure the mother."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which one of the following criteria is consistent with prematurity?",
+      "options": [
+        "Areola and nipple are well developed",
+        "Cartilage of the ear is well formed with curved helix",
+        "Incomplete sole creases",
+        "Testes are down in the scrotum"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "You are a resident at a neonatal unit and you are caring for a preterm baby 29-week-gestation who has been mechanically ventilated for a week, then put on CPAP and then on nasal oxygen. He is now 30 days. What investigation should be ordered?",
+      "options": [
+        "Abdominal ultrasound.",
+        "CT brain.",
+        "Echocardiography.",
+        "Fundus examination."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "You are checking a newborn baby at the age of 3 days and you find that the head circumference is 35 cm, what would be your next action?",
+      "options": [
+        "Continue your well-check as this measurement is normal.",
+        "Do an MRI to check for brain anomaly.",
+        "Send the baby to do a CT scan because he is microcephalic.",
+        "Send the baby to do cranial U/S because you think the baby has hydrocephalus."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following is TRUE about Moro reflex?",
+      "options": [
+        "Absence at 7 months of age may be due to birth asphyxia",
+        "Disappears by the 2nd month of life",
+        "Presence at 12 months suggests cortical maturation",
+        "Unilateral Moro reflex may be due to fracture clavicle"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Neonatal reflexes do NOT include:",
+      "options": [
+        "Gag reflex",
+        "Grasp reflex",
+        "Rooting reflex",
+        "Placing reflex"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "On touching the corner of a 2-day-old boy's mouth, the boy turns his head towards the side of the stimulus. This reflex is:",
+      "options": [
+        "Babinski reflex",
+        "Moro reflex",
+        "Placing reflex",
+        "Rooting reflex"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "You are examining a 3-day- old male baby and his mother tells you that she is worried because the baby's breasts are engorged, what advice do you give her?",
+      "options": [
+        "Give antibiotic therapy.",
+        "Reassure and observe",
+        "Squeeze the breast daily,",
+        "Start anti-inflammatory drug."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "At birth you notice a bluish patch at the lower back and buttocks of a newborn, otherwise the examination is within normal. What is your NEXT step?",
+      "options": [
+        "Ask for a coagulation profile.",
+        "Ask for an X-ray on lower back.",
+        "Do a complete blood count.",
+        "Send the baby to his mother."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "What are the items included in the APGAR score?",
+      "options": [
+        "Color, heart rate, reflex irritability, muscle tone and respiration.",
+        "Heart rate, respiratory rate, temperature, suckling and color.",
+        "Oxygen saturation, blood pressure, temperature, moro reflex and color.",
+        "Reflex irritability, pupillary reflex, Babinski and muscle tone."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A full-term baby was born at 37-week- gestation by Caeserian Section. At one minute postnatal, the neonate had no spontaneous respiration, a heart rate of 80, had some flexion of extremities with acrocyanosis and no reflex irritability. His one-minute Apgar will be:",
+      "options": [
+        "0",
+        "1",
+        "3",
+        "5"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "You are attending the delivery of a full term baby. After the baby took his first breath, he developed cyanosis and there was failure to pass the nasogastric tube in both his nostrils. What do you suspect?",
+      "options": [
+        "Choanal atresia.",
+        "Congenital lobar emphysema.",
+        "Esophageal atresia.",
+        "Imperforate anus."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "During delivery of a 42-week- gestational age baby, the amniotic fluid contains thick particles of meconium. What is the most Important INITIAL step in resuscitation of the infant?",
+      "options": [
+        "Aspirate the gastric contents.",
+        "Initiate endotracheal intubation.",
+        "Provide positive pressure ventilation.",
+        "Suction of the oropharynx."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "During resuscitation of an asphyxiated newborn by positive pressure ventilation via endotracheal intubation and chest compression, the heart rate increased to 80 beats/min. What is the most appropriate NEXT step in management?",
+      "options": [
+        "Discontinue both chest compressions and positive pressure ventilation",
+        "Discontinue chest compressions",
+        "Discontinue positive pressure ventilation",
+        "Remove the Endotracheal tube"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "After initial steps of resuscitation of a baby, he had no spontaneous breathing, and 1 minute has passed since birth. What is the NEXT most appropriate step to do?",
+      "options": [
+        "Free flow oxygen administration.",
+        "Initiate chest compression.",
+        "Initiate positive pressure ventilation.",
+        "Vigorous tactile stimulation."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "About neonatal resuscitation, which of the following is TRUE?",
+      "options": [
+        "Diaphragmatic hernia is an indication for early intubation",
+        "Endotracheal intubation is done in all neonates",
+        "The first step in the resuscitation is the use of bag and mask ventilation",
+        "The presence of meconium is an indication for chest compressions"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "One of the reasons of failure of resuscitation in the newborn is:",
+      "options": [
+        "Early start of ventilation.",
+        "Lung hypoplasia.",
+        "Premature rupture of membranes.",
+        "Twin pregnancy."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "During neonatal resuscitation, a baby is born apneic, this is an indication for which step?",
+      "options": [
+        "Adrenaline through umbilical vein.",
+        "Bag and mask ventilation.",
+        "Endotracheal intubation.",
+        "Tactile stimulation."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "What is an indication of use of self inflating bag ?",
+      "options": [
+        "Administration of Positive pressure ventilation.",
+        "Measurement of central venous pressure.",
+        "Stomach wash.",
+        "Measurement of oxygen."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "You are in the outpatient clinic and a father brings his 4-day- old female baby worried about her serum bilirubin (Total 9 mg/dl), she is 3.5 kg, active, crying and feeding well. What would you advise him?",
+      "options": [
+        "Admit immediately for exchange transfusion.",
+        "Admit the baby and start phototherapy.",
+        "Admit the baby and start Intravenous immunoglobulins.",
+        "Send the baby home and follow up the serum bilirubin."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A father brings to you his baby who is only 12-hour-old with yellowish discoloration of his sclera, his total serum bilirubin is 17 mg/dl, his blood group is A+ and his mothers' group is O+. What would be your decision?",
+      "options": [
+        "Admit the baby and start conventional phototherapy.",
+        "Admit the baby and start intensive phototherapy.",
+        "Admit the baby and start intensive phototherapy and prepare for exchange transfusion.",
+        "Send the father home for a follow up after 48 hours."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A mother, blood-group- O positive, delivers a full-term baby, blood-group- A positive with a hematocrit of 55%. A serum bilirubin level obtained at 36 hours of age is 15 mg/dl. Which of the following laboratory results can diagnose this case?",
+      "options": [
+        "Crescent-shaped RBCs in the blood film",
+        "Normal reticulocytic count",
+        "Positive direct coombs test",
+        "Thrombocytopenia"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "You are in the emergency room; a mother brings her 3-day old female baby with an abnormal cry and arching of the back. The mother's blood group is O negative and the baby's blood group is A positive. Serum bilirubin is 25 mg/dl. What would be your management?",
+      "options": [
+        "Start intensive phototherapy and follow-up her serum bilirubin level.",
+        "Start intensive phototherapy and prepare for exchange transfusion.",
+        "Start phototherapy and do CSF analysis.",
+        "Start regular phototherapy and give intravenous Immunoglobulin."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 32-year-old mother brings her 4-day- old male boy because she noticed that his sclera is jaundiced, he is breast fed, her blood group is O+ve, while his blood group is A+ve, his serum bilirubin level is 18 mg/dl. what would be your decision?",
+      "options": [
+        "Admit and start phototherapy and follow up his serum bilirubin.",
+        "Get blood and start immediate exchange transfusion.",
+        "Send her home and advise her to stop breast feeding.",
+        "Send her home and ask her to bring him for follow up in 24 hrs."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In hemolytic disease of the newborn, a TRUE Statement on exchange blood transfusion is",
+      "options": [
+        "Is indicated when cord bilirubin is ≤ 5 mg/dl",
+        "Is indicated when cord hemoglobin is ≥ 10 g/dl",
+        "It may be carried by O negative blood",
+        "Blood volume needed is: 85 x weight of baby (in kg)"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What may be the cause of prolonged unconjugated hyperbilirubinemia till after the neonatal period?",
+      "options": [
+        "Breast feeding failure jaundice",
+        "Hypothyroidism",
+        "Isoimmune hemolytic due to RH incompatibility",
+        "Physiological jaundice"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is TRUE about Physiological jaundice?",
+      "options": [
+        "Begins in the 2nd or 3rd day of life.",
+        "Is associated with reticulocytosis.",
+        "Is of the conjugated type.",
+        "Lasts more than 2 weeks."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A mother brought to you her 4-day- old son complaining of fever reaching 38.5ºc of 3-day-duration, he is active, feeding well but still has fever. What would be the next step?",
+      "options": [
+        "Ask for sepsis profile (CBC and CRP).",
+        "Give oral antibiotic therapy.",
+        "Give the mother feeding instructions and send her home.",
+        "Start fever reducers and send her home."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which one of the following is a risk factor for Late onset neonatal septicemia?",
+      "options": [
+        "Chorioamnionitis",
+        "Premature rupture of membranes",
+        "Prematurity",
+        "NICU admission"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "You are in the NICU caring for a 32-week- gestation baby boy who started to develop lethargy and poor feeding in his second day of life. There is history of premature rupture of membranes for 96 hours. His CRP level is high and he has bandemia. Which one of the following is the APPROPRIATE line of management?",
+      "options": [
+        "Give surfactant therapy.",
+        "Start intravenous antibiotics till you get culture and sensitivity results.",
+        "Start oral antibiotics till you get culture and sensitivity results.",
+        "Start oral antifungal medications."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "You are responsible about a preterm baby admitted in the NICU suffering from respiratory distress syndrome. The baby was improving till day 9 when he started to develop lethargy and hypothermia. His complete blood count showed bandemia and his CRP started to rise. What do you suspect?",
+      "options": [
+        "Bronchopulmonary dysplasia.",
+        "Early onset sepsis.",
+        "Intracranial hemorrhage",
+        "Late onset sepsis"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Specific features suggesting congenital (TORCH) infections do NOT include?",
+      "options": [
+        "Congenital heart disease",
+        "Intracranial calcification",
+        "Large birth weight",
+        "Microcephaly"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "You are responsible about a preterm baby 28-week-gestation in the NICU, he started feeding and was advancing regularly and at the age of 21 days, he started to develop vomiting, abdominal distension and X-ray showed Pneumatosis intestinalis. What do you suspect?",
+      "options": [
+        "Duodenal atresia.",
+        "Hirschsprung disease.",
+        "Necrotizing enterocolitis.",
+        "Pyloric stenosis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "In a newborn, the most common source of infection with oral moniliasis is?",
+      "options": [
+        "Cleft palate",
+        "Contact with hospital carriers",
+        "Contaminated instruments",
+        "Maternal birth canal"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 3.5-kg- male neonate presents with respiratory distress at 18 hours after birth. Pregnancy was uncomplicated but the mother had premature ruptures of membranes for 96 hours before labor and did not receive parenteral antibiotics. The baby required intubation and mechanical ventilation. What is the most probable cause of respiratory distress in the neonate?",
+      "options": [
+        "Early onset sepsis",
+        "Meconium aspiration.",
+        "Pneumothorax.",
+        "Transient tachypnea of the newborn."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "You have attended the delivery of a 28-week-gestation baby and after delivery, he started to develop respiratory distress and his arterial blood gases show hypoxia and acidosis. You order a chest X-ray. What would be the commonest finding?",
+      "options": [
+        "Cardiomegaly.",
+        "Increase in thymic shadow.",
+        "Pneumonic patches.",
+        "White lung."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "You are attending the delivery of a 28-week-gestation male baby and after stabilization, he is distressed with marked tachypnea. He has decreased air entry on both sides of the chest. Chest -X-ray shows diffuse reticulo-granular appearance with air bronchogram. What do you suspect?",
+      "options": [
+        "Congenital Cyanotic heart disease.",
+        "Diaphragmatic hernia.",
+        "Persistent pulmonary hypertension.",
+        "Respiratory distress syndrome."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which one of the following factors can increase the risk of Respiratory Distress Syndrome in the newborn?",
+      "options": [
+        "Maternal pre-eclampsia",
+        "Maternal steroids.",
+        "Premature rupture of membranes",
+        "Prematurity"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following is TRUE regarding Transient tachypnea of the newborn?",
+      "options": [
+        "Common among asphyxiated newborns",
+        "Commonly associated with pulmonary hypertension",
+        "Is caused by delayed clearance of lung fluid after birth",
+        "Presence of areas of lung collapse and areas of pneumonitis"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A mother delivers a neonate with meconium staining and low apgar scores. The delivery was by emergency caesarian section for severe fetal bradycardia. What is the most likely complication expected?",
+      "options": [
+        "Cataract",
+        "Hyperactive bowel sounds",
+        "Pulmonary hypertension",
+        "Thrombocytosis"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is Not true about Jitteriness?",
+      "options": [
+        "Accompanied with abnormal EEG",
+        "It is usually stimulus related",
+        "No need for anticonvulsant therapy",
+        "There is no abnormal gaze"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In hypoxic ischemic encephalopathy:",
+      "options": [
+        "Blood gas analysis is usually normal.",
+        "Headcooling may reduce brain damage.",
+        "Seizures rarely occur in HIE patients",
+        "The brain is the only organ affected."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 2-day- old, full-term male newborn presented with abnormal suckling movement while in the nursery. There is history of prolonged labor complicated with fetal bradycardia. What is this movement most likely?",
+      "options": [
+        "Athetosis.",
+        "Chorea.",
+        "Jitteriness.",
+        "Subtle convulsions."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A full term baby boy was delivered vaginally. The delivery was obstructed and the obstetrician used forceps for the delivery of the baby's head. Examination of the head revealed a firm swelling that does not cross the suture lines. Associated complications may include:",
+      "options": [
+        "Cyanosis.",
+        "Hyperthermia.",
+        "Respiratory distress.",
+        "Skull fracture"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "You are in charge of a preterm baby in the NICU. His delivery was difficult. At the age of 3 days, he started to develop convulsions and his CBC showed a sudden drop in hemoglobin. What should you rule out FIRST?",
+      "options": [
+        "Electrolyte disturbance.",
+        "Hypoxic ischemic insult.",
+        "Intracranial hemorrhage.",
+        "Meningitis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is CONTRAINDICATED in the treatment of cephalohematoma?",
+      "options": [
+        "Anticonvulsant drugs",
+        "Aspiration",
+        "Blood transfusion",
+        "Phototherapy."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "You are attending the delivery of a diabetic mother and she delivers a 4- kilogram- old male baby. What do you need to check FIRST?",
+      "options": [
+        "His arterial blood gases.",
+        "His blood glucose level.",
+        "His serum potassium level.",
+        "His serum Sodium level."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A one-day- old infant develops jitteriness and convulsions. He was born at 34-week-gestation to a woman whose pregnancy was complicated by diabetes and pregnancy induced hypertension. Which one of the following values explains this condition?",
+      "options": [
+        "Serum calcium level of 6.2 mg/dl",
+        "Serum glucose level of 60 mg/dl",
+        "Serum magnesium level of 2 mg/dl",
+        "Venous hematocrit value of 45%"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Neonatal problems commonly encountered among infant of diabetic mothers include:",
+      "options": [
+        "Anemia",
+        "Hypertrophic cardiomyopathy",
+        "Hypercalcemia",
+        "Hypermagnesemia"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A mother of a 2-day- old girl came to you complaining that her daughter, who was born at home and has not received the vitamin K injection, is having bleeding from the umbilicus. What do you think the diagnosis is?",
+      "options": [
+        "Hemolytic anemia.",
+        "Hemorrhagic disease of the newborn.",
+        "Hyperbilirubinemia.",
+        "Late onset sepsis."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A-2100g-baby girl, with a 38-week- gestational age, was born with low apgar scores. Her mother had pre-eclampsia. At 18 hours of age, her laboratory results were as follows: Hematocrit: 79%, platelet count: 180000/mcl, blood glucose: 80 mg/dl, serum magnesium: 2 mEq/I, and serum calcium: 8.7 mg/dl. Soon after, the infant developed generalized convulsions. Which of the following is the most likely cause of the seizures?",
+      "options": [
+        "Hypermagnesemia.",
+        "Hypocalcemia.",
+        "Hypoglycemia.",
+        "Polycythemia."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Bleeding in a healthy newborn may be due:",
+      "options": [
+        "DIC",
+        "Hemorrhagic disease of the newborn",
+        "Neonatal liver disease",
+        "Septicemia"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The etiology of neonatal anemia does NOT include:",
+      "options": [
+        "Antepartum hemorrhage",
+        "Delayed cord clamping",
+        "Hereditary spherocytosis",
+        "Osteopetrosis"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A full term newborn baby is born at home unattended by a doctor, the parents think that he took some time before taking his 1st breath, then they started noticing abnormal movements few hours after delivery. What would you suspect after listening to this history?",
+      "options": [
+        "Acute bilirubin encephalopathy.",
+        "Biotin deficiency",
+        "Hypoxic ischemic insult.",
+        "Transient tachypnea of the newborn."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All neonates need resuscitation at birth",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The following bacteria are most often associated with acute neonatal meningitis except;",
+      "options": [
+        "Escherichia Coli",
+        "Streptococcus agalactiae",
+        "Neisseria Meningitidis",
+        "Listeria monocytogenes"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "TTN usually resolves in:",
+      "options": [
+        "6-12 hours",
+        "12-24 hours",
+        "24-48 hours",
+        "48-72 hours"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Incidence of respiratory distress syndrome increases with all of the following Except:",
+      "options": [
+        "Prematurity",
+        "Maternal diabetes",
+        "Black race",
+        "Male gender",
+        "Cesarean section delivery"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "You are called to the delivery of a boy at 42 weeks' GA with thick meconium-stained fluid and type II decelerations. The obstetrician rapidly delivers e baby, and hands him to you. The boy hypotonic cyanotic, apneic, and bradycardic. the most appropriate action is to:",
+      "options": [
+        "Stimulate the infant breath",
+        "Administer epinephrine",
+        "Provide positive-pressure bag-and-mask ventilation",
+        "Intubate and provide positive-pressure vent",
+        "Intubate and apply negative-pressure suction"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Neonatal apnea can be a presentation of all the following except:",
+      "options": [
+        "Prematurity",
+        "Intracranial hemorrhage.",
+        "Hyperbilirubinemia.",
+        "Gastroesophageal reflux."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A baby was born after prolonged obstructed labor with swelling of the scalp. During examination the swelling was crossing the suture line. The baby was pale with mild jaundice noticed otherwise his general condition was good. The swelling disappeared within one week. What is the most likely diagnosis?",
+      "options": [
+        "Cephalhematoma",
+        "caput succedaneum",
+        "intracranial hemorrhage",
+        "subgaleal hemorrhage"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Caput succedaneum is edema of the subcutaneous tissues.It is treated by:",
+      "options": [
+        "Blood transfusion",
+        "Aspiration",
+        "Plasma transfusion",
+        "Observation and conservative management."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "In Erb's Paralysis which occurs in breech presentation or shoulder dystocia from traction on the brachial plexus nerve roots., the following statement is correct:",
+      "options": [
+        "C8, T1 roots are injured",
+        "Moro reflex is absent while grasp is Intact.",
+        "Hand is midway between flexion and extension",
+        "CT brain is indicated for investigation."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "This is the diagram for the brain of a preterm newborn less than 34 weeks What is the procedure of choice for screening and diagnosis?",
+      "options": [
+        "Electroencephalogram EEG",
+        "X-ray skull",
+        "Cranial ultrasound",
+        "MRI"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Laboratory investigations of 103 ordered include:",
+      "options": [
+        "CBC. Coagulation Profile: PT-PTT",
+        "Liver function tests",
+        "Kidney function tests",
+        "CSF examination."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Treatment of 103 should include:",
+      "options": [
+        "Surgical evacuation",
+        "Vitamin K and blood or plasma transfusion",
+        "Intrathecal antibiotics.",
+        "intatheral steroids"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Extreme low birth weight neonate is considered when birth weight is:",
+      "options": [
+        "<1500 grams.",
+        "< 1000grams",
+        "<2500 grams",
+        "<500 grams.",
+        "None of the above."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Signs of heart failure in neonates, include all of the following except:",
+      "options": [
+        "Diaphoresis",
+        "Failure to gain weight",
+        "Feeding difficulties",
+        "Seizures",
+        "Periorbital oedema"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The posture of the newborn that reflects the fetus position in utero is:",
+      "options": [
+        "Arms extended & legs flexed",
+        "Arms flexed & legs extended",
+        "Arms & legs flexed",
+        "Arms & legs extended.",
+        "Arms abducted & legs adducted"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 1-day-old infant born by difficult forceps delivery is unable to move her left arm during a Moro reflex examination. The arm is internally rotated; the forearm is extended and pronated. What is the most likely diagnosis?",
+      "options": [
+        "Left sided Klumpke's paralysis",
+        "Left sided Erb's paralysis",
+        "Fracture left clavicle",
+        "Fracture left humerus"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Holding the baby with the dorsal surfaces of the foot touching the edge of the table is named:",
+      "options": [
+        "Placing reflex.",
+        "Rooting reflex.",
+        "Stepping reflex.",
+        "Babinski reflex.",
+        "Tonic neck reflex"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Let down sensation reflex is:",
+      "options": [
+        "Exposure to bright light leads to pupillary constriction",
+        "Rapid turn of the head to one side while the infant is in the supine position",
+        "Milk flow from one breast while nursing from the other breast.",
+        "Touching the lips (upper or lower lip at the middle line) or the corners of the mouth",
+        "None of the above"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Transient tachypnea of the newborn (TTN) is usually:",
+      "options": [
+        "Self-limited, improvement in 24-48 hours.",
+        "Improvement occurs after the first week.",
+        "Complications are common.",
+        "Common in preterm neonates",
+        "Chest X-ray shows lung oligemia."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A baby is considered as a healthy newborn when the APGAR score is:",
+      "options": [
+        "1-3 at 1 and 5 minutes",
+        "3-5 at 1 and 5 minutes",
+        "7-10 at 1 and 5 minutes.",
+        "7-10 after 30 minutes."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 5 day-old infant presents with large pale blue lesions over the buttocks. The lesion is not warni or raised. The mother denies trauma and reports that it has been present since birth. What is the most appropriate action?",
+      "options": [
+        "Check the platelets count",
+        "Give plasma infusion",
+        "Give vitamin K",
+        "Reassurance of the parents"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A full term newborn baby was delivered by normal vaginal delivery On examination; the baby had a diffuse edematous swelling of the soft tissues of the scalp extending across the suture lines. The most likely diagnosis is?",
+      "options": [
+        "Caput succedaneum",
+        "Cephalhematoma",
+        "Moulding",
+        "Subdural hematoma"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Congenital muscular torticollis is due to:",
+      "options": [
+        "Congenital absence of sternomastoid muscle.",
+        "Injury & hematoma to sternomastoid muscle during birth.",
+        "Muscle Infection.",
+        "Malignancy."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A medication used in treatment of apnea of prematurity in neonates:",
+      "options": [
+        "Adrenaline.",
+        "Diuretics.",
+        "Caffeine citrate.",
+        "Antibiotics."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Persistence of Moro reflex after 6 months after birth indicates:",
+      "options": [
+        "Normal CNS development.",
+        "Cerebral palsy.",
+        "Prematurity.",
+        "Both b and c are correct."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A newborn is stained with meconium and his estimated gestational age is 42 weeks. Tracheal intubation reveals meconlum in the hypopharynx as well as below the vocal cords. The infant has respiratory distress. A chest radiograph is obtained. What is the most likely radiographic finding?",
+      "options": [
+        "White lung",
+        "Mediastinal shift",
+        "Coarse lung infiltrates",
+        "Decreased lung volumes"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Is considered a critical respiratory clinical condition:",
+      "options": [
+        "Unilateral choanal atresia.",
+        "Bilateral choanal atresia.",
+        "Erbs palsy",
+        "Laryngomalacia."
+      ],
+      "correct": 1
+    }
+  ]
+}

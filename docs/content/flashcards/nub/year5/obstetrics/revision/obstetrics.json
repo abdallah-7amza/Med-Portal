@@ -1,0 +1,213 @@
+{
+  "title": "Obstetrics Flashcards",
+  "cards": [
+    {
+      "front": "What is the first sign of pregnancy?",
+      "back": "Amenorrhea."
+    },
+    {
+      "front": "What are some warning signs/symptoms during pregnancy?",
+      "back": "Headache, blurring of vision, projectile vomiting, epigastric pain, Rt hypochondrial pain, diminished/decreased fetal movements, gush of fluid, vaginal bleeding, and lower limb edema."
+    },
+    {
+      "front": "What are the physiological cardiovascular changes during pregnancy?",
+      "back": "Blood volume increases by 50% (maximally between 28-32 weeks), blood pressure decreases (maximally at midtrimester), cardiac output increases by 40%, and the apex beat is shifted upwards and outwards."
+    },
+    {
+      "front": "What are the physiological thyroid changes during pregnancy?",
+      "back": "Physiologic goitre may occur, total T3 & T4 increase due to increased Thyroid Binding Globulin (TBG), but there is no change in free T3 & T4."
+    },
+    {
+      "front": "Which hormone is responsible for keeping the uterus quiescent during pregnancy?",
+      "back": "Progesterone."
+    },
+    {
+      "front": "What causes the physiological drop in hemoglobin during the second trimester?",
+      "back": "Hemodilution, because the increase in plasma volume is greater than the increase in RBC mass."
+    },
+    {
+      "front": "What is the Decidua?",
+      "back": "It is the secretory endometrium of the uterus, prepared for implantation."
+    },
+    {
+      "front": "What is the biggest risk factor for recurrence of ectopic pregnancy?",
+      "back": "A previous ectopic pregnancy (30% risk)."
+    },
+    {
+      "front": "What are the management options for a tubal ectopic pregnancy?",
+      "back": "Laparoscopic: Salpingectomy is the standard. Salpingostomy may be done if the patient has only one tube.\n\nMedical: Methotrexate injection for an undisturbed patient with beta hCG < 6000 mIU/mL and no fetal heartbeat.\nHysterectomy has no role."
+    },
+    {
+      "front": "What is the recommended management for a threatened abortion?",
+      "back": "Physical and mental rest."
+    },
+    {
+      "front": "What are the features of an inevitable abortion?",
+      "back": "Open cervix with bleeding."
+    },
+    {
+      "front": "In which type of Benign Gestational Trophoblastic Disease (Benign GTD) can fetal tissue be detected?",
+      "back": "Incomplete/partial mole."
+    },
+    {
+      "front": "What is the definition of Antepartum Hemorrhage (APH)?",
+      "back": "Bleeding from the genital tract after 20-24 weeks of gestation and before the onset of labor."
+    },
+    {
+      "front": "What is the most common cause of APH?",
+      "back": "Placental abruption."
+    },
+    {
+      "front": "What is the most common clinical presentation of placental abruption?",
+      "back": "Pain."
+    },
+    {
+      "front": "What is the pathognomonic sign of placental abruption?",
+      "back": "Couvelaire’s uterus (uteroplacental apoplexy)."
+    },
+    {
+      "front": "What is the most common clinical presentation of placenta previa?",
+      "back": "Asymptomatic. The second most common is painless bleeding."
+    },
+    {
+      "front": "What is the gold standard investigation to diagnose placenta previa?",
+      "back": "Transvaginal ultrasound (TVS)."
+    },
+    {
+      "front": "What is the source of blood in a Ruptured vasa previa and what is the management?",
+      "back": "The source is fetal blood. Management is an emergency C-section."
+    },
+    {
+      "front": "At what blood pressure reading is pre-eclampsia diagnosed?",
+      "back": "≥ 140/90 mmHg with proteinuria."
+    },
+    {
+      "front": "What is the definitive treatment for pre-eclampsia?",
+      "back": "Termination of pregnancy."
+    },
+    {
+      "front": "What is a known complication of severe preeclampsia?",
+      "back": "HELLP syndrome (Hemolysis, Elevated Liver enzymes, Low Platelets)."
+    },
+    {
+      "front": "What is the primary action of MgSO4 in severe pre-eclampsia?",
+      "back": "It is used to suppress the Central Nervous System (prevents and controls convulsions). Its main function is not blood pressure reduction."
+    },
+    {
+      "front": "What precautions must be taken before giving subsequent doses of MgSO4?",
+      "back": "Knee Jerk must be present, Urine output is ≥ 100c.c. in 4 hours, and Respiratory rate is ≥ 16/minute."
+    },
+    {
+      "front": "What is the Antidote for MgSO4 toxicity?",
+      "back": "Calcium gluconate 10% 10c.c. slowly I.V."
+    },
+    {
+      "front": "What is the most common complication of a twin pregnancy?",
+      "back": "Preterm delivery/labor."
+    },
+    {
+      "front": "What is the most common type of twin pregnancy?",
+      "back": "Monochorionic, diamniotic."
+    },
+    {
+      "front": "In Twin-to-Twin Transfusion Syndrome (TTTS), what are the findings in the recipient vs. donor twin?",
+      "back": "Recipient Twin: Macrosomia, polycythemia, polyhydramnios.\n\nDonor Twin: Anemia, IUGR, oligohydramnios."
+    },
+    {
+      "front": "What does the timing of division for monozygotic twins determine?",
+      "back": "0-3 days: Dichorionic, diamniotic.\n4-8 days: Monochorionic, diamniotic (most common).\n8-12 days: Monochorionic, monoamniotic.\n>13 days: Conjoined twins."
+    },
+    {
+      "front": "What are the two types of Intrauterine Growth Restriction (IUGR)?",
+      "back": "Symmetrical IUGR (Type I, from intrinsic fetal factors like infections/anomalies) and Asymmetrical IUGR (Type II, from extrinsic factors like placental insufficiency)."
+    },
+    {
+      "front": "What does late deceleration on a CTG indicate?",
+      "back": "Placental insufficiency or fetal hypoxia. It is the most serious type."
+    },
+    {
+      "front": "What does variable deceleration on a CTG reflect?",
+      "back": "Cord Compression."
+    },
+    {
+      "front": "What are the 5 criteria of the Bishop Score used to assess Cervical Ripening?",
+      "back": "Dilatation, effacement, Consistency, position, and Station. (Parity is not a criterion)."
+    },
+    {
+      "front": "What is a common cause of fetal Macrosomia and its complications?",
+      "back": "Cause: Diabetic mother. Complications: Shoulder dystocia and Fetal hypoglycemia."
+    },
+    {
+      "front": "What are the most important differences between true and false labor pain?",
+      "back": "In true labor, there is progressive cervical dilatation, and the pain is not relieved by analgesia."
+    },
+    {
+      "front": "What is the most serious complication of oxytocin use in labor?",
+      "back": "Tetanus-like hyperstimulation, which can lead to uterine rupture."
+    },
+    {
+      "front": "Describe the leg positions in the different types of breech presentation.",
+      "back": "Complete: Flexed hips and knees.\nFrank: Flexed hips and extended knees.\nFootling: Extended hips and knees."
+    },
+    {
+      "front": "In which stage of labor is a Partogram used?",
+      "back": "Only in the first stage of labor."
+    },
+    {
+      "front": "What is the most common complication of obstructed labor in a multipara?",
+      "back": "Rupture Uterus, most commonly in the upper segment."
+    },
+    {
+      "front": "Which fetal malpositions often indicate a CS?",
+      "back": "Deep transverse Arrest and persistent occipitoposterior."
+    },
+    {
+      "front": "What is the most common cause for a CS?",
+      "back": "Previous C.S."
+    },
+    {
+      "front": "How long is the 3rd stage of labor, and when is a placenta considered retained?",
+      "back": "The third stage is typically 10-20 min. It is considered retained if it lasts more than 30 minutes."
+    },
+    {
+      "front": "What is the definition of Postpartum Hemorrhage (PPH) by blood volume?",
+      "back": ">500 cc in vaginal delivery, >1000 cc in CS."
+    },
+    {
+      "front": "What is the most common cause of PPH?",
+      "back": "Uterine atony."
+    },
+    {
+      "front": "What is the most common etiology of uterine inversion?",
+      "back": "Rapid traction on the cord before full placental separation."
+    },
+    {
+      "front": "What is the management of PROM without fever and with normal TLC?",
+      "back": "Conservative management + antibiotics + dexamethasone."
+    },
+    {
+      "front": "What is the management of PROM with fever?",
+      "back": "Immediate termination of pregnancy."
+    },
+    {
+      "front": "What is the drug of choice for treating Hyperthyroidism during pregnancy?",
+      "back": "Propylthiouracil (PTU). Radioactive iodine is contraindicated."
+    },
+    {
+      "front": "What is the treatment for DVT in pregnancy?",
+      "back": "Low Molecular Weight Heparin (LMWH), e.g., Clexane."
+    },
+    {
+      "front": "When should Anti-D immunoglobulin be given to an Rh-negative mother?",
+      "back": "Within 72 hours of the sensitizing event (e.g., delivery of an Rh-positive baby)."
+    },
+    {
+      "front": "What is the treatment for asymptomatic bacteriuria in pregnancy?",
+      "back": "Ceftriaxone. Diagnosis is >100,000 organisms on urine culture."
+    },
+    {
+      "front": "At what bilirubin level does Kernicterus typically develop in a neonate?",
+      "back": "When bilirubin exceeds 20 mg/dL."
+    }
+  ]
+}

@@ -1,0 +1,822 @@
+{
+  "title": "PBL of Neurology",
+  "questions": [
+    {
+      "stem": "A baby with hydrocephalus may present with which of the following clinical signs:",
+      "options": [
+        "unusually large head",
+        "bulging fontanelles",
+        "downward looking eyes",
+        "unusually small head"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In neurological examination, it is important to examine the back of the patient to detect if there is:",
+      "options": [
+        "Rash",
+        "Ulcer",
+        "meningocele",
+        "Pigmentation"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The most common type of hypertonia in spastic CP and due to pyramidal affection is :",
+      "options": [
+        "Clasp Knife",
+        "Cog wheel",
+        "Lead pipe"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following is not a risk factor associated with the ADHD?",
+      "options": [
+        "preterm birth",
+        "family conflict",
+        "smoking during pregnancy",
+        "Term delivery"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Although cp is non Progressive 2y Impairment do develop through the life spam due to the effects of Brain damage, the Risk of cp incseases with all of the following Except:",
+      "options": [
+        "Prematurity",
+        "LBW",
+        "hypoxic ischemic encephalopatny",
+        "fall term Birth",
+        "severe neonatal Jaundice"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "which is not true about cp:",
+      "options": [
+        "It describes neurological disorders that cause abnormal muscle activity.",
+        "It is a progressive condition meaning it worsens overtime.",
+        "It is usually diagnosed by the age of 3y.",
+        "the main type of cp is spastic, dyskinetic, ataxic, atonic.",
+        "it is non fatal, non curable."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Brain abscess in contrast enchanted CT Brain can present with all of the following except:",
+      "options": [
+        "Total Enchantment",
+        "Mass effect with shifting midline structure",
+        "thin wall regular with ring enchantment"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "3 years old child presented with acute onset of hemiplegia with increased intracranial tension.No history of chronic illness or trauma. By examination he is not dehydrated. Echocardiography was normal.The most probable etiology of hemiplegia is:",
+      "options": [
+        "Thrombosis",
+        "Embolism",
+        "Hemorrhage",
+        "Brain tumor"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All of the following are true about absence except:",
+      "options": [
+        "falling doesn’t occur",
+        "attack lasts 1-5 minutes",
+        "the common age is 5-9 years",
+        "rarely persists into adult life"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The distribution of paralysis in poliomyelitis",
+      "options": [
+        "asymmetrical ascending",
+        "symmetrical ascending",
+        "asymmetrical descending"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Management of status epilepticus should include:",
+      "options": [
+        "intramuscular diazepam immediately on artival to hospital",
+        "IV phenytoin if appropriate initial therapy is ineffective",
+        "No need for oxygen at any time during therapy",
+        "IV diazepam is contraindicated because of respiratory center depression"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following is not related to the diagnosis of simple febrile seizures in one year old boy?",
+      "options": [
+        "all the seizures episode were associated with fever",
+        "the seizure doesn't occur more than one time during the febrile illness",
+        "the seizure episodes were all generalized",
+        "the seizures last more than 15 minutes"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following conditions does not mimic seizures?",
+      "options": [
+        "Apnea",
+        "Jitteriness",
+        "Infantile spasms",
+        "Breath holding attacks"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 3 years old boy, his mother is concerned about his attention span. You note that he has very poor eye contact and poor verbal skills (having only a 4 word vocabulary. His weight and height are appropriate for his age. Which one of the following is the most likely diagnosis?",
+      "options": [
+        "ADHD",
+        "Autistic spectrum disorder",
+        "Depression",
+        "Temper Tantrums"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Complications of meningitis include:",
+      "options": [
+        "Hearing loss",
+        "Subdural effusion",
+        "Focal epilepsy",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The most Common Cause of floppy infant is",
+      "options": [
+        "Guillian barre",
+        "poliomyelitis",
+        "werdnig Hoffmann",
+        "Spinal and traumatic"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All of the following about werdnig hoffmann except",
+      "options": [
+        "Floppy infant with Absent tendon reflexes",
+        "Bulbar palsy & tongue Fasciculations",
+        "Normal eye movement",
+        "Diagnosis is confirmed by CT Brain"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following is not a cause of Acute Flaccid paralysis?",
+      "options": [
+        "Botulism",
+        "Guillian-Barre Sundrome",
+        "poliomyelitis",
+        "Spinal Muscle atrophy"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "All of the following is True abart Brain Abscess except",
+      "options": [
+        "CT Brain is the most reliable investigation",
+        "no manifestations of increase ICT",
+        "combinaten of Antibiotic for 4-6 weeks & drainage",
+        "Focal neurological signs as hemiparsis and convulsions"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The most Common type of Cerebral palsy is",
+      "options": [
+        "Spastic cerebral palsy",
+        "Ataxic Cerebral palsy",
+        "Dyskinetic Cerebral palsy",
+        "atonic cerebral palsy"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "All of the following is true about Duchenne Muscular dystrophy Except",
+      "options": [
+        "has genetic Basis",
+        "Anal and sphincteric functions are preserved",
+        "Hyperreflexia",
+        "+ ve Gower Sign."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "5 years boy with traumatic brain injury, came to the ER with disturbed conciuous level, abnormal posture and seizure, primary asserment was done and multi organ support, Eye opening to pain and no response to voice, Verbal only make sounds, Posture flexion to painful stimuli, GCS is",
+      "options": [
+        "8",
+        "7",
+        "6",
+        "11"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "WHICH OF THE FOLLOWING IS NOT A CHARACTERISTIC OF CEREBRAL PALSY?",
+      "options": [
+        "NON-PROGRESSIVE MOTOR DEFICIT",
+        "FATAL OUTCOME",
+        "MAY INCLUDE SENSORY AND LEARNING DEFECTS",
+        "NON-CURABLE MOTOR DEFICIT"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "PERSISTENCE OF WHICH REFLEX IS AN EARLY FEATURE OF CEREBRAL PALSY?",
+      "options": [
+        "TRICEPS REFLEX",
+        "MORO REFLEX",
+        "BICEPS REFLEX",
+        "ANKLE REFLEX"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "WHICH TYPE OF CEREBRAL PALSY IS CHARACTERIZED BY DAMAGE TO THE CEREBRAL MOTOR CORTEX?",
+      "options": [
+        "DYSKINETIC",
+        "ATAXIC",
+        "SPASTIC",
+        "ATONIC"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "WHICH TYPE OF CEREBRAL PALSY IS ASSOCIATED WITH DAMAGE TO THE BASAL GANGLIA?",
+      "options": [
+        "SPASTIC",
+        "DYSKINETIC",
+        "ATAXIC",
+        "ATONIC"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "ATAXIC CEREBRAL PALSY IS DUE TO DAMAGE IN THE:",
+      "options": [
+        "BASAL GANGLIA",
+        "CEREBRAL MOTOR CORTEX",
+        "CEREBELLUM",
+        "SPINAL CORD"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "WHICH INVESTIGATION MAY HELP DETERMINE THE LOCATION AND EXTENT OF STRUCTURAL LESIONS IN CEREBRAL PALSY?",
+      "options": [
+        "EEG",
+        "BLOOD TEST",
+        "CT OR MRI BRAIN",
+        "TORCH SCREENING"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following is a differential diagnosis for cerebral palsy?",
+      "options": [
+        "Meningitis",
+        "Encephalitis",
+        "Leukodystrophies",
+        "Common cold"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is the primary treatment for cerebral palsy?",
+      "options": [
+        "Medications",
+        "Surgery",
+        "Rehabilitation",
+        "Dietary changes"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A child with cerebral palsy who has paresis affecting both sides of the body, with arms affected equally or more than legs, is classified as:",
+      "options": [
+        "Hemiplegic",
+        "Diplegic",
+        "Quadriplegic",
+        "Monoplegic"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A child with cerebral palsy who has no limitation of activity is classified as:",
+      "options": [
+        "Class I",
+        "Class II",
+        "Class III",
+        "Class IV"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The most common congenital cause of obstructive hydrocephalus is:",
+      "options": [
+        "Dandy-Walker malformation",
+        "Aqueduct stenosis",
+        "Arnold Chiari malformation",
+        "Vein of Galen malformation"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Arnold-Chiari malformation is a cause of:",
+      "options": [
+        "Obstructive hydrocephalus",
+        "Non-obstructive hydrocephalus",
+        "Both obstructive and non-obstructive hydrocephalus",
+        "None of the above"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Meningomyelocele is present in what percentage of Arnold-Chiari malformation cases?",
+      "options": [
+        "20%",
+        "50%",
+        "80%",
+        "100%"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "In infants with hydrocephalus,which of the following is a common sign?",
+      "options": [
+        "Sunken fontanelle",
+        "Decreased head circumference",
+        "Thin and shiny scalp skin",
+        "Constricted scalp veins"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "In moderate to severe cases of hydrocephalus, compression on the motor area may lead to:",
+      "options": [
+        "Hypotonia of limbs",
+        "Spasticity of limbs",
+        "Paralysis",
+        "Ataxia"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "In older children with hydrocephalus (after suture closure), head enlargement is:",
+      "options": [
+        "More evident",
+        "Less evident",
+        "Not present",
+        "Variable"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "In communicating hydrocephalus, all ventricles are:",
+      "options": [
+        "Compressed",
+        "Dilated",
+        "Normal",
+        "Atrophied"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A surgical treatment for hydrocephalus involves:",
+      "options": [
+        "Antibiotics",
+        "Antiviral medication",
+        "Shunt operation",
+        "Physical therapy"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following is a complication of shunt operations?",
+      "options": [
+        "Infection",
+        "Obstruction",
+        "Kinking",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Acetazolamide is used in hydrocephalus for:",
+      "options": [
+        "Surgical cases",
+        "Non-progressive cases",
+        "Progressive cases",
+        "Post-operative care"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A seizure is best defined as:",
+      "options": [
+        "A chronic neurological condition",
+        "A transient occurrence of signs and/or symptoms resulting from abnormal excessive or synchronous neuronal activity in the brain",
+        "A state of unconsciousness",
+        "A type of paralysis"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Epilepsy is characterized by:",
+      "options": [
+        "A single seizure",
+        "A predisposition to generate seizures and by the neurologic, cognitive,psychologic and social consequences of this condition",
+        "Seizures related to a specific cause",
+        "Febrile convulsions"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The clinical diagnosis of epilepsy usually requires:",
+      "options": [
+        "One unprovoked seizure",
+        "At least 2 unprovoked epileptic seizures",
+        "Febrile convulsions",
+        "Status epilepticus"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following can be a secondary cause of epilepsy?",
+      "options": [
+        "Cerebral malformation",
+        "Congenital infections",
+        "Brain tumors",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A type of generalized seizure is:",
+      "options": [
+        "Focal motor seizure",
+        "Absence seizure",
+        "Focal sensory seizure",
+        "Secondary generalized seizure"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which type of seizure is characterized by a cessation of motor activity or speech with a blank facial expression?",
+      "options": [
+        "Tonic-clonic",
+        "Myoclonic",
+        "Absence",
+        "Atonic"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Status epilepticus is defined as a seizure lasting more than:",
+      "options": [
+        "30 seconds",
+        "1 minute",
+        "5 minutes",
+        "15 minutes"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Epileptic spasms typically occur in:",
+      "options": [
+        "Adults",
+        "Adolescents",
+        "Infants",
+        "Elderly"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which laboratory investigation is important in seizures?",
+      "options": [
+        "Blood picture",
+        "Blood chemistry",
+        "CSF analysis",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "How long should antiepileptic therapy be continued after the child is seizure-free?",
+      "options": [
+        "6 months",
+        "1 year",
+        "At least 2 or 3 years",
+        "5 years"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Autism spectrum disorders (ASD) are characterized by a triad of impairments in:",
+      "options": [
+        "Motor skills, language, and social interaction",
+        "Social interaction, verbal and non-verbal communication, and restricted, repetitive, or stereotyped behavior",
+        "Cognitive function, emotional regulation, and physical coordination",
+        "Sensory processing, attention span, and academic achievement"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following is a risk factor for ASD?",
+      "options": [
+        "A family history of autism",
+        "Preterm birth",
+        "Maternal use of sodium valproate in pregnancy",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following has been proven to increase the risk for autistic spectrum disorders?",
+      "options": [
+        "MMR vaccine",
+        "preservative in vaccines",
+        "Childhood vaccinations",
+        "None of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Impaired social interaction in ASD may manifest as:",
+      "options": [
+        "Excessive talking",
+        "Poor eye contact",
+        "Hyperactivity",
+        "Aggression"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following is NOT a known risk factor for ASD?",
+      "options": [
+        "Advanced paternal age",
+        "Parental mental health disorders",
+        "Neonatal encephalopathy",
+        "Chromosomal disorders"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following is a chromosomal disorder associated with an increased risk of ASD?",
+      "options": [
+        "Turner syndrome",
+        "Klinefelter syndrome",
+        "Down syndrome",
+        "Marfan syndrome"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following is a genetic disorder associated with an increased risk of ASD?",
+      "options": [
+        "Hemophilia",
+        "Cystic fibrosis",
+        "Neurofibromatosis",
+        "Sickle cell anemia"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following is NOT a type of intervention commonly used in ASD?",
+      "options": [
+        "Behavioral therapy",
+        "Speech therapy",
+        "Occupational therapy",
+        "Surgical intervention"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "ADHD consists of:",
+      "options": [
+        "Hyperactivity and impulsivity",
+        "Inattention and hyperactivity",
+        "Inattention and impulsivity",
+        "Hyperactivity, impulsivity, and inattention"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "ADHD is more common in:",
+      "options": [
+        "Girls",
+        "Boys",
+        "Equally common in boys and girls",
+        "Adults"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "For a diagnosis of ADHD, symptoms have to develop before the age of:",
+      "options": [
+        "12 years",
+        "10 years",
+        "7 years",
+        "5 years"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "ADHD symptoms must persist for at least:",
+      "options": [
+        "3 months",
+        "6 months",
+        "1 year",
+        "2 years"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Exposure to which environmental toxin is a risk factor for ADHD?",
+      "options": [
+        "Mercury",
+        "Lead",
+        "Asbestos",
+        "Pesticides"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "High levels of family conflict are a risk factor for:",
+      "options": [
+        "Autism",
+        "ADHD",
+        "Cerebral palsy",
+        "Epilepsy"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following is a late complication of meningitis?",
+      "options": [
+        "Edema",
+        "Small infarctions",
+        "Obstructive hydrocephalus",
+        "Endothelial damage"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Purpura in a febrile child should be assumed to be due to:",
+      "options": [
+        "Viral infection",
+        "Fungal infection",
+        "Meningococcal sepsis",
+        "Tuberculous meningitis"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following is a manifestation of meningeal irritation?",
+      "options": [
+        "Bulging fontanelle",
+        "Separated sutures",
+        "Neck pain and rigidity",
+        "Hypertension with bradycardia"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which investigation is essential in differentiating bacterial, tuberculous, and viral meningitis?",
+      "options": [
+        "Blood culture",
+        "CSF examination",
+        "CT scan",
+        "MRI"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "In viral meningitis, the CSF cell count is typically:",
+      "options": [
+        "Predominantly polymorphonuclear",
+        "Predominantly lymphocytes",
+        "Increased polymorphs",
+        "Decreased lymphocytes"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The duration of antibiotic treatment in neonates with meningitis is:",
+      "options": [
+        "7 days",
+        "10-14 days",
+        "3 weeks",
+        "5 days"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Encephalitis is defined as:",
+      "options": [
+        "Inflammation of the meninges",
+        "Diffuse viral infection of brain parenchyma",
+        "Bacterial infection of the spinal cord",
+        "Fungal infection of the brain"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Post-encephalitic sequelae may include:",
+      "options": [
+        "Epilepsy",
+        "Mental retardation",
+        "Cerebral palsy",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following is used as an antiviral therapy in Herpes simplex encephalitis?",
+      "options": [
+        "Acyclovir",
+        "Ganciclovir",
+        "Ribavirin",
+        "Interferon"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Encephalopathy in ADEM ranges from:",
+      "options": [
+        "Confusion to coma",
+        "Irritability to drowsiness",
+        "Lethargy to coma",
+        "Headache to irritability"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Brain abscess can result from direct spread from:",
+      "options": [
+        "Sinusitis",
+        "Dental infection",
+        "Chronic otitis media",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The most reliable investigation for brain abscess is:",
+      "options": [
+        "X-ray",
+        "EEG",
+        "CT or MRI brain",
+        "CSF analysis"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The treatment for brain abscess includes:",
+      "options": [
+        "Antibiotics alone",
+        "Drainage alone",
+        "A combination of antibiotics and drainage",
+        "Supportive care only"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "ADEM (Acute Disseminated Encephalomyelitis) ADEM is characterized by:",
+      "options": [
+        "Multifocal neurological deficits",
+        "Encephalopathy",
+        "Inflammatory, demyelinating disorder",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Many patients with ADEM experience a transient febrile illness in the month prior to onset.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "CT brain in ADEM may be:",
+      "options": [
+        "Normal",
+        "Abnormal, showing hypodense regions",
+        "Both a and b",
+        "Always abnormal"
+      ],
+      "correct": 2
+    }
+  ]
+}

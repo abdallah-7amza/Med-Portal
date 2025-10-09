@@ -1,0 +1,158 @@
+{
+  "title": "PBL of Infection and Vaccination",
+  "questions": [
+    {
+      "stem": "All of the following is true about scarlet fever except:",
+      "options": [
+        "antibiotics therapy decrease infectivity period",
+        "fever decline as rash appear",
+        "caused by erythrogenic toxin group A.B Hemolytic streptococci",
+        "diagnosis is mainly clinical"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The characteristic rash of rosela and infantum appears after the decline of fever?",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Hand foot mouth disease is caused by:",
+      "options": [
+        "Pilo virus",
+        "Coxsackie virus",
+        "Measles"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Measles is a fatal bacterial disease in neonatal age group.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A female child aged 15 years traveled abroad as a tourist, she is attacked by low grade fever 38°C, severe abdominal colics, and arthralgia. On clinical examination, the doctor notes enlarged cervical and digastric lymphadenitis with a trunk skin rash. What is the possible diagnosis?",
+      "options": [
+        "Acute viral hepatitis",
+        "Acute rheumatic fever",
+        "Rubella",
+        "Measles"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 9-month-old baby, full term, normal delivery with good developmental milestones, vaccinated up to age, presented with high fever for 48 hours, then started to develop a disturbed conscious level and seizures. Upon examination, the baby was having some skin lesions. What is the most likely cause?",
+      "options": [
+        "Bacterial infection",
+        "Viral infection",
+        "Fungal infection",
+        "Non-specific rash"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The most common cause of fever is:",
+      "options": [
+        "Malignancy",
+        "Bacterial infection",
+        "Viral infection",
+        "Parasitic infection"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "As regards scarlet fever, a late complication is:",
+      "options": [
+        "Cervical adenitis",
+        "Post-streptococcal glomerulonephritis",
+        "Osteomyelitis",
+        "Bronchopneumonia"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The Fifth disease (Erythema infectiosum) is a mild disease in most children except in:",
+      "options": [
+        "Children with congenital heart disease",
+        "Children with bronchial asthma",
+        "Children with chronic hemolytic anaemia",
+        "Children with chronic renal disease"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The period of infectivity of Chickenpox is from 24 hours before to 7 days after the appearance of the rash.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "What is the cause of scarlet fever?",
+      "options": [
+        "Streptococci infection and release of exotoxins",
+        "E.coli infection and release of exotoxins",
+        "Staphylococcus infections with hemolytic activity",
+        "Antibiotic-resistant Pneumococcus infections"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "All the following are true regarding chickenpox except:",
+      "options": [
+        "Rash starts peripherally and goes central",
+        "It is a papulovesicular rash that begins as papules and changes into vesicles",
+        "It might be complicated with cerebellitis",
+        "A live attenuated vaccine is available"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "All of the following are live attenuated vaccines except:",
+      "options": [
+        "BCG",
+        "MMR",
+        "Rota vaccine",
+        "Pertussis vaccine"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following is NOT a live attenuated vaccine?",
+      "options": [
+        "BCG",
+        "MMR",
+        "Rota vaccine",
+        "Pneumococcal Vaccine"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The first dose of MMR is typically given at the age of:",
+      "options": [
+        "2, 4, 6 months",
+        "9 months",
+        "12 months",
+        "6 months"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A booster dose of MMR is typically given at the age of:",
+      "options": [
+        "2, 4, 6 months",
+        "9 months",
+        "12 months",
+        "18 months"
+      ],
+      "correct": 3
+    }
+  ]
+}

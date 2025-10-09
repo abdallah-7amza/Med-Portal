@@ -1,0 +1,1783 @@
+{
+  "title": "Oncology - Dr. Nadine",
+  "questions": [
+    {
+      "stem": "A 32-year-old heavy smoker has cervical smear showing ASCUS. HPV test is positive. What is the best course of action in this situation?",
+      "options": [
+        "Repeat smear in 3 months.",
+        "Repeat HPV test.",
+        "Repeat smear and HPV test as soon as possible.",
+        "Organize a colposcopy.",
+        "Routine recall in three yrs."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 28-year-old woman with history of repeated vaginal infections and multiple sexual partners, had her smear result showing HSIL. Your next advice is:",
+      "options": [
+        "Repeat smear in 3 months.",
+        "Do HPV test to support diagnosis.",
+        "Repeat smear as soon as possible.",
+        "Organize colposcopy.",
+        "Routine recall in 3months."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The most common malignancy in the female reproductive organs:",
+      "options": [
+        "Carcinoma of the cervix.",
+        "Carcinoma of the ovary.",
+        "Carcinoma of the breast.",
+        "Carcinoma of the uterine corpus.",
+        "Leiomyosarcoma."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Ovarian neoplasm most commonly arise from:",
+      "options": [
+        "Ovarian epithelium.",
+        "Ovarian stroma.",
+        "Ovarian germ cells.",
+        "Ovarian sex cords.",
+        "Metastatic disease."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Ovarian cancer is more likely to occur in all the following EXCEPT:",
+      "options": [
+        "Nulliparous women.",
+        "Women who have breast cancer.",
+        "Patient with history of prolonged use of oral contraceptive pills.",
+        "High socioeconomic class.",
+        "Women with a family history of ovarian cancer."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "US features of ovarian malignancy include all the following EXCEPT:",
+      "options": [
+        "Bilateral.",
+        "Presence of ascites.",
+        "Contain solid component.",
+        "Unilocular.",
+        "Capsule integrity is disrupted with projection."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following tumors produces estrogen:",
+      "options": [
+        "Endodermal sinus tumor.",
+        "Choriocarcinoma.",
+        "Granulosa cell tumor.",
+        "Dysgerminoma.",
+        "Serous cyst adenoma."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following gynecological cancers is a leading cause of death:",
+      "options": [
+        "Ovarian.",
+        "Uterine.",
+        "Cervical.",
+        "Vaginal.",
+        "Vulvar."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Staging of ovarian carcinoma is based on:",
+      "options": [
+        "Pelvic examination.",
+        "CT imaging of the abdomen and pelvis.",
+        "Paracentesis of ascetic fluid.",
+        "Surgical evaluation of the extent of intraabdominal disease.",
+        "Barium enema."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Screening is most effective in preventing which of the following cancers:",
+      "options": [
+        "Vulva.",
+        "Cervix.",
+        "Endometrial.",
+        "Ovary.",
+        "Fallopian tube."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Untreated patients with cancer of the cervix usually die with:",
+      "options": [
+        "Cachexia and starvation.",
+        "Bowel obstruction.",
+        "Renal failure and uremia.",
+        "Multiorgan failure.",
+        "Cerebrovascular accident."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Risk factors of cervical cancer include all the following EXCEPT:",
+      "options": [
+        "Nulliparity.",
+        "Multiple sexual partners.",
+        "History of HPV infection.",
+        "Smoking.",
+        "Sexual activity at early age."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The most common clinical presentation of early cervical cancer is:",
+      "options": [
+        "Foul smelling vaginal discharge.",
+        "Asymptomatic.",
+        "Post coital bleeding.",
+        "Pelvic pain with leg edema.",
+        "Lower back pain."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 26-year-old NG, presents to ER with severe Rt lower quadrant pain that started last night. Pain is worse this morning associated with nausea & vomiting. She had a normal menstrual flow that ended 2 days ago. Her vital signs are normal, examination reveals a markedly tender right lower quadrant mass with rebound tenderness. TVS showed a 6 cm right cystic adnexal mass. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Appendicitis.",
+        "Ectopic pregnancy.",
+        "Pyelonephritis.",
+        "Ovarian torsion.",
+        "Acute pelvic inflammatory disease."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "What could be a predisposing factor for this condition?",
+      "options": [
+        "Constipation.",
+        "Lack of fluid intake.",
+        "Peri-tubal adhesions.",
+        "Long vascular pedicle.",
+        "Sexually transmitted disease."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "What is the possible sequelae of the condition?",
+      "options": [
+        "Ovarian gangrene.",
+        "Tubo-ovarian abscess.",
+        "Appendicular abscess.",
+        "Chronic pelvic inflammatory disease.",
+        "Renal damage."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "What further investigations would confirm your diagnosis?",
+      "options": [
+        "Colonoscopy.",
+        "Serum HCG.",
+        "Ovarian Doppler flow studies.",
+        "Tumor markers.",
+        "Intravenous pyelography."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is the most suitable management?",
+      "options": [
+        "Analgesics and follow up.",
+        "Antibiotics and observation.",
+        "Methotrexate injection.",
+        "Transvaginal aspiration.",
+        "Emergency laparoscopy."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 32-year-old obese G3P0 comes for a routine gynecologic examination. She started sexual activity at the age of 15 years, and gives history of multiple sexual partners. She has 3 first trimesteric abortions, used Depo-provera for birth control. She has a history of genital warts. She does not use drugs but admits to smoke one pack of cigarettes a day. Her physical examination is normal. Her Pap smear shows HSIL. All the following factors increase her risk for cervical dysplasia EXCEPT:",
+      "options": [
+        "Early age of sexual activity.",
+        "Multiple sexual partners.",
+        "History of genital warts.",
+        "Use of Depot-provera.",
+        "Smoking."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The most common symptom of endometrial hyperplasia is:",
+      "options": [
+        "Vaginal discharge.",
+        "Vaginal bleeding.",
+        "Amenorrhea.",
+        "Pelvic pain.",
+        "Abdominal distension."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Gold standard for endometrial polyp diagnosis is:",
+      "options": [
+        "CT scan of pelvis.",
+        "Hysteroscopy.",
+        "Pelvic US.",
+        "Saline infusion sonogram.",
+        "TVS."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 62-year-old G2P2, menopausal for 10yrs, complains of occasional right lower quadrant discomfort. US: 15cm complex ovarian mass with cystic and solid components, internal septations, increased Doppler flow, and ascites. Next best step:",
+      "options": [
+        "Surgical evaluation.",
+        "Repeat US in 3months.",
+        "Colposcopy.",
+        "Pregnancy test.",
+        "Expectant management."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 42-year-old NG presents for routine examination. LMP was 3weeks ago. O/E you detect a large mobile mass in right lower quadrant. Pregnancy test is negative. US: 8cm Rt ovarian cystic mass with solid component and calcifications and teeth. Next step is:",
+      "options": [
+        "Repeat US in 6weeks.",
+        "Exploratory laparotomy, TAH+ BSO.",
+        "Right ovarian cystectomy.",
+        "Right salpingo-oophorectomy.",
+        "Expectant management."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All the following are protective against endometrial cancer EXCEPT:",
+      "options": [
+        "Parity.",
+        "Smoking.",
+        "Physical activity.",
+        "Oral contraceptive use.",
+        "Tamoxifen use."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A patient has a ruptured mucinous cystadenoma. Most likely sequalae is:",
+      "options": [
+        "Pulmonary metastases.",
+        "Liver metastases.",
+        "Pseudomyxoma peritonei.",
+        "Ureteral obstruction.",
+        "Intraperitoneal hemorrhage."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 6-year-old girl has irregular vaginal bleeding. She is taller than her peers and has early breast development. Serum gonadotropin levels are low. Most likely diagnosis:",
+      "options": [
+        "Corpus luteum cyst.",
+        "Endometrioma.",
+        "Fibroma.",
+        "Teratoma.",
+        "Granulosa cell tumor."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A healthy 53-year-old woman who has not menstruating for lyear and started HRT, has scanty vaginal bleeding for 2days. BMI is 21, normal BP. Most appropriate next step:",
+      "options": [
+        "Give her hemostatic.",
+        "Take a Pap smear, including endocervical sampling.",
+        "Insist on endometrial sample.",
+        "Perform TVS to measure endometrial thickness.",
+        "Stop HRT."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 39-year-old woman P6 presented with postcoital bleeding for the past three months. Your first investigation should be:",
+      "options": [
+        "Dilatation and curettage.",
+        "Cone biopsy of the cervix.",
+        "Pap smear.",
+        "Colposcopy.",
+        "Laparoscopy."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 73-year-old woman presents with scanty vaginal spotting. Her Pap tests have all been normal and last one was at 65yrs. Next step in evaluating her postmenopausal bleeding is:",
+      "options": [
+        "FSH and estradiol level.",
+        "TVS.",
+        "CA 125.",
+        "CBC/PT& PTT.",
+        "Pap smear and HPV screen."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Regarding uterine sarcoma, choose the correct statement:",
+      "options": [
+        "It is a common tumor arising in the myometrium.",
+        "Prognosis is usually favorable.",
+        "It arises in more than 5% of benign leiomyoma.",
+        "Usually suspected when rapid recurrence occurs after myomectomy.",
+        "Treatment of choice is external radiotherapy."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "An 16-year-old girl developed fever, abdominal pain, vomiting 4 days after laparoscopic ovarian cystectomy for a 6cm cyst containing hair and teeth. Most probable diagnosis:",
+      "options": [
+        "Paralytic ileus.",
+        "Chemical peritonitis.",
+        "Missed towel.",
+        "Severe UTI.",
+        "Postoperative colitis."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is the most common cystic lesion of the ovary:",
+      "options": [
+        "Dermoid cyst of the ovary.",
+        "Follicular cyst.",
+        "Ovarian abscess.",
+        "Ovarian pregnancy.",
+        "Endometrioma of the ovary."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 54-year-old nulliparous woman comes to the physician for routine annual examination. For the past year, she has been taking tamoxifen for the prevention of breast cancer. Examination is within normal. The following is likely to develop with tamoxifen:",
+      "options": [
+        "Breast cancer.",
+        "Elevated LDL cholesterol.",
+        "Endometrial changes.",
+        "Myocardial infarction.",
+        "Osteoporosis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 62-year-old mildly obese woman comes to the physician because of vaginal bleeding. Her LMP was 1lyears ago. She has hypertension and type 2 diabetes mellitus. An endometrial biopsy performed showing G1 endometrial adenocarcinoma. Best next step is:",
+      "options": [
+        "Chemotherapy.",
+        "Cone biopsy.",
+        "Dilatation and curettage.",
+        "Hysteroscopy.",
+        "Hysterectomy."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 55-year-old postmenopausal female presents with \"period-like\" vaginal bleeding for 5days that stop spontaneously. Best approach to diagnosis of this patient's problem would be to:",
+      "options": [
+        "Reassure the patient and manage expectantly.",
+        "Administer provera (medroxyprogesterone) 10mg for 15days.",
+        "Administer cyclic estrogen plus progesterone.",
+        "Order endometrial biopsy.",
+        "Perform a Pap smear plus endocervical curettage."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 51-year-old woman is diagnosed with invasive cervical carcinoma by cone biopsy. PV & PR reveal the parametrium to be free, but the upper portion of the vagina is involved with the tumor. IVP and sigmoidoscopy are negative. This patient is classified as stage:",
+      "options": [
+        "IIa.",
+        "IIb.",
+        "IIIa.",
+        "IIIb.",
+        "IV."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The risk of endometrial cancer is increased in the following condition:",
+      "options": [
+        "Asherman syndrome.",
+        "Behcet syndrome.",
+        "Ehlers-Danlos syndrome.",
+        "Lynch syndrome.",
+        "Marfan's syndrome."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 45-year-old multipara with regular and average cycles, presented by repeated bleeding following sexual intercourse. Possible causes include which one of the following:",
+      "options": [
+        "Cervical cancer.",
+        "Endometrial carcinoma.",
+        "Ovarian cancer.",
+        "Pelvic endometriosis.",
+        "Atrophic vaginitis."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In cases of cervical cancer, radical hysterectomy with bilateral pelvic lymphadenectomy can potentially be used to treat all the following stages of cervical cancer EXCEPT:",
+      "options": [
+        "stage IA.",
+        "stage IB.",
+        "stage IIA.",
+        "stage IIB.",
+        "CIS."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 60-year-old fit patient presents with 3months history of intermittent vaginal bleeding. she has been menopausal since 55-year-old. She has intermittent lower abdominal pain. No postcoital bleeding, weight loss or anorexia. She is not on HRT. TVS shows ET: 15mm, pipelle biopsy confirms endometrial adenocarcinoma. at TAH+ BSO, the left ovary was noted to contain solid tumor. Most likely diagnosis:",
+      "options": [
+        "Granulose cell tumor.",
+        "Dysgerminoma.",
+        "Embryonal cell carcinoma.",
+        "Endodermal sinus tumor.",
+        "Mucinous cystadenoma."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "What in the personal history is a protective factor for endometrial cancer:",
+      "options": [
+        "Early menarche.",
+        "Obesity.",
+        "Early menopause.",
+        "Nulliparity.",
+        "Old age."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 52-year-old woman has recently been diagnosed with severe HSIL on cervical smear. LLETZ shows CIN3 incompletely excised at the endocervical margin. Best next step:",
+      "options": [
+        "Colposcopy and smear in 6months.",
+        "Simple hysterectomy immediately.",
+        "Loop excision in 6months.",
+        "Smear in 6months.",
+        "Smear and HPV DNA testing in 6months."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 21-year-old woman presents with an abdominal mass & lower abdominal pain. At laparotomy, the tumor appeared solid, fleshy and pink. Unilateral salphingo-oophorectomy was performed. The histology showed T-cell lymphoid infiltration of the fibrous stroma. Most likely diagnosis?",
+      "options": [
+        "Dysgerminoma.",
+        "Endodermal sinus tumor.",
+        "Embryonal carcinoma.",
+        "Granulosa cell tumor.",
+        "Serous cyst adenocarcinoma."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "An 18-year-old girl presents with an abdominal mass & abdominal pain. A laparotomy and unilateral salphingo-oophorectomy was performed. The histology report shows a meso- dermal core with a central capillary (Schiller-Duval body). This most likely:",
+      "options": [
+        "Choriocarcinoma of the ovary.",
+        "Dysgerminoma.",
+        "Embryonal carcinoma.",
+        "Endodermal sinus tumor.",
+        "Serous adenocarcinoma."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Histology report of a patient who had a laparotomy for an abdominal mass that was inoperable, showed a tumor with signet-ring' cells. Most likely origin of 1ry cancer:",
+      "options": [
+        "Breast.",
+        "Biliary tract.",
+        "Colon.",
+        "Ovary.",
+        "Stomach."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 38-year-old woman presents with an ultrasound scan report showing a unilocular anechoic left ovarian cyst measuring 5.6x 5.2x5 cm. The CA-125 is 25. What is her risk of malignancy index (RMI)?",
+      "options": [
+        "0.",
+        "5.",
+        "25.",
+        "125.",
+        "225."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 30-year-old woman has had her cervical screening result reported as borderline. What will be your plan of management?",
+      "options": [
+        "Cervical biopsy.",
+        "Offer colposcopy.",
+        "Offer HPV DNA test.",
+        "Routine recall.",
+        "Repeat smear in six months."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 35-year-old woman is found to be 15 weeks pregnant when she is diagnosed with stage IB cervical cancer. What will be the most appropriate management?",
+      "options": [
+        "Delay treatment until after fetal maturity.",
+        "Delay treatment until after delivery at term.",
+        "Immediate chemoradiation after termination of the pregnancy.",
+        "Immediate chemoradiation followed by surgery after delivery.",
+        "Immediate radical hysterectomy and bilateral pelvic lymphadenectomy."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 40-year-old woman presents with severe vulval pruritus. Vulvoscopy reveals acetowhite areas following application of acetic acid. Vulval biopsy reveals VIN. She can be treated with which of the following?",
+      "options": [
+        "Radical vulvectomy.",
+        "Simple vulvectomy.",
+        "Therapeutic HPV vaccine.",
+        "Interferon therapy.",
+        "Local surgical excision."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 74-year-old woman presents with vulval soreness. Examination reveals a 2 cm mass on the right labia away from the midline. A biopsy of the lesion reveals squamous cell carcinoma with depth of invasion <1 mm. The MRI of the pelvis reveals the same vulva mass with no other abnormality. Best management:",
+      "options": [
+        "Radical vulvectomy with groin lymphadenectomy on the same side.",
+        "Radical vulvectomy.",
+        "Radical vulvectomy with bilateral groin lymphadenectomy.",
+        "Wide local excision of vulval lesion.",
+        "Wide local excision of vulval lesion with groin lymphadenectomy on the same side."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 30-year-old woman presents with irregular vaginal bleeding and vomiting for 2 months following normal VD. Abdominal and pelvic examination reveals a bulky uterus. Most probable diagnosis is:",
+      "options": [
+        "Krukenberg tumor.",
+        "Choriocarcinoma.",
+        "Endometriosis.",
+        "Primary mucinous adenocarcinoma.",
+        "Mature cystic teratoma."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following is a predisposing factor for ovarian carcinoma?",
+      "options": [
+        "Obesity.",
+        "Increased parity.",
+        "Hereditary factor.",
+        "Prolonged oral contraceptive use.",
+        "Pelvic endometriosis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following ovarian tumor has a higher incidence for malignant transformation:",
+      "options": [
+        "Papillary serous cystadenoma.",
+        "Mucinous cystadenoma.",
+        "Benign teratoma.",
+        "Brenner tumor.",
+        "Theca cell tumor."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "An unmarried 20-year-old female has an accidentally discovered 2 cm hemorrhagic cyst during an abdominal ultrasound. Which of the following is the best treatment for her?",
+      "options": [
+        "Aspiration of the cyst guided by ultrasound.",
+        "Unilateral ovariectomy.",
+        "Ovarian cystectomy.",
+        "Follow up.",
+        "Cyclic combined oral contraceptive pills for 3 months."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 6cm nontender, mobile, right adnexal mass is present in a 19-year-old woman. One year ago, while using OCPs, she was hospitalized for left leg deep vein thrombophlebitis. TVS shows a 4cm unilocular smooth ovarian cyst. A serum pregnancy test is negative. Most appropriate next step:",
+      "options": [
+        "Observation.",
+        "OCPS.",
+        "Estrogen therapy.",
+        "Laparoscopy.",
+        "Hysteroscopy."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 66-year-old nulliparous obese, diabetic, hypertensive patient presented with recurrent post- menopausal bleeding. US revealed endometrium thickness of 12 mm. An endometrial biopsy is taken and sent for histopathological assessment. What is the most likely histopathological diagnosis?",
+      "options": [
+        "Decidua.",
+        "Adenocarcinoma.",
+        "Atrophic endometrium.",
+        "Secretory endometrium.",
+        "Proliferative endometrium."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "While reviewing a cervical biopsy, squamous cell atypia is noted. It extends to a little more than one half the thickness of the epithelium. Beyond that level, maturation is evident. There is no invasion of basement membrane. The correct diagnosis of these findings:",
+      "options": [
+        "CIN I.",
+        "CIN II.",
+        "CIN III.",
+        "CIS.",
+        "Invasive squamous cell carcinoma."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "According to FIGO staging of cancer cervix, stage III is assigned when the following occurs:",
+      "options": [
+        "The carcinoma has infiltrated the bladder base.",
+        "The carcinoma involves the distal vaginal mucosa.",
+        "The carcinoma has extended into the parametrium, but not the pelvic wall.",
+        "X-ray reveals tumor.",
+        "Brain and blood spread."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 32-year-old woman with PCOS has infertility of 1year duration. Her menses occur at irregular intervals, BBTs are monophasic. An endometrial biopsy shows endometrial hyperplasia with mild cytologic atypia. The most appropriate therapy is:",
+      "options": [
+        "Medroxyprogesterone acetate",
+        "Clomiphene citrate",
+        "OCPS",
+        "Human menopausal gonadotropins",
+        "None of the above"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 45-year-old P2+0., presented with irregular vaginal bleeding. Endometrial curettage revealed complex endometrial hyperplasia with atypia. How can you council this case?",
+      "options": [
+        "Hysterectomy should be done.",
+        "Endometrial ablation is the preferred option.",
+        "Pelvic irradiation is an alternative option.",
+        "Medical treatment by progestagens for about 6 months.",
+        "Follow up and repeat curettage after 6 months."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 48-year-old married woman presenting with heavy period for 8months duration. Her periods are getting increasingly heavy. The possible differential diagnosis of this case include all EXCEPT:",
+      "options": [
+        "Dysfunctional uterine bleeding.",
+        "Uterine fibroid.",
+        "Endometrial polyp.",
+        "Adenomyosis.",
+        "Ectopic pregnancy."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "The following investigations are recommended EXCEPT:",
+      "options": [
+        "Complete blood picture.",
+        "Bleeding profile.",
+        "Pelvic ultrasound.",
+        "Prolactin assay.",
+        "Endometrial biopsy."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Surgical treatment of abnormal uterine bleeding include the following options EXCEPT:",
+      "options": [
+        "Abdominal hysterectomy.",
+        "Vaginal hysterectomy.",
+        "Endometrial ablation.",
+        "Bilateral oophorectomy.",
+        "Hysteroscopic polypectomy."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 65-year-old woman is having uterine fibroids. Over 1year, she is noted to have an enlargement of her uterus from 12weeks size to 20weeks size. Which of the following is the best management?",
+      "options": [
+        "Continued careful observation.",
+        "GnRH agonist.",
+        "Exploratory laparotomy and hysterectomy.",
+        "Progestin therapy.",
+        "Estrogen treatment."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The lymphatic drainage of the cervix is to the following lymph nodes EXCEPT:",
+      "options": [
+        "Femoral lymph nodes.",
+        "Internal iliac lymph nodes.",
+        "Para-aortic lymph nodes.",
+        "Pre-sacral lymph nodes.",
+        "Obturator lymph nodes."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Carcinoma in situ of the cervix implies:",
+      "options": [
+        "Extensive glandular involvement of cancer cells.",
+        "Full thickness epithelium replacement by undifferentiated cancer cells.",
+        "Partial epithelial replacement of stratified basal cells.",
+        "Reserve cell hyperplasia.",
+        "Nests of malignant basal cells throughout epithelium"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is the main value of adding progesterone to estrogen in HRT in menopausal women?",
+      "options": [
+        "Prevents endometrial carcinoma.",
+        "prevents ovarian carcinoma.",
+        "Treats osteoporosis.",
+        "Prevents coronary heart disease.",
+        "All of the above."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 40-year-old woman is seen for routine examination. Her menses are regular, she has no complaints. Pelvic examination is normal. Her Pap smear shows HSIL. Best next step is:",
+      "options": [
+        "Immediate hysterectomy.",
+        "Repeat Pap smear at 3 months interval.",
+        "Punch biopsy of anterior cervical lip.",
+        "Colposcopy with biopsy.",
+        "Endocervical curettage."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The following is associated with increased risk of endometrial cancer:",
+      "options": [
+        "Multiparity.",
+        "Prolonged use of IUD.",
+        "Prolonged use of COCPs.",
+        "Smoking.",
+        "Obesity."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 60-year-old menopausal for 8 years, P1+2, presents with an attack of mild vaginal bleeding. Examination is unremarkable apart from accidently discovered hypertension. US shows a 9mm endometrial thickness. How would you proceed?",
+      "options": [
+        "Control hypertension and follow up.",
+        "GnRH analogue.",
+        "Progestagens.",
+        "Fractional curettage.",
+        "Subtotal hysterectomy."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The following reflects the etiology of CIN and cervical cancer:",
+      "options": [
+        "HPV is the major causal agent.",
+        "They are associated with obesity.",
+        "They are associated with nulliparity.",
+        "There is a strong genetic component to the development of cervical cancer.",
+        "All of the above."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Regarding colposcopy:",
+      "options": [
+        "It should be done to all cases with a normal Pap smear.",
+        "It is required for staging of cancer cervix cases.",
+        "It can detect mitotic activities which correlate with prognosis.",
+        "It can exclude ectocervical involvement.",
+        "Areas stained brown with Schiller iodine are suspicious of malignancy."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Contact bleeding may be a presentation of all of the following EXCEPT:",
+      "options": [
+        "Carcinoma of the cervix.",
+        "CIN (cervical intraepithelial lesion)",
+        "Interstitial cervical fibroid.",
+        "Atrophic vaginitis.",
+        "Hormonal cervical erosion."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All the following are risk factors for endometrial carcinoma EXCEPT:",
+      "options": [
+        "Nulliparity.",
+        "PCOS.",
+        "Smoking.",
+        "Late menopause.",
+        "Obesity."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "According to FIGO staging, endometrial cancer with downward spread to cervix is:",
+      "options": [
+        "Stage Ia",
+        "Stage Ib",
+        "Stage II",
+        "Stage III",
+        "Stage IV"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "According to FIGO, stage III cervical cancer is characterized by:",
+      "options": [
+        "Endocervical glands involvement.",
+        "Upward spread to the uterus.",
+        "Downward spread to upper vagina.",
+        "Lateral spread to compress the ureter.",
+        "Mucosal spread to the urinary bladder."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Staging of endometrial cancer entails:",
+      "options": [
+        "Clinical staging: physical examination, pyelogram, chest X-Ray and anoscopy.",
+        "Clinical staging: physical examination, pyelogram, chest X-Ray and CT scan.",
+        "Surgical staging: TAH+ BSO, pelvic washings, pelvic & para-aortic lymphadenectomy.",
+        "Surgical staging: TAH+ BSO, pelvic nodes, pelvic washing and omentectomy.",
+        "Surgical staging: hysterectomy only."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following is a non-neoplastic cyst of the ovary:",
+      "options": [
+        "Tubo-ovarian cyst",
+        "Immature cystic teratoma.",
+        "Mucinous cyst.",
+        "Simple serous cyst.",
+        "Dermoid cyst"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Functioning ovarian tumors may include all the following EXCEPT:",
+      "options": [
+        "Sertoli-Leydig cell tumor.",
+        "Brenner tumor.",
+        "Thecoma.",
+        "Papillary serous cystadenoma.",
+        "Granulosa theca cell tumor."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The following predispose to ovarian cancer EXCEPT:",
+      "options": [
+        "Family history of ovarian cancer.",
+        "Family history of breast cancer.",
+        "Family history of cervical cancer.",
+        "Family history of colonic cancer.",
+        "Presence of germinal inclusion cysts."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 45-year-old woman complains of irregular vaginal bleeding of 10 months duration. TVS revealed a 4 cm interstitial myoma and endometrial thickness of 15 mm. Best management:",
+      "options": [
+        "Laparoscopic myomectomy.",
+        "Endometrial biopsy.",
+        "Radical hysterectomy.",
+        "GnRH analogues.",
+        "Combined oral contraceptive pills."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 58-year-old woman is having surgery for an ovarian mass. At surgery there are external papillae. The pathologist on frozen notes psammoma bodies. Most likely etiology of her mass is:",
+      "options": [
+        "Mucinous cystadenoma.",
+        "Serous cystadenoma.",
+        "Dermoid cyst.",
+        "Brenner tumor.",
+        "Granulose cell tumor."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The most commonly diagnosed gynecological malignancy in developed countries is:",
+      "options": [
+        "Endometrial.",
+        "Cervical.",
+        "Ovarian.",
+        "Fallopian tube.",
+        "Vulvar."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 37-year-old G2P2 reports irregular menses, and recent increase in facial and body hair. O/E, patient had acne, facial hair, 10cm left adnexal mass. PV confirms 10cm mass arising from the left ovary. the following serum concentration is most likely elevated:",
+      "options": [
+        "LDH.",
+        "Estradiol and FSH.",
+        "Testosterone and androstenedione.",
+        "AFP.",
+        "CA125"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All the following are protective against endometrial cancer, EXCEPT:",
+      "options": [
+        "Increase parity.",
+        "Smoking.",
+        "Physical activity.",
+        "Oral contraceptive use.",
+        "Tamoxifen use."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "The gold standard treatment for stage I endometrial carcinoma is:",
+      "options": [
+        "Surgery with staging laparotomy.",
+        "External beam pelvic radiation.",
+        "Extended field radiation.",
+        "Medroxy progesterone acetate.",
+        "Follow up by fractional curettage annually."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Comparing various gynecologic malignancies regarding prognosis, the following is the worst:",
+      "options": [
+        "Cancer breast.",
+        "Cancer cervix.",
+        "Endometrial carcinoma.",
+        "Choriocarcinoma.",
+        "Ovarian carcinoma."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Why this malignancy, chosen in the previous question, has the worst prognosis:",
+      "options": [
+        "Early vascular spread.",
+        "Early lymphatic dissemination.",
+        "Late clinical presentation.",
+        "Chemotherapy is ineffective.",
+        "Patient is usually old and unfit for surgery."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 60-year-old multipara menopausal for 7 years presented by an attack of mild vaginal bleeding. Causes include all the following EXCEPT:",
+      "options": [
+        "Uterine benign leiomyoma.",
+        "Atrophic vaginitis.",
+        "General disease.",
+        "Endometrial carcinoma.",
+        "Granulosa cell ovarian tumor."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following ovarian masses has a higher incidence for torsion?",
+      "options": [
+        "Mucinous cystadenoma.",
+        "Dermoid cyst.",
+        "Tubo-ovarian abscess.",
+        "Corpus luteum cyst.",
+        "Krukenberg tumor."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 25-year-old patient is being followed for a 5cm right ovarian cystic mass. She comes to the ER with sudden severe right sided lower abdominal pain associated with nausea and vomiting. O/E there was a severely tender 10cm right pelvic mass. TLC: 12.500. The patient undergoes laparoscopy and a black mass is seen replacing the entire ovary. The most appropriate management of the patient is:",
+      "options": [
+        "Removal of the ovary.",
+        "Antibiotic therapy.",
+        "Reverse the torsion and oophoropexy.",
+        "Anticoagulation.",
+        "TAH+BSO."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 21-year-old healthy female using OCP is found to have a 2mm pigmented flat lesion with irregular margins is seen on the left labia. Most appropriate next step:",
+      "options": [
+        "Follow up in 6-12months.",
+        "Discontinue OCPS.",
+        "Excisional biopsy of the lesion.",
+        "Electro desiccation of the lesion.",
+        "Perform vulvectomy."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "HPV that is most often associated with CIN III is:",
+      "options": [
+        "HPV type 6",
+        "HPV type 11",
+        "HPV type 16",
+        "HPV type 35",
+        "HPV type 44"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 57-year-old morbidly obese diabetic, hypertensive patient presents with postmenopausal bleeding. An office endometrial biopsy shows complex endometrial hyperplasia with atypia, and US shows multiple uterine fibroids. Best management is:",
+      "options": [
+        "Myomectomy.",
+        "TAH.",
+        "Hysteroscopic endometrial ablation.",
+        "Uterine artery embolization.",
+        "Combined oral contraceptive pills."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 57-year-old G3P3 presents with 6months history of pelvic discomfort, increased abdominal girth and early satiety. O/E: large abdominopelvic mass. US and CT show bilateral ovarian masses, ascites, and studding of the peritoneum. You predict it is most likely a malignant ovarian. She asks about the 1ry method of ttt for her condition:",
+      "options": [
+        "Radiation therapy only.",
+        "Surgery only.",
+        "Surgery followed by chemotherapy.",
+        "Surgery followed by radiation therapy.",
+        "Chemoradiation alone."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Regarding cancer cervix, choose the correct statement:",
+      "options": [
+        "1ry prevention by HPV vaccine is not effective.",
+        "Staging of definite cases should be surgical.",
+        "Spread is mainly through direct and lymphatic spread.",
+        "Clinical presentation is usually delayed.",
+        "Radiotherapy is preferred in young patients to preserve ovaries."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Functioning ovarian tumors include one of the following:",
+      "options": [
+        "Dermoid cyst.",
+        "Papillary serous cyst.",
+        "Mucinous cystadenoma.",
+        "Theca lutein cyst.",
+        "Androblatoma."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Predisposing factors for ovarian malignancy include:",
+      "options": [
+        "Multiparity.",
+        "Smoking.",
+        "Polycystic ovarian disease.",
+        "Prolonged use of oral contraceptive pills.",
+        "Family history of ovarian malignancy."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Regarding cancer cervix, choose the correct statement:",
+      "options": [
+        "1ry prevention by H.P.V vaccine is effective.",
+        "FIGO staging of definite cases is a surgical one.",
+        "Spread is mainly through blood stream.",
+        "Clinical presentation is usually delayed.",
+        "Radiotherapy is preferred in young patients to preserve ovaries."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 45-year-old P2+0, with tubal ligation, presents by irregular vaginal bleeding. Endometrial curettage shows complex hyperplasia with atypia. How can you council her?",
+      "options": [
+        "Hysterectomy should be done.",
+        "Endometrial ablation is the preferred option.",
+        "Pelvic irradiation is an alternative option.",
+        "Medical treatment by progestogens for about 6 months.",
+        "Follow up and repeat curettage after 6 months."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "An obese healthy 63-year-old woman presents with mild vaginal bleeding. No use of HRT. Pap smear is negative. The next step is:",
+      "options": [
+        "Begin estrogen replacement therapy.",
+        "Sample the endometrium.",
+        "Perform colposcopic evaluation of the cervix.",
+        "Perform hysterectomy.",
+        "Obtain serum FSH, LH, E2, PRL."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 60-year-old G1P1, menopausal for 10 years, presents with repeated attacks of moderate vaginal bleeding. She is hypertensive with poor control. Speculum examination is free and US reveals AVF bulky uterus with a 20 mm endometrial thickness. Your suggested cause for this bleeding:",
+      "options": [
+        "Adenomyosis.",
+        "Uncontrolled hypertension.",
+        "Endocervical carcinoma.",
+        "Endometrial carcinoma.",
+        "Choriocarcinoma."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 45-year-old multipara with regular and average cycles, presented by repeated bleeding following sexual intercourse. Possible causes include:",
+      "options": [
+        "Cervical cancer.",
+        "Endometrial carcinoma.",
+        "Ovarian cancer.",
+        "Pelvic endometriosis.",
+        "Atrophic vaginitis."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "An increased incidence of endometrial hyperplasia has been described in patients with:",
+      "options": [
+        "Multiparity.",
+        "Crohn's disease.",
+        "Delayed menarche.",
+        "PCO.",
+        "COCP."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 46-year-old multiparous patient presents with contact bleeding. Speculum examination reveals suspicious cervix. The cervical biopsy taken will most likely be:",
+      "options": [
+        "Transitional carcinoma.",
+        "Adenocarcinoma.",
+        "Clear cell carcinoma.",
+        "Squamous cell carcinoma.",
+        "Adenoacanthoma."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 50-year-old woman complains of irregular vaginal bleeding of 7 months duration. Pelvic examination demonstrates a normal AVF uterus, normal appearing cervix and no adnexal masses. Pregnancy test is negative. Definitive diagnosis of this patient is by which of the followings?",
+      "options": [
+        "Endometrial biopsy.",
+        "Endometrial cytology.",
+        "Transvaginal sonography.",
+        "Hysteroscopy.",
+        "MRI."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "If this patient is proved to have complex endometrial hyperplasia with atypia, your preferred further management will be:",
+      "options": [
+        "Total abdominal hysterectomy.",
+        "Endometrial ablation.",
+        "Wertheim's operation.",
+        "Depot progesterone injections every 3 months.",
+        "Continuous combined oral contraceptive pills."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 47-year-old married woman presents with heavy period for 8 months duration. Her periods are getting increasingly heavy. All the following are possible differential diagnoses EXCEPT:",
+      "options": [
+        "Dysfunctional uterine bleeding (DUB).",
+        "Uterine fibroid.",
+        "Pelvic congestion syndrome.",
+        "Adenomyosis.",
+        "Cervical carcinoma in situ."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "All the following investigations are recommended EXCEPT:",
+      "options": [
+        "Complete blood picture.",
+        "Bleeding profile.",
+        "Pelvic ultrasound.",
+        "Cervical conization.",
+        "Endometrial biopsy."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Ovarian cancer is more likely to occur in all the following EXCEPT:",
+      "options": [
+        "Nulliparous women.",
+        "Women who have breast cancer.",
+        "Patient with history of prolonged use of oral contraceptive pills.",
+        "Women with a family history of ovarian cancer.",
+        "High socioeconomic class."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The commonest site for metastasis from ovarian cancer is:",
+      "options": [
+        "Douglas pouch.",
+        "Liver.",
+        "Uterus.",
+        "Peritoneum.",
+        "Bone."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 26-year-old G2P1 presents with increasing hair growth on her face, chest and abdomen. But hair on her head is receding in the temporal regions. She also has had problems with acne. O/E, the patient has significant amounts of coarse dark hair on face, chest and abdomen with enlarged clitoris. She has a 7cm left adnexal mass.",
+      "options": [
+        "Granulosa cell tumor.",
+        "Sertolli-leydig cell tumor.",
+        "Immature teratoma.",
+        "Gonadoblastoma.",
+        "Krukengerg tumor."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 56-year-old postmenopausal woman presents with vaginal bleeding. Uterus is slightly enlarged and she has a 6cm Rt adnexal mass. Endometrial biopsy shows endometrial adenocarcinoma.",
+      "options": [
+        "Granulosa cell tumor.",
+        "Sertolli-leydig cell tumor.",
+        "Immature teratoma.",
+        "Gonadoblastoma.",
+        "Krukengerg tumor."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 67-year-old woman is found to have bilateral adnexal masses while undergoing evaluation of her recently diagnosed colon cancer.",
+      "options": [
+        "Granulosa cell tumor.",
+        "Sertolli-leydig cell tumor.",
+        "Immature teratoma.",
+        "Gonadoblastoma.",
+        "Krukengerg tumor."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 17-year-old woman is referred for the evaluation of primary amenorrhea. O/E: the patient has evidence of virilization. she also has a pelvic mass. during the workup of the patient, she is found to have sex chromosome mosaicism (45XO/46XY).",
+      "options": [
+        "Granulosa cell tumor.",
+        "Sertolli-leydig cell tumor.",
+        "Immature teratoma.",
+        "Gonadoblastoma.",
+        "Krukengerg tumor."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 29-year-old woman is undergoing diagnostic laparoscopy for a 9cm right ovarian mass. The final pathology report shows evidence of glial tissue and immature cerebellar and cortical tissue.",
+      "options": [
+        "Granulosa cell tumor.",
+        "Sertolli-leydig cell tumor.",
+        "Immature teratoma.",
+        "Gonadoblastoma.",
+        "Krukengerg tumor."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 51-year-old menopausal woman is undergoing exploratory laparotomy for bilateral adnexal masses. A frozen section on the excised ovaries and shows significant numbers of signet cells.",
+      "options": [
+        "Granulosa cell tumor.",
+        "Sertolli-leydig cell tumor.",
+        "Immature teratoma.",
+        "Gonadoblastoma.",
+        "Krukengerg tumor."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Tumor Marker: Struma ovarii.",
+      "options": [
+        "Estrogen.",
+        "B-HCG.",
+        "Alpha fetoprotein.",
+        "Lactate dehydrogenase.",
+        "Androgen.",
+        "Thyroxine.",
+        "CA 15.3",
+        "CA 19.9"
+      ],
+      "correct": 5
+    },
+    {
+      "stem": "Tumor Marker: Sertoli- Leydig cell tumor.",
+      "options": [
+        "Estrogen.",
+        "B-HCG.",
+        "Alpha fetoprotein.",
+        "Lactate dehydrogenase.",
+        "Androgen.",
+        "Thyroxine.",
+        "CA 15.3",
+        "CA 19.9"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Tumor Marker: Granulosa cell tumor.",
+      "options": [
+        "Estrogen.",
+        "B-HCG.",
+        "Alpha fetoprotein.",
+        "Lactate dehydrogenase.",
+        "Androgen.",
+        "Thyroxine.",
+        "CA 15.3",
+        "CA 19.9"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Tumor Marker: Dysgerminoma.",
+      "options": [
+        "Estrogen.",
+        "B-HCG.",
+        "Alpha fetoprotein.",
+        "Lactate dehydrogenase.",
+        "Androgen.",
+        "Thyroxine.",
+        "CA 15.3",
+        "CA 19.9"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Tumor Marker: Mucinous cystadenoma.",
+      "options": [
+        "Estrogen.",
+        "B-HCG.",
+        "Alpha fetoprotein.",
+        "Lactate dehydrogenase.",
+        "Androgen.",
+        "Thyroxine.",
+        "CA 15.3",
+        "CA 19.9"
+      ],
+      "correct": 7
+    },
+    {
+      "stem": "Tumor Marker: Yolk sac tumor.",
+      "options": [
+        "Estrogen.",
+        "B-HCG.",
+        "Alpha fetoprotein.",
+        "Lactate dehydrogenase.",
+        "Androgen.",
+        "Thyroxine.",
+        "CA 15.3",
+        "CA 19.9"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Tumor Marker: Breast cancer.",
+      "options": [
+        "Estrogen.",
+        "B-HCG.",
+        "Alpha fetoprotein.",
+        "Lactate dehydrogenase.",
+        "Androgen.",
+        "Thyroxine.",
+        "CA 15.3",
+        "CA 19.9"
+      ],
+      "correct": 6
+    },
+    {
+      "stem": "Tumor Marker: Choriocarcinoma.",
+      "options": [
+        "Estrogen.",
+        "B-HCG.",
+        "Alpha fetoprotein.",
+        "Lactate dehydrogenase.",
+        "Androgen.",
+        "Thyroxine.",
+        "CA 15.3",
+        "CA 19.9"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Tumor Marker: Functioning brenner tumor.",
+      "options": [
+        "Estrogen.",
+        "B-HCG.",
+        "Alpha fetoprotein.",
+        "Lactate dehydrogenase.",
+        "Androgen.",
+        "Thyroxine.",
+        "CA 15.3",
+        "CA 19.9"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Tumor Marker: Endodermal sinus tumor.",
+      "options": [
+        "Estrogen.",
+        "B-HCG.",
+        "Alpha fetoprotein.",
+        "Lactate dehydrogenase.",
+        "Androgen.",
+        "Thyroxine.",
+        "CA 15.3",
+        "CA 19.9"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Tumor Marker: Thecoma.",
+      "options": [
+        "Estrogen.",
+        "B-HCG.",
+        "Alpha fetoprotein.",
+        "Lactate dehydrogenase.",
+        "Androgen.",
+        "Thyroxine.",
+        "CA 15.3",
+        "CA 19.9"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Infection with HPV is a major risk.",
+      "options": [
+        "Cancer cervix.",
+        "Endometrial carcinoma.",
+        "Primary ovarian malignancy.",
+        "Gestational choriocarcinoma.",
+        "Uterine sarcoma.",
+        "Vulval cancer.",
+        "Ovarian dysgerminoma."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "CA 125 is the main marker.",
+      "options": [
+        "Cancer cervix.",
+        "Endometrial carcinoma.",
+        "Primary ovarian malignancy.",
+        "Gestational choriocarcinoma.",
+        "Uterine sarcoma.",
+        "Vulval cancer.",
+        "Ovarian dysgerminoma."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Has the best prognosis due to early clinical diagnosis and effective response to chemotherapy.",
+      "options": [
+        "Cancer cervix.",
+        "Endometrial carcinoma.",
+        "Primary ovarian malignancy.",
+        "Gestational choriocarcinoma.",
+        "Uterine sarcoma.",
+        "Vulval cancer.",
+        "Ovarian dysgerminoma."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Lower incidence in women who breast fed their babies and used COCPs for long periods.",
+      "options": [
+        "Cancer cervix.",
+        "Endometrial carcinoma.",
+        "Primary ovarian malignancy.",
+        "Gestational choriocarcinoma.",
+        "Uterine sarcoma.",
+        "Vulval cancer.",
+        "Ovarian dysgerminoma."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Well identified familial predisposition.",
+      "options": [
+        "Cancer cervix.",
+        "Endometrial carcinoma.",
+        "Primary ovarian malignancy.",
+        "Gestational choriocarcinoma.",
+        "Uterine sarcoma.",
+        "Vulval cancer.",
+        "Ovarian dysgerminoma."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "CA 125 is commonly used in initial diagnosis and follow up after ttt.",
+      "options": [
+        "Cancer cervix.",
+        "Endometrial carcinoma.",
+        "Primary ovarian malignancy.",
+        "Gestational choriocarcinoma.",
+        "Uterine sarcoma.",
+        "Vulval cancer.",
+        "Ovarian dysgerminoma."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "LDH is commonly used in initial diagnosis and follow up.",
+      "options": [
+        "Cancer cervix.",
+        "Endometrial carcinoma.",
+        "Primary ovarian malignancy.",
+        "Gestational choriocarcinoma.",
+        "Uterine sarcoma.",
+        "Vulval cancer.",
+        "Ovarian dysgerminoma."
+      ],
+      "correct": 6
+    },
+    {
+      "stem": "Radiotherapy as a sole ttt gives the same curative results as surgery.",
+      "options": [
+        "Cancer cervix.",
+        "Endometrial carcinoma.",
+        "Primary ovarian malignancy.",
+        "Gestational choriocarcinoma.",
+        "Uterine sarcoma.",
+        "Vulval cancer.",
+        "Ovarian dysgerminoma."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Prolonged unopposed estrogen is the main predisposing factor.",
+      "options": [
+        "Cancer cervix.",
+        "Endometrial carcinoma.",
+        "Primary ovarian malignancy.",
+        "Gestational choriocarcinoma.",
+        "Uterine sarcoma.",
+        "Vulval cancer.",
+        "Ovarian dysgerminoma."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Uterine submucous fibroid.",
+      "options": [
+        "Infertility.",
+        "Menorrhagia/Metrorrhagia.",
+        "Post-menopausal bleeding.",
+        "Contact bleeding.",
+        "Amenorrhea.",
+        "Normal menses."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Pelvic endometriosis.",
+      "options": [
+        "Infertility.",
+        "Menorrhagia/Metrorrhagia.",
+        "Post-menopausal bleeding.",
+        "Contact bleeding.",
+        "Amenorrhea.",
+        "Normal menses."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Cervical carcinoma.",
+      "options": [
+        "Infertility.",
+        "Menorrhagia/Metrorrhagia.",
+        "Post-menopausal bleeding.",
+        "Contact bleeding.",
+        "Amenorrhea.",
+        "Normal menses."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Ovulatory cycle.",
+      "options": [
+        "Infertility.",
+        "Menorrhagia/Metrorrhagia.",
+        "Post-menopausal bleeding.",
+        "Contact bleeding.",
+        "Amenorrhea.",
+        "Normal menses."
+      ],
+      "correct": 5
+    },
+    {
+      "stem": "Sertoli-Leydig cell tumor.",
+      "options": [
+        "Infertility.",
+        "Menorrhagia/Metrorrhagia.",
+        "Post-menopausal bleeding.",
+        "Contact bleeding.",
+        "Amenorrhea.",
+        "Normal menses."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Ashermann Syndrome.",
+      "options": [
+        "Infertility.",
+        "Menorrhagia/Metrorrhagia.",
+        "Post-menopausal bleeding.",
+        "Contact bleeding.",
+        "Amenorrhea.",
+        "Normal menses."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Endometrial carcinoma.",
+      "options": [
+        "Infertility.",
+        "Menorrhagia/Metrorrhagia.",
+        "Post-menopausal bleeding.",
+        "Contact bleeding.",
+        "Amenorrhea.",
+        "Normal menses."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Subserous myoma.",
+      "options": [
+        "Infertility.",
+        "Menorrhagia/Metrorrhagia.",
+        "Post-menopausal bleeding.",
+        "Contact bleeding.",
+        "Amenorrhea.",
+        "Normal menses."
+      ],
+      "correct": 5
+    },
+    {
+      "stem": "Dermoid cyst.",
+      "options": [
+        "Infertility.",
+        "Menorrhagia/Metrorrhagia.",
+        "Post-menopausal bleeding.",
+        "Contact bleeding.",
+        "Amenorrhea.",
+        "Normal menses."
+      ],
+      "correct": 5
+    },
+    {
+      "stem": "Benign ovarian tumor with highest incidence to turn malignant is dermoid cyst.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Theca lutein cysts present in association to choriocarcinoma, need immediate laparoscopic intervention.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Metastatic ovarian tumors may have a Iry in the breast or stomach.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Pregnancy is a predisposing factor for ovarian cyst torsion.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The commonest cause of postmenopausal bleeding is atrophic vaginitis/ endometritis.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In ovarian neoplasm, the presence of ascites on ultrasound is a predictor for malignancy.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Breast cancer is the commonest cancer of the female genital organs.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Dermoid cyst is the commonest ovarian tumor in the childbearing age.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Most preventable female genital tract cancer is cervical cancer.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Female genital tract cancer with the best prognosis is endometrial cancer.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "If a pap cervical smear shows mild dysplasia, the next step in management would include treatment of inflammation then repeating the smear.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "HPV is a predisposing factor for vulval cancer.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Butterfly incision for vulval cancer has a low morbidity and mortality results.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "HSV2 is a predisposing factor for cervical cancer.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    }
+  ]
+}

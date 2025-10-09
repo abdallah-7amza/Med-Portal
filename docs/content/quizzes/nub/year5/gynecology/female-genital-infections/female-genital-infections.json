@@ -1,0 +1,701 @@
+{
+  "title": "Female Genital Infections",
+  "questions": [
+    {
+      "stem": "An 18-year-old G1P0 presents at 30 weeks gestation complaining of malodorous vaginal discharge. A wet prep reveals motile flagellated organisms. The treatment plan would include:",
+      "options": [
+        "Ampicillin.",
+        "Metronidazole.",
+        "Fluconazole.",
+        "Gentamicin.",
+        "Ciprofloxacin."
+      ],
+      "correct": 1,
+      "explanation": "The presence of motile flagellated organisms on a wet prep is characteristic of Trichomonas vaginalis. The recommended treatment for Trichomonas vaginalis, even during pregnancy after the first trimester, is oral Metronidazole."
+    },
+    {
+      "stem": "All the following about Candida vaginal infection are true EXCEPT:",
+      "options": [
+        "The infection rate rises with pregnancy.",
+        "Vaginal pH is usually alkaline.",
+        "Vaginal or miconazole are effective.",
+        "Diagnosis is usually made without need for culture.",
+        "More common in pregnant females"
+      ],
+      "correct": 1,
+      "explanation": "In Candida vaginitis, the vaginal pH is slightly acidic (< 4.5). Therefore, the statement that vaginal pH is usually alkaline is incorrect."
+    },
+    {
+      "stem": "The following statements about Trichomonas vaginalis are correct EXCEPT:",
+      "options": [
+        "Trichomonas vaginalis (TV) may be a sexually transmitted disease.",
+        "Most patients, having TV, have symptoms.",
+        "Unlike bacterial vaginosis, metronidazole is ineffective therapy.",
+        "It may cause a strawberry appearance of the cervix.",
+        "Treatment of the sexual partners is a must."
+      ],
+      "correct": 2,
+      "explanation": "Metronidazole is the recommended treatment for Trichomonas vaginalis, indicating it is an effective therapy. Therefore, the statement that metronidazole is ineffective is incorrect. Note: Option (b) is also incorrect as 70%-85% of women are asymptomatic."
+    },
+    {
+      "stem": "Regarding bacterial vaginosis all of the following are correct EXCEPT:",
+      "options": [
+        "It is the commonest cause of vaginal infection.",
+        "The vaginal pH is usually below 4.5.",
+        "It may present with a fishy smell discharge.",
+        "It can be diagnosed by clue cells on Gram staining of vaginal discharge.",
+        "It is due to the predominance of anaerobes which are already present in the vagina."
+      ],
+      "correct": 1,
+      "explanation": "In bacterial vaginosis, the vaginal pH is usually greater than 4.5 due to diminished acid production. Therefore, the statement that the vaginal pH is usually below 4.5 is incorrect."
+    },
+    {
+      "stem": "Trichomonas vaginalis infection:",
+      "options": [
+        "Symptoms always occur after sexual intercourse.",
+        "Is characterized by a purulent offensive discharge and a \"strawberry\" cervix.",
+        "Light-background microscopy readily identifies the multi flagellate organisms.",
+        "Usually coexists with bacterial vaginosis.",
+        "Management is usually with antifungal drugs."
+      ],
+      "correct": 3,
+      "explanation": "The key answer is (d). However, there is a conflict as options (b) and (c) are also explicitly supported as correct statements in many textbooks. The coexistence with bacterial vaginosis is a known clinical association."
+    },
+    {
+      "stem": "A patient presents with vulvar irritation and pruritis. Speculum examination reveals a hyperemic vagina with odorless curdy discharge. The pH is 4.0. What is the MOST likely diagnosis?",
+      "options": [
+        "Bacterial vaginosis (BV)",
+        "Candidiasis",
+        "Trichomoniasis",
+        "Gonococcal vaginitis",
+        "Hidradenitis suppurativa"
+      ],
+      "correct": 1,
+      "explanation": "The patient's symptoms of vulvar irritation and pruritus, along with an odorless, curdy discharge and an acidic vaginal pH of 4.0, are all characteristic findings for Candida vaginitis."
+    },
+    {
+      "stem": "Regarding candida infection, the following are true EXCEPT:",
+      "options": [
+        "Incidence is increased in pregnancy.",
+        "Incidence is increased with the use of oral contraceptive pills.",
+        "Incidence is decreased with the use of broad-spectrum antibiotics.",
+        "Is the commonest cause of abnormal vaginal discharge child bearing age.",
+        "It can be treated by clotrimazole."
+      ],
+      "correct": 2,
+      "explanation": "Long-term use of broad-spectrum antibiotics can disturb the balance of vaginal flora, which tends to increase the incidence of Candida vaginitis. Therefore, the statement that the incidence is decreased is incorrect."
+    },
+    {
+      "stem": "A 27 years old woman complaining of copious frothy offensive discharge. Speculum examination revealed erythematous vagina and cervical punctuations. Which is the most likely diagnosis?",
+      "options": [
+        "Bacterial vaginosis.",
+        "Candida Vaginalis.",
+        "Human papilloma virus infection.",
+        "Herpes simplex virus infection.",
+        "Trichomonas vaginalis."
+      ],
+      "correct": 4,
+      "explanation": "Copious, frothy, offensive vaginal discharge, along with an erythematous vagina and cervical punctuations (strawberry spots), are classic features of Trichomonas vaginalis infection."
+    },
+    {
+      "stem": "A 28 years old pregnant woman in 8 weeks suffers from profuse vaginal discharge with characteristic fishy odor smell. Examination of the discharge revealed clue cells. The most proper diagnosis is:",
+      "options": [
+        "Candida vaginalis vaginitis.",
+        "Trichomonas vaginalis vaginitis.",
+        "Atrophic vaginitis with pregnancy.",
+        "Tuberculous vaginitis.",
+        "Bacterial vaginosis."
+      ],
+      "correct": 4,
+      "explanation": "Profuse vaginal discharge with a characteristic fishy odor and the finding of clue cells on examination are diagnostic criteria for Bacterial vaginosis."
+    },
+    {
+      "stem": "The treatment of this case (in previous question) is:",
+      "options": [
+        "Oral metronidazole.",
+        "Vaginal metronidazole.",
+        "Vaginal clindamycin cream.",
+        "Oral fluconazole.",
+        "Oral 3rd generation cephalosporins."
+      ],
+      "correct": 2,
+      "explanation": "For Bacterial vaginosis in early pregnancy (patient is 8 weeks), topical therapy such as vaginal Clindamycin cream is a recommended option to minimize systemic exposure."
+    },
+    {
+      "stem": "A 28 years old woman consults you for a painful swelling of her left labium that has progressively worsened over the past 3 days. On examination, a 6 cm swollen, red, tender, tense cystic mass in the base of the left labium majus. What is the next step in the care of this patient?",
+      "options": [
+        "Excision of the mass.",
+        "Dry heat.",
+        "Oral antibiotics.",
+        "IM or IV antibiotics.",
+        "Incision and drainage of the mass."
+      ],
+      "correct": 4,
+      "explanation": "The clinical presentation is characteristic of a Bartholin gland abscess. The definitive and immediate treatment is incision and drainage to relieve the pressure and pain."
+    },
+    {
+      "stem": "A 20 years old, sexually active, G2P0 with a LMP 5 days ago, presents with severe pelvic pain, chills and fever. Pregnancy test is negative. Urine analysis is normal. WBC is 18,000. Temperature is 39.8°C. On examination, her abdomen shows diffuse tenderness, rebound tenderness, with voluntary guarding. The most likely diagnosis is:",
+      "options": [
+        "Ovarian torsion.",
+        "Endometriosis.",
+        "Pelvic inflammatory disease.",
+        "Kidney stone.",
+        "Ectopic pregnancy."
+      ],
+      "correct": 2,
+      "explanation": "The patient's presentation with severe pelvic pain, high fever, elevated white blood cell count, and signs of peritonitis in a young, sexually active woman are highly suggestive of Acute Pelvic Inflammatory Disease (PID)."
+    },
+    {
+      "stem": "In the previous patient, the most appropriate initial antibiotic regimen is:",
+      "options": [
+        "Doxycycline 100 mg PO twice daily for 14 days.",
+        "Clindamycin 450 mg IV / 8 hours + gentamycin 1 mg/kg every 12 hours.",
+        "Ceftriaxone 250 mg IM + doxycycline 100 mg PO twice daily for 14 days.",
+        "Cefoxitine 2 gm IV every 6 hours + doxycycline 100 mg IV twice daily.",
+        "Ofloxacin 400 mg + metronidazole 500 mg PO twice daily for 14 days."
+      ],
+      "correct": 3,
+      "explanation": "For severe Pelvic Inflammatory Disease (PID) requiring hospitalization, an intravenous regimen is indicated. The combination of a second-generation cephalosporin (Cefoxitin) and Doxycycline covers the likely polymicrobial pathogens, including N. gonorrhoeae and C. trachomatis."
+    },
+    {
+      "stem": "Which of the following is most likely to cause vulvar pruritis?",
+      "options": [
+        "Vaginal trichomoniasis.",
+        "Leukemia.",
+        "Personal hygiene products.",
+        "Secondary Syphilis.",
+        "Hidradenitis suppurativa."
+      ],
+      "correct": 2,
+      "explanation": "Irritants found in personal hygiene products (scented soaps, moist wipes, detergents) are a very common cause of contact dermatitis and isolated vulvar pruritus."
+    },
+    {
+      "stem": "A 63-year-old patient presents with vaginal itching, dryness and dyspareunia. Which of the following is the most appropriate medical therapy?",
+      "options": [
+        "Oral administered DES",
+        "Vaginal estrogen cream daily.",
+        "Oral administered progesterone",
+        "Testosterone tablets 10 mg/day",
+        "Estrogen 20 mg IV."
+      ],
+      "correct": 1,
+      "explanation": "The patient's symptoms are characteristic of atrophic vaginitis, common in postmenopausal women due to decreased estrogen. Intravaginal estrogen therapy is the most effective treatment."
+    },
+    {
+      "stem": "Genital candidiasis:",
+      "options": [
+        "Is the commonest cause of vaginal discharge.",
+        "Usually treated with triazoles.",
+        "Usually resistant to topical and oral preparations.",
+        "Can cause fissuring of the perineum.",
+        "Is considered a sexually transmitted disease."
+      ],
+      "correct": 3,
+      "explanation": "Severe Candida vaginitis can lead to significant vulvar erythema and inflammation, sometimes resulting in fissures and excoriations of the perineal skin."
+    },
+    {
+      "stem": "Typical symptoms are an offensive grey discharge, vulval irritation and superficial dyspareunia. Treatment is with metronidazole:",
+      "options": [
+        "Treponema pallidum.",
+        "Trichomonas vaginalis.",
+        "Human papilloma virus.",
+        "Neisseria Gonorrhea.",
+        "Herpes simplex virus."
+      ],
+      "correct": 1,
+      "explanation": "Although the 'grey discharge' is more typical of Bacterial Vaginosis, the combination of offensive discharge, vulval irritation, dyspareunia, and treatment with metronidazole points towards Trichomonas vaginalis in the context of these options."
+    },
+    {
+      "stem": "Diagnosis is established by a raised vaginal pH, the typical discharge, a positive 'whiff test' and the presence of clue cells on microscopy:",
+      "options": [
+        "Bacterial vaginosis.",
+        "Lichen vaginosis.",
+        "Candida albicans.",
+        "Lichen sclerosis.",
+        "Trichomonas vaginalis."
+      ],
+      "correct": 0,
+      "explanation": "The criteria listed (raised pH >4.5, typical discharge, positive whiff test, and clue cells) are the specific Amsel's criteria for diagnosing Bacterial vaginosis."
+    },
+    {
+      "stem": "The normal vagina is richly colonized by a bacterial flora predominantly:",
+      "options": [
+        "Mycoplasma hominis.",
+        "Gardnerella.",
+        "Actinomyces.",
+        "Chlamydia trachomatis.",
+        "Lactobacillus."
+      ],
+      "correct": 4,
+      "explanation": "Lactobacillus species are the dominant bacteria in a healthy vagina, playing a critical role in maintaining the normal acidic vaginal environment by producing lactic acid."
+    },
+    {
+      "stem": "The development of opportunistic infections or malignancy or a high CD4 count are diagnostic of:",
+      "options": [
+        "Genital herpes.",
+        "Condyloma accuminata.",
+        "AIDS.",
+        "Chlamydia.",
+        "Gonorrhea."
+      ],
+      "correct": 2,
+      "explanation": "AIDS (Acquired Immune Deficiency Syndrome) is the final stage of HIV infection, characterized by the presence of opportunistic infections and malignancies due to severe immune system failure. Note: The question incorrectly states 'a high CD4 count'; AIDS is diagnosed with a LOW CD4 count (<200 cells/mm³)."
+    },
+    {
+      "stem": "The most common organism of acute bartholinitis is:",
+      "options": [
+        "Staphylococcus.",
+        "Streptococcus.",
+        "E. coli.",
+        "Gonococcus.",
+        "Trichomonas."
+      ],
+      "correct": 3,
+      "explanation": "While often polymicrobial, Neisseria gonorrhoeae (Gonococcus) is a classic and common cause of Bartholin gland infection and abscess formation."
+    },
+    {
+      "stem": "Concerning trichomonas infection, all are true EXCEPT:",
+      "options": [
+        "Usually co-exists with bacterial vaginosis.",
+        "Is characterized by offensive discharge and a strawberry cervix.",
+        "Dark ground microscopy readily identifies the clue cells.",
+        "Can be asymptomatic for several months after being acquired.",
+        "Management is usually with metronidazole and contact tracing."
+      ],
+      "correct": 2,
+      "explanation": "Clue cells are characteristic of Bacterial vaginosis, not Trichomonas infection. For Trichomonas, a wet mount is used to identify motile flagellated trichomonads."
+    },
+    {
+      "stem": "Of the following, the most acceptable treatment for monilia vaginitis is:",
+      "options": [
+        "Gentian violet.",
+        "Powdered aluminum.",
+        "Nystatin suppositories.",
+        "Acid douches.",
+        "Systemic actinomycin B."
+      ],
+      "correct": 2,
+      "explanation": "Nystatin is an antifungal medication effective against Candida albicans (Monilia) and is a well-established treatment in the form of vaginal suppositories or creams."
+    },
+    {
+      "stem": "Monilial vaginal discharge has the following EXCEPT:",
+      "options": [
+        "Thick.",
+        "White",
+        "Curdy.",
+        "Little.",
+        "Malodor."
+      ],
+      "correct": 4,
+      "explanation": "The vaginal discharge in Candida vaginitis (Monilial) is classically described as a 'cottage cheese' discharge, which is typically thick, white, curdy, and odorless."
+    },
+    {
+      "stem": "What is the current first-line treatment for gonorrhoea?",
+      "options": [
+        "Azithromycin 1 g orally as a single dose.",
+        "Cefixime 400 mg orally three times daily for 14 days.",
+        "Ceftriaxone 500 mg intramuscularly as a single dose with azithromycin 1 g oral as a single dose.",
+        "Erythromycin 500 mg four times daily for 14 days.",
+        "Penicillin 1.2 g intramuscularly as a single dose."
+      ],
+      "correct": 2,
+      "explanation": "Current CDC guidelines for uncomplicated gonorrhea recommend a single 500 mg IM dose of Ceftriaxone. Co-treatment for chlamydia with Doxycycline is recommended if not ruled out, but combination with Azithromycin was a previous common regimen."
+    },
+    {
+      "stem": "The following symptoms are typical for Trichomonas vaginalis infection?",
+      "options": [
+        "Little grey vaginal discharge.",
+        "Frothy yellow vaginal discharge.",
+        "Grey fishy vaginal discharge.",
+        "White thick vaginal discharge.",
+        "Yellow fishy vaginal discharge."
+      ],
+      "correct": 1,
+      "explanation": "The vaginal discharge typical of Trichomonas vaginalis infection is classically described as copious, yellow or green, frothy, and malodorous."
+    },
+    {
+      "stem": "Diagnosis may require vaginoscopy.",
+      "options": [
+        "Candida vaginal infections.",
+        "Trichomonas.",
+        "Bacterial vaginosis.",
+        "Atrophic vaginitis.",
+        "Foreign body."
+      ],
+      "correct": 4,
+      "explanation": "In cases of persistent or unexplained vaginitis, especially in children or when a foreign object is suspected, vaginoscopy allows for direct visualization to identify and remove the object."
+    },
+    {
+      "stem": "The treatment should include intravaginal estrogen therapy.",
+      "options": [
+        "Candida vaginal infections.",
+        "Trichomonas.",
+        "Bacterial vaginosis.",
+        "Atrophic vaginitis.",
+        "Foreign body."
+      ],
+      "correct": 3,
+      "explanation": "Intravaginal estrogen therapy is the most effective and primary treatment for atrophic vaginitis, which is caused by estrogen deficiency, typically in postmenopausal women."
+    },
+    {
+      "stem": "A 23-year-old woman with confirmed pelvic inflammatory disease (PID) presents with right upper quadrant pain. What is the MOST likely etiology?",
+      "options": [
+        "Cholecystitis.",
+        "Nephrolithiasis.",
+        "Perihepatic abscess.",
+        "Ashermann syndrome.",
+        "Fitz-Hugh-Curtis syndrome."
+      ],
+      "correct": 4,
+      "explanation": "Fitz-Hugh-Curtis syndrome is a perihepatitis (inflammation of the liver capsule) that can occur as a complication of PID, particularly from chlamydial infection, causing right upper quadrant pain."
+    },
+    {
+      "stem": "The following is NOT a risk factor for PID:",
+      "options": [
+        "Use of a diaphragm for contraception.",
+        "Frequent vaginal douching.",
+        "Multiple sexual partners.",
+        "Recent IUD placement.",
+        "Prior episode of PID."
+      ],
+      "correct": 0,
+      "explanation": "Barrier methods of contraception, such as the diaphragm and condoms, are associated with a decreased risk for PID. All other options are known risk factors."
+    },
+    {
+      "stem": "All the following are predisposing factors for PID, EXCEPT:",
+      "options": [
+        "IUCD.",
+        "Sexual intercourse.",
+        "Vaginal douching",
+        "Oral contraceptive pills.",
+        "Appendicitis."
+      ],
+      "correct": 3,
+      "explanation": "Oral Contraceptive Pills (OCPs) are associated with a decreased risk for Pelvic Inflammatory Disease (PID) because they thicken cervical mucus, making it harder for bacteria to ascend."
+    },
+    {
+      "stem": "A patient is found to have bilaterally equal adnexal pain; cervical motion tenderness; direct abdominal tenderness; temperature 38.3°C, and WBC 12000/ml. The most likely diagnosis:",
+      "options": [
+        "Ectopic pregnancy.",
+        "Acute PID.",
+        "Endometritis.",
+        "Urinary tract infection.",
+        "Ruptured corpus luteum cyst."
+      ],
+      "correct": 1,
+      "explanation": "The combination of bilateral adnexal pain, cervical motion tenderness, abdominal tenderness, fever, and leukocytosis are classic clinical findings for Acute Pelvic Inflammatory Disease (PID)."
+    },
+    {
+      "stem": "An 18 years old woman with history of PID undergoes a laparoscopic ovarian cystectomy for a 5 cm ovarian mass containing a tooth. The contents of the cyst spill during removal. 4 days postoperatively she returns to ER with temp 39°C, abdominal pain, nausea, vomiting, and TLC 15000. The most probable diagnosis is:",
+      "options": [
+        "Paralytic ileus.",
+        "Narcotic induced constipation.",
+        "Chemical peritonitis.",
+        "Influenza.",
+        "Bowel perforation."
+      ],
+      "correct": 4,
+      "explanation": "The patient's presentation with high fever, signs of peritonitis, and leukocytosis 4 days after a surgery involving dissection of 'marked bowel adhesions' makes bowel perforation a highly probable diagnosis."
+    },
+    {
+      "stem": "Three days after D&C, a 29 years old woman presents to ER with mild abdominal pain and fever, pelvic tenderness, and a purulent cervical discharge. A gram stain of discharge shows gram-negative intracellular diplococci. Most probable causative agent is:",
+      "options": [
+        "Neisseria gonorrhea.",
+        "Chlamydia trachomatis.",
+        "Escherichia Coli.",
+        "Treponema Pallidum.",
+        "Staphylococcus aureus."
+      ],
+      "correct": 0,
+      "explanation": "The finding of gram-negative intracellular diplococci on a Gram stain of cervical discharge is the classic microscopic finding for Neisseria gonorrhea."
+    },
+    {
+      "stem": "All the following are late complication of PID, EXCEPT:",
+      "options": [
+        "Raised WBC count.",
+        "Ectopic pregnancy.",
+        "Subfertility.",
+        "Chronic PID.",
+        "Chronic pelvic pain."
+      ],
+      "correct": 0,
+      "explanation": "A raised white blood cell (WBC) count is a sign of an acute infection, not a late complication. Late complications include infertility, ectopic pregnancy, and chronic pelvic pain."
+    },
+    {
+      "stem": "All the following is a common risk factor for PID, EXCEPT:",
+      "options": [
+        "Smoking.",
+        "Condom use.",
+        "Multiple partners.",
+        "Young age.",
+        "IUD."
+      ],
+      "correct": 1,
+      "explanation": "Barrier methods for contraception, such as condoms, are associated with a decreased risk for Pelvic Inflammatory Disease (PID)."
+    },
+    {
+      "stem": "A 24-year-old patient with pelvic peritonitis, mild ileus, and an endocervical culture of gonococcus has developed a left-sided enlarging pelvic mass and a spiking temperature curve. The most likely diagnosis is:",
+      "options": [
+        "Diverticulitis.",
+        "Appendicitis.",
+        "Ovarian cyst.",
+        "Ruptured ectopic.",
+        "Tubo-ovarian abscess."
+      ],
+      "correct": 4,
+      "explanation": "In a patient with confirmed PID, the development of a pelvic mass and a spiking fever curve strongly indicates the formation of a tubo-ovarian abscess, a serious complication."
+    },
+    {
+      "stem": "Initial treatment for this patient should be:",
+      "options": [
+        "Exploratory laparotomy.",
+        "Rest and antibiotics.",
+        "Colpotomy and drainage.",
+        "Retroperitoneal drainage above the inguinal ligament.",
+        "Hysterectomy and BSO."
+      ],
+      "correct": 1,
+      "explanation": "The initial treatment for an unruptured tubo-ovarian abscess (TOA) is conservative medical management with broad-spectrum intravenous antibiotics and rest."
+    },
+    {
+      "stem": "Then the previous patient, suddenly gets worse, with temperature over 40°C and a rigid abdomen. Repeat pelvic exam reveals no pelvic mass. The most likely diagnosis is:",
+      "options": [
+        "Pyelitis.",
+        "Ruptured tubo-ovarian abscess.",
+        "Ruptured infected dermoid cyst.",
+        "Ruptured diverticula.",
+        "Ruptured appendix."
+      ],
+      "correct": 1,
+      "explanation": "A sudden worsening of symptoms, high fever, rigid abdomen (diffuse peritonitis), and disappearance of a palpable pelvic mass are classic signs of a ruptured tubo-ovarian abscess, which is a surgical emergency."
+    },
+    {
+      "stem": "So your management should be:",
+      "options": [
+        "Increased antibiotics.",
+        "Exploratory Laparotomy and deal accordingly.",
+        "Colostomy.",
+        "Unilateral salpingo-oophorectomy.",
+        "Appendectomy."
+      ],
+      "correct": 1,
+      "explanation": "A ruptured tubo-ovarian abscess with peritonitis is an acute surgical emergency that requires an immediate exploratory laparotomy to drain the abscess and perform necessary procedures."
+    },
+    {
+      "stem": "The terminology of PID indicates:",
+      "options": [
+        "Infection of the vagina.",
+        "Infection of Bartholin's glands",
+        "Infection of Skene's glands.",
+        "Infection of the urinary bladder.",
+        "Endometritis and salpingo-oophoritis."
+      ],
+      "correct": 4,
+      "explanation": "Pelvic Inflammatory Disease (PID) is an ascending infection of the upper female genital tract, which includes endometritis (infection of the endometrium), salpingitis (fallopian tubes), and oophoritis (ovaries)."
+    },
+    {
+      "stem": "Regarding acute PID:",
+      "options": [
+        "It is generally caused by a sexually transmitted pathogen.",
+        "Penicillin and metronidazole are sufficient in treating the majority of infections.",
+        "Bacterial vaginosis is a major risk.",
+        "Up to 80% of women with gonococcal infection develop salpingitis.",
+        "Mostly affects postmenopausal women."
+      ],
+      "correct": 0,
+      "explanation": "Acute PID is a polymicrobial infection, but it is primarily initiated by sexually transmitted pathogens like Neisseria gonorrhoeae and Chlamydia trachomatis."
+    },
+    {
+      "stem": "Regarding tuberculosis of the female genital tract:",
+      "options": [
+        "It is almost always 1ry T.B.",
+        "Contributes to 5 to 10% of infertility cases in developing countries.",
+        "Endometrium is the most common involved site in the genital tract.",
+        "Endometrial biopsy should be done in the post-menstrual period.",
+        "+ve tuberculin test is diagnostic of active disease."
+      ],
+      "correct": 1,
+      "explanation": "Genital tuberculosis is a significant cause of tubal damage and infertility, accounting for a notable percentage of cases in endemic areas."
+    },
+    {
+      "stem": "A 45-year-old woman presents with frequent intermenstrual bleeding. Her endometrial biopsy shows: few giant cells, caseous necrosis and granuloma formation. The most likely cause is:",
+      "options": [
+        "Syphilis.",
+        "C.Trachomatis.",
+        "Tuberculosis.",
+        "Neisseria gonorrhea.",
+        "L.monocytogens."
+      ],
+      "correct": 2,
+      "explanation": "The histopathological findings of giant cells, caseous necrosis, and granuloma formation are the classic, pathognomonic features of tuberculosis."
+    },
+    {
+      "stem": "In the previous patient, the lesions are most commonly found in the:",
+      "options": [
+        "Uterus.",
+        "Cervix.",
+        "Tube.",
+        "Vulva.",
+        "Ovary."
+      ],
+      "correct": 2,
+      "explanation": "In female genital tuberculosis, the fallopian tubes are affected in almost all cases, making them the most common site of infection."
+    },
+    {
+      "stem": "Genital ulcerations may result from all the following organisms EXCEPT:",
+      "options": [
+        "Gonorrhea.",
+        "Chlamydia trachomatis.",
+        "Granuloma inguinale.",
+        "Hemophilus duceryi.",
+        "Herpes virus."
+      ],
+      "correct": 0,
+      "explanation": "Gonorrhea typically causes cervicitis and urethritis (a purulent discharge), not genital ulcerations. The other options are well-known causes of genital ulcers."
+    },
+    {
+      "stem": "An association exists between genital actinomycosis and the following contraceptive methods:",
+      "options": [
+        "Oral contraceptive",
+        "Intrauterine devices.",
+        "Tubal fulguration",
+        "Diaphragm and spermicidal jelly.",
+        "Vasectomy."
+      ],
+      "correct": 1,
+      "explanation": "Genital actinomycosis, a rare infection, has a well-established association with the long-term use of intrauterine devices (IUDs)."
+    },
+    {
+      "stem": "Which of the following infections are sexually transmitted?",
+      "options": [
+        "HIV.",
+        "Herpes.",
+        "Syphilis.",
+        "Chlamydia infection.",
+        "All of the above."
+      ],
+      "correct": 4,
+      "explanation": "HIV, Herpes Simplex Virus, Syphilis (Treponema pallidum), and Chlamydia trachomatis are all well-known sexually transmitted infections."
+    },
+    {
+      "stem": "A sexually transmitted infection commonly presenting with vulval discharge and itching, dysuria and offensive odor. Overall, 10-50% of women are asymptomatic. The urethra is colonized in 90%, and 2% of women will have a 'strawberry cervix'. What is the most likely organism?",
+      "options": [
+        "Candida albicans.",
+        "Chlamydia trachomatis.",
+        "Treponema pallidum.",
+        "Gardnerella vaginalis.",
+        "Trichomonas vaginalis."
+      ],
+      "correct": 4,
+      "explanation": "The combination of symptoms including offensive discharge, high asymptomatic rate, and the classic 'strawberry cervix' (punctate hemorrhages) are all hallmarks of Trichomonas vaginalis infection."
+    },
+    {
+      "stem": "The principal sexually transmitted cause of PID:",
+      "options": [
+        "Chlamydia trachomatis.",
+        "Treponema pallidum.",
+        "HIV.",
+        "Trichomonas vaginalis.",
+        "Haemophilus Ducreyi."
+      ],
+      "correct": 0,
+      "explanation": "Chlamydia trachomatis is one of the most common sexually transmitted bacterial infections and a leading cause of PID, often presenting as a 'silent' infection."
+    },
+    {
+      "stem": "A treatment for condyloma accuminata is:",
+      "options": [
+        "Metronidazole.",
+        "Ceftriaxone.",
+        "Acyclovir.",
+        "Topical podophyllin or imiquimod cream.",
+        "Doxycycline or azithromycin."
+      ],
+      "correct": 3,
+      "explanation": "Condyloma accuminata (genital warts) are treated with patient-applied topical creams like Imiquimod or provider-applied treatments like podophyllin resin."
+    },
+    {
+      "stem": "Condyloma accuminata is caused by",
+      "options": [
+        "Neisseria gonorrhea.",
+        "Treponema pallidum.",
+        "Chlamydia trachomatis.",
+        "Herpes simplex virus.",
+        "Human papilloma virus."
+      ],
+      "correct": 4,
+      "explanation": "Condyloma accuminata, or genital warts, are caused by specific low-risk types of the Human Papilloma Virus (HPV), most commonly types 6 and 11."
+    },
+    {
+      "stem": "The virus lies dormant in the dorsal root ganglia and in about 75% of patients reactivation occurs:",
+      "options": [
+        "Genital herpes.",
+        "Condylomata accuminata.",
+        "Syphilis.",
+        "Gonorrhoea.",
+        "Chlamydia."
+      ],
+      "correct": 0,
+      "explanation": "Herpes Simplex Virus (the cause of genital herpes) is a neurotropic virus that establishes lifelong latency in the dorsal root ganglia, leading to periodic reactivations."
+    },
+    {
+      "stem": "Commonly asymptomatic in women although vaginal discharge, urethritis, bartholinitis and cervicitis can occur. Men usually develop urethritis:",
+      "options": [
+        "Syphilis.",
+        "Chlamydia.",
+        "Condylomata accuminata.",
+        "Gonorrhea.",
+        "Genital herpes."
+      ],
+      "correct": 3,
+      "explanation": "Neisseria gonorrhoeae infection is often asymptomatic in women but can cause cervicitis, urethritis, or bartholinitis. In men, it typically presents as symptomatic urethritis."
+    },
+    {
+      "stem": "Certain oncogenic types are associated with the development of CIN:",
+      "options": [
+        "Chlamydia.",
+        "Genital herpes.",
+        "Syphilis.",
+        "Human papilloma virus.",
+        "Gonorrhoea."
+      ],
+      "correct": 3,
+      "explanation": "High-risk (oncogenic) types of Human Papilloma Virus (HPV) are the primary cause of Cervical Intraepithelial Neoplasia (CIN) and cervical cancer."
+    },
+    {
+      "stem": "Which are the HPV subtypes that are responsible for most cancers:",
+      "options": [
+        "12 and 16.",
+        "14 and 15.",
+        "16 and 18.",
+        "31 and 33.",
+        "36 and 45."
+      ],
+      "correct": 2,
+      "explanation": "HPV subtypes 16 and 18 are the two primary high-risk types, collectively responsible for approximately 70% of all cervical cancers worldwide."
+    },
+    {
+      "stem": "A 19-year-old woman attends the ER with acute urinary retention. She also describes myalgia, feeling feverish and headache, as well as pain when she urinates. When the nurse catheterises, she notices widespread labial blisters. The most likely diagnosis is:",
+      "options": [
+        "Coxsackiae virus.",
+        "Herpes simplex virus.",
+        "Human papillomavirus.",
+        "Syphilis.",
+        "Varicella zoster virus."
+      ],
+      "correct": 1,
+      "explanation": "The constellation of systemic symptoms (fever, myalgia, headache) along with painful urination and widespread labial blisters is a classic presentation of a primary (first episode) infection with Herpes Simplex Virus."
+    },
+    {
+      "stem": "Chancroid is a painful ulcer, most commonly of the vaginal vestibule, that is caused by:",
+      "options": [
+        "Disseminated gonococcal infection.",
+        "Syphilis.",
+        "Haemophilus Ducreyi.",
+        "Chlamydia trachomatis.",
+        "Donovanosis."
+      ],
+      "correct": 2,
+      "explanation": "Chancroid is a sexually transmitted infection characterized by painful genital ulcers and is caused by the bacterium Haemophilus ducreyi."
+    }
+  ]
+}

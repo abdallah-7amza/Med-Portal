@@ -1,0 +1,775 @@
+{
+  "title": "KAF",
+  "questions": [
+    {
+      "stem": "A 3-week-old baby girl is brought to her pediatrician for checkup. She was born at term with a birth weight of 3400 g. The infant is exclusively breast fed, nurses every 2 to 3 hours, and has 6 to 8 wet diapers and 2 to 4 seedy stools daily. At the time of her examination, she weighs 3450 g. Results of the physical examination are normal. The most appropriate next step is:",
+      "options": [
+        "Continue breast feeding only",
+        "Continue breast feeding with supplemental cow's milk formula between feeds",
+        "Continue breast feeding with supplemental soy formula between feeds",
+        "Continue breast feeding and add rice cereal to her diet"
+      ],
+      "correct": 0,
+      "explanation": "A breastfed 3-week-old infant who has adequate wet diapers and stools and a normal physical exam, but has regained only 50 g of weight since birth, is demonstrating normal physiological weight gain for a breastfed baby, particularly after a period of initial weight loss. The most appropriate next step is to continue with exclusive breastfeeding, as the baby's feeding pattern and other indicators suggest sufficient milk intake. Supplementation is not indicated, as the infant is showing positive signs of adequate feeding and health."
+    },
+    {
+      "stem": "A family arrives to your clinic for their first newborn. You are counseling the mother on breast feeding. One of the following is a contraindication to breast feeding?",
+      "options": [
+        "A newborn screening that is positive for phenylketonuria",
+        "A newborn screening that is positive for hypothyroidism",
+        "Maternal hepatitis B infection",
+        "Maternal smoking"
+      ],
+      "correct": 0,
+      "explanation": "Maternal hepatitis B infection and maternal smoking are not contraindications to breastfeeding. However, the textbook mentions that phenylketonuria (PKU) is a condition that must be diagnosed and treated with dietary manipulation, such as a phenylalanine-free formula, to prevent intellectual disability. Therefore, a positive newborn screen for phenylketonuria is a contraindication to exclusive breastfeeding and requires a specific dietary intervention."
+    },
+    {
+      "stem": "An 8-week-old boy is brought by his mother for a routine checkup. He was delivered at 38 weeks. He is exclusively breastfed, and his mother has a balanced diet. Which one of the following nutritional supplements should you recommend for the baby at the present time?",
+      "options": [
+        "Fluoride",
+        "Iron",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correct": 3,
+      "explanation": "For breastfed babies, vitamin D is a nutritional supplement that should be supplemented early in life. Breast milk is not a reliable source of vitamin D."
+    },
+    {
+      "stem": "A 3-week-old infant is brought for checkup, he sleeps 16 hours a day, weighs 3600 gram and takes 60 ml of humanized milk four times /day, no vitamin or iron supplementations. He did not take any vaccine yet. Which of the following is the most appropriate first step in the care of this patient?",
+      "options": [
+        "Advise the mother regarding the proper amount and frequency of feeds",
+        "Advise the mother to arouse her infant frequently, as he sleeps much",
+        "Give vitamin C and iron supplementation",
+        "Start vaccination"
+      ],
+      "correct": 0,
+      "explanation": "A 3-week-old infant should be fed every 2-3 hours. The infant in the question is only being fed four times a day, which is an inappropriate frequency for this age. The first and most appropriate step is to advise the mother on the proper amount and frequency of feeding to ensure adequate nutrition and prevent potential problems associated with underfeeding."
+    },
+    {
+      "stem": "A mother arrives to your clinic for her first baby. You are counseling the mother on breast feeding. Which one of the following items is appropriate for breast milk?",
+      "options": [
+        "Better given without any additional feeds only for the 2-3 months of life",
+        "Demand feeding is preferred",
+        "Don't feed for more than 5 minutes for each breast",
+        "Should start 2 hours after birth"
+      ],
+      "correct": 1,
+      "explanation": "Demand feeding, or feeding the baby whenever they show signs of hunger, is the preferred method for breastfeeding. Exclusive breastfeeding is recommended for the first 6 months, not 2-3 months, and there is no mention of a 5-minute time limit for each breast or starting breastfeeding 2 hours after birth."
+    },
+    {
+      "stem": "A 6-day-old girl is brought for a routine follow-up visit. The mother is concerned that the baby is not eating enough. The baby drinks humanized milk 60 ml every 2-3 hours in addition to breast feeding. The mother complains that her breasts are full and tender. Which of the following is the correct advice?",
+      "options": [
+        "Reassurance",
+        "Stop formula feeding",
+        "Stop breast feeding",
+        "Stop formula feeding and frequent breast evacuation"
+      ],
+      "correct": 3,
+      "explanation": "The mother is concerned the baby isn't eating enough, but her breasts are full and tender, suggesting that milk production is likely sufficient and that supplementing with formula is contributing to her discomfort. The best advice is to stop the formula feeding, which can interfere with the breastfeeding process, and to encourage frequent breast evacuation (breastfeeding) to relieve the engorgement and regulate her milk supply."
+    },
+    {
+      "stem": "A mother brings her two weeks old son for follow up. She will be returning to work in one week. She is seeking your advice concerning her infant's nutrition. The best regimen for this mother will be?",
+      "options": [
+        "Complementary feeding",
+        "Supplementary feeding",
+        "Substitutive feeding",
+        "Start weaning with iron-fortified cereals"
+      ],
+      "correct": 1,
+      "explanation": "The mother plans to return to work in one week, and her son is two weeks old. Supplementary feeding is defined as providing breast milk and supplemental feedings when breast milk is not sufficient. This is the most appropriate regimen for a mother who will be away from her infant for periods during the day, as it allows her to continue breastfeeding while also providing additional nutrition to her baby."
+    },
+    {
+      "stem": "An 8-months old infant presenting with gastroenteritis, He is on diet with the following contents for the last 5 months: Carbohydrates 55%, fat 40% and protein 5 % with total calories $100 K calorie/kg/day$. Which one of the following manifestations would you expect to find?",
+      "options": [
+        "Broadening of the ends of long bones.",
+        "Edema of the dorsum of the feet.",
+        "Loss of fat from the abdominal wall.",
+        "Wheezy chest."
+      ],
+      "correct": 1,
+      "explanation": "The infant's diet consists of low protein (5%) and normal caloric intake (100 Kcal/kg/day). This presentation is consistent with kwashiorkor, which is a form of protein-energy malnutrition. A key clinical manifestation of kwashiorkor is pitting edema, which can be seen on the dorsum of the feet."
+    },
+    {
+      "stem": "A 6-month-old infant presenting with 1 day history of diarrhea 5 motions/day. He is on diet with the following contents for the last 4 months: Carbohydrates 50%, fat 35% and protein 15% with total calories $70 K calorie/kg/day$. Which one of the following findings would you expect to find?",
+      "options": [
+        "Edema of the dorsum of the feet",
+        "Hypovolemic shock because of diarrhea.",
+        "Increased muscle fat ratio.",
+        "Loss of fat from the abdominal wall and buttock"
+      ],
+      "correct": 3,
+      "explanation": "The infant's diet is low in calories (70 Kcal/kg/day) but has a normal protein content (15%). This is consistent with marasmus, a condition of protein-energy malnutrition characterized by a deficiency of both protein and energy. A key finding in marasmus is the loss of fat from the body, including the abdominal wall and buttocks."
+    },
+    {
+      "stem": "You are counseling a mother about the value of breast milk in preventing enteric infections. Which one of the following statements is correct?",
+      "options": [
+        "More alkaline stool pH in breastfed infants",
+        "More acidic pH of the GIT in breast fed infant.",
+        "Predominance of Clostridium in the gut of breast fed infants",
+        "The presence of IgE in breast milk"
+      ],
+      "correct": 1,
+      "explanation": "The presence of intestinal lactobacilli in breastfed infants leads to a more acidic pH in the gut, which inhibits the growth of pathogenic bacteria. This acidic environment is a protective factor against enteric infections."
+    },
+    {
+      "stem": "A mother brings her 1-year-old boy for follow up. He is pale, on the 75th percentile for weight; otherwise he is completely normal. Which item in the history may explain the condition?",
+      "options": [
+        "Family history of chronic anemia.",
+        "Family history bleeding disorders.",
+        "Nutritional history with stress on the type of weaning food.",
+        "Neonatal history"
+      ],
+      "correct": 2,
+      "explanation": "A 1-year-old boy presenting as pale suggests anemia. Iron deficiency is the most common mineral deficiency, and cow's milk is a poor source of bioavailable iron. The type of weaning food can significantly impact iron intake and lead to iron deficiency anemia, which would explain the child's pallor."
+    },
+    {
+      "stem": "You are examining a preterm newborn in the nursery. You recommend the use of preterm infant formula because?",
+      "options": [
+        "Preterm formulas have lower protein and calories than humanized formula.",
+        "Preterm formulas have higher protein and calories than humanized formula.",
+        "Preterm formulas have higher lactose and calories than other formulas",
+        "Preterm formulas have lower lactose and calories than other formulas"
+      ],
+      "correct": 1,
+      "explanation": "Preterm infant formula has higher protein and caloric content compared to humanized formula. This is to meet the increased nutritional demands of preterm infants for catch-up growth and development."
+    },
+    {
+      "stem": "A mother arrives to your clinic with her 5 months old baby who is exclusively breast fed. She wants to learn more about weaning practice, she is asthmatic and her young brother has type 1 diabetes. Which instruction is the most important to tell her about?",
+      "options": [
+        "Avoid excessive breast milk after 6 months",
+        "Avoid introduction of cow milk except after the first year.",
+        "Avoid the use of spoon in feeding the baby till after the first year",
+        "Introducing any new food item should be after breast milk feed."
+      ],
+      "correct": 1,
+      "explanation": "Cow's milk is a poor source of bioavailable iron and should not be introduced in the first year of life. The instruction to avoid cow's milk until after the first year is the most important advice for a 5-month-old who is about to be weaned."
+    },
+    {
+      "stem": "A 14 months old boy presenting with recurrent chest infections, he is exclusively breast fed with no history of intake of any vitamins or minerals. Examination revealed a large head, distended abdomen. Which of the following investigation is recommended?",
+      "options": [
+        "Bronchoscopy.",
+        "Calcium, phosphorus and alkaline phosphatase.",
+        "Thyroid profile",
+        "Serum albumin, creatinine and CBC."
+      ],
+      "correct": 1,
+      "explanation": "The 14-month-old boy is exclusively breastfed with no vitamin or mineral supplementation, and presents with a large head, distended abdomen, and recurrent chest infections. These are classical signs of rickets due to vitamin D deficiency. The recommended investigation to diagnose rickets is to measure serum calcium, phosphorus, and alkaline phosphatase levels, as their balance is crucial for bone mineralization."
+    },
+    {
+      "stem": "An 18 months old boy presenting with delayed walking, he is exclusively breast fed with no history of intake of any vitamins or minerals. Examination revealed, distended abdomen and wrist thickening. Which of the following investigations would be correct in this case?",
+      "options": [
+        "Low serum calcium, phosphorus and alkaline phosphatase.",
+        "Normal serum calcium, phosphorus and alkaline phosphatase.",
+        "Normal phosphorus, low serum calcium and high alkaline phosphatase",
+        "Normal calcium, low serum phosphorus and high alkaline phosphatase."
+      ],
+      "correct": 3,
+      "explanation": "The case describes an 18-month-old exclusively breastfed boy with delayed walking, a distended abdomen, and wrist thickening, all classic signs of rickets from vitamin D deficiency. In typical rickets caused by vitamin D deficiency, a common biochemical finding is a low serum phosphorus level and a high alkaline phosphatase level. Serum calcium is usually maintained within the normal range due to compensatory mechanisms involving parathyroid hormone."
+    },
+    {
+      "stem": "A 16 months old boy presenting with delayed walking, delayed dentition and recurrent chest infections, he is exclusively breast fed. He received several medications and injections but mother cannot remember them. Recently he developed constipation, vomiting and polyuria. What is the most probable diagnosis?",
+      "options": [
+        "Diabetic ketosis",
+        "Hepatic rickets",
+        "Renal rickets",
+        "Rickets with Hypervitaminosis D"
+      ],
+      "correct": 3,
+      "explanation": "The child's clinical picture of delayed walking, delayed dentition, recurrent chest infections, and a history of receiving 'several medications and injections' strongly suggests rickets. The new symptoms of constipation, vomiting, and polyuria are indicative of hypercalcemia, which can be caused by an overdose of vitamin D in an attempt to treat rickets. Therefore, the most probable diagnosis is rickets complicated by hypervitaminosis D."
+    },
+    {
+      "stem": "An 18 months old boy who is exclusively breast fed presenting with convulsions. He has rectal temperature: 37.7 $C^{\\circ}$, B.P 100/ 70, anterior fontanelle width: 1 finger not bulging. Which one of the following investigations might explain the cause of convulsions?",
+      "options": [
+        "CBC",
+        "CSF examination.",
+        "CT brain.",
+        "Serum calcium."
+      ],
+      "correct": 3,
+      "explanation": "An 18-month-old exclusively breastfed boy presenting with convulsions, without fever, suggests hypocalcemic tetany as a complication of vitamin D deficiency rickets. This is because vitamin D deficiency can lead to low serum calcium levels, which can manifest as convulsions. Therefore, the most relevant investigation to explain the convulsions is a serum calcium level."
+    },
+    {
+      "stem": "A 9-months old infant presenting with lower limb edema, He is on diet with following contents for the last 5 months: Carbohydrates 55%, fat 40% and protein 5 % with total calories 100 K calorie/kg/day. Which one of the following investigations is correct?",
+      "options": [
+        "Low serum protein, high serum sodium.",
+        "Low serum protein high serum potassium.",
+        "High gamma globulins, low serum sodium.",
+        "Low alpha and beta globulins, with high serum sodium."
+      ],
+      "correct": 0,
+      "explanation": "An infant with a diet of 5% protein and 40% fat presents with lower limb edema. This is a classic presentation of kwashiorkor, which is caused by protein deficiency. A hallmark of this condition is hypoalbuminemia (low serum protein) leading to edema. Hypernatremia can also be a metabolic complication in cases of protein-energy malnutrition."
+    },
+    {
+      "stem": "This is a 7 month old boy who is not growing well. His birth weight was 3.5 kg and his current weight is 4.5 kg (less than the 5th percentile). Mother states that he drinks 60 ml of humanized of infant formula every 4 hours, she also feeds him a small amount of rice cereal since he was 5 months old. Which sign of the following you are expecting to find in examination?",
+      "options": [
+        "Ascites.",
+        "Hepatomegaly",
+        "Loss of fat from the abdomen.",
+        "Microcephaly"
+      ],
+      "correct": 2,
+      "explanation": "The infant's low birth weight and current weight being less than the 5th percentile, along with an inadequate feeding regimen of 60 ml of formula every 4 hours, point to severe malnutrition. The clinical picture of poor growth and insufficient caloric intake is characteristic of marasmus, which is defined by a severe loss of subcutaneous fat, particularly from the abdomen and buttocks."
+    },
+    {
+      "stem": "A 14 months old boy who is exclusively breast fed, brought by his mother because of delayed walking, he received multiple injections for treatment of this condition. History revealed recent development of vomiting, constipation, and polyuria. One of following investigations might be positive in this case.",
+      "options": [
+        "Plain X ray abdomen showing multiple radio-opaque lesions.",
+        "Serum calcium $10 mg^{\\%}$.",
+        "Serum calcium 8 mg%.",
+        "Serum phosphorus $5 mg\\%$"
+      ],
+      "correct": 0,
+      "explanation": "The patient presents with delayed walking, which is a sign of rickets, and a history of multiple injections. The new onset of vomiting, constipation, and polyuria suggests hypercalcemia, a side effect of aggressive treatment for rickets, likely with high-dose vitamin D and/or calcium. Hypercalcemia can lead to nephrocalcinosis, which would appear as multiple radio-opaque lesions on an abdominal X-ray."
+    },
+    {
+      "stem": "A 9 months old infant presenting with edema on the dorsum of the feet. He is on diet mainly carbohydrates. Examination reveals an enlarged liver 6 cm below the costal margin. Investigations to reveal the cause of hepatomegaly is",
+      "options": [
+        "Doppler to visualize the portal area.",
+        "Liver enzymes: ALT and AST.",
+        "Serum protein and lipids.",
+        "Upper GIT endoscopy."
+      ],
+      "correct": 2,
+      "explanation": "The patient's symptoms of edema and an enlarged liver are classic signs of kwashiorkor, a form of protein-energy malnutrition. Kwashiorkor is characterized by severe protein deficiency, which leads to hypoalbuminemia and edema, while the enlarged liver is often due to fatty infiltration. Therefore, assessing serum protein and lipids is the most direct way to investigate the underlying nutritional deficiency and liver pathology in this case."
+    },
+    {
+      "stem": "A 3 year old boy presenting with chronic diarrhea and recurrent chest infections since birth. On examination he has a large head, broad wrist, deformed thoracic cage and distended abdomen. The most likely diagnosis is",
+      "options": [
+        "Cystic fibrosis",
+        "Chronic hemolytic anemia",
+        "Cow milk allergy.",
+        "Vitamin D deficiency rickets"
+      ],
+      "correct": 0,
+      "explanation": "The constellation of symptoms in the 3-year-old boy, including chronic diarrhea, recurrent chest infections, a large head, broad wrists, deformed thoracic cage, and a distended abdomen, points to a multi-system disease affecting the respiratory and gastrointestinal tracts as well as the skeletal system. Cystic fibrosis is a genetic disease that can lead to chronic respiratory infections, malabsorption causing diarrhea, and failure to thrive. It is characterized by thick, viscous secretions that obstruct airways and exocrine ducts, leading to these chronic issues."
+    },
+    {
+      "stem": "An 18 months old boy who is exclusively breast fed presenting with convulsions and contraction of his finger and toes. He is not feverish. The best action to control convulsions in this patient is",
+      "options": [
+        "IV diazepam.",
+        "IV phenobarbitone.",
+        "IM calcium gluconate.",
+        "IV calcium gluconate."
+      ],
+      "correct": 3,
+      "explanation": "The 18-month-old boy, who is exclusively breastfed, presents with convulsions and carpopedal spasms (contraction of fingers and toes), but no fever. This clinical picture is a classic presentation of hypocalcemic tetany, a severe complication of vitamin D deficiency rickets. The most effective and immediate action to control these convulsions is the administration of intravenous calcium gluconate."
+    },
+    {
+      "stem": "A 7 month old boy presenting with gastroenteritis. He is on diet with total calories 75 kcal $cal/kg/day$. Examination reveals weight less than the 5th percentile and a temperature $35.9^{\\circ}C$. He has generalized fat loss and muscle wasting. The first step in the management of this patient is:",
+      "options": [
+        "Adequate clothing and external heating.",
+        "IV fluids to correct dehydration.",
+        "IV albumin.",
+        "Nasogastric tube placement and start feeding."
+      ],
+      "correct": 0,
+      "explanation": "The patient is a 7-month-old boy with signs of severe malnutrition (weight <5th percentile, generalized fat loss and muscle wasting) and hypothermia (temperature 35.9°C). Hypothermia is a cause of death in protein-energy malnutrition, and the first step in management is to address this life-threatening issue. Therefore, the first step is to provide adequate clothing and external heating to correct the hypothermia."
+    },
+    {
+      "stem": "A 6 months old boy presenting with generalized loss of fat and muscle wasting. His birth weight was 3 kg and his current weight is 4 kg. Your target caloric intake to correct this case is",
+      "options": [
+        "600 k calories/day.",
+        "400 K calories/day.",
+        "150 K calories/kg/day.",
+        "400 K calories/Kg/day."
+      ],
+      "correct": 2,
+      "explanation": "The infant presents with signs of severe malnutrition (marasmus), including generalized loss of fat and muscle wasting. The target caloric intake to correct severe malnutrition is 150 Kcal/kg/day in the rehabilitation phase."
+    },
+    {
+      "stem": "A 17 months old baby has been irritable over the past month. She now refuses to walk and seems to have tenderness in both of her legs. She has a low grade fever and petechiae on her skin and mucous membranes. Manifestations are due to deficiency of vitamin?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin E"
+      ],
+      "correct": 1,
+      "explanation": "The 17-month-old child presents with irritability, refusal to walk, leg tenderness, low-grade fever, and petechiae on the skin and mucous membranes. These are classic manifestations of scurvy, which is caused by a deficiency of vitamin C. Vitamin C deficiency affects collagen synthesis, leading to fragile blood vessels and subperiosteal hemorrhages that cause bone tenderness, petechiae, and irritability."
+    },
+    {
+      "stem": "A 3 years old baby whose diet consists mostly of cheese and cola begins to have a problem on walking at night, complaining that he cannot see well. In addition, his skin has become dry and scaly. Manifestations are due to deficiency of:",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin E"
+      ],
+      "correct": 0,
+      "explanation": "The child's diet consists mainly of cheese and cola, and he presents with night blindness (difficulty walking at night) and dry, scaly skin. Night blindness is a classic early sign of vitamin A deficiency, as vitamin A is essential for the formation of rhodopsin in the retina. Dry skin is also a manifestation of this deficiency."
+    },
+    {
+      "stem": "A 14-month-old baby has had diarrhea with vomiting for 3 wks. She also had measles a month back. On examination she is wasted, irritable, skin can be pinched up and tongue is moist, systemic examination revealed a slightly enlarged Liver. Her weight is 6 kg. She also has pedal edema. Her grandmother who lives in same house has history of chronic cough. The most likely diagnosis:",
+      "options": [
+        "Gastroenteritis with 50% dehydration",
+        "Hepatitis",
+        "Marasmic kwashiorkor",
+        "TB meningitis"
+      ],
+      "correct": 2,
+      "explanation": "The patient is a 14-month-old baby with a history of diarrhea, vomiting, and measles, who is now wasted and irritable with a slightly enlarged liver. The presence of pedal edema in a wasted child suggests a mixed picture of both marasmus (wasting, irritability, loss of fat) and kwashiorkor (edema, enlarged liver). This mixed form of severe protein-energy malnutrition is known as marasmic kwashiorkor."
+    },
+    {
+      "stem": "A 7-week old baby is referred with a 2-week H/O of vomiting. He is being formula fed (160 ml) every 2-3 hrs. On examination he is well thriving, on the 95th percentile and has a normal examination. What is the most likely diagnosis?",
+      "options": [
+        "Gastroenteritis",
+        "Gastro-esophageal reflex",
+        "Over-feeding",
+        "Pyloric stenosis"
+      ],
+      "correct": 2,
+      "explanation": "A 7-week-old baby is vomiting but is well-thriving and on the 95th percentile. The fact that he is thriving and has a normal examination, despite the vomiting, suggests that the vomiting is not due to a serious pathological condition like pyloric stenosis, but rather from overfeeding. The amount of formula (160 ml) every 2-3 hours is excessive for a 7-week-old, leading to gastric distension and vomiting."
+    },
+    {
+      "stem": "A male child 1.5 years old presented with delayed walking. He is breast fed. Mum started weaning at the age of 1 year and she mentioned that he has cough for the last 2 days. Examination showed broad ends of bones at wrists and ankles. Chest examination revealed respiratory rate 30 per min without specific findings over the chest Liver and spleen are palpable. To treat this case you will give:",
+      "options": [
+        "Oral calcium",
+        "Oral vitamin D3",
+        "Orthopedic surgery consultation",
+        "Physiotherapy"
+      ],
+      "correct": 1,
+      "explanation": "The 1.5-year-old child presents with delayed walking and broad ends of bones at the wrists and ankles, which are classic signs of rickets. The history of being breastfed and weaning starting late at 1 year of age, combined with no mention of supplementation, suggests vitamin D deficiency. The appropriate treatment is to provide oral vitamin D3 to correct the deficiency and promote bone mineralization."
+    },
+    {
+      "stem": "Male infant 6 months was breast fed till the age of 4 months, then weaned gradually, the mother is complaining of failure to thrive of her child. Examination revealed marked wasting of his muscles and loss of subcutaneous fat with senile facies and continuous crying. Which of these data is correct?",
+      "options": [
+        "Chronic diarrhea is uncommon",
+        "Iron deficiency anemia is uncommon",
+        "The patient has 3rd degree marasmus",
+        "The patient has KWO"
+      ],
+      "correct": 2,
+      "explanation": "The 6-month-old infant presents with marked wasting of muscles, loss of subcutaneous fat, and 'senile facies'. The infant's growth has failed since weaning began at 4 months, which points to a severe nutritional deficiency. The described clinical picture is characteristic of marasmus, a form of protein-energy malnutrition. The severity of the wasting suggests a diagnosis of 3rd-degree marasmus."
+    },
+    {
+      "stem": "Female child aged 1 year is referred to the ER due to delayed motor milestones. Examination reveals macrocephaly, broad lower ends of radius and ulna, bow legs and pigeon chest, Which of the flowing is false?",
+      "options": [
+        "Pathologic fracture may occur",
+        "The child has cerebral palsy",
+        "Tetany may occur",
+        "X-ray of wrists or ankle is diagnostic"
+      ],
+      "correct": 1,
+      "explanation": "The 1-year-old child presents with macrocephaly, broad lower ends of the radius and ulna, bow legs, and a pigeon chest. These are all classic skeletal deformities of rickets. While complications like tetany (due to hypocalcemia) and pathological fractures can occur in rickets, and X-rays are diagnostic, there is no information in the clinical presentation that suggests the child has cerebral palsy."
+    },
+    {
+      "stem": "A male infant aged 8 months old presents with failure to thrive associated with excessive vomiting and recurrent cough and wheezing. One of the following statements is incorrect:",
+      "options": [
+        "Pneumonia is a complication",
+        "24 hours esophageal PH monitoring is diagnostic",
+        "The patient has GERD",
+        "The patient has esophageal atresia"
+      ],
+      "correct": 3,
+      "explanation": "The 8-month-old infant presents with failure to thrive, excessive vomiting, and recurrent cough and wheezing. These symptoms are highly suggestive of gastroesophageal reflux disease (GERD). Complications include pneumonia and 24-hour esophageal pH monitoring is a diagnostic tool for GERD. The patient's age and clinical picture are not consistent with esophageal atresia, which is a congenital condition typically diagnosed and treated in the neonatal period."
+    },
+    {
+      "stem": "An 18-month-old boy is brought to the clinic for evaluation. The mother complains that he is always sick with cough and diarrhea. On examination, the toddler is anxious, and appears thin. Vital signs are appropriate for age. Weight is 9 kg (<3rd percentile); height is 72 cm (<3rd percentile); head circumference is 47 cm (10th percentile). Examination is significant for subcutaneous wasting, sparse hair, dry skin, and a red oozy rash in the diaper area. What is the initial management step of such a child?",
+      "options": [
+        "Correct dehydration and manage infection",
+        "Give proper supplements",
+        "Nutritional management",
+        "Topical cream for napkin dermatitis"
+      ],
+      "correct": 0,
+      "explanation": "The 18-month-old boy presents with classic signs of severe protein-energy malnutrition and a history of chronic illness. The initial management of severe malnutrition focuses on addressing life-threatening issues first. The most important cause of mortality in such infants is infection. Therefore, the first step in management is to correct dehydration and manage any existing infection."
+    },
+    {
+      "stem": "The most important cause of mortality in such infants is:",
+      "options": [
+        "Anemia",
+        "Infection",
+        "Mineral deficiency",
+        "Vitamin deficiency"
+      ],
+      "correct": 1,
+      "explanation": "Infection is a major cause of mortality in infants with malnutrition. Children with malnutrition often have compromised immune systems, making them highly susceptible to severe and life-threatening infections."
+    },
+    {
+      "stem": "An 18 months old infant presents to the ER with generalized edema affecting the dorsum of the hands and feet, yet no puffiness of the eyelids. He has been breast fed till the age of 1 year then weaned on starchy food. The possible diagnosis is:",
+      "options": [
+        "Heart failure.",
+        "Kwashiorkor.",
+        "Marasmus",
+        "Nephrotic syndrome."
+      ],
+      "correct": 1,
+      "explanation": "The 18-month-old infant presents with generalized edema affecting the hands and feet, but without puffiness of the eyelids. He was breastfed until 1 year and then weaned onto starchy food. This dietary history (low protein, high carbohydrate) and the presence of pitting edema are classic features of kwashiorkor, a form of protein-energy malnutrition characterized by protein deficiency and fluid retention."
+    },
+    {
+      "stem": "A mother brought her infant aged 8 months to the ER due to delayed milestones in the form of inability to grasp objects (pincer grasp). Examination revealed body weight 8 kg, height 70 cm, good head support, social smile present, good rolling over and crawling. What is your instruction:",
+      "options": [
+        "The infant has rickets.",
+        "The infant must be hospital admitted.",
+        "The infant should receive IV calcium.",
+        "The mother should be reassured."
+      ],
+      "correct": 3,
+      "explanation": "The 8-month-old infant is brought to the ER for an inability to perform a pincer grasp, a milestone typically achieved between 9 and 12 months. The examination reveals that he has achieved all the appropriate motor and social milestones for an 8-month-old. The inability to perform a pincer grasp at this age is a normal variation of development and does not indicate a pathology. Therefore, the mother should be reassured that her infant's development is on track."
+    },
+    {
+      "stem": "A 20 month-old child is seen in clinic because of an acute respiratory infection. General examination reveals prominent forehead, distended abdomen, and thickening at the wrists and ankles. Plain X-ray film reveals widened epiphyseal plate. The most likely biochemical finding is:",
+      "options": [
+        "Hypercalcemia",
+        "Hypophosphatemia",
+        "Hypophosphatasia",
+        "Hyponatremia"
+      ],
+      "correct": 1,
+      "explanation": "The child's clinical presentation of a prominent forehead, distended abdomen, and thickening at the wrists and ankles, along with an X-ray showing a widened epiphyseal plate, are all characteristic signs of rickets due to vitamin D deficiency. The most likely biochemical finding in typical vitamin D deficiency rickets is a low serum phosphorus level (hypophosphatemia), while serum calcium is often maintained in the normal range."
+    },
+    {
+      "stem": "When examining an infant, you note bilateral genu varum, widening of her wrists, and frontal bossing. The mother states she noticed her child bow legs when the child started walking and it has been getting worse with time. What additional possible clinical features would you expect in this patient?",
+      "options": [
+        "Clinodactyly",
+        "Delayed posterior fontanelle closure",
+        "Harrison sulcus",
+        "Microcephaly"
+      ],
+      "correct": 2,
+      "explanation": "The patient presents with bilateral genu varum (bow legs), widening of the wrists, and frontal bossing, which are all skeletal deformities associated with rickets. Harrison's sulcus is a horizontal groove along the lower border of the chest, which is another classic sign of rickets resulting from the pull of the diaphragm on softened ribs."
+    },
+    {
+      "stem": "A one month old full term female baby presented to the routine check-up. Her birth weight was 3 kg. The mother is worried about her breast milk is it enough for her baby or not. What is the single most important indicator of adequate breast milk feeding?",
+      "options": [
+        "Adequate sleep after feeding",
+        "Appropriate weight gain",
+        "Defecation 3 times or more with semisolid stools",
+        "Urination 6 times or more per day"
+      ],
+      "correct": 1,
+      "explanation": "The single most important indicator of adequate breast milk feeding is appropriate weight gain. While other factors like adequate sleep, urination, and defecation are important, a healthy weight trajectory is the primary measure of a baby's overall nutritional status and whether they are receiving enough milk."
+    },
+    {
+      "stem": "Concerning iron requirement in children, which statement is false?",
+      "options": [
+        "Cow's milk is a poor source of bioavailable iron",
+        "Iron present in animal protein is more bioavailable than that found in plants",
+        "Iron deficiency is the most common mineral deficiency",
+        "Iron should be given since birth in all infants"
+      ],
+      "correct": 3,
+      "explanation": "Iron deficiency is the most common mineral deficiency and iron from animal protein is more bioavailable than from plants. Cow's milk is also noted as a poor source of bioavailable iron. However, the statement that iron should be given since birth in all infants is false, as iron stores from the mother typically last until around 6 months of age, and supplementation is not universally recommended from birth unless the infant is premature or has specific risk factors."
+    },
+    {
+      "stem": "The recommended daily requirement of vitamin D in the first year of life is:",
+      "options": [
+        "100 IU/day",
+        "200 IU/day",
+        "400 IU/day",
+        "800 IU/day"
+      ],
+      "correct": 2,
+      "explanation": "The recommended daily requirement of vitamin D in the first year of life is 400 IU/day."
+    },
+    {
+      "stem": "An absolute contraindication to breastfeeding is",
+      "options": [
+        "Alcohol intake",
+        "Active pulmonary tuberculosis",
+        "Hepatitis C infection of the mother",
+        "Herpes simplex lesion of the lips"
+      ],
+      "correct": 1,
+      "explanation": "Active pulmonary tuberculosis is cited as an absolute contraindication to breastfeeding. Conditions like maternal hepatitis C or herpes simplex lesions on the lips are not absolute contraindications. Alcohol intake is also not an absolute contraindication but is generally discouraged."
+    },
+    {
+      "stem": "Regarding breast engorgement; Which of the following is correct?",
+      "options": [
+        "Is a relative contraindication to breastfeeding",
+        "Usually associated with breast milk jaundice",
+        "Usually happens after the first week of life",
+        "Usually happens in the first stage of lactogenesis"
+      ],
+      "correct": 3,
+      "explanation": "Breast engorgement is a condition that occurs in the first stage of lactogenesis when a mother's milk 'comes in'. It is not a contraindication to breastfeeding but can be managed with frequent breast evacuation."
+    },
+    {
+      "stem": "During treatment of malnutrition, the signal of entry to the rehabilitation phase is",
+      "options": [
+        "Constant blood sugar level",
+        "Disappearance of signs of micronutrient deficiency",
+        "Reduced edema",
+        "Resolution of infection"
+      ],
+      "correct": 2,
+      "explanation": "The management of malnutrition is done in phases. In cases of edematous malnutrition (kwashiorkor), the disappearance of edema is a key sign of clinical improvement and signals the start of the rehabilitation phase where nutritional catch-up is the focus."
+    },
+    {
+      "stem": "Colostrum is Breast milk secreted in the first post-natal:",
+      "options": [
+        "One week.",
+        "One month",
+        "2-3 days",
+        "3-5 days"
+      ],
+      "correct": 2,
+      "explanation": "Colostrum is the breast milk secreted in the first 2-3 days postpartum."
+    },
+    {
+      "stem": "Which of the following is correct about breast milk:",
+      "options": [
+        "Iron is low in breast milk.",
+        "It is poor in vitamin A",
+        "It should be stopped during diarrhea",
+        "Its caloric content is much higher than cow milk"
+      ],
+      "correct": 0,
+      "explanation": "Breast milk has low iron content, but the iron present is highly bioavailable. It is not poor in vitamin A, its caloric content is not much higher than cow's milk, and it should not be stopped during diarrhea."
+    },
+    {
+      "stem": "The fat which disappears last in marasmus is:",
+      "options": [
+        "Abdominal fat",
+        "Buccal pads of fat",
+        "Buttocks fat",
+        "Subscapular fat"
+      ],
+      "correct": 1,
+      "explanation": "In cases of marasmus, the loss of subcutaneous fat is a classic sign. However, the buccal pads of fat, located in the cheeks, are the last to disappear, giving the child a 'senile' or aged appearance despite severe overall wasting."
+    },
+    {
+      "stem": "The active form of vitamin D is:",
+      "options": [
+        "1-24 dihydroxycholecalciferol (DHCC)",
+        "1-22 DHCC",
+        "1-23 DHCC",
+        "1-25 DHCC"
+      ],
+      "correct": 3,
+      "explanation": "The active form of vitamin D is 1,25-dihydroxycholecalciferol (1,25 DHCC)."
+    },
+    {
+      "stem": "Kwashiorkor is due to",
+      "options": [
+        "Energy deficiency.",
+        "Malabsorption of vitamin",
+        "Protein and energy deficiency",
+        "Protein deficiency"
+      ],
+      "correct": 3,
+      "explanation": "Kwashiorkor is a condition caused by a deficiency in protein, leading to symptoms such as edema. This is distinct from Marasmus, which is due to a deficiency of both protein and energy."
+    },
+    {
+      "stem": "When weaning an infant one of the following is true:",
+      "options": [
+        "Cows' milk can be introduced before the age of one year",
+        "Excess sugar intake is advisable",
+        "Solids shouldn't be introduced before 4 months of age",
+        "The weaning diet will fully replace the milk by 10 months of age"
+      ],
+      "correct": 2,
+      "explanation": "Solids should be introduced between 4 and 6 months of age and should not be introduced before 4 months. Cow's milk should be avoided before the age of one year."
+    },
+    {
+      "stem": "For breastfed babies which vitamin should be supplemented early in life?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin E"
+      ],
+      "correct": 2,
+      "explanation": "Vitamin D should be supplemented early in life for breastfed babies, as breast milk is not a reliable source of this vitamin."
+    },
+    {
+      "stem": "Which of the following may be a predisposing factor for Vitamin D deficiency rickets?",
+      "options": [
+        "Excessive wrapping of the infants",
+        "Ingestion of row milk",
+        "Lack of fog",
+        "White colored infants"
+      ],
+      "correct": 0,
+      "explanation": "Vitamin D deficiency rickets is caused by insufficient exposure to sunlight, which is necessary for the skin's synthesis of vitamin D. Excessive wrapping of infants can reduce sun exposure and is a predisposing factor for this condition."
+    },
+    {
+      "stem": "Inorganic phosphorus in rickets is raised in",
+      "options": [
+        "Chronic renal failure",
+        "Dietary calcium deficiency",
+        "Fanconi syndrome",
+        "Vitamin D deficiency"
+      ],
+      "correct": 0,
+      "explanation": "In rickets, inorganic phosphorus levels are typically low. However, in chronic renal failure, the kidneys cannot excrete phosphorus properly, leading to hyperphosphatemia (raised inorganic phosphorus)."
+    },
+    {
+      "stem": "25-hydroxy vitamin D level is reduced in",
+      "options": [
+        "Autosomal recessive hypophosphatemic rickets",
+        "Autosomal dominant hypophosphatemic rickets",
+        "Fanconi syndrome",
+        "Vitamin D deficiency"
+      ],
+      "correct": 3,
+      "explanation": "A reduced level of 25-hydroxy vitamin D is the standard method for determining a patient's vitamin D status. Therefore, a low level of 25-hydroxy vitamin D is a direct indication of vitamin D deficiency."
+    },
+    {
+      "stem": "Urinary phosphorus is reduced in",
+      "options": [
+        "Autosomal dominant hypophosphatemic rickets",
+        "Autosomal recessive hypophosphatemic rickets",
+        "Chronic renal failure",
+        "Fanconi syndrome"
+      ],
+      "correct": 2,
+      "explanation": "Chronic renal failure leads to a decrease in the glomerular filtration rate, resulting in the retention of substances that would normally be excreted, such as phosphorus. This causes serum phosphorus levels to rise, while urinary phosphorus excretion is reduced. The other conditions listed are associated with renal phosphate wasting and increased urinary excretion."
+    },
+    {
+      "stem": "Causes of delayed closure of anterior fontanel don't include",
+      "options": [
+        "Craniostenosis.",
+        "Cretinism.",
+        "Hydrocephalus.",
+        "Rickets"
+      ],
+      "correct": 0,
+      "explanation": "Craniostenosis, or premature fusion of the cranial sutures, is a condition that leads to an abnormally shaped head and a small anterior fontanelle, as opposed to a delayed or open one. Conditions like rickets, cretinism, and hydrocephalus are all associated with a delayed closure or widely opened anterior fontanelle."
+    },
+    {
+      "stem": "The standard method for determining a patient's vitamin D status is",
+      "options": [
+        "25-hydroxylase level",
+        "25-hydroxy vitamin D level",
+        "1,25-dihydroxy vitamin D level",
+        "Parathyroid hormone level"
+      ],
+      "correct": 1,
+      "explanation": "The standard method for determining a patient's vitamin D status is by measuring the 25-hydroxy vitamin D level. This is because it is the major circulating form of vitamin D and reflects the body's stores."
+    },
+    {
+      "stem": "The baby that is least vulnerable to develop vitamin K bleeding tendency is",
+      "options": [
+        "A three-day old neonate of a healthy mother that started immediate breastfeeding after birth",
+        "A three-year old child who spent 21 days in intensive care unit receiving total parenteral nutrition",
+        "A nine-month old infant with prolonged history of diarrhea and multiple antibiotics therapy",
+        "A six-month old infant with cystic fibrosis missed to be diagnosed during early neonatal period"
+      ],
+      "correct": 0,
+      "explanation": "A neonate of a healthy mother who starts immediate breastfeeding after birth is at the least risk of developing vitamin K bleeding tendency. The other options describe conditions that severely impair vitamin K absorption or production, such as prolonged total parenteral nutrition, chronic diarrhea, and cystic fibrosis."
+    },
+    {
+      "stem": "Factors that increase breast milk production include:",
+      "options": [
+        "Demand feeding.",
+        "Feeding babies in the nursery at night",
+        "Mother baby separation",
+        "Use of supplemental milk formula"
+      ],
+      "correct": 0,
+      "explanation": "'Demand feeding' is a factor that increases breast milk production. This is because the more the baby nurses, the more milk the mother's body produces, aligning supply with demand. The other options are known to decrease milk production."
+    },
+    {
+      "stem": "Respiratory infection in rickets can be caused by:",
+      "options": [
+        "Aspiration",
+        "Chest deformity",
+        "Immunodeficiency",
+        "Lung anomaly"
+      ],
+      "correct": 1,
+      "explanation": "One of the complications of rickets is chest deformity. This deformity can impair normal respiratory mechanics, leading to recurrent respiratory infections like pneumonia."
+    },
+    {
+      "stem": "Advantages of breast feeding include:",
+      "options": [
+        "Decreases colonic lactobacilli",
+        "Decrease IQ level",
+        "Decreases the risk of type 1 diabetes",
+        "Decrease the risk of vitamin D deficiency."
+      ],
+      "correct": 2,
+      "explanation": "Early exposure to cow's milk can be a predisposing factor for type 1 diabetes. Therefore, breastfeeding, which delays the introduction of cow's milk, is associated with a decreased risk of developing type 1 diabetes."
+    },
+    {
+      "stem": "Bottle feeding may be associated with:",
+      "options": [
+        "Less risk of gastroenteritis",
+        "Less risk of necrotizing enterocolitis (NEC)",
+        "More prolactin production.",
+        "Nipple confusion"
+      ],
+      "correct": 3,
+      "explanation": "Bottle feeding may be associated with nipple confusion because the sucking mechanism required for a bottle is different from that required for breastfeeding. This can make it difficult for the infant to breastfeed effectively."
+    },
+    {
+      "stem": "The causes of death in protein energy malnutrition don't include",
+      "options": [
+        "Anemic heart failure",
+        "Electrolyte disturbances",
+        "Hypothermia",
+        "Parasitic infestation"
+      ],
+      "correct": 3,
+      "explanation": "Anemic heart failure, electrolyte disturbances, and hypothermia are listed as causes of death in protein-energy malnutrition. While parasitic infestations can contribute to malnutrition, they are not listed as a direct cause of death from its complications."
+    },
+    {
+      "stem": "Constant features of Kwashiorkor don't include",
+      "options": [
+        "Growth failure",
+        "Hepatomegaly",
+        "Mental changes",
+        "Pitting edema"
+      ],
+      "correct": 1,
+      "explanation": "Kwashiorkor is characterized by pitting edema, growth failure, and mental changes. While hepatomegaly is a common finding, it is not considered a 'constant' or essential feature for diagnosis like the others."
+    },
+    {
+      "stem": "Which of the following drugs is contraindicated in breastfeeding:",
+      "options": [
+        "Acetaminophen",
+        "Cephalosporins",
+        "Ergot preparations",
+        "Insulin"
+      ],
+      "correct": 2,
+      "explanation": "Ergot preparations are listed as a drug that is contraindicated in breastfeeding. Acetaminophen, cephalosporins, and insulin are not."
+    },
+    {
+      "stem": "As regard the mature breast milk, which is the correct statement:",
+      "options": [
+        "Caloric content is 57 Kcal/100 ml",
+        "Fat content is $2.5 g/100$ ml",
+        "Protein content is less than $1.5 g/100$ ml",
+        "Water constitutes 80%"
+      ],
+      "correct": 2,
+      "explanation": "The protein content of mature breast milk is less than 1.5 g/100 ml."
+    },
+    {
+      "stem": "Which of the following is not a manifestation of vitamin A deficiency:",
+      "options": [
+        "Bleeding gums",
+        "Bitot spots",
+        "Keratomalacia",
+        "Xerophthalmia"
+      ],
+      "correct": 0,
+      "explanation": "Bitot spots, keratomalacia, and xerophthalmia are all ocular manifestations of vitamin A deficiency. Bleeding gums are a classic sign of scurvy (vitamin C deficiency)."
+    },
+    {
+      "stem": "Complications of rickets do not include",
+      "options": [
+        "Diarrhea.",
+        "Kyphosis.",
+        "Pathological fractures.",
+        "Pneumonia."
+      ],
+      "correct": 0,
+      "explanation": "Kyphosis, pathological fractures, and pneumonia are listed as complications of rickets. Diarrhea is not a direct complication."
+    },
+    {
+      "stem": "Complications of marasmus do not include",
+      "options": [
+        "Edema.",
+        "Hypothermia.",
+        "Hypoglycemia",
+        "Recurrent infections."
+      ],
+      "correct": 0,
+      "explanation": "Marasmus is characterized by severe wasting, and complications include hypothermia, hypoglycemia, and recurrent infections. Edema is a hallmark sign of kwashiorkor, not marasmus."
+    }
+  ]
+}

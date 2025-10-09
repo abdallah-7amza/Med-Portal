@@ -1,0 +1,709 @@
+{
+  "title": "KAF",
+  "questions": [
+    {
+      "stem": "An 8-year-old sickle cell patient arrives at the emergency room in respiratory distress. Over the previous several days, the child has become progressively tired and pale. The child's hemoglobin concentration in the emergency room is 3.1 mg/dl. Which of the following viruses commonly causes such a clinical picture?",
+      "options": [
+        "Coxsackie a16",
+        "Echovirus 11",
+        "Herpes simplex",
+        "Parvovirus B19"
+      ],
+      "correct": 3,
+      "explanation": "The patient's symptoms of progressive pallor and tiredness, along with a severely low hemoglobin concentration, indicate an aplastic crisis. In sickle cell patients, this is commonly caused by a parvovirus B19 infection, which targets red blood cell precursors in the bone marrow, leading to a temporary cessation of erythropoiesis."
+    },
+    {
+      "stem": "Two weeks after a viral syndrome, a 2-year-old child develops bruising and generalized petechiae, more prominent over the legs. No hepatosplenomegaly or lymph node enlargement is noted. The examination is otherwise unremarkable. Laboratory testing shows the patient to have a normal hemoglobin, hematocrit, and white blood count and differential, the platelet count is 15,000/μl. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Acute leukemia",
+        "Aplastic anemia",
+        "Immune thrombocytopenic purpura",
+        "Von Willebrand disease"
+      ],
+      "correct": 2,
+      "explanation": "The clinical picture of a previously healthy 2-year-old child developing bruising and petechiae two weeks after a viral syndrome, along with a severely low platelet count of 15,000/μL and otherwise normal blood counts, is a classic presentation of Immune Thrombocytopenic Purpura (ITP). The absence of hepatosplenomegaly or lymph node enlargement helps to differentiate ITP from other conditions like leukemia."
+    },
+    {
+      "stem": "A 3-year-old child presents with a petechial rash and bleeding gums Platelet count is 20.000/ul; hemoglobin and WBC count are normal. Which of the following is the most appropriate therapy?",
+      "options": [
+        "Bone marrow transplant",
+        "High-dose aspirin",
+        "Intravenous immunoglobulins",
+        "Therapeutic doses of iron"
+      ],
+      "correct": 2,
+      "explanation": "The clinical presentation of a child with a petechial rash and bleeding gums, a platelet count of 20,000/μL, and normal hemoglobin and WBC count is consistent with Immune Thrombocytopenic Purpura (ITP). Intravenous immunoglobulins are indicated as a treatment option in severe cases of ITP to stop the bleeding and raise the platelet count."
+    },
+    {
+      "stem": "A 4-year-old previously well boy is brought to the office by his mother. She reports that he developed pallor, dark urine, and jaundice over the past few days. He has not been exposed to a jaundiced person, but he is taking trimethoprim-sulfamethoxazole for otitis media. Which of the following is the most likely cause of this patient's symptoms?",
+      "options": [
+        "Glucose-6-phosphate dehydrogenase deficiency",
+        "Hemolytic-uremic syndrome",
+        "Hepatitis A",
+        "Hepatitis B"
+      ],
+      "correct": 0,
+      "explanation": "The patient's symptoms of pallor, dark urine, and jaundice are characteristic of acute hemolysis. The intake of a known oxidizing agent like trimethoprim-sulfamethoxazole is a common trigger for a hemolytic crisis in patients with Glucose-6-phosphate dehydrogenase (G6PD) deficiency."
+    },
+    {
+      "stem": "On a routine newborn screen, a 2-week-old child in your clinic is noted to have sickle cell disease. As you discuss treatment options with this family, which of the following is the most appropriate recommendation?",
+      "options": [
+        "Education of parents regarding abdominal palpation and temperature taking",
+        "Infusion of immunoglobulin every 6 weeks",
+        "Meningococcal vaccine at 2, 4, and 6 months of age",
+        "Monthly injections of vitamin B 12"
+      ],
+      "correct": 0,
+      "explanation": "For sickle cell disease, parental education is a primary intervention. Proper care includes teaching parents about abdominal palpation to detect splenomegaly and monitoring for fever, which are crucial for early detection of crises and infections."
+    },
+    {
+      "stem": "On a routine well-child examination, a 1-year-old boy is noted to be pale. He is in the seventy-fifth percentile for weight and the twenty-fifth percentile for length. Results of physical examination are otherwise normal. His hemoglobin is 9 gram %. Which of the following questions is most likely to be helpful in making a diagnosis?",
+      "options": [
+        "Did the child receive phototherapy for neonatal jaundice?",
+        "Has anyone in the family received a blood transfusion?",
+        "Is the child on any medication?",
+        "What is the child's usual daily diet?"
+      ],
+      "correct": 3,
+      "explanation": "A one-year-old boy with pallor and a low hemoglobin count, with otherwise normal growth and physical findings, likely has iron deficiency anemia. This condition in toddlers is often related to diet, such as a high intake of milk and low intake of iron-rich foods. Therefore, asking about the child's daily diet is the most helpful question."
+    },
+    {
+      "stem": "10-year-old boy is admitted to the hospital because of bleeding. Laboratory findings include a platelet count of 50.000/ul, prothrombin time of 15 seconds (control 11.5s), activated partial thromboplastin time of 51 seconds (control 36s), thrombin time of 13.7 seconds (control 10.5s), and factor VIII level of 14% (normal 38 to 178%). Which of the following is the most likely cause of his bleeding?",
+      "options": [
+        "Disseminated intravascular coagulation (DIC)",
+        "Hemophilia A",
+        "Immune thrombocytopenic purpura (ITP)",
+        "Vitamin K deficiency"
+      ],
+      "correct": 0,
+      "explanation": "The combination of thrombocytopenia, prolonged prothrombin time (PT), and prolonged activated partial thromboplastin time (aPTT) is highly suggestive of Disseminated Intravascular Coagulation (DIC). DIC involves widespread activation of the coagulation cascade, leading to the consumption of platelets and clotting factors."
+    },
+    {
+      "stem": "A 5-year-old child presents with history of fever off and on for the past 2 weeks, petechial spots all over the body with increasing pallor over the last month and splenomegaly of 4 cms below costal margin. The most likely diagnosis is?",
+      "options": [
+        "Acute leukemia",
+        "Aplastic pancytopenia",
+        "Hypersplenism",
+        "Idiopathic thrombocytopenic purpura"
+      ],
+      "correct": 0,
+      "explanation": "A 5-year-old child presenting with a history of fever, increasing pallor, petechial spots, and hepatosplenomegaly is a classic presentation of acute leukemia. The combination of fever, signs of bone marrow failure (pallor, petechiae), and organomegaly (splenomegaly) is highly suspicious for this malignancy."
+    },
+    {
+      "stem": "A 5-year-old girl was referred for evaluation of her persistent low hemoglobin levels. On examination, she was adequately nourished, but had mild pallor and splenomegaly of 4 cm below costal margin. Investigations reveals hemoglobin 8 mg/dl, reticulocytes 4%, hemoglobin electrophoresis: A 98% A2: 2%. What is the likely diagnosis?",
+      "options": [
+        "G6PD deficiency",
+        "Hereditary spherocytosis",
+        "Sickle-cell anemia",
+        "β-Thalassemia"
+      ],
+      "correct": 1,
+      "explanation": "The patient's persistent low hemoglobin level with mild pallor and splenomegaly, along with the laboratory results of hemoglobin 8 mg/dL, normal reticulocytes, and an increased HbA2 level on electrophoresis, is characteristic of Hereditary Spherocytosis, a condition not Beta-thalassemia minor, as an increased HbA2 level is a key diagnostic finding of Beta-thalassemia."
+    },
+    {
+      "stem": "A nine year old boy was treated for pharyngitis one month ago. He is now brought in because his mother notes pallor, and easy bruising in his extremities. He complains of leg and arm pains over the last 2 weeks. He has lost about 2.4 kg in the past month. He has a spleen 3 cm below the left costal margin and a liver 3 cm below the right costal margin. What is your probable diagnosis?",
+      "options": [
+        "Acute leukemia",
+        "Aplastic pancytopenia",
+        "β-Thalassemia",
+        "Idiopathic thrombocytopenic purpura"
+      ],
+      "correct": 0,
+      "explanation": "The patient's history of a recent infection, followed by the development of pallor, easy bruising, bone pain, weight loss, and hepatosplenomegaly, is highly suggestive of acute leukemia. The combination of signs of bone marrow failure (pallor, bruising) and systemic symptoms (fever, weight loss) is a classic presentation."
+    },
+    {
+      "stem": "A 4-year-old male is referred with a chief complaint of easy bruising. His past medical history is unremarkable, no history of exposure to toxins. Examination reveals head circumference, height, and weight less below the 5th percentile, dark skin, and pallor. What is the most likely diagnosis?",
+      "options": [
+        "Acquired aplastic anemia",
+        "Acute leukemia",
+        "Fanconi anemia",
+        "Immune thrombocytopenic purpura"
+      ],
+      "correct": 2,
+      "explanation": "The patient's presentation of easy bruising (suggesting bone marrow failure), along with developmental abnormalities such as a head circumference, height, and weight below the 5th percentile, dark skin, and pallor, is characteristic of Fanconi anemia, a congenital form of aplastic anemia often associated with physical abnormalities."
+    },
+    {
+      "stem": "A 14- year old boy has sickle cell disease. He presents to the emergency room with the complaints of increased jaundice, abdominal pain, nausea, vomiting and fever. His examination is remarkable for jaundice and pain of the right upper quadrant with guarding and a clear chest. Which of the following test is most likely to reveal the cause of pain?",
+      "options": [
+        "Complete blood picture",
+        "Serum chemistries",
+        "Ultrasound of the abdomen",
+        "Upper endoscopy"
+      ],
+      "correct": 2,
+      "explanation": "A sickle cell patient presenting with increased jaundice, abdominal pain, nausea, vomiting, and right upper quadrant pain is likely experiencing a complication involving the liver or gallbladder. A key complication is gallstones, which can be diagnosed by an abdominal ultrasound. Ultrasound is the most likely test to reveal the cause of the pain."
+    },
+    {
+      "stem": "A 7-year-old boy has sickle cell disease. He presents to the emergency room with shock. The proximal pulses are poor, distal pulses are absent, the extremities are cold. Capillary refill is 8 seconds. Abdominally there is tender hepatosplenomegaly. What is the most likely explanation?",
+      "options": [
+        "Aplastic crisis",
+        "Liver cell failure",
+        "Septic shock",
+        "Sequestration crisis"
+      ],
+      "correct": 3,
+      "explanation": "A sickle cell patient presenting with shock, poor pulses, cold extremities, and tender hepatosplenomegaly is a classic presentation of a sequestration crisis. In this crisis, a large volume of blood becomes trapped in the spleen, leading to a sudden decrease in circulating blood volume and hypovolemic shock."
+    },
+    {
+      "stem": "Male patient aged 8 years presents with severe bony pains affecting the hands and feet. He has long duration of repeated blood transfusion dating since 1 year of age. Examination reveals tinge of jaundice, pallor, hepatomegaly 5 cm in MCL, spleen not felt, swollen tender, metacarpal and metatarsal bones, which of the following statements is correct?",
+      "options": [
+        "Aplastic anemia is the cause",
+        "Dehydration is a precipitating factor",
+        "IV gamma globulins improve the condition",
+        "The patient may also develop recurrent strokes"
+      ],
+      "correct": 1,
+      "explanation": "The presentation of severe bony pain in the hands and feet (dactylitis or hand-foot syndrome) is a classic vaso-occlusive crisis in a patient with sickle cell disease. Dehydration is a well-known precipitating factor for such crises."
+    },
+    {
+      "stem": "During a routine-screening complete blood count of a 5-year-old child is noted to have pronounced eosinophilia. Which of the following is the most likely explanation?",
+      "options": [
+        "Bacterial infections",
+        "Chronic allergic rhinitis",
+        "Fungal infections",
+        "Helminth infestation"
+      ],
+      "correct": 3,
+      "explanation": "Pronounced eosinophilia in a routine blood count is a classic sign of a parasitic infection, especially helminth infestation. While allergic conditions can cause eosinophilia, helminth infestation is the most likely and specific cause for a pronounced increase in eosinophils."
+    },
+    {
+      "stem": "A 20-month-old boy present to you, with pallor. His diet contains good amount of fortified cereal and red meat. Examination apart from pallor is unremarkable. His height and weight are on the 20th percentile. He has Hb 9. g/dl. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Anemia of chronic disorders",
+        "Iron deficiency anemia",
+        "Lead poisoning",
+        "Thalassemia trait"
+      ],
+      "correct": 3,
+      "explanation": "The patient's pallor with a hemoglobin of 9 g/dL, and microcytosis despite a diet rich in iron, suggests an anemia not caused by nutritional deficiency. The most likely diagnosis is thalassemia trait, an inherited microcytic anemia that is often asymptomatic and not related to diet."
+    },
+    {
+      "stem": "You receive a telephone call from the mother of a 4-year old child with sickle cell anemia. She tells you that the child is breathing fast, coughing and has temperature of 40 C°. Which of the following is the most appropriate next action?",
+      "options": [
+        "Prescribe aspirin and ask her to call back if the fever does not response",
+        "Make an office appointment for the next available opening",
+        "Make office appointment for the next day",
+        "Admit the child to the hospital"
+      ],
+      "correct": 3,
+      "explanation": "A 4-year-old child with sickle cell anemia presenting with fast breathing, coughing, and a high fever (40°C) is highly suspicious for acute chest syndrome or a severe bacterial infection like pneumococcal sepsis. These are life-threatening emergencies in sickle cell patients and require immediate hospitalization."
+    },
+    {
+      "stem": "An 18-month-old child who was born at term is now brought to you by his mother because she is concerned that he has become increasingly irritable and tired over the past few weeks. He is drinking well, mainly milk, you notice that the child is markedly pale and that he has no jaundice, adenopathy, or organomegaly. What is the most likely diagnosis?",
+      "options": [
+        "Iron-deficiency anemia",
+        "Lead intoxication",
+        "Leukemia",
+        "Severe aplastic anemia"
+      ],
+      "correct": 0,
+      "explanation": "The patient's symptoms of increasing irritability, tiredness, and marked pallor suggest anemia. The history of drinking 'well, mainly milk' is a classic risk factor for iron deficiency anemia in toddlers, as milk is a poor source of iron and can displace iron-rich foods from the diet. The absence of other findings makes other causes less likely."
+    },
+    {
+      "stem": "A 9 month-old child with a hemoglobin concentration of 10 gm/dL and marked microcytosis; serum iron is within normal limits; hemoglobin electrophoresis shows increased HbA2. Which of the following, the most likely diagnosis?",
+      "options": [
+        "Anemia due to chronic disease",
+        "B-thalassemia minor",
+        "Iron deficiency anemia",
+        "a thalassemia trait"
+      ],
+      "correct": 1,
+      "explanation": "The laboratory findings of marked microcytosis, normal serum iron, and increased HbA2 on hemoglobin electrophoresis are characteristic of Beta-thalassemia minor. The elevated HbA2 is a key diagnostic feature that differentiates it from iron deficiency anemia."
+    },
+    {
+      "stem": "You are evaluating a 5-year-old male child with multiple ecchymoses distributed all over the extremities and trunk; examination reveals a palpable spleen 3 cm below the left costal margin. Lab findings include: hemoglobin, 11.3 g/dL; white blood cell count, 8700/mm3 platelets count, 21000/mm3. Which of the following is the most proper next step of the management?",
+      "options": [
+        "Abdominal ultrasonography",
+        "Bleeding time",
+        "Bone marrow study",
+        "Coagulation profile"
+      ],
+      "correct": 2,
+      "explanation": "The patient presents with classic signs of acute leukemia, including multiple ecchymoses, a palpable spleen, and significant thrombocytopenia (21,000/mm3). The most definitive diagnostic step to confirm a diagnosis of leukemia is a bone marrow study."
+    },
+    {
+      "stem": "A 9-month-old boy appears pale. Examination reveals a palpable liver 3 cm below in the right costal margin and palpable spleen 4 cm below the left costal margin. Lab findings include: hemoglobin concentration, 6.4 g/dl; mean corpuscular volume (MCV), 67 fL; and WBC, 15,000/mm3. Which of the following is the most valuable test to confirm the diagnosis?",
+      "options": [
+        "Abdominal ultrasonography",
+        "Bone marrow study",
+        "Hemoglobin electrophoresis",
+        "Serum iron, total iron binding capacity, and serum ferritin"
+      ],
+      "correct": 2,
+      "explanation": "The patient's symptoms of pallor, hepatosplenomegaly, and severe microcytic anemia are highly suggestive of beta-thalassemia major. The most valuable test to confirm this diagnosis is hemoglobin electrophoresis, which will show a significant increase in HbF and HbA2."
+    },
+    {
+      "stem": "You are evaluating a 7-year-old male child with cervical lymphadenopathy; which of the following is the most likely finding that raises your suspicion of malignancy?",
+      "options": [
+        "Fixed nodes",
+        "Fluctuant nodes",
+        "No regression in the size of the nodes to its normal within 2 weeks",
+        "Presence of systemic symptoms"
+      ],
+      "correct": 0,
+      "explanation": "While several findings in lymphadenopathy can be concerning, fixed (non-mobile) lymph nodes are a hallmark sign highly suspicious for malignancy, as they suggest invasion into surrounding tissues."
+    },
+    {
+      "stem": "A 5-year-old child, with hemophilia A of severe type, presents to the emergency unit with a groin pain after a minor trauma to his back; his blood pressure is 60/30 mm Hg; his pulse rate is 180/min; he holds his right hip in a flexion position with internal rotation. Which of the following, the next step in the management of this child?",
+      "options": [
+        "Abdominal computed tomography (CT) scan",
+        "Abdominal ultrasonography",
+        "Factor VIII assay",
+        "Factor VIII replacement therapy"
+      ],
+      "correct": 3,
+      "explanation": "The patient, with known severe hemophilia A, presents with signs of hypovolemic shock and a posture suggesting a major bleed into the iliopsoas muscle. This is a life-threatening emergency. The most critical immediate step is to administer factor VIII replacement therapy to correct the coagulation defect and stop the bleeding."
+    },
+    {
+      "stem": "A 5 year-old child has multiple bruises on her extremities and oral mucosal bleeding of 3 days duration; she had a mild respiratory tract infection 2 weeks before; physical examination was normal apart from multiple ecchymoses and petechiae. Which of the following is the next diagnostic step?",
+      "options": [
+        "Antinuclear antibody titer",
+        "Complete blood count",
+        "Partial thromboplastin time",
+        "Prothrombin time"
+      ],
+      "correct": 1,
+      "explanation": "A child presenting with bruising and bleeding after a recent viral infection is a classic presentation of Immune Thrombocytopenic Purpura (ITP). The essential next diagnostic step is a complete blood count (CBC) to check the platelet count and rule out other hematological abnormalities."
+    },
+    {
+      "stem": "A 3-year-old male child develops hematoma and bruising of his right hand next day after falling on the ground; the mother stated that her child had prolonged bleeding from heal prick during the neonatal period. Which of the following is the most valuable test for this case?",
+      "options": [
+        "Factor VIII assay",
+        "Platelet count",
+        "Prothrombin time",
+        "Thrombin time"
+      ],
+      "correct": 0,
+      "explanation": "The history of delayed bleeding, significant bruising from minor trauma, and prolonged bleeding in the neonatal period strongly suggests a congenital coagulation disorder like hemophilia A (factor VIII deficiency). Therefore, a factor VIII assay is the most valuable test to confirm the diagnosis."
+    },
+    {
+      "stem": "A 3-year-old boy presents to the pediatrician with fever, pallor, anorexia, joint pain, petechiae, and hepatosplenomegaly. Which of the following investigations is the most important to reach the diagnosis?",
+      "options": [
+        "Abdominal ultrasound",
+        "Bone marrow examination",
+        "Complete blood count",
+        "ECR, CRP"
+      ],
+      "correct": 1,
+      "explanation": "The clinical picture of fever, pallor, anorexia, joint pain, petechiae, and hepatosplenomegaly is highly suggestive of acute leukemia. While a CBC is an important initial test, a bone marrow examination is the definitive investigation required to confirm the diagnosis and classify the type of leukemia."
+    },
+    {
+      "stem": "Two weeks after a viral illness a 2 year old child developed bruising and petechiae, more prominent over the legs, he had neither hepatosplenomegaly nor lymph node enlargement Laboratory testing revealed a normal hemoglobin, hematocrit, and white cell count, platelet count was 15,000/mm3 What is the most likely diagnosis?",
+      "options": [
+        "Acute lymphoblastic Leukemia",
+        "Aplastic anemia",
+        "Immune thrombocytopenia",
+        "Von Willebrand disease."
+      ],
+      "correct": 2,
+      "explanation": "The clinical history of bruising and petechiae developing two weeks after a viral illness, with a platelet count of 15,000/mm3 and normal values for hemoglobin and white blood cells, is a classic presentation of immune thrombocytopenia (ITP). It is an acquired, usually transient, bleeding disorder characterized by isolated thrombocytopenia."
+    },
+    {
+      "stem": "A 22 month old boy presents with the main complaint of pallor. He is a picky eater taking small amounts of fresh vegetables and fruits and drinks lots of tea cups. On examination he showed pale conjunctiva. Laboratory reports revealed, WBC: 6100, Hemoglobin 8.2g/dl, Hct 19% and microcytosis with hypochromic. Which of the followings you do not recommend as one of your initial management plan?",
+      "options": [
+        "Ask for renal functions",
+        "Ask for stool analysis.",
+        "Give blood transfusion",
+        "Start oral Iron and change his diet habits."
+      ],
+      "correct": 2,
+      "explanation": "The child's diet, symptoms, and lab results (microcytic, hypochromic anemia) are classic for iron deficiency anemia. The initial management plan should focus on correcting the iron deficiency with oral iron and dietary changes. A blood transfusion is not indicated as an initial step unless the anemia is severe or the child is symptomatic with signs of cardiovascular compromise."
+    },
+    {
+      "stem": "An anxious father who is having G6PD deficiency asked you, can I feed my 9 months old son beans? Which should be your answer?",
+      "options": [
+        "Do not give him; it is a male dominant disease.",
+        "Feed him one spoon only and check urine color.",
+        "Test for hemoglobin electrophoresis, if normal feed him",
+        "Test his mother enzyme level, if normal, feed him"
+      ],
+      "correct": 1,
+      "explanation": "G6PD deficiency is an X-linked recessive disorder. Since the father has the condition, his son's risk depends on the mother's carrier status. A definitive diagnosis for the infant can be made by testing the boy's own G6PD enzyme level. Fava beans are a known trigger for hemolysis. Suggesting to 'feed him one spoon only and check urine color' is a dangerous and incorrect approach; the safest first step is testing the child for the deficiency."
+    },
+    {
+      "stem": "A 4-year-old boy presents with severe pains in both of his legs. On physical examination, he is noted to have marked pallor on his lips and palpebral conjunctiva. Numerous purpura and petechiae are noted on his skin. His spleen is palpable 3 cm below his left costal margin. Laboratory evaluation reveals a white blood cell count of 1600/mm3 hemoglobin 6.1 g/dL; and platelets of 36,000/mm3. Which of the following is an expected finding in this case?",
+      "options": [
+        "Lymphadenopathy",
+        "Palmer erythema",
+        "Photosensitivity",
+        "Pica"
+      ],
+      "correct": 0,
+      "explanation": "The combination of severe bone pain, pallor, purpura, petechiae, splenomegaly, and pancytopenia (low WBC, Hgb, and platelets) is a classic picture of acute leukemia. Lymphadenopathy is a very common and expected finding in acute leukemia, as it is a systemic malignancy of the hematopoietic system."
+    },
+    {
+      "stem": "The parents of a 3-year-old patient following in your clinic recently took their child to Africa. Since their return about 10 days ago the boy has been having intermittent, spiking fevers associated with headache, sweating, and nausea. Today, however, they feel that he looks a bit pale and jaundiced. Which of the following is likely to reveal the source of his problem?",
+      "options": [
+        "Complete blood count with smear",
+        "Hemoglobin electrophoresis",
+        "Hepatitis A Ig G and Ig M titers",
+        "Tuberculosis skin test"
+      ],
+      "correct": 0,
+      "explanation": "The history of travel to a malaria-endemic region (Africa) followed by symptoms of intermittent fevers, headache, pallor, and jaundice is highly suggestive of malaria. The most appropriate test is a complete blood count with a peripheral blood smear, which can detect the malarial parasites within the red blood cells."
+    },
+    {
+      "stem": "Which of the following statements is true regarding children with sickle cell disease?",
+      "options": [
+        "Acute chest syndrome requires only supportive care",
+        "Gallstones typically develop before the age of 3 years..",
+        "Hydroxyurea maintenance therapy decreases the number and severity of vasoocclusive crises.",
+        "Vaccinations are not required because they receive penicillin prophylaxis."
+      ],
+      "correct": 2,
+      "explanation": "Hydroxyurea is a disease-modifying therapy used in sickle cell disease that increases the production of fetal hemoglobin (HbF), which reduces the number and severity of painful vaso-occlusive crises and acute chest syndrome. The other statements are false."
+    },
+    {
+      "stem": "Which of the following can differentiate anemia of chronic disorder from iron deficiency anemia?",
+      "options": [
+        "Low or normal serum transferrin",
+        "Low serum iron",
+        "Normal bone marrow cellularity",
+        "Normochromic normocytic RBC"
+      ],
+      "correct": 0,
+      "explanation": "Both anemia of chronic disorder (ACD) and iron deficiency anemia (IDA) can present with low serum iron. However, a key differentiating feature is serum transferrin (or total iron-binding capacity, TIBC). In IDA, transferrin/TIBC is increased as the body tries to capture more iron. In ACD, transferrin/TIBC is low or normal due to inflammatory processes."
+    },
+    {
+      "stem": "The first laboratory marker in iron deficiency anemia is",
+      "options": [
+        "Decrease hemoglobin synthesis",
+        "Decrease of serum iron and increase of the iron-binding capacity",
+        "Depletion of bone marrow hemosiderin",
+        "Falling of serum ferritin"
+      ],
+      "correct": 3,
+      "explanation": "The development of iron deficiency anemia occurs in stages. The very first stage is the depletion of iron stores. The most sensitive laboratory marker for iron stores is serum ferritin. Therefore, a falling serum ferritin is the earliest indicator of iron deficiency."
+    },
+    {
+      "stem": "Which of the following causes hemolysis in G-6-P-D deficiency?",
+      "options": [
+        "Amoxicillin",
+        "Aspirin",
+        "Gentamycin",
+        "Steroids"
+      ],
+      "correct": 1,
+      "explanation": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency is a condition where red blood cells are susceptible to damage from oxidative stress. Aspirin is a known oxidizing agent that can induce acute hemolysis in individuals with G6PD deficiency."
+    },
+    {
+      "stem": "Which of the following is not a cause of infections in sickle cell anemia?",
+      "options": [
+        "E.coli urinary tract infection",
+        "Haemophilus influenzae meningitis",
+        "Pneumococcus sepsis",
+        "Meningococcal infection"
+      ],
+      "correct": 0,
+      "explanation": "Patients with sickle cell anemia have functional asplenia, which makes them highly susceptible to infections with encapsulated organisms like Streptococcus pneumoniae (Pneumococcus), Haemophilus influenzae, and Neisseria meningitidis (Meningococcus). While E. coli can cause UTIs in any population, it is not one of the classic infections specifically associated with the immune defect in sickle cell disease."
+    },
+    {
+      "stem": "Which of the following laboratory finding is not present in hemolytic anemia?",
+      "options": [
+        "Blood film shows target cells",
+        "Decreased iron binding capacity",
+        "Reticulocytosis",
+        "Low serum indirect bilirubin"
+      ],
+      "correct": 3,
+      "explanation": "Hemolytic anemia is characterized by the premature destruction of red blood cells. This process releases hemoglobin, which is broken down into bilirubin. Therefore, hemolytic anemias are associated with an elevated level of indirect (unconjugated) bilirubin, not a low level."
+    },
+    {
+      "stem": "Vitamin K-dependent clotting factors don't include",
+      "options": [
+        "Factor I",
+        "Factor II",
+        "Factor VII",
+        "Factor IX"
+      ],
+      "correct": 0,
+      "explanation": "The vitamin K-dependent clotting factors are factors II (prothrombin), VII, IX, and X, as well as proteins C and S. Factor I is fibrinogen, and its synthesis is not dependent on vitamin K."
+    },
+    {
+      "stem": "Homozygous sickle cell disease typically results in:",
+      "options": [
+        "Increased osmotic fragility",
+        "Normal growth and development but short extremities",
+        "Reticulocytosis and anemia",
+        "Splenomegaly in adult life"
+      ],
+      "correct": 2,
+      "explanation": "In homozygous sickle cell disease, the red blood cells have a shortened lifespan due to chronic hemolysis. The bone marrow attempts to compensate for this loss by increasing RBC production, which leads to a persistently high reticulocyte count (reticulocytosis). The chronic hemolysis outpaces production, resulting in chronic anemia."
+    },
+    {
+      "stem": "Regarding Erythropoiesis, which of the following is false?",
+      "options": [
+        "It is inhibited in cases of G-6-PD deficiency.",
+        "It is stimulated by the hormone erythropoietin.",
+        "Requires iron, B12, folic acid and other trace elements.",
+        "Thyroid hormone is essential for normal erythropoiesis."
+      ],
+      "correct": 0,
+      "explanation": "This statement is false. Erythropoiesis (red blood cell production) is not inhibited in G6PD deficiency. In fact, after a hemolytic episode, erythropoiesis is stimulated to replace the lost red blood cells. The problem in G6PD deficiency is hemolysis (destruction), not production."
+    },
+    {
+      "stem": "Hemolytic anemias are characterized by",
+      "options": [
+        "Anemia unresponsive to iron therapy.",
+        "Presence of red blood cells in urine.",
+        "Decreased reticulocytic count.",
+        "Direct hyperbilirubinemia."
+      ],
+      "correct": 0,
+      "explanation": "Hemolytic anemias are caused by the premature destruction of red blood cells. The underlying problem is not iron deficiency, so iron therapy is ineffective. In fact, chronic hemolysis can lead to iron overload. Reticulocyte count is typically increased, and the hyperbilirubinemia is indirect."
+    },
+    {
+      "stem": "Beta thalassemia major is not characterized by",
+      "options": [
+        "Bone marrow hyperplasia.",
+        "Hemosiderosis.",
+        "Mild jaundice",
+        "Vasoocclusive crisis."
+      ],
+      "correct": 3,
+      "explanation": "Beta-thalassemia major is a severe anemia characterized by ineffective erythropoiesis leading to bone marrow hyperplasia, iron overload (hemosiderosis) from frequent transfusions, and mild jaundice from hemolysis. Vaso-occlusive crises are the hallmark of sickle cell anemia, not thalassemia."
+    },
+    {
+      "stem": "A false statement about β-thalassemia major is:",
+      "options": [
+        "Antenatal diagnosis is possible.",
+        "Hemoglobin electrophoresis reveals hemoglobin F and A2.",
+        "Onset of hemolysis is at birth.",
+        "There is hepatosplenomegaly."
+      ],
+      "correct": 2,
+      "explanation": "This statement is false. The onset of symptoms in beta-thalassemia major is not at birth. Newborns are protected by high levels of fetal hemoglobin (HbF, α2γ2), which does not contain beta-globin chains. Symptoms appear after 3-6 months of age as HbF levels decline and the defective adult hemoglobin (HbA, α2β2) production fails."
+    },
+    {
+      "stem": "Regarding β-thalassemia major, find the false statement",
+      "options": [
+        "Hepatosplenomegaly is usually marked.",
+        "It results from diminished rate of synthesis of the β-globin chain.",
+        "Splenectomy is curable",
+        "The newborn infant is clinically and hematologically normal."
+      ],
+      "correct": 2,
+      "explanation": "This statement is false. Splenectomy is not curative for beta-thalassemia major. The primary defect is in globin chain synthesis in the bone marrow. Splenectomy is a palliative procedure performed to reduce transfusion requirements in cases of hypersplenism, but it does not cure the underlying disease."
+    },
+    {
+      "stem": "Complications of β-thalassemia don't include",
+      "options": [
+        "Anemic heart failure",
+        "Megaloblastic changes",
+        "Mongoloid facies",
+        "Vaso-occlusive crisis"
+      ],
+      "correct": 3,
+      "explanation": "Complications of beta-thalassemia include heart failure from chronic anemia and iron overload, skeletal changes like 'mongoloid facies' from massive bone marrow expansion, and a relative folate deficiency leading to megaloblastic changes. Vaso-occlusive crises are characteristic of sickle cell disease."
+    },
+    {
+      "stem": "Which of the following is not a manifestation of sickle cell anemia?",
+      "options": [
+        "Hand and foot syndrome.",
+        "Liability to Salmonella infections.",
+        "Shortened life span of RBCS",
+        "Symptoms may be present in the neonatal period."
+      ],
+      "correct": 3,
+      "explanation": "This statement is false. Symptoms of sickle cell anemia are typically not present in the neonatal period. Newborns are protected by high levels of fetal hemoglobin (HbF), which does not participate in sickling and inhibits the polymerization of HbS. Symptoms usually begin as HbF levels wane around 4-6 months of age."
+    },
+    {
+      "stem": "In beta thalassemia major which is true?",
+      "options": [
+        "Hb-F is markedly elevated",
+        "Iron supplementation is life saving",
+        "Normal sized spleen",
+        "The mode of inheritance is X-linked"
+      ],
+      "correct": 0,
+      "explanation": "In beta-thalassemia major, there is a severe deficiency or absence of beta-globin chain synthesis. This leads to a compensatory increase in the production of fetal hemoglobin (HbF), which becomes the predominant hemoglobin type. Iron supplementation is contraindicated, the spleen is enlarged, and the inheritance is autosomal recessive."
+    },
+    {
+      "stem": "Non immune thrombocytopenic purpura is not seen in",
+      "options": [
+        "Disseminated intravascular coagulopathy",
+        "Hemolytic uremic syndrome",
+        "Systemic lupus erythematosus",
+        "Thrombotic thrombocytopenic purpura"
+      ],
+      "correct": 2,
+      "explanation": "Systemic Lupus Erythematosus (SLE) is an autoimmune disease. The thrombocytopenia associated with SLE is immune-mediated, caused by autoantibodies against platelets. DIC, HUS, and TTP are all causes of non-immune thrombocytopenia, where platelets are consumed through microvascular thrombosis."
+    },
+    {
+      "stem": "In thalassemia major which is true?",
+      "options": [
+        "Hemoglobin A is increased",
+        "Red cell distribution width is decreased",
+        "There is poikilocytosis",
+        "There is reticulocytopenia"
+      ],
+      "correct": 2,
+      "explanation": "The peripheral blood smear in thalassemia major is characterized by severe abnormalities due to ineffective erythropoiesis. This includes poikilocytosis (variation in cell shape), as well as anisocytosis, microcytosis, and hypochromia. HbA is absent or severely reduced, RDW is increased, and the reticulocyte count is high (but inappropriately low for the degree of anemia)."
+    },
+    {
+      "stem": "Which of the following is false regarding hereditary spherocytosis?",
+      "options": [
+        "Aplastic crisis may be precipitated by human Parvo virus infection.",
+        "Hemolysis is induced by oxidizing agents as aspirin..",
+        "May cause hemolysis and jaundice in the neonatal period.",
+        "Splenectomy is curative"
+      ],
+      "correct": 1,
+      "explanation": "This statement is false. Hemolysis in hereditary spherocytosis is due to an intrinsic defect in the red blood cell membrane, which makes the cells less deformable and prone to destruction in the spleen. It is not induced by oxidizing agents like aspirin; that is a characteristic of G6PD deficiency."
+    },
+    {
+      "stem": "The following is not consistent with spherocytosis",
+      "options": [
+        "Autosomal dominant inheritance.",
+        "Diagnosed by hemoglobin electrophoresis.",
+        "Reticulocytosis.",
+        "There is increased osmotic fragility."
+      ],
+      "correct": 1,
+      "explanation": "Hereditary spherocytosis is a disorder of the RBC membrane, not of hemoglobin. Therefore, hemoglobin electrophoresis, which analyzes hemoglobin types, would be normal and is not used for diagnosis. Diagnosis is based on family history, clinical findings, and specialized tests like the osmotic fragility test."
+    },
+    {
+      "stem": "Splenectomy is indicated in:",
+      "options": [
+        "Acute thrombocytopenic purpura",
+        "Iron deficiency anemia.",
+        "Patients with thalassemia and hypersplenism.",
+        "Sickle cell anemia."
+      ],
+      "correct": 2,
+      "explanation": "Splenectomy is indicated for patients with thalassemia who develop hypersplenism. In this situation, an enlarged spleen aggressively destroys transfused red blood cells, dramatically increasing transfusion requirements. Removing the spleen can improve the lifespan of transfused cells."
+    },
+    {
+      "stem": "G6PD deficiency is not characterized by",
+      "options": [
+        "Acute hemolysis is usually precipitated by oxidizing agents",
+        "Coombs test is usually positive during a hemolytic episode.",
+        "Enzyme assay is needed for diagnosis.",
+        "The 1st presentation may be neonatal indirect hyperbilirubinemia."
+      ],
+      "correct": 1,
+      "explanation": "This statement is false. The Coombs test detects antibodies on the surface of red blood cells and is used to diagnose immune-mediated hemolysis. G6PD deficiency is an intrinsic enzyme defect within the RBC, not an immune process. Therefore, the Coombs test is negative."
+    },
+    {
+      "stem": "Regarding G-6-PD deficiency, a false statements is:",
+      "options": [
+        "Amoxicillin and paracetamol may initiate hemolysis.",
+        "Hemolysis may occur in the neonatal period.",
+        "High reticulocytic count is observed after hemolytic attacks",
+        "Splenomegaly is a common feature."
+      ],
+      "correct": 3,
+      "explanation": "This statement is false. Splenomegaly is not a common feature of G6PD deficiency. The hemolysis is acute and episodic, and chronic splenomegaly does not typically develop."
+    },
+    {
+      "stem": "Which of the following causes hemolysis in G-6-PD deficiency?",
+      "options": [
+        "Aspirin",
+        "Chick-peas.",
+        "Peas.",
+        "Wheat. Soya beans."
+      ],
+      "correct": 0,
+      "explanation": "Aspirin is an oxidizing drug that can trigger a hemolytic crisis in individuals with G6PD deficiency. While fava beans are a classic food trigger (favism), other options listed are not typically associated with causing hemolysis in this condition."
+    },
+    {
+      "stem": "A false statement regarding iron deficiency anemia in infancy is:",
+      "options": [
+        "Bilharziasis is the most common cause in Egypt.",
+        "Iron supplementation results in reticulocytosis.",
+        "Is the most common type of anemia in Egypt",
+        "Is usually accompanied by diminished attention span and learning ability."
+      ],
+      "correct": 0,
+      "explanation": "This statement is false. The most common cause of iron deficiency anemia in infancy worldwide, including Egypt, is nutritional, primarily from a diet low in iron (e.g., excessive milk intake). Bilharziasis can cause iron deficiency through chronic blood loss but is not the most common cause in infants."
+    },
+    {
+      "stem": "Reticulocytosis is not present in",
+      "options": [
+        "Acute hemolytic anemia.",
+        "Aplastic anemia.",
+        "Chronic hemolytic anemia.",
+        "Iron therapy for iron deficiency anemia"
+      ],
+      "correct": 1,
+      "explanation": "Reticulocytosis signifies an active bone marrow response to produce more red blood cells. In aplastic anemia, the bone marrow fails to produce blood cells, so the reticulocyte count is characteristically low (reticulocytopenia)."
+    },
+    {
+      "stem": "A false statement in immune thrombocytopenic purpura (ITP) is:",
+      "options": [
+        "Bleeding is due to platelet dysfunction.",
+        "Intravenous immunoglobulins are used in severe cases.",
+        "Spontaneous remission occurs in most cases.",
+        "Usually follows a viral infection."
+      ],
+      "correct": 0,
+      "explanation": "This statement is false. In ITP, the platelets are functionally normal. The bleeding is due to a critically low number of platelets (thrombocytopenia), not a defect in their function."
+    },
+    {
+      "stem": "The following laboratory feature is not characteristic of ITP",
+      "options": [
+        "Bone marrow reveals erythroid hyperplasia.",
+        "Defective budding in bone marrow aspirate.",
+        "Normal PT, PTT, and thrombin time (TT).",
+        "Prolonged bleeding time."
+      ],
+      "correct": 0,
+      "explanation": "This statement is not characteristic. A bone marrow aspirate in ITP typically shows a normal or increased number of megakaryocytes (platelet precursors), reflecting the bone marrow's attempt to compensate. Erythroid hyperplasia (increased red cell precursors) is not a feature of ITP."
+    },
+    {
+      "stem": "Von Willebrand disease is not characterized by",
+      "options": [
+        "Autosomal dominant inheritance.",
+        "Bleeding usually manifests as epistaxis and easy bruising.",
+        "Peripheral blood smear usually shows thrombocytopenia.",
+        "Platelet aggregation and adhesion are reduced."
+      ],
+      "correct": 2,
+      "explanation": "This statement is false. In Von Willebrand disease, the platelet count is typically normal. The bleeding defect is due to a deficiency or dysfunction of von Willebrand factor, which affects platelet adhesion and carrier function for Factor VIII, not the number of platelets."
+    },
+    {
+      "stem": "Hemophilia-A is not usually associated with",
+      "options": [
+        "Affecting large joints especially the knees is common",
+        "It is the most commonly inherited clotting factor deficiency",
+        "Prolonged bleeding time..",
+        "PTT is prolonged."
+      ],
+      "correct": 2,
+      "explanation": "This statement is false. The bleeding time test measures platelet function. Since hemophilia A is a deficiency of a clotting factor (Factor VIII) and does not affect platelets, the bleeding time is normal."
+    },
+    {
+      "stem": "Hemophilia A is not characterized by all the following",
+      "options": [
+        "Ecchymoses",
+        "Hemarthrosis.",
+        "Petechiae.",
+        "Prolonged PTT."
+      ],
+      "correct": 2,
+      "explanation": "Petechiae (small, pinpoint hemorrhages) are characteristic of platelet disorders (thrombocytopenia). Hemophilia is a clotting factor deficiency that leads to deep tissue bleeding, such as large bruises (ecchymoses) and bleeding into joints (hemarthrosis), not petechiae."
+    },
+    {
+      "stem": "Beta thalassemia major is characterized by:",
+      "options": [
+        "Anisocytosis is usually seen in the peripheral blood film",
+        "Decrease skull diploe",
+        "Increased life span of RBCs",
+        "Target cells is usually seen in the bone marrow"
+      ],
+      "correct": 0,
+      "explanation": "The peripheral blood film in beta-thalassemia major is marked by severe red blood cell abnormalities due to ineffective erythropoiesis. Anisocytosis (variation in RBC size) is a prominent feature, along with microcytosis, hypochromia, poikilocytosis, and target cells."
+    },
+    {
+      "stem": "Which of the following is correct about Sickle cell anemia?",
+      "options": [
+        "Autoimmune hemolysis is common",
+        "Hepatosplenomegaly is the most common presentation",
+        "Sequestration crisis leads to bone pains",
+        "Vaso-occlusive crisis commonly causes hand-foot syndrome"
+      ],
+      "correct": 3,
+      "explanation": "Hand-foot syndrome, or dactylitis, is often the earliest clinical manifestation of sickle cell anemia in infants and young children. It is a type of vaso-occlusive crisis caused by the sickling of red blood cells in the small blood vessels of the hands and feet, leading to painful swelling."
+    }
+  ]
+}

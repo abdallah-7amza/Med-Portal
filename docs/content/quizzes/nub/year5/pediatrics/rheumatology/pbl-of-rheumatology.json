@@ -1,0 +1,170 @@
+{
+  "title": "PBL of Rheumatology",
+  "questions": [
+    {
+      "stem": "chronic uveitis is a manifest of which type of JIA",
+      "options": [
+        "oligo articular",
+        "poly articular",
+        "systemic onset"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Koebner phenomenon can occur in patients with?",
+      "options": [
+        "oligo- arthritis JRA",
+        "SYSTEMIC ONSET JRA",
+        "POLY ARTHRITIS JRA"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Anthritis in Patient with SLE is",
+      "options": [
+        "erosive",
+        "Non erosive",
+        "affecting one fount",
+        "Responding dramatically to NSAID",
+        "fleeting"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "henoch schonlein purpura the skin biopsy is deposition of :",
+      "options": [
+        "IgG",
+        "IgA",
+        "IgE",
+        "IgM"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is the main line of treatment in Kawasaki disease?",
+      "options": [
+        "IVIG",
+        "High-dose Corticosteroids",
+        "Penicillin",
+        "Supportive care only"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In kawaski disease one of the following is not a sign of the disease",
+      "options": [
+        "Skin Rash",
+        "Bilateral Conjunctival Congestion",
+        "Strawberry Tongue",
+        "Hepatosplenomegaly",
+        "Cervical Lymphadenopathy"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The most Common type Rheumatoid Arthritis is",
+      "options": [
+        "A systemic onset Rheumatoid Arthritis",
+        "oligo Rheumatoid Arthritis",
+        "polyarticular Rheumatoid Arthritis"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Most Common presentation of SLE in pediatric Age group is",
+      "options": [
+        "skin and renal manifestations or CNS & renal affection",
+        "Joint affection",
+        "Serositis"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "An 18-month-old boy is seen in the clinic for evaluation of 4 days of fever, \"pink eye,\" and irritability. Along with the conjunctivitis, he also has a generalized maculopapular rash. The mother reports that there are several sick contacts at his daycare. Which of the following examination findings would prompt you to order an echocardiogram?",
+      "options": [
+        "A tender 5-mm preauricular lymph node",
+        "Shallow ulcers on the gingiva",
+        "Red lips, palms, and soles",
+        "Hepatosplenomegaly",
+        "Bilateral crackles and wheezes"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 6-year-old girl presents with a history of 4 days of fever, headache, rash, and sore throat. The rash is maculopapular, blanching, with a sandpaper-like texture and located on the cheeks, axillae, and trunk, with streaks of linear confluent petechiae on the axillae and in the antecubital fossa. Tonsillar erythema and exudates are noted along with an erythematous oropharynx and strawberry tongue. The lips and conjunctiva are normal. What is the most appropriate management?",
+      "options": [
+        "Measles immunoglobulin",
+        "Rapid strep test",
+        "IVIG and high dose aspirin",
+        "Supportive care with antipyretics",
+        "Serum autoantibodies and rheumatology consult"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 5-month old irritable infant has 7 days of high fever, an erythematous rash in the diaper region, and swollen, red lips. He has a mild normocytic anemia, a white blood cell count (WBC) of 15,000/mm3 with a predominance of neutrophils and immature forms, and an erythrocyte sedimentation rate (ESR) of 80 mm/h. Urinalysis is normal, but the cerebrospinal fluid shows pleocytosis with a negative Gram stain and negative culture. Blood culture is negative. After 48 hours of ceftriaxone, he continues to have high fever and has developed foot edema. Subsequent management of this child should include which of the following?",
+      "options": [
+        "Nystatin for the diaper rash",
+        "Repeat of the spinal tap",
+        "Addition of vancomycin to the antibiotic regimen",
+        "Pediatric cardiology consultation for echocardiogram",
+        "Continuing current management and following the culture results"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 7-year-old girl has had 5 days of fever, conjunctivitis, erythema of the oro- pharynx, and a generalized maculopapular rash. Her lips, lymph nodes, and extremities appear normal. Which of the following laboratory tests would NOT be used to establish a diagnosis?",
+      "options": [
+        "Complete blood cell count (CBC)",
+        "Urinalysis (UA)",
+        "C-reactive protein (CRP)",
+        "Erythrocyte sedimentation rate (ESR)",
+        "Antinuclear antibody (ANA)"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Which antibody is not part of the diagnostic criteria for Systemic Lupus Erythematosus (SLE)?",
+      "options": [
+        "Anti-Sm",
+        "Rapid plasma regain (RPR)",
+        "Anticardiolipin",
+        "Lupus anticoagulant"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 12-year-old boy is suspected of having SLE because of his malar rash, migratory polyarticular arthritis, positive antinuclear antibody (ANA), and positive anti-ds DNA. His complete blood count (CBC) is normal. He is normotensive and a review of systems is positive only for arthritis and the rash. Which of the following tests is indicated in his evaluation?",
+      "options": [
+        "Rapid plasma regain (RPR)",
+        "Hepatitis panel",
+        "Skin biopsy",
+        "Urinalysis with microscopy",
+        "Rheumatoid factor (RF)"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 13-year-old girl is brought to the emergency room for altered mental status. She is not oriented to place or time and perseverates in talking about \"demons\" that are chasing her. The parents report she has been withdrawn for the past month, sleeping a lot, and exhibiting anorexia and compulsive behaviour such as washing her hands multiple times a day. She is afebrile, Her urine drug screen and rapid HIV test are negative. Her CBC shows lymphopenia with absolute lymphocyte count of 400/mm3. Chest radiography shows bilateral pleural effusions and an enlarged heart. Electrocardiogram show's diffuse ST elevation in all leads consistent with pericarditis. What is the most appropriate next step in management?",
+      "options": [
+        "Rapid strep test",
+        "Anti-ds DNA",
+        "Hematology consult",
+        "Psychiatry consult",
+        "Broad-spectrum intravenous antibiotics"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 6-year-old boy is seen by the pediatrician for evaluation of fatigue and weight loss noted over the previous 4 months. He has complained of different sites of arthralgia over the same time interval and the mother has noticed the knee and then the hands appeared swollen on various occasions. After going outdoors, he has been developing pink papules on the sun exposed areas of his body that he reports \"sting.\" His urinalysis and CBC are normal. What are the most appropriate next diagnostic tests?",
+      "options": [
+        "Antinuclear antibody (ANA), anti-dsDNA",
+        "Gram stain and culture of synovial fluid",
+        "Chest radiograph and electroencephalogram (EEG)",
+        "Rapid strep test and echocardiogram",
+        "Rheumatoid factor (RF) and hepatitis panel"
+      ],
+      "correct": 0
+    }
+  ]
+}

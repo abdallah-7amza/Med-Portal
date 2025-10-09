@@ -1,0 +1,83 @@
+{
+  "title": "PBL of Growth & Development",
+  "questions": [
+    {
+      "stem": "Which of the following is considered a developmental milestone?",
+      "options": [
+        "weight",
+        "length",
+        "sitting",
+        "head circumference"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A child walks steadily, ascends stairs in child manner, can build a tower of 6 blocks, can say 3 word sentence",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The most importanat investigation for short stature female is:",
+      "options": [
+        "Bone age",
+        "skeletal survey",
+        "Karyotyping"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "An infant walks unsupported, ascends and descends stairs, what is his probable age?",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "4 years"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 5-year-old girl presents with short stature. She has always been short but this has become more apparent over the last year. Her height is less than the 5th percentile, and her weight is in 10th percentile. She is asymptomatic and not dysmorphic. What would the most useful investigation be?",
+      "options": [
+        "Complete blood count.",
+        "Karyotyping.",
+        "Kidney function test.",
+        "Thyroid function test"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 4 years old child with short stature, height below the 5th percentile, upper segment to lower segment ratio is 1.5/1. Which of the following investigation is most likely to be helpful?",
+      "options": [
+        "Cranial CT.",
+        "Endocrine testing for growth hormone level and pituitary function.",
+        "Examination of both parents.",
+        "Skeletal survey"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "An otherwise healthy 6-year-old child is brought to you to be evaluated because he is the shortest child in his class, careful measurement of his upper and lower segments demonstrates normal body proportions for his age. Which of the following disorders of growth is most likely?",
+      "options": [
+        "Achondroplasia",
+        "Growth hormone deficiency.",
+        "Hypothyroidism.",
+        "Marfan syndrome."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Factors affecting physical growth are all except",
+      "options": [
+        "Mentality.",
+        "Race",
+        "Socioeconomic factors.",
+        "Sex."
+      ],
+      "correct": 0
+    }
+  ]
+}

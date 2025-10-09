@@ -1,0 +1,182 @@
+{
+  "title": "PBL of Hepatology",
+  "questions": [
+    {
+      "stem": "In a case of acute liver failure, to test the synthetic function of the liver, we request:",
+      "options": [
+        "ALT",
+        "Ammonia level",
+        "PT, INR",
+        "Bilirubin (Total and direct)"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All of the following are part of the baseline investigation of the liver except:",
+      "options": [
+        "ALT",
+        "Albumin",
+        "AST",
+        "Succinylacetone"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "ALT is used to assess:",
+      "options": [
+        "Liver cell injury",
+        "Synthetic function",
+        "Excretory function",
+        "Metabolic function"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following is a consequence of Cholestasis?",
+      "options": [
+        "Colored stool",
+        "Fat malabsorption",
+        "Vitamin B deficiency",
+        "Decreased itching"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following is a common symptom resulting from Cholestasis?",
+      "options": [
+        "Weight gain",
+        "Dark stool",
+        "Vitamin B excess",
+        "Pruritus"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Anatomic causes of cholestasis include:",
+      "options": [
+        "Niemann-Pick disease",
+        "Cholelithiasis",
+        "Choledochal cyst",
+        "Cystic Fibrosis"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Hepatitis markers for diagnosis of chronic hepatitis B infection in a thalassemic, multi-transfused 10-year-old child are:",
+      "options": [
+        "HBsAg -ve, anti-HBc IgG +ve, anti-HBs +ve",
+        "HBsAg +ve, anti-HBc IgG +ve, anti-HBs -ve",
+        "HBsAg +ve, anti-HBc IgG -ve, anti-HBs -ve",
+        "HBsAg -ve, anti-HBc IgG -ve, anti-HBs +ve"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "For a male infant with cholestatic jaundice, what is the most important vitamin to give to prevent bleeding?",
+      "options": [
+        "Vitamin A",
+        "Vitamin K",
+        "Vitamin E",
+        "Vitamin D"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A child was vaccinated against Hepatitis B. Which marker is expected to be positive?",
+      "options": [
+        "HBcAg",
+        "HBeAg",
+        "HBsAg",
+        "Anti-HBs (HBsAb)"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A kid presents with jaundice, fever, and vomiting. What is the most likely initial diagnostic test to order for suspected infectious hepatitis?",
+      "options": [
+        "Ultrasound",
+        "HBsAg",
+        "HAV IgM",
+        "HCV PCR"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "In Wilson's disease, which of the following is typically low?",
+      "options": [
+        "Albumin",
+        "Ferritin",
+        "Transferrin",
+        "Ceruloplasmin"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Immunological evidence of immunity to hepatitis B from vaccination is the presence of:",
+      "options": [
+        "Hepatitis B Core antibodies (anti-HBc)",
+        "Hepatitis B Core antigen (HBcAg)",
+        "Hepatitis B surface antibodies (anti-HBs)",
+        "Hepatitis B surface antigen (HBsAg)"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Reye's syndrome can be caused by using salicylates (Aspirin) in the treatment of a viral infection in children.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The most common cause of neonatal (infantile) cholestasis is:",
+      "options": [
+        "Galactosemia",
+        "Alpha-1 antitrypsin deficiency",
+        "Idiopathic neonatal hepatitis",
+        "Extrahepatic biliary atresia"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following is NOT a genetic cause of Neonatal Cholestasis?",
+      "options": [
+        "Alagille Syndrome",
+        "Galactosemia",
+        "Extrahepatic Biliary Atresia",
+        "Progressive familial intrahepatic cholestasis"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All are causes of cerebral edema in Acute Liver Failure EXCEPT:",
+      "options": [
+        "Hyponatremia",
+        "Hypoalbuminemia",
+        "Cerebral vasodilation",
+        "Hypokalemia"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The most important diagnostic sign of portal hypertension is:",
+      "options": [
+        "Jaundice",
+        "Severe pallor",
+        "Splenomegaly"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Anti-Hepatitis B Core Antibody (anti-HBc) IgG being positive indicates which condition:",
+      "options": [
+        "Immunity from vaccine",
+        "Acute/recent infection",
+        "Chronic infection or past exposure",
+        "Immunity from vaccine"
+      ],
+      "correct": 2
+    }
+  ]
+}

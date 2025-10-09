@@ -1,0 +1,1649 @@
+{
+  "title": "Gynecologic Oncology",
+  "questions": [
+    {
+      "stem": "Fibroid uterus may present with all of the following EXCEPT?",
+      "options": [
+        "Amenorrhea.",
+        "Pelvic mass.",
+        "Infertility.",
+        "Polymenorrhoea.",
+        "Abdominal pain."
+      ],
+      "correct": 0,
+      "explanation": "Uterine leiomyomas commonly present with abnormal uterine bleeding (AUB), particularly heavy menstrual bleeding (menorrhagia), especially with submucous and large multiple interstitial myomas. Other symptoms include pelvic pain (if complicated), recurrent pregnancy loss or infertility due to distortion of the uterine cavity or tubal obstruction, and progressive abdominal enlargement which can manifest as a pelvic mass. Amenorrhea (absence of menstruation) is not listed as a typical presentation of uterine leiomyomas in the sources."
+    },
+    {
+      "stem": "The following are risk factors to developing uterine myomata ЕХСЕРТ:",
+      "options": [
+        "Low parity.",
+        "Late menarche.",
+        "Afro-American race.",
+        "Positive family history of the disease.",
+        "Associated endometriosis."
+      ],
+      "correct": 1,
+      "explanation": "Leiomyomas are estrogen-dependent tumors. Risk factors include low parity (nulliparous and low parity women), Afro-American race, and a positive family history of the disease. Late menarche, which would imply less estrogen exposure over a lifetime, is not listed as a risk factor; in fact, an abundant estrogen environment is noted as an etiological factor. Endometriosis is mentioned as a separate condition, not a risk factor for uterine myomas."
+    },
+    {
+      "stem": "The most common site of uterine myoma is:",
+      "options": [
+        "Subserous.",
+        "Interstitial.",
+        "Submucous.",
+        "Cornual.",
+        "Cervical."
+      ],
+      "correct": 1,
+      "explanation": "Up to 95% of leiomyomas develop within the myometrium of the uterine body. These corporeal leiomyomas are classified based on their relation to the uterine mucosa, including interstitial myomas (ISM), which are located within the center of the myometrium. While subserosal and submucosal are also sites, interstitial (or intramural, Type 4 in FIGO classification) is the primary location within the uterine wall from which many fibroids originate or are primarily situated."
+    },
+    {
+      "stem": "Regarding red degeneration of fibroid, all the followings are true EXСЕРТ:",
+      "options": [
+        "Usually occurs during pregnancy.",
+        "The main-pathology is ischemia of part of the tumor.",
+        "Abdominal pain and vomiting are common symptoms.",
+        "Surgical treatment is the main line of management.",
+        "May lead to preterm labor."
+      ],
+      "correct": 3,
+      "explanation": "Red degeneration (necrobiosis) is the commonest change during pregnancy, possibly due to the tumor outgrowing its blood supply, leading to incomplete necrosis. Clinically, it presents with enlargement, tenderness, acute pelvic pain, and mild pyrexia. Its management is essentially conservative, involving rest and analgesics (NSAIDs). Surgical treatment is generally avoided due to increased vascularity during pregnancy."
+    },
+    {
+      "stem": "Sarcomatous changes of fibroid uterus is suspected if there is:",
+      "options": [
+        "Menorrhagia.",
+        "Metrorrhagia.",
+        "Postmenopausal enlargement in absence of replacement therapy.",
+        "Pressure symptoms.",
+        "All of the above."
+      ],
+      "correct": 2,
+      "explanation": "Malignant transformation into leiomyosarcoma is very rare (less than 0.1% of myomas). Sarcoma is suspected when tumors exhibit rapid growth without evidence of degeneration, when they first appear or increase in size in the menopause, or when they present with postmenopausal bleeding (PMB). Menorrhagia, metrorrhagia, and pressure symptoms are common presentations of benign fibroids and do not solely indicate malignancy."
+    },
+    {
+      "stem": "All the following might be a complication of fibroid EXCEPT:",
+      "options": [
+        "Anemia.",
+        "Polycythemia.",
+        "Endometrial carcinoma.",
+        "Obstructed labor.",
+        "Inversion of the uterus."
+      ],
+      "correct": 1,
+      "explanation": "Fibroids can lead to various complications, including anemia due to heavy menstrual bleeding, endometrial carcinoma as a potential association with certain types of abnormal uterine bleeding, obstructed labor if they are large and impede the birth canal, and inversion of the uterus as a rare complication. Polycythemia (an increase in red blood cells) is not mentioned as a complication of uterine fibroids in the sources."
+    },
+    {
+      "stem": "The following are possible complications of fibroid with pregnancy EXCEPT:",
+      "options": [
+        "Fibroid necrosis and degeneration.",
+        "Fetal malpresentation.",
+        "Progression to leiomyosarcoma.",
+        "Preterm labor.",
+        "Uterine atony."
+      ],
+      "correct": 2,
+      "explanation": "Fibroids during pregnancy can lead to complications such as fibroid necrosis and degeneration (red degeneration), fetal malpresentation, preterm labor (PTL), and uterine atony leading to postpartum hemorrhage. While sarcomatous changes are a rare complication of fibroids in general, the source explicitly states that myomas decrease in size after puerperium, and progression to leiomyosarcoma is not listed as a specific pregnancy complication."
+    },
+    {
+      "stem": "The following is NOT a common clinical presentation of uterine fibroids:",
+      "options": [
+        "Infertility.",
+        "Menorrhagia.",
+        "Ureteral obstruction.",
+        "Pelvic pain.",
+        "Recurrent abortion."
+      ],
+      "correct": 2,
+      "explanation": "Common clinical presentations of uterine fibroids include menorrhagia (most common symptom), pelvic pain (if complicated), infertility, and recurrent abortion. Ureteral obstruction can occur with large broad ligament myomas, but it is not listed as a common clinical presentation for uterine fibroids in general."
+    },
+    {
+      "stem": "The following is true regarding methods of detection of fibroid:",
+      "options": [
+        "Submucous fibroid can be detected by laparoscopy.",
+        "Subserous fibroids cannot be detected by ultrasound.",
+        "Interstitial myoma are detected by hysteroscopy.",
+        "Fibroid is never detected by x ray.",
+        "None of the above."
+      ],
+      "correct": 4,
+      "explanation": "Submucous fibroids (SMM) indent the endometrial lining and encroach on the endometrial cavity, making them detectable by hysteroscopy which allows visualization of the uterine cavity. Subserous fibroids (SSM) raise the peritoneal covering of the uterus externally and are best detected by ultrasound (US). Interstitial myomas (ISM) are within the myometrium and are also detectable by US. X-rays can detect calcification in long-standing myomas, appearing as an 'egg shell appearance'. Laparoscopy allows direct inspection of pelvic organs, including the external surface of the uterus, for SSM and abdominal fibroids. Therefore, none of the given options are entirely accurate as single true statements."
+    },
+    {
+      "stem": "All the following is true regarding cervical fibroid, EХСЕРТ:",
+      "options": [
+        "May cause ureteric colic or retention of urine.",
+        "Menorrhagia is the main symptom.",
+        "May cause infertility.",
+        "IVP is essential before surgical removal.",
+        "Abdominal myomectomy is difficult."
+      ],
+      "correct": 1,
+      "explanation": "Cervical leiomyomas represent less than 5% of uterine myomas and are usually solitary. They can grow upwards in the true pelvis, in relation to the urinary bladder and ureters, potentially causing ureteric compression and affection of renal function or retention of urine. They may also cause infertility. Preoperative IVP (intravenous pyelography) is essential to assess the ureters before surgical removal due to their close anatomical relationship. Abdominal myomectomy for cervical fibroids can be difficult due to these anatomical relations. Menorrhagia (heavy menstrual bleeding) is the commonest symptom for corporeal myomas, especially SMM, not typically for cervical fibroids."
+    },
+    {
+      "stem": "The following is true regarding uterine fibroids:",
+      "options": [
+        "Associated with theca lutein cyst of the ovary in 20% of cases.",
+        "Associated with pyosalpinx in 80% of cases.",
+        "Consent for hysterectomy should be taken before abdominal myomectomy.",
+        "Myomectomy is best carried post-menopausal.",
+        "The risk of recurrent fibroid is 50%."
+      ],
+      "correct": 2,
+      "explanation": "Consent for hysterectomy is usually taken before abdominal myomectomy due to the risk of excessive blood loss during the operation, which might necessitate a hysterectomy to control bleeding and save the patient's life. Fibroids are not typically associated with theca lutein cysts or pyosalpinx. Myomectomy is contraindicated after menopause due to suspicion of malignancy. Recurrence of fibroids may occur in up to 30% of cases."
+    },
+    {
+      "stem": "Fibroids in pregnancy:",
+      "options": [
+        "May cause obstructed labor.",
+        "Should be removed by myomectomy during pregnancy.",
+        "Should be removed by myomectomy at Cesarean section.",
+        "Increase in size markedly after delivery.",
+        "Never causes abdominal pain during pregnancy."
+      ],
+      "correct": 0,
+      "explanation": "Uterine leiomyomas can lead to obstructed labor, especially if they are large or positioned to impede the birth canal. Myomectomy is generally contraindicated during pregnancy due to increased uterine vascularity and risk of hemorrhage, and myomas typically decrease in size after puerperium. They commonly cause abdominal pain (red degeneration) during pregnancy."
+    },
+    {
+      "stem": "All of the following is true regarding uterine leiomyomata EXСEРT:",
+      "options": [
+        "The commonest benign tumor of the female genital tract.",
+        "May be very small or reach large size.",
+        "Benign tumor are of a high malignant potential.",
+        "May be asymptomatic or produce a variety of gynecological symptoms.",
+        "Seen more frequently in Afro-American races."
+      ],
+      "correct": 2,
+      "explanation": "Uterine leiomyomas are the commonest benign tumors of the female genital organs. They can range in size from very small to very large. They may be asymptomatic or produce a variety of gynecological symptoms. They are seen more frequently in Afro-American races. However, their malignant transformation into leiomyosarcoma is very rare, occurring in less than 0.1% of myomas, indicating a very low, not high, malignant potential."
+    },
+    {
+      "stem": "Red degeneration of myomata is characterized by:",
+      "options": [
+        "A state of incomplete necrosis that results from thrombosis of capsular vessels.",
+        "Patients present with acute pelvic pain & mild pyrexia.",
+        "Is seen in pregnant women.",
+        "Management is essentially conservative.",
+        "All of the above."
+      ],
+      "correct": 4,
+      "explanation": "Red degeneration (necrobiosis) is a state of incomplete necrosis that often results from the tumor outgrowing its blood supply. It typically occurs during pregnancy, presenting with acute pelvic pain and mild pyrexia. The management is essentially conservative with rest and analgesics."
+    },
+    {
+      "stem": "A 30-year-old nulliparous complains of menorrhagia. On examination her uterus is enlarged, regular and non-tender. Her hemoglobin is 9 gm%. Most likely diagnosis:",
+      "options": [
+        "Subserous uterine fibroid.",
+        "Interstitial uterine fibroid.",
+        "Submucous uterine fibroid.",
+        "Cervical fibroid.",
+        "Adenomyosis."
+      ],
+      "correct": 2,
+      "explanation": "Heavy menstrual bleeding (menorrhagia) is the commonest symptom for myomas, especially with submucous myomas (SMM) and large multiple interstitial myomas. SMM indent the endometrial lining and encroach on the endometrial cavity, mechanically interfering with uterine contraction and increasing the endometrial surface area, leading to excessive bleeding. The presentation of menorrhagia with an enlarged uterus is highly suggestive of this type. Anemia (low hemoglobin) is a direct consequence of heavy bleeding."
+    },
+    {
+      "stem": "A 50 years old P1+2, presented with heavy menstrual flow for 1 year. TVS revealed a submucous fibroid 4 cm filling the uterine cavity. Best treatment is:",
+      "options": [
+        "Medical treatment with LHRH analogue.",
+        "Medical treatment with gestagens.",
+        "Myomectomy.",
+        "Hysterectomy.",
+        "Insertion of hormone releasing IUCD."
+      ],
+      "correct": 3,
+      "explanation": "For a 50-year-old multiparous woman (P1+2) with heavy menstrual bleeding due to a submucous fibroid filling the uterine cavity, hysterectomy is the definitive surgical treatment. Given her age and completed family, preserving the uterus is less of a priority, and hysterectomy offers a permanent solution, especially when myomectomy might be difficult or associated with recurrence. Other treatments like LHRH analogues or gestagens are medical and temporary, and while myomectomy is an option to preserve fertility, it's less suitable for an older multiparous woman with a large SMM filling the cavity where permanent resolution is often desired. LNG-IUS is effective for DUB but may not be sufficient for a large SMM."
+    },
+    {
+      "stem": "A 45-year-old patient with uterine leiomyomata found on pelvic examination, complains of metrorrhagia. Ultrasound confirmed the presence of 5cm interstitial myoma and endometrial thickness of 13mm. Best next step in the management of this patient:",
+      "options": [
+        "Myomectomy.",
+        "Hysterectomy.",
+        "Hysteroscopy.",
+        "Endometrial biopsy.",
+        "Hysterosalpingography."
+      ],
+      "correct": 3,
+      "explanation": "Metrorrhagia (intermenstrual bleeding) can be caused by leiomyomas, but also by associated endometrial hyperplasia (EH) or endometrial/endocervical carcinomas. An endometrial thickness of 13mm in a 45-year-old woman with AUB (metrorrhagia) is suspicious for endometrial hyperplasia (EH). Therefore, the gold standard for diagnosis of EH or endometrial carcinoma is fractional curettage or endometrial biopsy to exclude malignancy before definitive treatment for the fibroid."
+    },
+    {
+      "stem": "The first line of therapy for red degeneration of fibroid during pregnancy is:",
+      "options": [
+        "GnRH analogues.",
+        "Antibiotics.",
+        "Analgesics.",
+        "Immediate pregnancy termination.",
+        "Immediate myomectomy without termination of pregnancy."
+      ],
+      "correct": 2,
+      "explanation": "Red degeneration (necrobiosis) is the commonest change during pregnancy. It presents with acute pelvic pain. The management is essentially conservative by rest and analgesics as NSAIDs. Immediate pregnancy termination or myomectomy during pregnancy are generally contraindicated due to the risks involved. GnRH analogues and antibiotics are not the primary first-line treatment for red degeneration itself."
+    },
+    {
+      "stem": "The following is the commonest symptom of myomas:",
+      "options": [
+        "Dyspareunia.",
+        "Pain.",
+        "Menorrhagia.",
+        "Infertility.",
+        "Pressure symptoms."
+      ],
+      "correct": 2,
+      "explanation": "Heavy menstrual bleeding (HMB) or Menorrhagia is the commonest symptom for myomas in almost 30% of cases, especially with submucous and large multiple interstitial myomas. While pain, infertility, and pressure symptoms can occur, menorrhagia is explicitly stated as the most frequent presentation."
+    },
+    {
+      "stem": "The least common complication of fibroid is:",
+      "options": [
+        "Calcification.",
+        "Red degeneration.",
+        "Hyaline change.",
+        "Malignancy.",
+        "Necrosis of a fibroid polyp."
+      ],
+      "correct": 3,
+      "explanation": "Malignant transformation into leiomyosarcoma is very rare, occurring in less than 0.1% of myomas. Other complications like hyaline degeneration (commonest change in childbearing period), red degeneration (commonest change during pregnancy), calcification (common in long-standing myomas and menopause), and necrosis of a fibroid polyp (due to poor blood supply) are more frequently encountered than malignant change."
+    },
+    {
+      "stem": "What is the most common presentation of myoma:",
+      "options": [
+        "Menorrhagia.",
+        "Metrorrhagia.",
+        "Pelvic pain.",
+        "Infertility.",
+        "Asymptomatic."
+      ],
+      "correct": 4,
+      "explanation": "Uterine leiomyomas are detectable in almost 20% of women in the childbearing period, and in up to 70% of uteri examined at autopsy. Many cases are asymptomatic and are discovered incidentally during routine examinations or ultrasonography. While menorrhagia is the commonest symptom when symptoms are present, being asymptomatic is the most frequent presentation overall."
+    },
+    {
+      "stem": "Indications to interfere in asymptomatic myoma include one of the following:",
+      "options": [
+        "Uterine size reached 10 weeks size.",
+        "Intramural fibroid of 2 cm.",
+        "Non pedunculated subserous myoma.",
+        "Large Broad ligament fibroid.",
+        "Fibroid with hyaline degeneration."
+      ],
+      "correct": 3,
+      "explanation": "Conservative management is appropriate for small asymptomatic leiomyomas. However, intervention is required if the leiomyoma reaches a large size (> 14 weeks), is a broad ligament myoma (BLM) (due to risk of ureteric compression and renal function affection), is a submucous myoma (SMM) in infertile patients or those with recurrent pregnancy loss, or causes severe symptoms. Large broad ligament fibroids necessitate interference due to the risk of ureteric compression."
+    },
+    {
+      "stem": "A 30 years old P1+2, presented by heavy menstrual flow for 1 year. Trans- vaginal ultrasound revealed a sub mucus fibroid 4 cm filling the uterine cavity. What is the best treatment option with best chance to preserve fertility?",
+      "options": [
+        "Medical treatment with LHRH analogue.",
+        "Medical treatment by progestagens.",
+        "Open abdominal myomectomy.",
+        "Laparoscopic myomectomy.",
+        "Hysteroscopic myomectomy."
+      ],
+      "correct": 4,
+      "explanation": "For a young patient (30 years old, P1+2) with infertility and heavy menstrual bleeding caused by a 4 cm submucous fibroid filling the uterine cavity, hysteroscopic myomectomy is the most suitable treatment to preserve fertility. It is specifically indicated for the removal of small submucous myomas protruding into the uterine cavity, offering minimal pain and bleeding with a short recovery period, making it ideal for fertility preservation. Open abdominal myomectomy is for larger and multiple myomas, and laparoscopic myomectomy is mainly for subserous myomas. Medical treatments are temporary and may not be effective for a fibroid of this size and location."
+    },
+    {
+      "stem": "An infertile 30 years old woman suffers from menorrhagia with pelvic pain. U/S revealed a pedunculated submucous 3cm myoma. Best treatment for her:",
+      "options": [
+        "Conservative, hoping spontaneous pregnancy to occur.",
+        "Abdominal myomectomy.",
+        "Hormonal treatment by progestins.",
+        "Hysteroscopic myomectomy.",
+        "Medical treatment by non-steroidal anti-inflammatory drugs."
+      ],
+      "correct": 3,
+      "explanation": "For an infertile young woman (30 years old) with menorrhagia and pelvic pain due to a pedunculated submucous myoma, hysteroscopic myomectomy is the best treatment option. This procedure is ideal for removing submucous fibroids that protrude into the uterine cavity, offering the best chance to restore fertility by clearing the uterine cavity and resolving bleeding symptoms, with minimal invasiveness."
+    },
+    {
+      "stem": "What is the incidence of sarcomatous degeneration in a uterine leiomyoma?",
+      "options": [
+        "Less than 1%.",
+        "About 3%.",
+        "Ranges from 5 to 10%.",
+        "About 15%.",
+        "About 30%."
+      ],
+      "correct": 0,
+      "explanation": "Malignant transformation into leiomyosarcoma is very rare, occurring in less than 0.1% of myomas. This is significantly less than 1%."
+    },
+    {
+      "stem": "A 35 years multiparous woman discovered accidently that she has an intramural myoma 3 cm. The proper management is:",
+      "options": [
+        "Total abdominal hysterectomy with ovarian preservation.",
+        "Total abdominal hysterectomy with bilateral salpingo oophorectomy.",
+        "Conservative management.",
+        "Myomectomy.",
+        "Uterine artery embolization."
+      ],
+      "correct": 2,
+      "explanation": "For a 35-year-old multiparous woman with an asymptomatic intramural myoma of 3 cm, conservative management with periodic follow-up (every 6-12 months) is appropriate. Intervention is generally indicated for larger sizes, specific locations (like broad ligament or submucous in infertile patients), or if symptoms develop."
+    },
+    {
+      "stem": "A 32 years old woman, 3rdG P2 of African-American origin, presents to labor ward at 32 weeks gestation with severe constant left sided abdominal pain. This is a singleton pregnancy. On examination: Symphysio-fundal height is 36 cm. Her uterus is soft but irregular, with marked tenderness over left side of the uterus. Maternal pulse is 114 bpm, BP is 119/62 and Temp is 37 C. Fetal heart is 146 bpm. Urine analysis is negative. Most likely diagnosis:",
+      "options": [
+        "Choriocarcinoma.",
+        "Abdominal ectopic pregnancy.",
+        "Red degeneration in fibroid.",
+        "Polyhydramnios.",
+        "Complicated ovarian cyst."
+      ],
+      "correct": 2,
+      "explanation": "Red degeneration (necrobiosis) is the commonest change during pregnancy. It presents clinically with enlarged, tender myomas, acute pelvic pain, and mild pyrexia. The patient's symptoms of severe constant abdominal pain, irregular and tender uterus, mild tachycardia, and pregnancy at 32 weeks strongly point towards red degeneration of a fibroid."
+    },
+    {
+      "stem": "A 37-year-old nulliparous woman is admitted with acute urine retention, fever and dysuria. She has regular heavy periods lasting for 7 days every month. Ultrasound shows a 15-cm cervical fibroid. What is the initial best management?",
+      "options": [
+        "Immediate abdominal myomectomy.",
+        "Vaginal hysterectomy.",
+        "Total abdominal hysterectomy.",
+        "Catheterization and antibiotics.",
+        "Uterine artery embolization."
+      ],
+      "correct": 3,
+      "explanation": "A large cervical fibroid can cause pressure symptoms on the urinary bladder and ureters, leading to urine retention. The presence of fever and dysuria suggests an associated urinary tract infection (UTI). The initial best management is to relieve the retention via catheterization and treat the infection with antibiotics. Surgical removal of the fibroid would be a secondary step after resolving the acute symptoms."
+    },
+    {
+      "stem": "The gold standard investigation for uterine leiomyomata is:",
+      "options": [
+        "MRI.",
+        "IVP.",
+        "US.",
+        "Laparoscopy.",
+        "Hysteroscopy."
+      ],
+      "correct": 2,
+      "explanation": "Pelvic ultrasound (US), including TAS and TVS, is considered the gold standard in evaluation of uterine factor and is used for diagnosis and evaluation of uterine fibroids, including their number, size, site, type, and relation to the cavity. MRI is useful but not typically the first-line 'gold standard' for initial diagnosis."
+    },
+    {
+      "stem": "The commonest change in fibroid during child-bearing period is:",
+      "options": [
+        "Atrophy.",
+        "Cystic degeneration.",
+        "Hyaline degeneration.",
+        "Fatty degeneration.",
+        "Calcification."
+      ],
+      "correct": 2,
+      "explanation": "Hyaline degeneration is the commonest change occurring in the childbearing period, mostly due to diminished vascularity in the center of the tumor. Atrophy is common in menopause, red degeneration in pregnancy, fatty degeneration is a precursor to calcification, and calcification in long-standing myomas."
+    },
+    {
+      "stem": "A 65-year-old woman is noted to have suspected uterine fibroids on physical examination. Over the course of 1 year, she is noted to have a progressive abdominal enlargement of her uterus from 12 weeks size to 20 weeks size. Best management is:",
+      "options": [
+        "Continued careful observation.",
+        "Gn RH agonist.",
+        "Abdominal myomectomy.",
+        "Exploratory laparotomy with hysterectomy.",
+        "Progestins therapy."
+      ],
+      "correct": 3,
+      "explanation": "Myomas that first appear, or increase in size, in the menopause are highly suspicious for malignancy (sarcomatous changes). A rapid progressive abdominal enlargement of the uterus from 12 weeks to 20 weeks size in a 65-year-old postmenopausal woman is a red flag. Therefore, exploratory laparotomy with hysterectomy is the only choice whenever surgery is indicated in such cases to rule out and treat potential malignancy."
+    },
+    {
+      "stem": "Cellular leiomyoma has:",
+      "options": [
+        "Mitotic counts 5-10/10 HPF with lack of cytological atypia.",
+        "Mitotic counts 5-10/10 HPF with cytological atypia.",
+        "Mitotic counts >10/10 HPF with lack of cytological atypia.",
+        "Mitotic counts >10/10 HPF with cytological atypia.",
+        "Mitotic counts 50/HPF with or without cytological atypia."
+      ],
+      "correct": 0,
+      "explanation": "The provided textbook does not contain a specific definition or characteristic mitotic count for 'cellular leiomyoma.' However, it states that leiomyosarcoma is suspected when a mitotic count is more than 10 mitotic figures /10 HPF. Therefore, a benign cellular leiomyoma would typically fall below this threshold for malignancy and lack the overt cytological atypia associated with sarcoma."
+    },
+    {
+      "stem": "Interstitial uterine myomas most often cause menorrhagia due to:",
+      "options": [
+        "Secondary degeneration.",
+        "Rupture into endometrial cavity.",
+        "Pressure necrosis.",
+        "Inhibition of uterine contractility.",
+        "Prolapse."
+      ],
+      "correct": 3,
+      "explanation": "Interstitial myomas (ISM), especially large and multiple ones, are a common cause of heavy menstrual bleeding (menorrhagia). This excessive bleeding can be due to mechanical interference with uterine contraction, increased surface area of the endometrium, and increased myometrial vascularity. Inhibition of uterine contractility is a key mechanism for HMB caused by myomas."
+    },
+    {
+      "stem": "Following is not a risk factor for uterine fibroids:",
+      "options": [
+        "Obesity.",
+        "Early menopause.",
+        "Nulliparous women",
+        "Afro-American races.",
+        "Strong family history"
+      ],
+      "correct": 1,
+      "explanation": "Risk factors for uterine leiomyomas include obesity, nulliparous women, Afro-American races, and a strong family history. Leiomyomas are estrogen-dependent tumors, appearing in the childbearing period and increasing in size during pregnancy or estrogen therapy. Therefore, early menopause, which implies reduced estrogen exposure, is not a risk factor; rather, myomas typically undergo atrophy after menopause due to estrogen deficiency."
+    },
+    {
+      "stem": "Expectant management for fibroid is practiced in the following EXCEРТ:",
+      "options": [
+        "Women near menopause.",
+        "Asymptomatic fibroids.",
+        "Intramural myomas.",
+        "Rapidly enlarging fibroids.",
+        "Compliant with regular follow up."
+      ],
+      "correct": 3,
+      "explanation": "Expectant management (periodic follow-up) is appropriate for small asymptomatic leiomyomas. This includes women near menopause (as fibroids atrophy), intramural myomas (if asymptomatic), and compliant patients. However, rapidly enlarging fibroids are a suspicion for malignant transformation (leiomyosarcoma) and warrant intervention rather than expectant management."
+    },
+    {
+      "stem": "All the followings are medical modality of treatment of fibroids, EXCEPT:",
+      "options": [
+        "GnRH agonists.",
+        "Antiprogesterones.",
+        "LNG-IUD.",
+        "Estrogen therapy.",
+        "Aromatase inhibitors."
+      ],
+      "correct": 3,
+      "explanation": "Medical treatment for fibroids aims to control bleeding and pain. Modalities include GnRH agonists (to reduce size and vascularity), and LNG-IUD (to induce hypomenorrhea). Estrogen therapy is generally contraindicated as fibroids are estrogen-dependent and would likely increase in size with estrogen."
+    },
+    {
+      "stem": "All the followings are theories to explain the pathogenesis of endometriosis EXХСЕРТ:",
+      "options": [
+        "Retrograde menstruation.",
+        "Celomic metaplasia.",
+        "Hematogenous dissemination.",
+        "Lymphatic exfoliation.",
+        "Autoimmune disease."
+      ],
+      "correct": 3,
+      "explanation": "Several theories for the etiology of endometriosis are discussed, including Sampson's theory of Retrograde Menstruation, Halban's theory of Lymphatic Spread, and the theory of coelomic metaplasia. Hematogenous dissemination is also a recognized route of spread for ectopic endometrial tissue. The provided text uses 'Lymphatic Spread', not 'Lymphatic exfoliation'."
+    },
+    {
+      "stem": "Pelvic endometriosis is characteristically associated with:",
+      "options": [
+        "Dyspareunia.",
+        "Hydronephrosis.",
+        "Rectal bleeding.",
+        "Prolonged use of IUCD.",
+        "Haematometra."
+      ],
+      "correct": 0,
+      "explanation": "The major clinical presentations of endometriosis are pain and/or infertility. Pain symptoms include chronic pelvic pain and dysmenorrhea. Dyspareunia (painful intercourse) is also listed as a symptom of endometriosis. Hydronephrosis, rectal bleeding, or hematometra are not characteristic associations for pelvic endometriosis in general, although severe cases or specific locations could potentially cause them."
+    },
+    {
+      "stem": "Adenomyosis:",
+      "options": [
+        "May lead to primary dysmenorrhea.",
+        "Causes polymenorrhea.",
+        "Can be diagnosed by endometrial biopsy.",
+        "Causes uterine enlargement.",
+        "May lead to infertility."
+      ],
+      "correct": 3,
+      "explanation": "Adenomyosis is the presence of endometrial glands and stroma deep within the myometrium. The diffuse type is characterized by the uterus being symmetrically enlarged, globular in shape, with a firm consistency. It is primarily a disease of multiparous women in their late thirties and early forties. It causes menorrhagia and secondary dysmenorrhea, not primary dysmenorrhea. It cannot be diagnosed by endometrial biopsy as the pathology is deep within the myometrium."
+    },
+    {
+      "stem": "The most common symptom associated with adenomyosis is:",
+      "options": [
+        "Infertility.",
+        "Menorrhagia.",
+        "Haematometra.",
+        "Dyspareunia.",
+        "Metrorrhagia."
+      ],
+      "correct": 1,
+      "explanation": "The clinical picture of adenomyosis includes heavy menstrual bleeding (HMB) or menorrhagia as the commonest symptom, along with congestive dysmenorrhea."
+    },
+    {
+      "stem": "A 33-year-old patient has been diagnosed as having adenomyosis. Most consistent symptom with this diagnosis is:",
+      "options": [
+        "Dyspareunia.",
+        "Mood swings.",
+        "Painful defecation.",
+        "Secondary dysmenorrhea.",
+        "Infertility."
+      ],
+      "correct": 3,
+      "explanation": "Adenomyosis typically affects multiparous women in their late thirties and early forties. The symptoms include heavy menstrual bleeding (menorrhagia) and congestive dysmenorrhea (secondary dysmenorrhea). It does not typically cause dyspareunia, mood swings, or painful defecation as it's an acquired condition."
+    },
+    {
+      "stem": "A 35 years old multiparous woman has a chronic pelvic pain with bilateral endometriomas. The gold standard modality for diagnosis and staging is:",
+      "options": [
+        "Transvaginal pelvic ultrasound.",
+        "Pelvic MRI.",
+        "Laparoscopy.",
+        "Staging laparotomy.",
+        "Sonohysterography."
+      ],
+      "correct": 2,
+      "explanation": "Diagnostic laparoscopy (with or without biopsy) is the gold standard in diagnosis and staging of endometriosis. It allows direct visualization of endometriotic implants and adhesions, and taking biopsies to confirm diagnosis. While TVS shows endometriomas ('ground glass appearance'), it may not visualize small lesions, and MRI is less definitive than direct visualization."
+    },
+    {
+      "stem": "Choose the correct statement regarding treatment of endometriosis:",
+      "options": [
+        "Cyclic OCP could be used for 6 months.",
+        "Danazole is the treatment of choice for 1 to 2 years.",
+        "Long acting GnRH agonists could be used for 6 months.",
+        "Small dose estrogen can reduce the associated pain.",
+        "Surgical excision should be offered in all cases."
+      ],
+      "correct": 2,
+      "explanation": "Medical treatment for endometriosis aims to induce amenorrhea. Long-acting GnRH agonists induce a pseudo-menopause state, leading to atrophy of ectopic endometrium, and are typically given SC monthly or every 3 months for 3-6 months. Continuous OCPs are also used, but Danazol is no longer in common use due to irreversible androgenic side effects."
+    },
+    {
+      "stem": "A 45 years old multiparous woman had 2ry dysmenorrhea and menorrhagia for 2 years. Examination revealed mild symmetric enlarged tender uterus. TVS revealed diffuse thickening of uterine muscles. Most likely diagnosis is:",
+      "options": [
+        "Endometrial hyperplasia.",
+        "Uterine leiomyoma.",
+        "Adenomyosis.",
+        "Endometriosis.",
+        "Congenital hypertrophy of uterine muscle."
+      ],
+      "correct": 2,
+      "explanation": "Adenomyosis is characterized by menorrhagia and congestive dysmenorrhea (secondary dysmenorrhea). On examination, the uterus is typically symmetrically enlarged, globular, and tender. TVS revealing diffuse thickening of uterine muscles further supports the diagnosis of adenomyosis."
+    },
+    {
+      "stem": "Choose the correct statement regarding treatment of endometriosis:",
+      "options": [
+        "Continuous OCP could be used for 6 months to induce pseudo-pregnancy.",
+        "Danazole is the treatment of choice for 1 to 2 years.",
+        "GnRH agonists can cause disease progression.",
+        "Expectant management is indicated in cases with large endometrioma.",
+        "Surgical excision should be offered in all cases."
+      ],
+      "correct": 0,
+      "explanation": "Continuous Combined Oral Contraceptive Pills (COCs) are used to induce amenorrhea with a pseudo-pregnancy state, aiming for pseudo-decidualization and atrophy of ectopic endometrium, typically for 3-6 months. Danazol is no longer recommended due to side effects. Expectant management is for minimal symptoms/lesions, not large endometriomas."
+    },
+    {
+      "stem": "A 50-year-old multipara with regular cycles, presented by repeated attacks of contact bleeding. Causes include all of the following EХСЕРТ:",
+      "options": [
+        "Cervical cancer.",
+        "Cervical erosion.",
+        "Large submucus fibroid polyp.",
+        "Atrophic vaginitis.",
+        "Pelvic endometriosis"
+      ],
+      "correct": 4,
+      "explanation": "Contact bleeding (CB), especially post-coital bleeding, can be caused by benign cervical lesions (mucous polyps, cervical erosion), cervical cancer, severe Trichomonas vaginitis, and menopausal atrophic vaginitis. A large submucous fibroid polyp with an ulcerated tip can also cause bleeding on touch. Pelvic endometriosis typically causes dysmenorrhea, chronic pelvic pain, and dyspareunia, but not usually contact bleeding."
+    },
+    {
+      "stem": "All the following statements regarding endometriosis are correct EXCEPT:",
+      "options": [
+        "Is associated with fixed retroversion of the uterus.",
+        "Typically presents with menorrhagia.",
+        "May present with bilateral pelvic masses.",
+        "Is a recognized cause of infertility.",
+        "May present with dysmenorrhea and dyspareunia."
+      ],
+      "correct": 1,
+      "explanation": "Endometriosis is commonly associated with a fixed retroversion of the uterus, bilateral pelvic masses (endometriomas/chocolate cysts), and is a recognized cause of infertility. It typically presents with dysmenorrhea and dyspareunia. While abnormal uterine bleeding can occur, menorrhagia is not its typical or most common presentation."
+    },
+    {
+      "stem": "The gold standard investigation for endometriosis is:",
+      "options": [
+        "CT.",
+        "MRI.",
+        "US.",
+        "Hysteroscopy.",
+        "Laparoscopy."
+      ],
+      "correct": 4,
+      "explanation": "Diagnostic laparoscopy (with or without biopsy) is the gold standard in diagnosis and staging of endometriosis. It allows for direct visualization of endometriotic implants and adhesions, as well as obtaining biopsies to confirm the visual diagnosis."
+    },
+    {
+      "stem": "The cut-off size for excision of ovarian endometrioma is:",
+      "options": [
+        "1 cm.",
+        "2 cm.",
+        "4 cm.",
+        "5 cm.",
+        "10 cm."
+      ],
+      "correct": 2,
+      "explanation": "The summary of treatment options for endometriosis states: 'Endometrioma > 4.0 cm: Ovarian cystectomy and laser ablation via laparoscopy, or laparotomy'."
+    },
+    {
+      "stem": "A 33 years old woman presents with progressive severe lower pelvic cramps and diarrhea with a sharp stabbing pain during urination at the time of her menstrual flow. What is the most likely diagnosis:",
+      "options": [
+        "Adenomyosis.",
+        "Endometriosis.",
+        "Uterine fibroid.",
+        "PID.",
+        "Crhon's disease."
+      ],
+      "correct": 1,
+      "explanation": "This constellation of symptoms strongly suggests endometriosis. Severe lower pelvic cramps and sharp stabbing pain during urination that is cyclical (at the time of menstrual flow) is characteristic of endometriosis affecting the bladder or uterosacral ligaments. Diarrhea can also be associated with bowel endometriosis."
+    },
+    {
+      "stem": "Most common symptom of endometriosis:",
+      "options": [
+        "Dysmenorrhea.",
+        "Menorrhagia.",
+        "Amenorrhea.",
+        "Polymenorrhea.",
+        "Pelvic mass."
+      ],
+      "correct": 0,
+      "explanation": "The two major clinical presentations of endometriosis are pain and/or infertility. Among pain symptoms, secondary dysmenorrhea is one of the commonest clinical presentations, where pain starts during menstruation and increases rapidly with the flow."
+    },
+    {
+      "stem": "The most common symptom of endometrial hyperplasia is:",
+      "options": [
+        "Vaginal discharge.",
+        "Vaginal bleeding.",
+        "Amenorrhea.",
+        "Pelvic pain.",
+        "Abdominal distention."
+      ],
+      "correct": 1,
+      "explanation": "Endometrial hyperplasia (EH) is typically caused by unopposed estrogenic effect on the endometrium. It often presents as abnormal uterine bleeding (AUB), particularly metrorrhagia (IMB) or perimenopausal bleeding. Vaginal bleeding is the primary and most common symptom of EH."
+    },
+    {
+      "stem": "A 60 years old hypertensive multipara, menopausal for 10 years, presented by an attack of mild vaginal bleeding. TVS revealed normal size AVF uterus with a 10 mm endometrial thickness. How can you counsel this patient?",
+      "options": [
+        "Just control hypertension and follow up.",
+        "Progestagens for few months will stop bleeding,",
+        "Fractional curettage is mandatory.",
+        "Check F.SH and L.H. before taking an action.",
+        "Hysterosalpingography should be done for further uterine evaluation."
+      ],
+      "correct": 2,
+      "explanation": "Postmenopausal bleeding (PMB) is always abnormal, even if mild. An endometrial thickness of 10 mm in a postmenopausal woman is strongly suspicious of EH or EC. Therefore, fractional curettage is the gold standard method for diagnosis of EC and is mandatory to obtain endometrial biopsy and rule out malignancy."
+    },
+    {
+      "stem": "A 45 years old multipara with regular cycles, presented by attacks of contact bleeding. Possible causes include one of the following:",
+      "options": [
+        "Cervical erosion.",
+        "Endometrial hyperplasia.",
+        "Tubo-ovarian abscess.",
+        "Pelvic endometriosis.",
+        "Hematometra."
+      ],
+      "correct": 0,
+      "explanation": "Contact bleeding (CB), which occurs on touching the cervix, can be caused by benign cervical lesions such as mucous polyps and cervical erosion (ectopy), which are listed as the most common benign causes."
+    },
+    {
+      "stem": "In the previous case, which of the following investigations should be included?",
+      "options": [
+        "Fractional curettage.",
+        "Pap smear.",
+        "C.T pelvis.",
+        "CA 125.",
+        "Diagnostic laparoscopy."
+      ],
+      "correct": 1,
+      "explanation": "For a patient presenting with contact bleeding, especially in the perimenopausal age group, it is crucial to rule out cervical pathologies. The source states that a PAP smear test is done to exclude high grade intracervical lesions (CIN), which can present with contact bleeding."
+    },
+    {
+      "stem": "A 35 years old P1 +0, presented with irregular vaginal bleeding. Endometrial curettage revealed simple endometrial hyperplasia without atypia. She had not yet completed her family. How can you council this case?",
+      "options": [
+        "Hysterectomy should be done.",
+        "Pelvic irradiation is an alternative option.",
+        "Endometrial ablation is the preferred option.",
+        "Follow up till her family is complete.",
+        "Medical treatment by progestagens for about 6 months."
+      ],
+      "correct": 4,
+      "explanation": "For simple endometrial hyperplasia (EH) without atypia in a young patient (35 years old) who desires to complete her family, medical treatment with cyclic gestagens is the appropriate management. This aims to reverse the hyperplasia and allows for potential future fertility. Simple EH without atypia has a low malignant potential (1%)."
+    },
+    {
+      "stem": "A 45 years old P2, presented with irregular vaginal bleeding. Endometrial curettage revealed complex endometrial hyperplasia with atypia. How can you council this case?",
+      "options": [
+        "Hysterectomy should be done.",
+        "Endometrial ablation is the preferred option.",
+        "Pelvic irradiation is an alternative option.",
+        "Medical treatment by progestagens for about 6 months.",
+        "Follow up and repeat curettage after 6 months."
+      ],
+      "correct": 0,
+      "explanation": "Complex endometrial hyperplasia with atypia has a significant malignant potential (29%) to progress to endometrial carcinoma. For a 45-year-old multiparous woman (P2) who has likely completed her family, hysterectomy is the recommended treatment given the high risk of malignancy."
+    },
+    {
+      "stem": "Which of the following is a predisposing factor for endometrial carcinoma?",
+      "options": [
+        "Early age of 1st intercourse.",
+        "Late menopause.",
+        "Sexually transmitted diseases.",
+        "Multiparity.",
+        "Prolonged combined oral contraceptive pill use."
+      ],
+      "correct": 1,
+      "explanation": "Predisposing factors for endometrial carcinoma (EC) include conditions associated with unopposed estrogen stimulation. These include late menopause (age > 55 years), nulliparity or low parity, PCOS (chronic anovulation), marked obesity, and unopposed estrogen therapy."
+    },
+    {
+      "stem": "Colposcope permits one to do which of the following?",
+      "options": [
+        "View the cervix at 1 to 4 power magnification.",
+        "See the entire transition zone in all cases.",
+        "Choose the most suspicious areas on cervical portion to biopsy.",
+        "To confirm cancer staging.",
+        "Could be used for treatment of invasive cancer."
+      ],
+      "correct": 2,
+      "explanation": "Colposcopy allows inspection of the transformation zone (TZ) with magnification (up to 20 times) after applying acetic acid. Its primary purpose is to direct biopsies from areas of abnormal epithelium (aceto-white areas, punctuation, mosaicism, leukoplakia, and Schiller's iodine negative areas) for histopathologic examination."
+    },
+    {
+      "stem": "A 60-year-old, obese, hypertensive and diabetic woman presented by recurrent attacks of mild vaginal bleeding after about 10 years of complete cessation of menstruation. All of the following are etiology EXCEРТ:",
+      "options": [
+        "Uncontrolled hypertension.",
+        "Atrophic vaginitis.",
+        "Cervical polyp.",
+        "Endometrial carcinoma.",
+        "Benign leiomyoma."
+      ],
+      "correct": 4,
+      "explanation": "For a 60-year-old postmenopausal woman with recurrent vaginal bleeding (PMB), common etiologies include atrophic vaginitis, cervical polyp, and endometrial carcinoma. Uncontrolled hypertension is a risk factor for EC. However, benign leiomyomas typically undergo atrophy after menopause due to estrogen deficiency and are not expected to cause bleeding."
+    },
+    {
+      "stem": "A 25 years old nullipara, presented with irregular vaginal bleeding and delayed conception. Endometrial curettage revealed complex endometrial hyperplasia without atypia. How can you council this case?",
+      "options": [
+        "Hysterectomy should be done.",
+        "Endometrial ablation is the preferred option.",
+        "Pelvic irradiation is an alternative option.",
+        "Cyclic gestagens for about 6 months.",
+        "Tranexamic acid and wait spontaneous pregnancy."
+      ],
+      "correct": 3,
+      "explanation": "Complex endometrial hyperplasia without atypia has a 3% progression to endometrial carcinoma. For abnormal uterine bleeding (AUB) due to anovulation, especially in a young patient desiring fertility, cyclic gestagens (oral tablets for 14-21 days/month over 3 successive cycles) are used to correct unopposed estrogenic effects and induce regular endometrial shedding."
+    },
+    {
+      "stem": "A 54-year-old woman is found to have endometrial hyperplasia on endometrial biopsy. A functional ovarian tumor to be suspected is:",
+      "options": [
+        "Lipid cell tumor.",
+        "Granulosa-theca cell tumor.",
+        "Sertoli-Leydig tumor.",
+        "Mutinous cystadenocarcinoma.",
+        "Polycystic ovary."
+      ],
+      "correct": 1,
+      "explanation": "Estrogen-producing ovarian neoplasms, such as granulosa-theca cell tumors, are a recognized risk factor for endometrial hyperplasia (EH) and endometrial carcinoma. Granulosa cell tumors specifically secrete estrogen and are associated with EH in 25-50% of cases."
+    },
+    {
+      "stem": "Complex endometrial hyperplasia without atypia in a woman aged 41 years could be treated with the following EXCEPT:",
+      "options": [
+        "Progestins.",
+        "Estrogens.",
+        "Progestins plus estrogens.",
+        "Hormone released intrauterine device (Mirena).",
+        "Hysterectomy."
+      ],
+      "correct": 1,
+      "explanation": "Endometrial hyperplasia (EH) often results from unopposed estrogenic effect on the endometrium. Therefore, administering exogenous estrogens would exacerbate the condition and is contraindicated. Treatments typically involve progesterone to counteract the estrogenic effect."
+    },
+    {
+      "stem": "A 50-year-old woman had a Mirena IUS inserted 2 years ago for heavy menstrual periods. She was initially amenorrhoeic but has now developed heavy menstrual bleeding. Endometrial biopsy shows complex endometrial hyperplasia with atypia. What is the best treatment option?",
+      "options": [
+        "Oral contraceptive pills in addition to Mirena in situ.",
+        "Reinsert another new Mirena coil.",
+        "Total abdominal hysterectomy and bilateral salpingo-oophrectomy",
+        "Total abdominal hysterectomy.",
+        "Tranexamic acid in addition to Mirena coil."
+      ],
+      "correct": 2,
+      "explanation": "Complex endometrial hyperplasia with atypia has a high malignant potential, with a 29% progression rate to endometrial carcinoma. For perimenopausal AUB in the presence of atypical complex EH, hysterectomy is the recommended surgical treatment. Total abdominal hysterectomy and bilateral salpingo-oophorectomy (TAH-BSO) is the gold standard surgical treatment for Stage I endometrial carcinoma."
+    },
+    {
+      "stem": "A TVS done for a 55-year-old woman who is on tamoxifen for 5 years for breast cancer, showed the presence of cystic spaces in the endometrium and an endometrial thickness of 15 mm. Best management option:",
+      "options": [
+        "High dose oral progestogens.",
+        "Do nothing as she did not have any bleeding.",
+        "Hysteroscopy and endometrial biopsy.",
+        "Mirena IUS insertion.",
+        "MRI."
+      ],
+      "correct": 2,
+      "explanation": "Long-term Tamoxifen therapy is a risk factor for endometrial hyperplasia (EH) and endometrial carcinoma. In a postmenopausal woman, an endometrial thickness above 5.0 mm is strongly suspicious for EH, and >10 mm correlates with endometrial carcinoma. Fractional curettage (endometrial biopsy) is the gold standard for diagnosis of endometrial carcinoma. Hysteroscopy also allows visualization of the uterine cavity to direct biopsies."
+    },
+    {
+      "stem": "A 48-year-old P4 presented with heavy menstrual bleeding for 3 years. Cervical smears are normal and her BMI is 39. TVS reveals a bulky uterus of 11 mm endometrial thickness and three intramural fibroids of 2, 4 and 5 cm size respectively. On PV you find mild cystocele, moderate rectocele and second-degree uterine descent. Most appropriate next step:",
+      "options": [
+        "Arrange for classical repair operation.",
+        "Arrange for total abdominal hysterectomy.",
+        "Counsel regarding endometrial ablation.",
+        "Insert Mirena intrauterine system and follow up in 6 months.",
+        "Perform endometrial biopsy."
+      ],
+      "correct": 4,
+      "explanation": "The patient is 48 years old (perimenopausal) and obese (BMI 39), with heavy menstrual bleeding and an endometrial thickness of 11 mm. While fibroids and prolapse are present, a thickened endometrium, especially in an obese perimenopausal woman, necessitates ruling out endometrial pathology like endometrial hyperplasia or carcinoma. Endometrial biopsy (or fractional curettage) is the gold standard for this diagnosis."
+    },
+    {
+      "stem": "A 46-year-old P2 presents with painful heavy menstrual bleeding for 1 year. Her BMI is 44, but fit and well. She is currently on iron supplements for anaemia. TVS shows an endometrial thickness of 12 mm with a bulky uterus and normal ovaries with no pelvic pathology. A pipelle biopsy suggests a proliferative endometrium. What treatment is most suited to her?",
+      "options": [
+        "Combined oral contraceptive pill.",
+        "GnRH Analogues.",
+        "Mefenamic acid.",
+        "Mirena IUS.",
+        "Tranexamic acid."
+      ],
+      "correct": 3,
+      "explanation": "This patient presents with heavy menstrual bleeding, is perimenopausal (46 years old), and likely has dysfunctional uterine bleeding (DUB) with a proliferative endometrium, suggesting anovulation. The progesterone-impregnated IUD (LNG-IUS/Mirena) provides continuous slow release of gestagen, effectively inducing hypomenorrhea and reducing menstrual blood loss by up to 70%. This is suitable for recurrent DUB and addresses the unopposed estrogen effect locally."
+    },
+    {
+      "stem": "Risk factors of cervical carcinoma include:",
+      "options": [
+        "Prolonged unopposed effect of estrogen.",
+        "Nulliparity or low parity.",
+        "Infection with HPV.",
+        "Late age of marriage.",
+        "Late menopause."
+      ],
+      "correct": 2,
+      "explanation": "Human Papilloma Virus (HPV), specifically high-risk types like 16, 18, 31, 33, 35, 45, and 58, account for nearly 95% of precancerous cervical lesions worldwide. Therefore, HPV infection is the primary risk factor for cervical carcinoma."
+    },
+    {
+      "stem": "A 34-year -old woman is diagnosed to have VIN3 on a punch biopsy from a vulval lesion. What is the recommended treatment for this condition?",
+      "options": [
+        "Interferon therapy.",
+        "Laser ablation of the lesion.",
+        "Local surgical excision.",
+        "Simple vulvectomy.",
+        "Topical imiquimod cream."
+      ],
+      "correct": 2,
+      "explanation": "Vulvar HSIL (VIN usual type), which includes VIN3, is considered a premalignant condition. The recommended treatment for all vulvar HSIL is local excision."
+    },
+    {
+      "stem": "The following best describes the transformation zone of the cervix?",
+      "options": [
+        "Glandular transformation of squamous epithelium.",
+        "Metaplastic transformation of columnar to squamous epithelium.",
+        "Precancerous transformation of squamous epithelium.",
+        "Transformation from columnar to transitional epithelium.",
+        "Transformation from squamous to transitional epithelium."
+      ],
+      "correct": 1,
+      "explanation": "The transformation zone (TZ) is the area where squamous metaplasia occurs. This involves the continuous generation of both squamous and columnar cells from immature reserve cells at the squamo-columnar junction (SCJ) throughout a female's life."
+    },
+    {
+      "stem": "Schiller's iodine applied the cervix will stain:",
+      "options": [
+        "A dysplastic area.",
+        "A carcinoma.",
+        "An erosion.",
+        "Normal columnar epithelium.",
+        "Mature squamous epithelium."
+      ],
+      "correct": 4,
+      "explanation": "Colposcopic directed biopsies are performed from areas that appear abnormal after applying 3%-5% acetic acid solution and from Schiller's iodine negative areas. This implies that normal, glycogen-rich mature squamous epithelium stains positive with iodine, while abnormal areas (which are glycogen-poor) do not."
+    },
+    {
+      "stem": "A 34-year-old woman is 16 weeks pregnant and has a Pap smear suspicious for cancer. How do you advise her?",
+      "options": [
+        "Have a colposcopy with biopsy.",
+        "Have colposcopy, but biopsy is too risky in pregnancy.",
+        "Have a repeat Pap smear at 3 months.",
+        "Undergo a termination of pregnancy and then undergo complete evaluation.",
+        "Have cervical conization."
+      ],
+      "correct": 0,
+      "explanation": "An abnormally suspicious Pap smear requires further investigation with colposcopy and biopsies from abnormal areas. Survival rates for cervical cancer do not differ between pregnant and non-pregnant women when matched by age and stage, indicating that diagnosis and appropriate management planning are crucial regardless of pregnancy status."
+    },
+    {
+      "stem": "The following associated with increased risk of endometrial cancer:",
+      "options": [
+        "Multiparity.",
+        "Use of combined oral contraceptive pill.",
+        "Family history of cervical cancer.",
+        "Polycystic ovary syndrome.",
+        "Early menopause."
+      ],
+      "correct": 3,
+      "explanation": "Polycystic ovary syndrome (PCOS) is a significant risk factor for endometrial cancer because chronic anovulation in PCOS leads to prolonged periods of estrogen (E2) unopposed by progesterone (PRG)."
+    },
+    {
+      "stem": "Protective factor for endometrial cancer is:",
+      "options": [
+        "Early menarche.",
+        "Obesity.",
+        "Nulliparity.",
+        "Early menopause.",
+        "Old age."
+      ],
+      "correct": 3,
+      "explanation": "Risk factors for endometrial cancer include 'Late menopause age > 55 years'. Conversely, early menopause would be a protective factor as it reduces the total lifetime exposure to estrogen, which is a primary driver of endometrial cancer."
+    },
+    {
+      "stem": "Regarding transformation zone (TZ), the following are true EХСЕРТ:",
+      "options": [
+        "Squamous metaplasia occurring within the TZ is abnormal.",
+        "Most cervical neoplasia arises within the TZ.",
+        "TZ is the first area from which a biopsy should be taken.",
+        "TZ lies between the original squamous epithelium and columnar epithelium.",
+        "The location and size of TZ changes through the process of squamous metaplasia."
+      ],
+      "correct": 0,
+      "explanation": "The transformation zone (TZ) is the area where squamous metaplasia normally occurs, as immature reserve cells continuously generate both squamous and columnar cells. It is only when atypical metaplasia occurs due to carcinogenic factors that it becomes abnormal and potentially precancerous."
+    },
+    {
+      "stem": "The following is the LEAST common outcome of HPV infection?",
+      "options": [
+        "Condylomata.",
+        "Latent infection.",
+        "Subclinical infection.",
+        "Cervical erosion.",
+        "Neoplasia (dysplasia or cancer)."
+      ],
+      "correct": 4,
+      "explanation": "Genital HPV infections are frequently asymptomatic, meaning many are subclinical or latent. While high-risk HPV types are strongly associated with precancerous lesions, they account for 'nearly 95% of precancerous lesions worldwide,' implying that not all infections progress. Given the high prevalence of HPV and the often asymptomatic nature, progression to neoplasia (dysplasia or cancer) is the least common outcome compared to latent, subclinical infection, or condylomata."
+    },
+    {
+      "stem": "The location of the squamocolumnar junction (SCJ) varies with age and hormonal status. The SCJ tends to move outward onto the ectocervix with which of the following conditions?",
+      "options": [
+        "At birth.",
+        "Menopause.",
+        "Pregnancy.",
+        "Prolonged lactation.",
+        "Use of progestin-only contraceptives."
+      ],
+      "correct": 2,
+      "explanation": "Excess estrogen, such as that occurring during pregnancy and with oral contraceptive use, causes growth of columnar epithelium replacing the stratified squamous epithelium on the ectocervix, leading to a condition sometimes called 'hormonal erosion' or ectopy. This process effectively moves the squamocolumnar junction outward."
+    },
+    {
+      "stem": "For which of the following women would discontinuation of cervical cancer screening be acceptable? All of their Pap tests to date have been negative and performed at intervals adherent to current screening guidelines.",
+      "options": [
+        "42-year-old woman with past hysterectomy for leiomyomas.",
+        "72-year-old woman in good health with one longstanding sexual partner.",
+        "55-year-old woman with metastatic breast cancer refusing further therapeutic cancer interventions.",
+        "35-year-old unmarried, but with positive sexual life.",
+        "All of the above are reasonable candidates for discontinuation of cervical cancer screening."
+      ],
+      "correct": 1,
+      "explanation": "The provided sources do not contain sufficient information to answer this question. The text mentions screening intervals (e.g., every 3 years for low-risk populations), but does not explicitly outline criteria for discontinuation of cervical cancer screening based on age or other factors."
+    },
+    {
+      "stem": "A 35-year-old has a Pap test result of HSIL. Subsequent colposcopy shows incomplete visualization of the squamocolumnar junction. Cervical biopsy confirms a CIN 3 lesion; there is also histologic CIN 2 presents in the endocervical curettage specimen. Most appropriate procedure for her:",
+      "options": [
+        "Cryosurgery.",
+        "Diathermy.",
+        "Hysterectomy.",
+        "Loop excision.",
+        "Laser ablation."
+      ],
+      "correct": 3,
+      "explanation": "For HSIL (CIN 2 and CIN 3), especially when the squamocolumnar junction is incompletely visualized and there is involvement in the endocervical canal, excisional procedures like Loop Electrosurgical Excision Procedure (LEEP) or conization are indicated to remove the entire transformation zone. Ablative methods are insufficient when the lesion extends into the canal."
+    },
+    {
+      "stem": "A 40 years old woman is seen for routine examination. Her menses are regular, she has no complaints. Pelvic examination is normal. Her pap smear shows HSIL. The best next step is:",
+      "options": [
+        "Immediate hysterectomy.",
+        "Repeat Pap smear at 3 months interval.",
+        "Punch biopsy of anterior cervical lip.",
+        "Colposcopy with biopsy.",
+        "Endocervical curettage."
+      ],
+      "correct": 3,
+      "explanation": "An abnormally suspicious Pap smear, such as one showing HSIL (high-grade squamous intraepithelial lesion), requires further investigation with colposcopy and biopsies from abnormal areas for definitive diagnosis."
+    },
+    {
+      "stem": "Based on 2009 American College of Obstetricians and Gynecologists (ACOG) guidelines, at what interval should a 52-year-old woman undergo cervical cancer cytologic screening if she has an average risk for this cancer and if her three previous, consecutive Pap test results are negative?",
+      "options": [
+        "Annually.",
+        "Every 2 years.",
+        "Every 4 years.",
+        "Every 3 years.",
+        "Every 5 years."
+      ],
+      "correct": 3,
+      "explanation": "Routine cervical cancer screening is recommended every 3 years for low-risk populations."
+    },
+    {
+      "stem": "The most important investigation to be done for a suspected case of endometrial carcinoma is:",
+      "options": [
+        "Transvaginal ultrasound.",
+        "Fractional curettage.",
+        "Hysteroscopy.",
+        "Tumor markers.",
+        "Investigations to detect distant spread."
+      ],
+      "correct": 1,
+      "explanation": "Fractional curettage (FC) is considered the gold standard method for diagnosis of endometrial carcinoma (EC), confirming the diagnosis, histologic type, and grade, and detecting cervical spread."
+    },
+    {
+      "stem": "The operation of choice for a stage Ia endometrial carcinoma is:",
+      "options": [
+        "Subtotal hysterectomy.",
+        "Total hysterectomy.",
+        "Pan-hysterectomy.",
+        "Radical hysterectomy.",
+        "Pelvic excentration."
+      ],
+      "correct": 2,
+      "explanation": "For Stage I endometrial carcinoma, the gold standard treatment for fit patients is total abdominal hysterectomy and bilateral salpingo-oophorectomy (TAH-BSO). Pan-hysterectomy is defined as total hysterectomy and bilateral salpingo-oophorectomy."
+    },
+    {
+      "stem": "The following is a predisposing factor for endometrial carcinoma?",
+      "options": [
+        "Early age of 1st intercourse.",
+        "Sexually transmitted diseases.",
+        "Multiparity.",
+        "Obesity.",
+        "Prolonged oral contraceptive use."
+      ],
+      "correct": 3,
+      "explanation": "Marked obesity is a risk factor for endometrial carcinoma due to increased peripheral conversion of androgen to estrogen (E1) in adipose tissue."
+    },
+    {
+      "stem": "What is the most common gynecologic malignancy?",
+      "options": [
+        "Cervical carcinoma.",
+        "Uterine sarcoma.",
+        "Tubal carcinoma.",
+        "Ovarian malignancy.",
+        "Endometrial carcinoma."
+      ],
+      "correct": 4,
+      "explanation": "Endometrial carcinoma (EC) is currently considered the most common gynecologic malignancy."
+    },
+    {
+      "stem": "Risk factors of endometrial carcinoma include all of the following EХСЕРТ:",
+      "options": [
+        "Multiparity.",
+        "Late menopause.",
+        "Unopposed estrogen therapy.",
+        "Atypical endometrial hyperplasia.",
+        "Granulosa-theca cell tumor."
+      ],
+      "correct": 0,
+      "explanation": "Nulliparity or low parity is a recognized risk factor for endometrial carcinoma. Conversely, multiparity is not listed as a risk factor and is generally considered to be a protective factor."
+    },
+    {
+      "stem": "Commonest presenting symptom of endometrial carcinoma?",
+      "options": [
+        "Postmenopausal bleeding.",
+        "Metrorrhagia.",
+        "Offensive vaginal discharge.",
+        "Deep pelvic pain.",
+        "Menstrual cramps."
+      ],
+      "correct": 0,
+      "explanation": "Postmenopausal bleeding is the commonest presenting symptom in cases of endometrial carcinoma."
+    },
+    {
+      "stem": "According to the FIGO, stage III endometrial carcinoma is characterized by which of the following?",
+      "options": [
+        "More than ½ of myometrial invasion.",
+        "Tumor involving the cervical stroma.",
+        "Tumor invading the bladder.",
+        "Tumor invading the bowel mucosa.",
+        "Local and/or regional spread."
+      ],
+      "correct": 4,
+      "explanation": "FIGO Stage III endometrial carcinoma is characterized by the tumor involving one or both ovaries with cytologically or histologically confirmed spread to the peritoneum outside the pelvis and/or metastasis to retroperitoneal lymph nodes. This encompasses both local extension and regional lymphatic spread."
+    },
+    {
+      "stem": "The gold standard treatment for stage I endometrial carcinoma is:",
+      "options": [
+        "Surgery with staging laparotomy.",
+        "External beam pelvic radiation.",
+        "Extended field radiation.",
+        "Medroxyprogesterone acetate.",
+        "Follow up by fractional curettage annually."
+      ],
+      "correct": 0,
+      "explanation": "Exploratory laparotomy with total abdominal hysterectomy and bilateral salpingo-oophorectomy (TAH-BSO) is the gold standard treatment for Stage I endometrial carcinoma, serving for both diagnosis, surgical staging, and primary surgical treatment."
+    },
+    {
+      "stem": "Regarding uterine sarcoma, choose the correct statement:",
+      "options": [
+        "It is a common tumor arising in the myometrium.",
+        "Prognosis is usually favorable.",
+        "It arises in >5% of benign leiomyomas.",
+        "Usually suspected when rapid recurrence occurs after myomectomy.",
+        "Treatment of choice is external radiotherapy."
+      ],
+      "correct": 3,
+      "explanation": "Leiomyosarcoma is highly suspected in situations such as rapid growth of myomas, growth after menopause, rapid recurrence after myomectomy, or absence of a cleavage plane during myomectomy."
+    },
+    {
+      "stem": "Risk factors of endometrial carcinoma include which of the following?",
+      "options": [
+        "Multiparity.",
+        "Early menopause.",
+        "Prolonged human papilloma virus infection.",
+        "Complex hyperplasia with atypia.",
+        "Ovarian teratoma."
+      ],
+      "correct": 3,
+      "explanation": "Complex endometrial hyperplasia with atypia carries a significant malignant potential, with a 29% progression to endometrial carcinoma. Therefore, it is a major risk factor."
+    },
+    {
+      "stem": "According FIGO, stage II endometrial carcinoma is characterized by:",
+      "options": [
+        "More than ½ of myometrial invasion.",
+        "Tumor involving the cervical stroma.",
+        "Tumor invading the bladder.",
+        "Tumor invading the bowel mucosa.",
+        "Regional spread to pelvic L.N."
+      ],
+      "correct": 1,
+      "explanation": "FIGO Stage II endometrial carcinoma is defined by the cancer spreading to the cervical stroma (involvement of cervical glands is still considered stage I)."
+    },
+    {
+      "stem": "Gestational Choriocarcinoma is characterized by:",
+      "options": [
+        "Mostly develop after molar pregnancy evacuation.",
+        "It does not invade the myometrium.",
+        "It shows late hematogenous spread.",
+        "It never occurs after term pregnancy.",
+        "Biopsy is mandatory for before initiation of treatment."
+      ],
+      "correct": 0,
+      "explanation": "The provided sources do not contain sufficient information to answer this question. The text refers to 'GESTATIONAL CHORIOCARCINOMA (see obstetrics)', but the 'obstetrics' section is not included in the provided material."
+    },
+    {
+      "stem": "The best contraceptive method for patients with gestational trophoblastic diseases is:",
+      "options": [
+        "Combined oral contraceptive pills.",
+        "Progestin only pills.",
+        "Injectables.",
+        "Intra uterine contraceptive device.",
+        "Tubal ligation."
+      ],
+      "correct": 0,
+      "explanation": "The provided sources do not contain sufficient information to answer this question. The text refers to 'GESTATIONAL CHORIOCARCINOMA (see obstetrics)', but the 'obstetrics' section is not included in the provided material."
+    },
+    {
+      "stem": "Regarding cervical cancer, all are true ЕХСЕРТ:",
+      "options": [
+        "Squamous cell carcinoma is the most common type.",
+        "Ectocervical cancer is more common than endocervical ones.",
+        "HPV is the primary cause in most of the cases.",
+        "Rectal examination is essential for proper staging.",
+        "Radiotherapy is better than surgery in stage 2a"
+      ],
+      "correct": 4,
+      "explanation": "For early-stage disease (Stage I & IIA), cervical cancer is effectively eradicated surgically. Surgery is often chosen for young women in these stages to avoid the long-term effects of radiation therapy. Radiotherapy is primarily selected for advanced disease (stage IIB & higher)."
+    },
+    {
+      "stem": "A cervical erosion:",
+      "options": [
+        "Is more common among women taking the oral contraceptive pill.",
+        "Is a true ulcer.",
+        "May lead to menorrhagia.",
+        "Is mostly associated with CIN.",
+        "Is common in postmenopausal women."
+      ],
+      "correct": 0,
+      "explanation": "Hormonal erosion is an etiological factor for cervical erosion, where excess estrogen (as during pregnancy and with oral contraceptive use) causes the growth of columnar epithelium to replace the stratified squamous epithelium."
+    },
+    {
+      "stem": "Regarding cervical cancer, which is the true statement?",
+      "options": [
+        "HPV types 6 and 12 are high risk for developing cervical cancer.",
+        "The new vaccines can prevent invasive carcinoma but not CIN.",
+        "As soon as the new vaccination is introduced, cervical screening programs can stop.",
+        "HPV types 16 and 18 account for most of the cervical cancer.",
+        "HPV is an oncogenic virus for squamous cell but not adenocarcinoma of the cervix."
+      ],
+      "correct": 3,
+      "explanation": "High-risk HPV types 16 and 18 are strongly associated with cervical intraepithelial neoplasia (CIN) and account for nearly 95% of precancerous lesions worldwide. Vaccination against these types is highly effective in preventing related cervical cancers."
+    },
+    {
+      "stem": "Regarding cancer cervix, choose the correct statement:",
+      "options": [
+        "1ry prevention by HPV vaccine is not yet effective.",
+        "Staging of definite cases should be surgical.",
+        "Spread is mainly through lymphatic spread.",
+        "Clinical presentation is usually delayed.",
+        "Radiotherapy is preferred in young patients to preserve ovaries."
+      ],
+      "correct": 2,
+      "explanation": "The most common route of spread for cervical cancer is lymphatic spread, involving primary groups of lymph nodes (paracervical, parametrial, obturator, internal and external iliac) and secondary groups (common iliac, para-aortic, lateral sacral)."
+    },
+    {
+      "stem": "Regarding cervical in situ carcinoma, choose the correct answer:",
+      "options": [
+        "Dysplastic cells occupy the basal 1/3 of the epithelium.",
+        "Dysplastic cells occupy the basal 1/2 of the epithelium.",
+        "Dysplastic cells occupy the whole thickness without invasion of the basement membrane.",
+        "Dysplastic cells occupy the whole thickness with invasion of the basement membrane.",
+        "Dysplastic cells form papillae."
+      ],
+      "correct": 2,
+      "explanation": "CIN 3 or Carcinoma in Situ (CIS) indicates full-thickness epithelial involvement by atypical cells but without invasion of the basement membrane."
+    },
+    {
+      "stem": "A 30 years old woman with a proved diagnosis of cancer cervix stage 1B, which of the following is the most suitable treatment for this case?",
+      "options": [
+        "Conization of the cervix.",
+        "Extrafascial simple Hysterectomy.",
+        "Radical hysterectomy with ovarian preservation.",
+        "Radical hysterectomy with ovarian removal to avoid recurrence.",
+        "Radiotherapy to avoid surgical risk."
+      ],
+      "correct": 2,
+      "explanation": "For Stage IB cervical cancer in young women, radical trachelectomy with lymphadenectomy is an option for fertility preservation. For definitive treatment in a young patient, radical hysterectomy can be performed, often with ovarian preservation to avoid premature menopause, as indicated for young women to avoid long-term radiation effects and retain functional ovaries and vagina."
+    },
+    {
+      "stem": "The following about invasive cancer of the vulva is correct:",
+      "options": [
+        "Is usually squamous in type.",
+        "Carries a poor prognosis even if early.",
+        "Best prognosis by local vulvectomy.",
+        "Must be painful.",
+        "All of the above."
+      ],
+      "correct": 0,
+      "explanation": "Malignant lesions arising on the vulva are typically of squamous cell carcinoma."
+    },
+    {
+      "stem": "Squamous cell carcinoma of the vulva is 3 cm in diameter and located on the labia majora. The inguinal lymph nodes are palpable, but not firm or enlarged. No signs of metastasis are evident. The clinical stage would be:",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "None of the above."
+      ],
+      "correct": 2,
+      "explanation": "FIGO Stage III for vulvar carcinoma is defined by a tumor of any size with or without extension to adjacent perineal structures with positive inguinofemoral nodes. While the nodes are described as 'palpable but not firm or enlarged,' in the context of staging, palpability is often interpreted as sufficient evidence of potential involvement to classify it as Stage III."
+    },
+    {
+      "stem": "Commonest symptom of vulvar carcinoma in elderly women is:",
+      "options": [
+        "Abnormal bleeding.",
+        "A foul smell.",
+        "Pruritus.",
+        "Vulvar atrophy.",
+        "Painful intercourse."
+      ],
+      "correct": 2,
+      "explanation": "Women with vulvar cancer commonly present with pruritus and a visible lesion."
+    },
+    {
+      "stem": "A 19 years old girl has inter-menstrual spotting with mild pelvic pain. Pelvic Ultrasonography revealed a unilateral unilocular thin wall cyst, 5 cm with clear fluid. The cyst is mostly:",
+      "options": [
+        "Follicular cyst.",
+        "Endometriotic cyst.",
+        "Inflammatory cyst.",
+        "Torsion ovarian cyst.",
+        "Hemorrhagic cyst."
+      ],
+      "correct": 0,
+      "explanation": "Follicular cysts are typically unilateral, unilocular, small (3-7 cm), thin-walled, and contain clear fluid. They are commonly associated with menstrual disturbances like delayed cycles or intermenstrual spotting due to persistent estrogen production."
+    },
+    {
+      "stem": "In the previous case, the best initial management is:",
+      "options": [
+        "Laparoscopic cystectomy.",
+        "Laparotomy for removal of the cyst.",
+        "Follow up by pelvic ultrasonography.",
+        "Oral contraceptive pills.",
+        "Prophylactic antibiotics."
+      ],
+      "correct": 2,
+      "explanation": "Small ovarian cysts (less than 7cm), such as follicular cysts, usually resolve spontaneously within 6-8 weeks, making follow-up by ultrasonography in 2 months the appropriate conservative management."
+    },
+    {
+      "stem": "The following adnexal masses can give rise to Meig's syndrome?",
+      "options": [
+        "Ovarian fibroma.",
+        "Paratubal cyst.",
+        "Hydrosalpinx.",
+        "Endometrioma.",
+        "Mature cystic teratoma."
+      ],
+      "correct": 0,
+      "explanation": "Meig's syndrome is characterized by the presence of a benign ovarian tumor, usually an ovarian fibroma, associated with ascites and pleural effusion."
+    },
+    {
+      "stem": "Commonest presenting symptom in a woman with a benign cystic teratoma of the ovary?",
+      "options": [
+        "Virilizing symptoms.",
+        "Abdominal pain.",
+        "GIT manifestation.",
+        "Menstrual abnormality.",
+        "Fainting attacks."
+      ],
+      "correct": 1,
+      "explanation": "While benign cystic teratomas (dermoid cysts) are often asymptomatic and incidentally discovered, when they become symptomatic, it is frequently due to complications such as torsion or rupture, which present with acute abdominal pain. Torsion is the commonest complication, and dermoid cysts are the commonest tumor to undergo torsion."
+    },
+    {
+      "stem": "The following ovarian tumor is most prone to undergo torsion:",
+      "options": [
+        "Serous cystadenoma.",
+        "Mucinous cystadenoma.",
+        "Dermoid cyst.",
+        "Theca lutein cyst.",
+        "Follicular cyst."
+      ],
+      "correct": 2,
+      "explanation": "Benign cystic teratomas (BCT), also known as dermoid cysts, are the commonest tumor to undergo torsion due to their moderate size and typically long pedicle."
+    },
+    {
+      "stem": "An unmarried 20 years old female has an accidently discovered ovarian endometrioma 2cm on ultrasound. Best treatment for her is:",
+      "options": [
+        "Aspiration of the cyst guided by ultrasound.",
+        "Unilateral ovariectomy for fear of subsequent malignancy.",
+        "Ovarian cystectomy.",
+        "Reassurance, conservative medical treatment and follow up.",
+        "Small dose androgen for 6 months."
+      ],
+      "correct": 3,
+      "explanation": "For young patients with minimal symptoms and minimal lesions (such as a small 2cm endometrioma), expectant management is appropriate. This involves effective pain control with NSAIDs, reassurance, and follow-up for lesion growth."
+    },
+    {
+      "stem": "An unmarried 18-year-old girl had developed high fever, abdominal pain, nausea and vomiting 4 days after laparoscopic ovarian cystectomy for a 6 cm cyst containing hair and teeth. What is the most probable diagnosis?",
+      "options": [
+        "Paralytic ileus.",
+        "Chemical peritonitis.",
+        "Missed towel.",
+        "Severe urinary tract infection.",
+        "Postoperative colitis."
+      ],
+      "correct": 1,
+      "explanation": "The cyst containing hair and teeth indicates a dermoid cyst (benign cystic teratoma). Rupture of a dermoid cyst is a known complication that can cause chemical peritonitis. The symptoms of abdominal pain, nausea, vomiting, and fever post-operatively are consistent with chemical irritation from spilled cyst contents."
+    },
+    {
+      "stem": "A uni-locular ovarian cyst measuring 5 cm found on routine ultrasonography during the 8th week of gestation. Best management is:",
+      "options": [
+        "Observation and repeated ultrasonography.",
+        "Laparoscopic aspiration of the cyst.",
+        "Immediate laparotomy and cystectomy.",
+        "Immediate laparotomy and ovariectomy.",
+        "Laparotomy and cystectomy postponed to 14 weeks."
+      ],
+      "correct": 0,
+      "explanation": "During pregnancy, the majority of small ovarian cysts resolve spontaneously. For such cases, follow-up by ultrasonography (every 2-3 months) is appropriate, and surgical intervention is usually reserved only for large or complicated cysts."
+    },
+    {
+      "stem": "A 54-year-old woman is found to have endometrial hyperplasia on endometrial biopsy. A functional ovarian tumor to be suspected is a:",
+      "options": [
+        "Lipid cell tumor.",
+        "Granulosa-theca cell tumor.",
+        "Sertoli-Leydig tumor.",
+        "Mucious cystadenocarcinoma.",
+        "Polycystic ovary."
+      ],
+      "correct": 1,
+      "explanation": "Estrogen-producing ovarian neoplasms, such as granulosa-theca cell tumors, are a recognized risk factor for endometrial hyperplasia (EH) and endometrial carcinoma. Granulosa cell tumors specifically secrete estrogen and are associated with EH in 25-50% of cases."
+    },
+    {
+      "stem": "In contrast to a malignant ovarian tumor, a benign tumor has:",
+      "options": [
+        "Excrescences on the surface.",
+        "Peritoneal implants.",
+        "Intra-cystic papillae.",
+        "Free mobility.",
+        "Capsule rupture."
+      ],
+      "correct": 3,
+      "explanation": "A feature suggesting malignancy in ovarian tumors is a mass that is fixed, especially if bilateral. In contrast, benign ovarian tumors are more likely to have free mobility."
+    },
+    {
+      "stem": "Female patient with history of menstrual disorders, is complaining of pain on right iliac fossa 4 days after her menses ended, on examination there was tenderness on right iliac fossa with no rebound tenderness nor rigidity, CBC is normal, ultrasound shows an adnexal cyst, the most likely diagnosis is:",
+      "options": [
+        "Peritonitis.",
+        "Meckel's diverticulum.",
+        "Appendicular mass.",
+        "Follicular cyst.",
+        "None of the above."
+      ],
+      "correct": 3,
+      "explanation": "Follicular cysts are associated with menstrual disorders (like delayed cycles or intermenstrual spotting) and can cause mild pelvic pain, or rarely acute severe pain if complicated. The clinical presentation of an adnexal cyst with these symptoms, without signs of acute infection or peritonitis, is consistent with a follicular cyst."
+    },
+    {
+      "stem": "For endometriotic cyst all are true EXCEPT:",
+      "options": [
+        "Ground glass appearance on TVS.",
+        "Laparoscope is gold standard for diagnosis.",
+        "C125 is a specific test.",
+        "Associated with dysmenoorrhoea.",
+        "Typically, only 10 per cent of them are bilateral."
+      ],
+      "correct": 2,
+      "explanation": "While CA-125 is often elevated in epithelial ovarian cancer, it is also elevated in benign conditions such as endometriosis and endometriomas, making it a non-specific test for endometriotic cysts."
+    },
+    {
+      "stem": "19-year-old female presents with progressive intermittent left lower abdominal pain for 2 months. Urine hCG is negative. Pelvic ultrasound shows a 6 cm adnexal mass with features consistent with a dermoid cyst. Most appropriate next step is:",
+      "options": [
+        "Repeat pelvic examination in 1 year.",
+        "Repeat pelvic ultrasound in 6 weeks.",
+        "Prescribe the oral contraceptive pill.",
+        "Perform hysteroscopy.",
+        "Perform laparotomy."
+      ],
+      "correct": 4,
+      "explanation": "A 6 cm dermoid cyst, especially when symptomatic with progressive intermittent pain, is prone to complications like torsion. For such large or complicated cysts, surgical management via laparoscopy or laparotomy is indicated. Laparotomy here indicates a definitive surgical intervention."
+    },
+    {
+      "stem": "Non-neoplastic ovarian cysts include all of the following EXCEPT:",
+      "options": [
+        "Follicular cyst.",
+        "Theca lutein cyst.",
+        "Dermoid cyst.",
+        "Corpus luteum cyst.",
+        "Endometroid cyst."
+      ],
+      "correct": 2,
+      "explanation": "Non-neoplastic ovarian swellings (functional cysts) include follicular cysts, corpus luteum cysts, theca lutein cysts, and germinal inclusion cysts. A dermoid cyst (benign cystic teratoma) is classified as an ovarian neoplasm (germ cell tumor), not a non-neoplastic functional cyst."
+    },
+    {
+      "stem": "Theca lutein cysts may be associated with all the following EXCEPT:",
+      "options": [
+        "Vesicular mole.",
+        "Choriocarcinoma.",
+        "Stein-Leventhal syndrome (PCO).",
+        "Pregnancy.",
+        "Placental site tumor."
+      ],
+      "correct": 2,
+      "explanation": "Theca lutein cysts are commonly associated with high levels of human chorionic gonadotrophin (hCG), as seen in hydatidiform mole, choriocarcinoma, or multifetal pregnancy, as well as with drugs for ovulation induction. Polycystic ovary syndrome (PCOS), formerly known as Stein-Leventhal syndrome, is characterized by multiple small follicles, but not typically theca lutein cysts in this context."
+    },
+    {
+      "stem": "Which tumor marker is likely to be raised in granulosa cell tumor?",
+      "options": [
+        "B-hCG.",
+        "a- fetoprotein.",
+        "Inhibin B.",
+        "CA-125.",
+        "OC-125."
+      ],
+      "correct": 2,
+      "explanation": "Granulosa cell tumors are known to secrete hormones, including estrogen and inhibin. Inhibin can therefore serve as a tumor marker for these tumors."
+    },
+    {
+      "stem": "Which tumor marker is likely to be raised in dysgerminoma of ovary?",
+      "options": [
+        "Serum HCG.",
+        "Serum a-fetoprotein.",
+        "Serum lactate dehydrogenase.",
+        "Serum inhibin.",
+        "Serum albumin."
+      ],
+      "correct": 2,
+      "explanation": "Among malignant germ cell tumors, dysgerminomas specifically produce lactic dehydrogenase (LDH), which serves as a tumor marker."
+    },
+    {
+      "stem": "Krükenberg tumor:",
+      "options": [
+        "A rare form of metastatic cancer to the ovary.",
+        "Unilateral solid ovarian tumor retaining the shape of the ovary.",
+        "The 1ry tumor is usually the pylorus of the stomach, less commonly the colon, breast or biliary tract.",
+        "Malignant cells reach the ovary through vascular spread.",
+        "It is the commonest primary tumor of the ovary."
+      ],
+      "correct": 2,
+      "explanation": "Krukenberg tumors are a type of metastatic ovarian cancer where the primary tumor typically originates from the pylorus of the stomach, and less commonly from the colon, breast, or biliary tract."
+    },
+    {
+      "stem": "The following is true regarding malignant ovarian neoplasms:",
+      "options": [
+        "Ovarian cancer is the 3rd most common malignancy of the female genital tract.",
+        "Carry poor prognosis.",
+        "Majority are epithelial in origin.",
+        "It is more common in elderly patients.",
+        "All of the above."
+      ],
+      "correct": 4,
+      "explanation": "All statements are true: Ovarian cancer is the third most common and most lethal gynecologic malignancy. The majority are epithelial in origin, and the risk of malignancy increases with advancing age, with a mean age of diagnosis at 60 years."
+    },
+    {
+      "stem": "An 8-cm cystic ovarian tumor is detected during routine ANC. Commonest complication of such a tumor during the first trimester is:",
+      "options": [
+        "Torsion.",
+        "Rupture.",
+        "Intracystic hemorrhage.",
+        "Solid degeneration.",
+        "Luteinization."
+      ],
+      "correct": 0,
+      "explanation": "Torsion is the commonest complication of benign ovarian neoplasms. Pregnancy is a known predisposing factor for torsion due to the displacement of the tumor by the enlarging uterus."
+    },
+    {
+      "stem": "An unmarried 20 years old female with an accidently discovered dermoid cyst 8 cm during ultrasound. Best treatment for her is:",
+      "options": [
+        "Aspiration of the cyst guided by ultrasound.",
+        "Unilateral ovariectomy.",
+        "Ovarian cystectomy.",
+        "Reassurance, conservative management and follow up.",
+        "Combined oral contraceptive pills for 3 months."
+      ],
+      "correct": 2,
+      "explanation": "An 8 cm dermoid cyst is considered a large cyst. In a young patient, ovarian cystectomy (shelling out the cyst with preservation of the ovary) is the treatment of choice to remove the tumor and preserve fertility, especially for dermoid cysts."
+    },
+    {
+      "stem": "The following ovarian tumors has a higher incidence for malignant transformation:",
+      "options": [
+        "Papillary serous cystadenoma.",
+        "Mucinous cystadenoma.",
+        "Benign teratoma.",
+        "Brenner tumor.",
+        "Theca cell tumor."
+      ],
+      "correct": 0,
+      "explanation": "Among benign ovarian neoplasms, papillary serous cystadenomas have the highest malignant potential, with a risk of malignant transformation up to 50%."
+    },
+    {
+      "stem": "A 60 years old woman with 5 x 5 cm adnexal mass. After a workup, she is diagnosed with ovarian cancer. Most appropriate next step in management is:",
+      "options": [
+        "Exploratory laparotomy.",
+        "Chemotherapy.",
+        "Radiotherapy.",
+        "Hormone treatment.",
+        "Expectant follow up."
+      ],
+      "correct": 0,
+      "explanation": "For ovarian cancer, exploratory laparotomy is crucial as it serves not only for the final diagnosis but also for surgical staging and primary surgical treatment."
+    },
+    {
+      "stem": "Functioning ovarian tumors include one of the following:",
+      "options": [
+        "Dermoid cyst.",
+        "Mucinous cystadenoma.",
+        "Corpus luteum cyst.",
+        "Granulosa theca cell tumor.",
+        "Ovarian fibroma."
+      ],
+      "correct": 3,
+      "explanation": "Granulosa cell tumors are a type of sex cord stromal tumor that are known to be hormonally active, primarily secreting estrogen. Thecomas (theca cell tumors) also produce excess estrogen."
+    },
+    {
+      "stem": "Functioning ovarian tumors include:",
+      "options": [
+        "Dermoid cyst.",
+        "Papillary serous cyst.",
+        "Mucinous cystadenoma.",
+        "Theca lutein cyst.",
+        "Androblatoma."
+      ],
+      "correct": 4,
+      "explanation": "Androblastoma, also known as Sertoli-Leydig cell tumor, is a sex cord stromal tumor that is typically androgenic, causing virilizing effects."
+    },
+    {
+      "stem": "Predisposing factors for torsion of an ovarian mass include:",
+      "options": [
+        "Large sized mass.",
+        "Infected mass.",
+        "Malignant nature of the mass.",
+        "Dense surrounding adhesions.",
+        "Pregnancy and early puerperium."
+      ],
+      "correct": 4,
+      "explanation": "Pregnancy and the puerperium are significant predisposing factors for ovarian mass torsion due to the displacement of the tumor by the growing uterus and laxity of the abdominal wall after delivery."
+    },
+    {
+      "stem": "Predisposing factors for ovarian malignancy include:",
+      "options": [
+        "Multiparity.",
+        "Smoking.",
+        "Polycystic ovarian disease.",
+        "Prolonged use of oral contraceptive pills.",
+        "Family history of ovarian malignancy."
+      ],
+      "correct": 4,
+      "explanation": "A family history of ovarian cancer in first-degree relatives is a significant risk factor for epithelial ovarian cancer, with a substantial percentage of cases having a hereditary predisposition (e.g., BRCA1 or BRCA2 gene mutations)."
+    },
+    {
+      "stem": "A 60-year-old multipara, diabetic and hypertensive, presented with vague lower abdominal pain. Pelvic ultrasound revealed a normal sized AVF uterus with endometrial thickness of 4 mm and a Right adnexal cystic structure 7 cm in diameter with internal solid areas. How can you counsel her?",
+      "options": [
+        "Mostly functional cyst for follow up.",
+        "Request for CA 125 and MRI pelvis and abdomen before taking an action.",
+        "Laparoscopy for evaluation and biopsy is mandatory.",
+        "Ovariectomy is highly considered.",
+        "Ultrasonography guided aspiration is a diagnostic and therapeutic non- invasive procedure."
+      ],
+      "correct": 1,
+      "explanation": "For a postmenopausal woman (60 years old) with an adnexal mass that is 7 cm and has internal solid areas, there is a suspicion of malignancy. It is crucial to obtain additional information from tumor markers like CA-125 and advanced imaging like MRI of the pelvis and abdomen to assess the risk of malignancy before planning definitive treatment."
+    },
+    {
+      "stem": "During a gynecologic assessment of a 65 year old woman with a recent history of cancer stomach and still under treatment by oncologist, bilateral solid ovarian swellings about 5 cm were discovered. Most probable diagnosis?",
+      "options": [
+        "Non neoplastic ovarian mass.",
+        "Coincidental ovarian pathology.",
+        "Krukenberg tumor.",
+        "Dysgerminoma.",
+        "Malignant teratoma."
+      ],
+      "correct": 2,
+      "explanation": "Given the patient's age (65), history of stomach cancer, and the presence of bilateral solid ovarian swellings, the most probable diagnosis is a Krukenberg tumor. These are metastatic ovarian cancers typically originating from the gastrointestinal tract, especially the pylorus of the stomach, and often present as bilateral solid masses."
+    },
+    {
+      "stem": "Comparing various gynecologic malignancies as regard prognosis, which of the following gynecologic malignancy is considered to be the worse?",
+      "options": [
+        "Cancer breast.",
+        "Cancer cervix.",
+        "Endometrial carcinoma.",
+        "Choriocarcinoma.",
+        "Ovarian carcinoma."
+      ],
+      "correct": 4,
+      "explanation": "Ovarian cancer is considered the most lethal of all gynecologic malignancies, with more women dying from it than from carcinoma of the cervix and uterine body combined."
+    },
+    {
+      "stem": "Why this malignancy, chosen in the previous question, has the worst prognosis?",
+      "options": [
+        "Early vascular spread.",
+        "Early lymphatic dissemination.",
+        "Late clinical presentation.",
+        "Chemotherapy is ineffective.",
+        "Patient is usually old and unfit for surgery."
+      ],
+      "correct": 2,
+      "explanation": "Ovarian cancer is often referred to as a 'silent killer' because it lacks early signs or symptoms, leading to 2/3 of patients being diagnosed with advanced disease. This late presentation significantly contributes to its poor prognosis."
+    },
+    {
+      "stem": "The ovarian tumor that is best responds to radiotherapy is:",
+      "options": [
+        "Serous cystadenocarcinoma.",
+        "Mucinous cystadenocarcinoma.",
+        "Transitional adenocarcinoma.",
+        "Dysgerminoma.",
+        "Granulosa cell tumor."
+      ],
+      "correct": 3,
+      "explanation": "In contrast to epithelial ovarian cancers, dysgerminoma is a malignant germ cell tumor that is notable for being a radiosensitive tumor."
+    },
+    {
+      "stem": "A 4-year-old girl is noted to have breast enlargement and vaginal bleeding. On physical examination, she is noted to have a 9-cm pelvic mass. The following is the most likely etiology:",
+      "options": [
+        "Cystic teratoma.",
+        "Dysgerminoma.",
+        "Endodermal sinus tumor.",
+        "Granulosa cell tumor.",
+        "Mucinous tumor."
+      ],
+      "correct": 3,
+      "explanation": "Granulosa cell tumors are hormonally active ovarian tumors that primarily secrete estrogen. In prepubertal girls, these estrogen-secreting tumors can lead to signs of pseudo-precocious puberty, such as breast enlargement and vaginal bleeding. Precocious puberty is defined as the appearance of secondary sexual characters before 8 years of age."
+    },
+    {
+      "stem": "A 47-year-old woman has noted a pressure sensation in her pelvic region for the past 5 months. On physical examination there is a right adnexal mass. An ultrasound scan shows a 10 cm fluid-filled cystic mass in the right ovary. A fine needle aspirate of the mass reveals clusters of malignant epithelial cells surrounding psammoma bodies. Most likely tumor is:",
+      "options": [
+        "Endometrial adenocarcinoma.",
+        "Ovarian serous cystadenocarcinoma.",
+        "Mesothelioma.",
+        "Ovarian mature cystic teratoma.",
+        "Adenocarcinoma of fallopian tube."
+      ],
+      "correct": 1,
+      "explanation": "The presence of malignant epithelial cells confirms a malignant tumor. The finding of psammoma bodies is a characteristic microscopic feature often seen in serous ovarian tumors, including serous cystadenomas and serous cystadenocarcinomas. Therefore, given the malignancy, ovarian serous cystadenocarcinoma is the most likely diagnosis."
+    }
+  ]
+}

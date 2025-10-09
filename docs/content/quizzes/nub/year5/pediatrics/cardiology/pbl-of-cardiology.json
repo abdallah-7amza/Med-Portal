@@ -1,0 +1,159 @@
+{
+  "title": "PBL of Cardiology",
+  "questions": [
+    {
+      "stem": "Pulsating neck veins are due to:",
+      "options": [
+        "Bronchial asthma",
+        "Rickets",
+        "Right-sided Heart Failure"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The most common cause of pulmonary hypertension is?",
+      "options": [
+        "Severe pulmonary stenosis",
+        "Severe aortic stenosis",
+        "Severe pulmonary regurgitation"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Mitral Stenosis can cause:",
+      "options": [
+        "Right-sided heart failure",
+        "Hepatic failure",
+        "Pulmonary hypertension",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Rheumatic fever is considered a syndrome.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "All the following are minor criteria of bacterial endocarditis except:",
+      "options": [
+        "Single Positive blood culture",
+        "Janeway lesions",
+        "New valve regurgitation, Vegetations",
+        "Conjunctival hemorrhage",
+        "Osler's nodes"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All of the following are associated with Infective Endocarditis except:",
+      "options": [
+        "Rheumatic heart disease",
+        "Residual VSD",
+        "Atrial septal defect",
+        "Mitral regurgitation"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All of the following types of shock are associated with increased systemic vascular resistance except:",
+      "options": [
+        "Hypovolemic",
+        "Cardiogenic",
+        "Obstructive",
+        "Distributive"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "When does the first heartbeat occur in a fetus?",
+      "options": [
+        "Day 22",
+        "Day 25",
+        "Day 35",
+        "Day 57"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "When is the fetal heart fully developed?",
+      "options": [
+        "Day 22",
+        "Day 57",
+        "Day 60",
+        "Day 65"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The most common type of shock is:",
+      "options": [
+        "Septic shock",
+        "Hypovolemic shock",
+        "Obstructive shock"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Rheumatic fever is caused by a severe viral infection in the age group of 5-15 years.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Cardiac output decreases in all of the following except:",
+      "options": [
+        "Hypovolemic shock",
+        "Obstructive shock",
+        "Distributive shock",
+        "Cardiogenic shock",
+        "Late septic shock"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All of the following are associated with Atrial Septal Defect (ASD) except:",
+      "options": [
+        "Prematurity",
+        "Maternal drugs",
+        "MMR vaccine",
+        "Family History",
+        "Epilepsy"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is the most important and urgent management for Transposition of the Great Arteries (TGA)?",
+      "options": [
+        "Atrial septostomy",
+        "Atrial septectomy",
+        "Arterial switch",
+        "Venous switch"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Can Tetralogy of Fallot be complicated by pulmonary hypertension?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The murmur of a valvular atresia is:",
+      "options": [
+        "Systolic",
+        "Diastolic",
+        "Machinery",
+        "None of the above"
+      ],
+      "correct": 3
+    }
+  ]
+}

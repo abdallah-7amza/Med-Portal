@@ -1,0 +1,1323 @@
+{
+  "title": "Gynecological Infections - Dr. Nadine",
+  "questions": [
+    {
+      "stem": "All the following are diagnostic criteria for bacterial vaginosis EXCEPT:",
+      "options": [
+        "Abnormally high vaginal pH.",
+        "Presence of erythema of the cervix.",
+        "Clue cells seen on vaginal saline preparation.",
+        "Characteristic fishy odor release with addition of KOH to vaginal secretion.",
+        "Excessive frothy vaginal discharge."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is the typical range of normal vaginal pH:",
+      "options": [
+        "3-3.5",
+        "4-4.5",
+        "5-5.5",
+        "6-6.5",
+        "6.5-7"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 45-year-old non-pregnant patient with 1ry syphilis, refuses penicillin injection. The alternative oral antibiotic:",
+      "options": [
+        "Doxycycline.",
+        "Azithromycin.",
+        "Erythromycin.",
+        "Ciprofloxacin.",
+        "Desensitization and penicillin."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 24-year-old woman presents with painless vulvar nodule that developed into a red ulcer that bleeds easily. She is sexually active. Wright giemsa stain swab from the lesion shows Donovan bodies. What is her diagnosis:",
+      "options": [
+        "Chancroid.",
+        "Primary syphilis.",
+        "Granuloma inguinale.",
+        "Lymphogranuloma venerum.",
+        "Condyloma accuminata."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following provide first-line therapy for lichen sclerosus:",
+      "options": [
+        "Estrogen cream.",
+        "Testosterone cream.",
+        "Topical corticosteroid.",
+        "Surgical vulvectomy.",
+        "5-flurouracil cream."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 26-year-old woman completed a course of oral antibiotics for cystitis 1week ago. She complains of a day history of itching, burning and whitish vaginal discharge. Best therapy:",
+      "options": [
+        "Metronidazole.",
+        "Erythromycin.",
+        "Fluconazole.",
+        "Hydrocortisone.",
+        "Local estrogen cream."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following statements about T. pallidum is correct:",
+      "options": [
+        "It is a protozon.",
+        "Gram stain is a very sensitive method of diagnosis.",
+        "The spirochete does not cross the placenta during pregnancy.",
+        "It affects sexually active, and non-sexually active individuals.",
+        "Penicillin is the recommended treatment for all stages of syphilis."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "An 18-year-old G1P0 at 14weeks gestation is noted to have a positive RPR with a positive confirmatory TPH test. The patient states that she is allergic to penicillin, with swelling of the tongue and throat in the past. The most appropriate next step:",
+      "options": [
+        "Desensitization and treat with penicillin.",
+        "Oral erythromycin.",
+        "Oral doxycycline.",
+        "Pretreat with prednisone, antihistaminic then administer penicillin.",
+        "Pretreat with prednisone, then administer penicillin."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 18-year-old woman complains of painful swelling of her left labium. She has been taking analgesics and using warm sitz baths. O/E a 6-cm swollen, red, tender, tense cystic mass in the base of the Lt labium majus is detected. Next step is:",
+      "options": [
+        "Excision of the mass.",
+        "Dry heat.",
+        "Oral antibiotics.",
+        "IM or IV antibiotics.",
+        "Incision and drainage of the mass."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Which of the following is most likely to cause vulvar pruritis:",
+      "options": [
+        "Vaginal trichomoniasis.",
+        "Leukemia.",
+        "Personal hygiene products.",
+        "Secondary Syphilis.",
+        "Hidradenitis suppurativa."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 63-year-old patient presents with vaginal itching, dryness, dyspareunia. Ttt will b:",
+      "options": [
+        "Oral administered DES.",
+        "Vaginal estrogen cream daily.",
+        "Oral administered progesterone.",
+        "Testosterone tablets 10 mg/day.",
+        "Estrogen 20 mg IV."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Treatment for condylomata accuminata is:",
+      "options": [
+        "Metronidazole.",
+        "Acyclovir.",
+        "Ceftriaxone.",
+        "Topical podophyllin lotion.",
+        "Doxycycline or azithromycin."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Commonly causes vaginal discharge, urethritis, bartholinitis and cervicitis in women. Men usually develop urethritis:",
+      "options": [
+        "Syphilis.",
+        "Chlamydia.",
+        "Condylomata accuminata.",
+        "Genital herpes.",
+        "Gonorrhoea."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "The normal vagina is richly colonized by a bacterial flora predominantly:",
+      "options": [
+        "Mycoplasma hominis.",
+        "Gardnerella.",
+        "Actinomyces.",
+        "Chlamydia trachomatis.",
+        "Lactobacillus."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "All the following concerning trichomonas infection are true EXCEPT:",
+      "options": [
+        "Usually co-exists with bacterial vaginosis.",
+        "Is characterized by an offensive discharge and a strawberry cervix.",
+        "Dark ground microscopy readily identifies the clue cells.",
+        "Can be asymptomatic for several months after being acquired.",
+        "Management is usually with metronidazole and contact tracing."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is the current first-line treatment for gonorrhea?",
+      "options": [
+        "Azithromycin 1 g orally as a single dose.",
+        "Cefixime 400 mg orally three times daily for 14 days.",
+        "Ceftriaxone 500 mg IM as a single dose with azithromycin 1 g single oral dose.",
+        "Penicillin 1.2 g intramuscularly as a single dose.",
+        "Erythromycin 500 mg four times daily for 14 days."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 21-year-old female attends clinic with a 3-day history of a single, painless, genital ulcer. She has just returned from backpacking around South East Asia, where she had two sexual partners. What is the most likely causative organism?",
+      "options": [
+        "Chlamydia trachomatis.",
+        "Hemophilus ducreyi.",
+        "Herpes simplex virus type 2",
+        "Human papillomavirus.",
+        "Treponema pallidum."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A patient complaints of recurrent, painful vulvar lesions. O/E: multiple abscesses and deep scars in the labia with foul-smelling discharge from the lesions. The patient reports the occasional appearance of similar lesions in the axilla. The most likely diagnosis:",
+      "options": [
+        "Herpetic vulvitis.",
+        "Hidradenitis suppurativa.",
+        "Lymphogranuloma venereum.",
+        "Granuloma inguinale.",
+        "Secondary syphilis."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 21-year-old patient is seen for a 2mm pigmented flat lesion with irregular margins on the left labia. The most appropriate next step:",
+      "options": [
+        "Follow up in 6-12 months.",
+        "Discontinue OCPs.",
+        "Excisional biopsy of the lesion.",
+        "Skinning vulvectomy.",
+        "Electrodessication of the lesion."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 63-year-old patient is seen for routine examination. An excoriated 2-cm lesion of 3 months duration is found on her Lt labium majus. Next best step is:",
+      "options": [
+        "Prescribe hydrocortisone cream.",
+        "Schedule colposcopy.",
+        "Perform excisional biopsy.",
+        "Prescribe podophyllin solution.",
+        "Paint the area with toluidine blue stain."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "An antenatal patient tests positive for syphilis using VDRL screening test. Which of the following is a definitive test for syphilis?",
+      "options": [
+        "Cholesterol- lecithin- cardiolipin test.",
+        "FTA- abs test.",
+        "PCR.",
+        "RPR test.",
+        "Ziel-Neelsen stain."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The gold standard procedure to diagnose pelvic pain is:",
+      "options": [
+        "Cystoscopy.",
+        "Hysteroscopy.",
+        "HSG.",
+        "Laparoscopy.",
+        "Hysterectomy."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A diabetic 35-year-old woman, P2+0, presents with white itchy discharge after 10 days antibiotic therapy for fever and cough. Speculum examination reveals sticky white discharge with hyperemic vulval skin. Which is the most likely diagnosis?",
+      "options": [
+        "Diabetic neuropathy.",
+        "Candida vaginitis.",
+        "Trichomonas vaginalis.",
+        "Bacterial vaginosis.",
+        "Gonorrhea infection."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The protective mechanisms against infection of the genital tract include:",
+      "options": [
+        "Monthly shedding of the endometrium.",
+        "The vagina is lined by keratinized squamous epithelium.",
+        "Alkaline vaginal PH caused by bacteria flora.",
+        "Frequent vaginal douching.",
+        "Progesterone promotes growth of vaginal epithelium."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Regarding candida infection, all the following are true EXCEPT:",
+      "options": [
+        "Incidence is increased in pregnancy.",
+        "Incidence is increased with the use of oral contraceptive pills.",
+        "Incidence is decreased with the use of broad-spectrum antibiotics.",
+        "Is not the commonest cause of abnormal vaginal discharge in women of the child bearing age.",
+        "Can be treated by clotrimazole."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 26-year-old newly married female attended with her husband due to severe dyspareunia and failed intercourse since their wedding. All of the following can contribute to this condition EXCEPT:",
+      "options": [
+        "Tough rigid hymen.",
+        "Pelvic endometriosis.",
+        "Hydatid cyst of Morgagni",
+        "Longitudinal vaginal septum.",
+        "Vaginismus."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Gynecological causes of acute pelvic pain include:",
+      "options": [
+        "Hyaline degeneration of uterine fibroid.",
+        "Adenomyosis.",
+        "Uncomplicated insertion of an IUD.",
+        "Acute salpingitis.",
+        "Cervical erosion."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 29-year-old NG complains of grayish fishy vaginal discharge with no vulvar pruritis or burning. O/E, there is a thin discharge at the vaginal vault. The vaginal pH is 5.5. The cervix is not inflamed and there is no cervical discharge. The most likely diagnosis is:",
+      "options": [
+        "Candidiasis.",
+        "Bacterial vaginosis.",
+        "Trichomoniasis.",
+        "Physiological discharge.",
+        "Chlamydia infection."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The best treatment is:",
+      "options": [
+        "Reassurance.",
+        "Oral fluconazole.",
+        "Doxycycline 100 mg PO twice daily for 1 week.",
+        "Ampicillin 500 mg PO twice daily for 1 week.",
+        "Metronidazole 500 mg PO twice daily for 1 week."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "If the above patient was pregnant 8 weeks, the treatment would be:",
+      "options": [
+        "Oral metronidazole.",
+        "Vaginal metronidazole.",
+        "Vaginal clindamycin cream.",
+        "Oral fluconazole.",
+        "Oral 3rd generation cephalosporin."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 20-year-old G2P0 with a LMP 5 days ago, presents with severe pelvic pain, chills and fever. Pregnancy test is -ve. Urine analysis is normal. WBC is 18.000. Temp is 39.8. O/E, abdomen shows diffuse tenderness, rebound tenderness, with guarding. The most likely diagnosis is:",
+      "options": [
+        "Ovarian torsion.",
+        "Endometriosis.",
+        "Pelvic inflammatory disease.",
+        "Kidney stone.",
+        "Ectopic pregnancy."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The most appropriate initial antibiotic regimen is:",
+      "options": [
+        "Doxycycline 100 mg PO twice daily for 14 days.",
+        "Clindamycin 450 mg IV/8 hours + gentamycin 1 mg/kg every 12 hours.",
+        "Ceftriaxone 250 mg IM + doxycycline 100 mg PO twice daily for 14 days.",
+        "Cefoxitine 2 gm IV every 6 hours + doxycycline 100 mg twice daily.",
+        "Ofloxacin 400 mg + metronidazole 500 mg PO twice daily for 14 days."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Patient appears to be doing better. Then, suddenly the temperature became over 40°C and a rigid abdomen. PV reveals no pelvic mass. Most likely diagnosis is:",
+      "options": [
+        "Pyelitis",
+        "Ruptured tubo-ovarian abscess.",
+        "Ruptured infected dermoid cyst.",
+        "Ruptured diverticula.",
+        "Ruptured appendix."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Your management should be:",
+      "options": [
+        "Increased antibiotics.",
+        "Exploratory Laparotomy and deal accordingly.",
+        "Colostomy.",
+        "Unilateral salpingo-oophorectomy.",
+        "Appendectomy."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 24-year-old newly married female, complains of lower abdominal colicky pain, with dysuria and frequency. Her LMP was a week ago. She has no fever, no vaginal discharge. Her pelvic examination is normal, except of suprapubic tenderness. No masses or abnormal bleeding or discharge. Medical and surgical histories are irrelevant. What is your provisional diagnosis?",
+      "options": [
+        "Lower genital tract infection.",
+        "Pelvic inflammatory disease.",
+        "Sexually transmitted disease.",
+        "Honey moon cystitis.",
+        "Psychological."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Your first recommended investigation is:",
+      "options": [
+        "Pregnancy test.",
+        "Urine analysis.",
+        "Vaginal swab for culture and sensitivity.",
+        "Colposcopy.",
+        "HPV testing."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Four weeks later, she returns with excessive foul-smelling vaginal discharge, with mild irritation and superficial dyspareunia. Still no fever. your diagnosis is:",
+      "options": [
+        "Candida vaginitis.",
+        "Trichomonas vaginitis.",
+        "Chlamydia PID.",
+        "Bacterial vaginosis.",
+        "Endometriosis."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Your management will be:",
+      "options": [
+        "Metronidazole single oral dose.",
+        "Metronidazole twice daily for 1 week.",
+        "Miconazole single oral dose.",
+        "Laparoscopic evaluation.",
+        "Broad spectrum antibiotic twice daily for 2 weeks."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The patient returns a week later with no improvement; this is most probably due to:",
+      "options": [
+        "No treatment of the husband.",
+        "Re-infection.",
+        "Improper use of the medication.",
+        "The use of acidic vaginal douching.",
+        "Suspect immnunological disorder."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Natural barriers against genital tract infections include all the following EXCEPT:",
+      "options": [
+        "Acidic vaginal PH.",
+        "Monthly shedding of the endometrium.",
+        "Cervical mucus plug.",
+        "Bartholin gland secretions.",
+        "Stratified squamous epithelial lining of the vagina."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "All the following can cause vulval irritation and pruritis vulvae EXCEPT:",
+      "options": [
+        "Local allergy.",
+        "Skin eczema.",
+        "Diabetic neuropathy.",
+        "Obstructive jaundice.",
+        "Cervical intraepithelial neoplasia."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 20-year-old nulligravida presents by a cystic swelling in the posterior wall of labia majora. First differential diagnosis:",
+      "options": [
+        "Rectocele.",
+        "Enterocele.",
+        "Sebaceous cyst.",
+        "Bartholin cyst.",
+        "Human papilloma warts."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 26-year-old woman complains of a painful mass in the vulva. The mass is tender, non-reducible in the posterior part of Lt labia majora. Most likely diagnosis:",
+      "options": [
+        "Urethral diverticulum.",
+        "Genital prolapse.",
+        "Bartholin abscess.",
+        "Cervical fibroid polyp.",
+        "Anal piles."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Genital tract candida occurs more frequently in all these patients EXCEPT:",
+      "options": [
+        "Diabetics.",
+        "Thyrotoxicosis.",
+        "On long term antibiotic therapy.",
+        "On oral contraceptive pills.",
+        "Pregnant."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Treatment of PID include all the following EXCEPT:",
+      "options": [
+        "Oral doxycycline.",
+        "Removal of IUCD.",
+        "Clindamycin.",
+        "Tetracycline.",
+        "Dilatation and curettage."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "The differential diagnosis of vulvar swelling includes all the following EXCEPT:",
+      "options": [
+        "Bartholin cyst.",
+        "Hematoma.",
+        "Condyloma.",
+        "Nabothian cyst.",
+        "Papilloma."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The following about HPV infection are correct EXCEPT:",
+      "options": [
+        "It is the most common viral STDs.",
+        "It may lead to CIN and cervical cancer.",
+        "It is due to DNA virus.",
+        "Infection leads to flat condyloma.",
+        "HPV types 6 and 11 are the usual causes of visible external warts."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "All the following about candida infection are correct EXCEPT:",
+      "options": [
+        "The infection is common with pregnancy.",
+        "It is the second most common cause of vaginitis in the childbearing period.",
+        "Vulval itching may occur.",
+        "Vaginal PH is usually alkaline.",
+        "Vaginal isoconazole or miconazole are effective."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Regarding TB of the female genital tract, choose the correct statement:",
+      "options": [
+        "It is almost always Iry TB.",
+        "Contributes to 5-10% of infertile cases.",
+        "+ve tuberculin test is diagnostic of active disease.",
+        "Endometrium is the most common involved site in the genital tract.",
+        "Endometrial biopsy should be done in the post-menstrual period."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 45-year-old P2 complains of intermenstrual bleeding. O/E: pelvis is firmly fixed. Endometrial biopsy shows 'giant cells, caseous necrosis, wz granuloma'. Most likely is:",
+      "options": [
+        "Syphilis.",
+        "C. trachomatis.",
+        "Tuberculosis.",
+        "N. gonorrhea.",
+        "HPV."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 45-year-old multipara with regular and average cycles, presented with repeated attacks of spotting following sexual intercourse. Possible causes include:",
+      "options": [
+        "Cervical erosion.",
+        "Endometrial hyperplasia.",
+        "Tubo-ovarian abscess.",
+        "Pelvic endometriosis.",
+        "Hematuria."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In the previous case, which of the following investigations should be included?",
+      "options": [
+        "Fractional curettage.",
+        "Pap smear.",
+        "CT pelvis.",
+        "CA 125",
+        "Diagnostic laparoscopy."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Candida infection is commonly associated with all of the following EXCEPT:",
+      "options": [
+        "Pregnancy.",
+        "Diabetes.",
+        "Menopause.",
+        "Prolonged antibiotic therapy.",
+        "Use of combined oral contraceptive pills."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Regarding diagnosis of acute PID (salpingitis), choose the correct statement:",
+      "options": [
+        "History of recent delivery, abortion or instrumentation is common.",
+        "Fever should not exceed 38 C.",
+        "Pain is usually felt in the right more than the left iliac fossa.",
+        "Culture of the vaginal discharge is the gold standard in diagnosis.",
+        "Symptoms are usually mild with gonococcal infection."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The following are protective mechanisms against genital tract infection EXCEPT:",
+      "options": [
+        "Monthly shedding of the endometrium.",
+        "Squamous epithelium lining of the vagina.",
+        "Alkaline vaginal PH.",
+        "Lactobacilli presence in the vagina.",
+        "Presence of humoral and cell mediated immunity."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 16 years old girl, presented by an anterior midline cystic vulval swelling at the site of her circumcision. What is your first differential diagnosis?",
+      "options": [
+        "Endometriotic cyst.",
+        "Sebaceous cyst.",
+        "Clitoridal cyst.",
+        "Gartner duct cyst.",
+        "Bartholin cyst."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 32 years old sexually active woman presents with acute abdominal pain and offensive vaginal discharge. Her temperature is 38.5°. Most likely diagnosis is:",
+      "options": [
+        "Gonorrhea salpingitis.",
+        "Chlamydia salpingitis.",
+        "Vulval donovanosis.",
+        "Bacterial vaginosis.",
+        "Hypertrophic cervicitis."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A woman complains of postvoiding dribbling of urine when she stands, painful intercourse and dysuria. She has no other symptoms. She most likely has:",
+      "options": [
+        "Urinary fistula.",
+        "Detrusor instability.",
+        "Genuine stress incontinence.",
+        "Urethral diverticulum.",
+        "Neurogenic bladder."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 20-year-old woman presents with warts around the vaginal opening. Her boyfriend has same warts on his penis. O/E, multiple 2-10mm lesions are seen around the introitus. The following HPV type is responsible for this:",
+      "options": [
+        "HPV type 11",
+        "HPV type 16",
+        "HPV type 18",
+        "HPV type 45",
+        "HPV type 56"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 20-year-old college student presents with lower abdominal pain and fever. O/E, bilateral abdominal tenderness. PV shows tenderness with cervical mobilization. Her pregnant test is negative. Most likely diagnosis:",
+      "options": [
+        "Acute salpingitis.",
+        "Ectopic pregnancy.",
+        "UTI",
+        "Trichomonas vaginitis.",
+        "Appendicitis."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 16-year-old sexually active nulliparous female complains of pelvic pain and vaginal discharge. O/E, her temp is 39.8, pain on moving cervix, and mass and tenderness in right adnexa. According to CDC, most appropriate treatment is:",
+      "options": [
+        "Outpatient with penicillin IM, doxycycline oral for 14days and reexamine in 3days.",
+        "Outpatient with ceftriaxone IM, doxycycline bid/14days, reexamine in one week.",
+        "Outpatient with ceftriaxone IM, doxycycline bid/14days and reexamine in 10days.",
+        "Hospitalization with cefoxitin IV and doxycycline oral twice daily for 14days.",
+        "Hospitalization with ceftriaxone IM single dose, doxycycline oral for 14days."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "PID is characterized by all the following EXCEPT:",
+      "options": [
+        "Leukocytosis.",
+        "Pelvic pain.",
+        "Fever.",
+        "Anemia.",
+        "Cervical motion tenderness."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 26-year-old female presents with dull aches in lower abdomen and pelvis for 2weeks. There is no discharge. She had multiple sexual partners and does not use condoms. BP: 110/65, pulse: 80/min, temp: 38.5. On PV there is tenderness on moving cx but no masses. Pregnancy test is positive. Best next step is:",
+      "options": [
+        "Treat her with penicillin as outpatient.",
+        "Admit the patient and treat with levofloxacin and doxycycline.",
+        "Admit the patient for laparoscopy.",
+        "Admit her and treat her with IV cefoxitin and oral azithromycin.",
+        "Treat her with IM ceftriaxone and azithromycin as outpatient."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A sexually active woman presents with dysuria and vaginal discharge. All the following may be the cause EXCEPT:",
+      "options": [
+        "Gonorrhea.",
+        "Chlamydia.",
+        "Trichomoniasis.",
+        "Condyloma acuminata.",
+        "Polymicrobial infection."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A cyclist woman develops swelling in posterolateral aspect of her labia. The area is painful and red. The most likely diagnosis is:",
+      "options": [
+        "Hematoma.",
+        "Bartholin cyst.",
+        "Gartner duct cyst.",
+        "Lipoma.",
+        "Sebaceous cyst."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 20-year-old unmarried, presents with intense pruritis vulvae and cheesy discharge just before the onset of her menstrual flow.",
+      "options": [
+        "Candida albicans Infection.",
+        "Chlamydia infection.",
+        "Trichomonas infection.",
+        "Acute PID.",
+        "Chronic PID (bilateral hydrosalpinx).",
+        "Herpes simplex infection.",
+        "Syphilis.",
+        "Acute cervicitis."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 25-year-old P1+0 presents with excess malodorous discharge with some itching in the vulva that started in the postmenstrual period. Speculum examination reveals mottling of the cervix and vagina with hemorrhagic spots like a strawberry.",
+      "options": [
+        "Candida albicans Infection.",
+        "Chlamydia infection.",
+        "Trichomonas infection.",
+        "Acute PID.",
+        "Chronic PID (bilateral hydrosalpinx).",
+        "Herpes simplex infection.",
+        "Syphilis.",
+        "Acute cervicitis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "During laparoscopy for an infertile woman, thin filmy adhesions are presents around the fallopian tubes and also on the undersurface of the liver. her past history is irrelevant.",
+      "options": [
+        "Candida albicans Infection.",
+        "Chlamydia infection.",
+        "Trichomonas infection.",
+        "Acute PID.",
+        "Chronic PID (bilateral hydrosalpinx).",
+        "Herpes simplex infection.",
+        "Syphilis.",
+        "Acute cervicitis."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 25-year-old P1+0., presents in the post menstrual period with offensive vaginal discharge and marked lower abdominal pain with fever.",
+      "options": [
+        "Candida albicans Infection.",
+        "Chlamydia infection.",
+        "Trichomonas infection.",
+        "Acute PID.",
+        "Chronic PID (bilateral hydrosalpinx).",
+        "Herpes simplex infection.",
+        "Syphilis.",
+        "Acute cervicitis."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "An infertile woman with bilateral tubal block had been counseled for tubal disconnection before ICSI procedure to improve the outcome. what is the suggested pathology she has?",
+      "options": [
+        "Candida albicans Infection.",
+        "Chlamydia infection.",
+        "Trichomonas infection.",
+        "Acute PID.",
+        "Chronic PID (bilateral hydrosalpinx).",
+        "Herpes simplex infection.",
+        "Syphilis.",
+        "Acute cervicitis."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Localized tenderness, rebound tenderness and guarding with temperature 38.5",
+      "options": [
+        "Candida albicans Infection.",
+        "Chlamydia infection.",
+        "Trichomonas infection.",
+        "Acute PID.",
+        "Chronic PID (bilateral hydrosalpinx).",
+        "Herpes simplex infection.",
+        "Syphilis.",
+        "Acute cervicitis."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Painless serpiginous ulcers associated with mucocutaneous rash.",
+      "options": [
+        "Candida albicans Infection.",
+        "Chlamydia infection.",
+        "Trichomonas infection.",
+        "Acute PID.",
+        "Chronic PID (bilateral hydrosalpinx).",
+        "Herpes simplex infection.",
+        "Syphilis.",
+        "Acute cervicitis."
+      ],
+      "correct": 6
+    },
+    {
+      "stem": "Contact bleeding and mucopurulent discharge with temperature 37.2",
+      "options": [
+        "Candida albicans Infection.",
+        "Chlamydia infection.",
+        "Trichomonas infection.",
+        "Acute PID.",
+        "Chronic PID (bilateral hydrosalpinx).",
+        "Herpes simplex infection.",
+        "Syphilis.",
+        "Acute cervicitis."
+      ],
+      "correct": 7
+    },
+    {
+      "stem": "Associated with microscopic motile trophozoites and vaginal ph>4.5.",
+      "options": [
+        "Candida albicans Infection.",
+        "Chlamydia infection.",
+        "Trichomonas infection.",
+        "Acute PID.",
+        "Chronic PID (bilateral hydrosalpinx).",
+        "Herpes simplex infection.",
+        "Syphilis.",
+        "Acute cervicitis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A sexually transmitted disease characterized by painful vesicles and genital ulcers.",
+      "options": [
+        "Candida albicans Infection.",
+        "Chlamydia infection.",
+        "Trichomonas infection.",
+        "Acute PID.",
+        "Chronic PID (bilateral hydrosalpinx).",
+        "Herpes simplex infection.",
+        "Syphilis.",
+        "Acute cervicitis."
+      ],
+      "correct": 5
+    },
+    {
+      "stem": "In cases of treatment failure, it may be due to omitting giving metronidazole to the husband.",
+      "options": [
+        "Candida albicans Infection.",
+        "Chlamydia infection.",
+        "Trichomonas infection.",
+        "Acute PID.",
+        "Chronic PID (bilateral hydrosalpinx).",
+        "Herpes simplex infection.",
+        "Syphilis.",
+        "Acute cervicitis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Itchy white vaginal discharge with vaginal ph<4.5.",
+      "options": [
+        "Candida albicans Infection.",
+        "Chlamydia infection.",
+        "Trichomonas infection.",
+        "Acute PID.",
+        "Chronic PID (bilateral hydrosalpinx).",
+        "Herpes simplex infection.",
+        "Syphilis.",
+        "Acute cervicitis."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A non-sexually transmitted infection which is itchy, white curdy with sore vagina.",
+      "options": [
+        "Candida albicans Infection.",
+        "Chlamydia infection.",
+        "Trichomonas infection.",
+        "Acute PID.",
+        "Chronic PID (bilateral hydrosalpinx).",
+        "Herpes simplex infection.",
+        "Syphilis.",
+        "Acute cervicitis."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Causative organism that may cause silent upper genital tract infection.",
+      "options": [
+        "Candida albicans Infection.",
+        "Chlamydia infection.",
+        "Trichomonas infection.",
+        "Acute PID.",
+        "Chronic PID (bilateral hydrosalpinx).",
+        "Herpes simplex infection.",
+        "Syphilis.",
+        "Acute cervicitis."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Specifically targeted by national vaccination program, with vaccine given to girls aged 12-13yrs.",
+      "options": [
+        "Gardnerella vaginalis.",
+        "Hemophilus ducreyi.",
+        "Gonorrhea.",
+        "HPV.",
+        "Foreign body.",
+        "Atrophic vaginitis."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The treatment should include intravaginal estrogen therapy.",
+      "options": [
+        "Gardnerella vaginalis.",
+        "Hemophilus ducreyi.",
+        "Gonorrhea.",
+        "HPV.",
+        "Foreign body.",
+        "Atrophic vaginitis."
+      ],
+      "correct": 5
+    },
+    {
+      "stem": "Associated with vaginal ph>4.5, clue cells and fishy amine odor.",
+      "options": [
+        "Gardnerella vaginalis.",
+        "Hemophilus ducreyi.",
+        "Gonorrhea.",
+        "HPV.",
+        "Foreign body.",
+        "Atrophic vaginitis."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A non-sexually transmitted disease characterized with offensive fishy discharge.",
+      "options": [
+        "Gardnerella vaginalis.",
+        "Hemophilus ducreyi.",
+        "Gonorrhea.",
+        "HPV.",
+        "Foreign body.",
+        "Atrophic vaginitis."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Most common type of vaginitis with a high Ph in the sexually active mature patient.",
+      "options": [
+        "Gardnerella vaginalis.",
+        "Hemophilus ducreyi.",
+        "Gonorrhea.",
+        "HPV.",
+        "Foreign body.",
+        "Atrophic vaginitis."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A sexually transmitted disease characterized by Gram-negative diplococcic and colonizing columnar and transitional epithelium.",
+      "options": [
+        "Gardnerella vaginalis.",
+        "Hemophilus ducreyi.",
+        "Gonorrhea.",
+        "HPV.",
+        "Foreign body.",
+        "Atrophic vaginitis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Diagnosis may require vaginoscopy.",
+      "options": [
+        "Gardnerella vaginalis.",
+        "Hemophilus ducreyi.",
+        "Gonorrhea.",
+        "HPV.",
+        "Foreign body.",
+        "Atrophic vaginitis."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 22-year-old, pregnant 32 weeks with whitish curdy itchy vaginal discharge.",
+      "options": [
+        "Oral fluconazole.",
+        "Local miconazole.",
+        "Metronidazole 2 gm single oral dose.",
+        "Metronidazole 500mg twice daily for 7 days.",
+        "Oral Doxycycline 100mg twice daily for 7 days.",
+        "Oral Doxycycline 100mg twice daily for 14 days."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 35-year-old with purulent vaginal discharge, temp 37.8 and mild lower abdominal pain.",
+      "options": [
+        "Oral fluconazole.",
+        "Local miconazole.",
+        "Metronidazole 2 gm single oral dose.",
+        "Metronidazole 500mg twice daily for 7 days.",
+        "Oral Doxycycline 100mg twice daily for 7 days.",
+        "Oral Doxycycline 100mg twice daily for 14 days."
+      ],
+      "correct": 5
+    },
+    {
+      "stem": "A 32-year-old with IUD in situ, backache, mucopurulent discharge and contact bleeding.",
+      "options": [
+        "Oral fluconazole.",
+        "Local miconazole.",
+        "Metronidazole 2 gm single oral dose.",
+        "Metronidazole 500mg twice daily for 7 days.",
+        "Oral Doxycycline 100mg twice daily for 7 days.",
+        "Oral Doxycycline 100mg twice daily for 14 days."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 37-year-old with yellowish frothy excessive malodorous discharge and normal cervix on speculum examination.",
+      "options": [
+        "Oral fluconazole.",
+        "Local miconazole.",
+        "Metronidazole 2 gm single oral dose.",
+        "Metronidazole 500mg twice daily for 7 days.",
+        "Oral Doxycycline 100mg twice daily for 7 days.",
+        "Oral Doxycycline 100mg twice daily for 14 days."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 16-year-old virgin with cottage cheese vulval discharge.",
+      "options": [
+        "Oral fluconazole.",
+        "Local miconazole.",
+        "Metronidazole 2 gm single oral dose.",
+        "Metronidazole 500mg twice daily for 7 days.",
+        "Oral Doxycycline 100mg twice daily for 7 days.",
+        "Oral Doxycycline 100mg twice daily for 14 days."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Treatment for syphilis in pregnancy that prevents 98% of congenital infections.",
+      "options": [
+        "Acyclovir.",
+        "Ampicillin.",
+        "Azithromycin.",
+        "Cefotaxime.",
+        "Doxycycline.",
+        "Penicillin."
+      ],
+      "correct": 5
+    },
+    {
+      "stem": "Treatment of chlamydia infection during pregnancy.",
+      "options": [
+        "Acyclovir.",
+        "Ampicillin.",
+        "Azithromycin.",
+        "Cefotaxime.",
+        "Doxycycline.",
+        "Penicillin."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Treatment for 1ry genital herpes infection in pregnancy.",
+      "options": [
+        "Acyclovir.",
+        "Ampicillin.",
+        "Azithromycin.",
+        "Cefotaxime.",
+        "Doxycycline.",
+        "Penicillin."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Treatment of acute cervicitis in non-pregnant 24 years old female.",
+      "options": [
+        "Acyclovir.",
+        "Ampicillin.",
+        "Azithromycin.",
+        "Cefotaxime.",
+        "Doxycycline.",
+        "Penicillin."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 60-year-old postmenopausal woman is recently remarried and has superficial dyspareunia.",
+      "options": [
+        "Lichen sclerosis.",
+        "Psoriasis.",
+        "Vulvar cancer.",
+        "Vulvar candidiasis.",
+        "Postmenopausal vulvar atrophy."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 52-year-old postmenopausal woman complains of intense itching around her vagina and anus makes intercourse and defecate painful.",
+      "options": [
+        "Lichen sclerosis.",
+        "Psoriasis.",
+        "Vulvar cancer.",
+        "Vulvar candidiasis.",
+        "Postmenopausal vulvar atrophy."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 45-year-old woman with poorly controlled diabetes reports that she has tears on her vagina causing pain with intercourse and defecation.",
+      "options": [
+        "Lichen sclerosis.",
+        "Psoriasis.",
+        "Vulvar cancer.",
+        "Vulvar candidiasis.",
+        "Postmenopausal vulvar atrophy."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 59-year-old postmenopausal woman presents with a 10year history of vaginal itching; she scratches frequently with a nodule near the clitoris.",
+      "options": [
+        "Lichen sclerosis.",
+        "Psoriasis.",
+        "Vulvar cancer.",
+        "Vulvar candidiasis.",
+        "Postmenopausal vulvar atrophy."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 54-year-old postmenopausal woman complains of itching in her vagina and the physician notices scaly lesions on both of her elbows.",
+      "options": [
+        "Lichen sclerosis.",
+        "Psoriasis.",
+        "Vulvar cancer.",
+        "Vulvar candidiasis.",
+        "Postmenopausal vulvar atrophy."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Lichen sclerosis may cause pruritis vulvae.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Chancroid may cause benign vulval ulcer.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "HPV infection may cause benign vulval ulcer.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Tertiary syphilis may cause benign vulval ulcer.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Vaginal pH is increased under the influence of estrogen.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Candida infection is increased in pregnancy, with COCPs usage and broad-spectrum antibiotic usage.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Neisseria gonorrhea has affinity to transitional epithelium, hence the occurrence of Bartholinitis.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Urine retention and perineal pain are common presentations of HSV.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The causative organism of 1ry syphilis is treponema pallidum.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "1ry infection of syphilis usually presents with a painful ulcer on the perineum.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "1ry and 2ry syphilis are not life threatening, however, 3ry neurosyphilis is life threatening, hence the importance of making the diagnosis.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The commonest pathology detected in laparoscopy for chronic pelvic pain is endometriosis.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Treatment of choice in treatment of syphilis is penicillin.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Doxycycline can be safely given during pregnancy.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Oral fluconazole as treatment of candidiasis is contraindicated in pregnancy.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In case of TB of female genital tract, the fallopian tubes are affected in 100% of cases.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Chlamydia infection can cause Fitz-Hugh Curtis syndrome.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Condyloma accuminata is considered a precancerous lesion.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Incubation period for HIV is around 3-6months.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Bartholin cyst is best treated by marsupialization.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    }
+  ]
+}

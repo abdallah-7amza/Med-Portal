@@ -1,0 +1,973 @@
+{
+  "title": "KAF",
+  "questions": [
+    {
+      "stem": "A 2-year-old child is admitted to your hospital with painful joint swelling. The child's doctor has been following the child for several days before and has noted her to have had high fever, peeling skin, abdominal pain, and a bright red throat. Which one of the following is likely to be the diagnosis?",
+      "options": [
+        "Rheumatic arthritis",
+        "Rheumatoid arthritis",
+        "Rubella arthritis",
+        "Septic arthritis"
+      ],
+      "correct": 0,
+      "explanation": "Acute rheumatic fever is a late complication of scarlet fever. The history of high fever, peeling skin, abdominal pain, and a bright red throat is consistent with scarlet fever. Acute rheumatic fever is characterized by painful joint swelling (arthritis)."
+    },
+    {
+      "stem": "A 3-year- child presents with a 3-day history of malaise, fever 41.1°C, cough, coryza, and conjunctivitis, then develops erythematous maculopapular rash on the face. He is noted to have white pinpoint lesions on a bright red buccal mucosa in the area opposite his lower molars. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Measles",
+        "Roseola infantum",
+        "Rubella",
+        "Scarlet fever"
+      ],
+      "correct": 0,
+      "explanation": "The clinical presentation of a 3-year-old with a 3-day history of malaise, fever, cough, coryza, and conjunctivitis, followed by a maculopapular rash on the face and white pinpoint lesions on the buccal mucosa, is pathognomonic for measles. The lesions on the buccal mucosa are known as Koplik's Spots, which are characteristic of measles."
+    },
+    {
+      "stem": "A 12-year-old girl awakens with a mild sore throat, low-grade fever, and a diffuse maculopapular rash. On examination mild tenderness and marked swelling of posterior cervical and occipital lymph nodes was observed. Which of the following may complicate this condition?",
+      "options": [
+        "Aplastic crisis",
+        "Encephalitis",
+        "Febrile seizures",
+        "Mastoiditis"
+      ],
+      "correct": 1,
+      "explanation": "The patient's symptoms of a mild sore throat, low-grade fever, diffuse maculopapular rash, and marked swelling of posterior cervical and occipital lymph nodes are characteristic of Rubella. Encephalitis is listed as an uncommon complication of rubella in children."
+    },
+    {
+      "stem": "A 14-month-old infant presents with a 4-day- history of high fever without any localizing signs. On the peak of fever, the baby suffers a short convulsive fit and is admitted for observation. On the next day fever subsides, but a maculopapular rash develops over the trunk and abdomen. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Measles",
+        "Roseola infantum",
+        "Rubella",
+        "Scarlet fever"
+      ],
+      "correct": 1,
+      "explanation": "Roseola infantum is a disease caused by Human Herpes Virus 6 (HHV-6). It is characterized by a sudden onset of high fever (39-41°C) for 3-5 days without any localizing signs. The fever then subsides by crisis on the fifth day with the appearance of a maculopapular rash, which typically develops over the trunk and spreads to other areas. The occurrence of a convulsive fit on the peak of the fever is consistent with the fact that roseola infantum is a common cause of febrile convulsions."
+    },
+    {
+      "stem": "A 5-year-old child presents with a 2-day- history of high fever, sore throat and abdominal pain. On the next day fever raises up more and a maculopapular rash develops all over the body. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Measles",
+        "Roseola infantum",
+        "Rubella",
+        "Scarlet fever"
+      ],
+      "correct": 3,
+      "explanation": "The clinical picture of a child with a history of high fever, sore throat, and abdominal pain, followed by a maculopapular rash all over the body, is characteristic of scarlet fever."
+    },
+    {
+      "stem": "A 14-month-old infant presents with a 1-day- history of low grade fever. On the next day a vesicular rash develops over the trunk and abdomen. The rash is itchy. Which of the following is the most common complication for that disease?",
+      "options": [
+        "Encephalitis",
+        "Neuritis",
+        "Skin infections",
+        "Subacute sclerosing panencephalitis"
+      ],
+      "correct": 2,
+      "explanation": "The description of a low-grade fever followed by an itchy vesicular rash developing over the trunk and abdomen is characteristic of chickenpox (varicella). The most common complication of chickenpox is secondary bacterial infection, which can be caused by scratching the itchy lesions."
+    },
+    {
+      "stem": "A 14- year-old boy presenting with a 3-week history of fever between 38.3°C and 38.9°C, lethargy. Physical examination reveals marked cervical and inguinal adenopathy, enlarged tonsils with exudates, palpable spleen 2 cm below the left costal margin. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Infectious mononucleosis",
+        "Streptococcal throat infection",
+        "Tuberculosis",
+        "Varicella"
+      ],
+      "correct": 0,
+      "explanation": "The clinical presentation of a 14-year-old boy with a prolonged history of fever, lethargy, marked cervical and inguinal adenopathy, enlarged tonsils with exudates, and splenomegaly is classic for infectious mononucleosis caused by the Epstein-Barr virus."
+    },
+    {
+      "stem": "A 2 year old girl presents with a 24-hour history of being febrile 40°C looks miserable and has developed a rapidly spreading non blanching rash. She has cool peripheries and is drowsy. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Bacteremia",
+        "Scarlet fever",
+        "Septicemia",
+        "Viremia"
+      ],
+      "correct": 2,
+      "explanation": "The child's presentation with a high fever (40°C), a rapidly spreading non-blanching (purpuric) rash, cool peripheries, and a drowsy state indicates a very serious illness with signs of shock, which is characteristic of septicemia."
+    },
+    {
+      "stem": "A previously healthy 8-year-old boy has a 3-week history of low grade fever of unknown source, fatigue, weight loss, myalgia, and headache. On repeated examinations during this time, he is found to have developed a heart murmur, petechiae, and mild splenomegaly. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Endocarditis",
+        "Rheumatic fever",
+        "Scarlet fever",
+        "Tuberculosis"
+      ],
+      "correct": 0,
+      "explanation": "The prolonged low-grade fever, fatigue, weight loss, myalgia, and headache, along with the development of a heart murmur, petechiae, and mild splenomegaly, are signs of infective endocarditis."
+    },
+    {
+      "stem": "A 14-year-old boy presenting with a 3-week history of fever between 38.3°C and 38.9°C, lethargy. Physical examination reveals marked cervical and inguinal adenopathy, enlarged tonsils with exudates, palpable spleen 2 cm below the left costal margin. WBC differential has 50% lymphocytes (10% atypical), Which of the following is the diagnostic investigation?",
+      "options": [
+        "ESR and CRP",
+        "Lymph node biopsy",
+        "Throat culture",
+        "Viral capsid antigen antibodies (VCA) IgG and IgM"
+      ],
+      "correct": 3,
+      "explanation": "The clinical picture of prolonged fever, lethargy, adenopathy, tonsillar exudates, and splenomegaly in an adolescent boy is highly suggestive of infectious mononucleosis. To confirm the diagnosis, serological tests for viral capsid antigen antibodies (VCA) IgG and IgM are a key diagnostic investigation."
+    },
+    {
+      "stem": "A 14-month-old infant suddenly develops a fever of 40.2°C No physical abnormalities are noted. The white blood cell count is 22.000/uL with 78% polymorphonuclear leukocytes, 18% of which are band forms. Which of the following is most likely diagnosis?",
+      "options": [
+        "Pneumococcal bacteremia",
+        "Roseola",
+        "Streptococcal infection",
+        "Typhoid fever"
+      ],
+      "correct": 0,
+      "explanation": "A child with a high fever, a very high white blood cell count (22,000/μL) with a high percentage of polymorphonuclear leukocytes (78%), and a high band form percentage (18%) is likely to have bacteremia. Pneumococcal bacteremia is a common cause of this type of presentation in a young child with no localizing signs."
+    },
+    {
+      "stem": "A 3 year old child presents with a 3-day history of malaise, fever 41.1°C, cough, coryza, and conjunctivitis, then develops erythematous, maculopapular rash on the face. He is noted to have white pinpoint lesions on a bright red buccal mucosa in the area opposite his lower molars. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Measles",
+        "Roseola infantum",
+        "Rubella",
+        "Scarlet fever"
+      ],
+      "correct": 0,
+      "explanation": "The constellation of symptoms including malaise, high fever (41.1°C), cough, coryza, and conjunctivitis for three days, followed by a maculopapular rash on the face, is characteristic of measles. The presence of white pinpoint lesions on the buccal mucosa, known as Koplik's spots, is a pathognomonic sign of measles."
+    },
+    {
+      "stem": "A 12-year-old girl awakens with a mild sore throat, low-grade fever, and a diffuse maculopapular rash. During the next 24h, she develops tender swelling of her wrists and redness of her eyes. In addition, her physician notes mild tenderness and marked swelling of her posterior cervical and occipital lymph nodes. Four days after the onset of her illness, the rash has vanished. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Measles",
+        "Roseola infantum",
+        "Rubella",
+        "Scarlet fever"
+      ],
+      "correct": 2,
+      "explanation": "The patient's symptoms of a mild sore throat, low-grade fever, diffuse maculopapular rash that vanishes after four days, tender swelling of wrists, redness of eyes, and marked swelling of posterior cervical and occipital lymph nodes is characteristic of rubella. The rash in rubella is macular and fades in about 3 days."
+    },
+    {
+      "stem": "A 4-year-old child presents in the clinic with mild fever and swelling in front of and in back of the ear on the affected side, as well as altered taste sensation. Correct statements about this condition include which of the following?",
+      "options": [
+        "Arthritis is a common presenting complaint in children",
+        "Involvement of the CNS may occur 10 days after the resolution of the swelling",
+        "Orchitis can occur and is almost exclusively seen in prepubertal males",
+        "The disease could have been prevented by prior immunization with killed whole-cell vaccine"
+      ],
+      "correct": 1,
+      "explanation": "The symptoms of swelling in front of and in back of the ear are a classic sign of mumps (epidemic parotitis). CNS involvement, such as encephalitis, is a known complication of mumps and typically occurs 3-10 days after the parotitis. Orchitis in mumps is extremely rare in prepubertal children. Mumps is prevented by the MMR vaccine, which is a live attenuated vaccine, not a killed whole-cell vaccine."
+    },
+    {
+      "stem": "A 14-month-old infant presents with a 4-day- history of high fever without any localizing signs. On the next day fever subsides, but a maculopapular rash develops over the trunk and abdomen. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Measles",
+        "Roseola infantum",
+        "Rubella",
+        "Scarlet fever"
+      ],
+      "correct": 1,
+      "explanation": "Roseola infantum is characterized by a sudden high fever (39-41°C) for 3-5 days without any localizing signs. The fever then subsides by crisis on the fifth day, and a maculopapular rash appears over the trunk and spreads to other areas. This clinical course, including the rash appearing after the fever breaks, is typical for roseola infantum."
+    },
+    {
+      "stem": "5-year-old child presents with a 2-day- history of high fever, sore throat and abdominal pain. On the next day fever rises up more and a maculopapular rash develops all over the body. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Measles",
+        "Roseola infantum",
+        "Rubella",
+        "Scarlet fever"
+      ],
+      "correct": 3,
+      "explanation": "The high fever, sore throat, and abdominal pain followed by a maculopapular rash are hallmark signs of scarlet fever."
+    },
+    {
+      "stem": "A 4-year-old child presented with a painful swelling in front of and in back of the left ear, analgesics were prescribed with some improvement. 2 days after, the child had headache, vomiting and then convulsions. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Brain abscess as a complication of mastoiditis",
+        "Febrile convulsions",
+        "Meningitis",
+        "Mumps encephalitis"
+      ],
+      "correct": 3,
+      "explanation": "The initial presentation of a painful swelling in front of and behind the ear is characteristic of mumps. Encephalitis is a common complication of mumps and can present with headache, vomiting, and convulsions. The onset of encephalitis in mumps is typically 3-10 days after the parotitis."
+    },
+    {
+      "stem": "A 5-day-old baby presenting to the emergency department with generalized tonic convulsions and failure to suckle. Examination reveals dirty inflamed umbilical stump, umbilical swab is performed reveals a gram positive organism with tennis racket appearance. What should be to done to prevent this condition?",
+      "options": [
+        "DPT vaccine to the baby at birth",
+        "DPT vaccine to the mother during pregnancy",
+        "DT vaccine to the baby at birth",
+        "Tetanus toxoid to the mother during pregnancy"
+      ],
+      "correct": 3,
+      "explanation": "The newborn's symptoms of generalized tonic convulsions, failure to suckle, and a dirty inflamed umbilical stump are classic signs of tetanus neonatorum. Tetanus is caused by the neurotoxin of Clostridium tetany, which contaminates wounds. Tetanus neonatorum can be prevented by vaccinating non-immune pregnant mothers with tetanus toxoid."
+    },
+    {
+      "stem": "A 4-year-old child presented with a painful swelling in front and behind the ears, analgesics were prescribed with complete improvement. 10 days after, the child had severe abdominal pain and vomiting. Examination reveals diffuse abdominal tenderness without organomegaly. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Acute appendicitis",
+        "Acute intestinal obstruction.",
+        "Brain abscess as a complication of mastoiditis",
+        "Mumps pancreatitis"
+      ],
+      "correct": 3,
+      "explanation": "The initial presentation of painful parotid swelling points to mumps. Abdominal pain and vomiting developing 10 days later, without organomegaly, is a complication of mumps. Pancreatitis is a known complication of mumps that presents with fever, epigastric pain, and vomiting."
+    },
+    {
+      "stem": "A 3-year-old child presented with high fever and a painful swelling in front and behind the right ear. Examination reveals temperature 39.5, toxic ill child and severe tenderness over the swelling. Pressure on the swelling results in white discharge from the parotid duct. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Dental abscess",
+        "Mumps parotitis",
+        "Suppurative parotitis",
+        "Parotid stones"
+      ],
+      "correct": 2,
+      "explanation": "Suppurative parotitis is characterized by high fever, pain, and the presence of pus from the parotid duct. This distinguishes it from mumps parotitis, which typically does not involve pus discharge."
+    },
+    {
+      "stem": "A 15 month old boy is brought by his mother with fever for 24 hours which doesn't decrease with acetaminophen. His temperature is 39.8 C degrees. Despite the fever he has been playing with his toys but has refused solid foods. Blood picture reveals leucocytosis 12,000 mostly lymphocyte band cell ratio 6% with normal ESR. Which of the following is most likely the initial diagnosis?",
+      "options": [
+        "Bacteremia",
+        "Viremia",
+        "Septicemia",
+        "All of the above"
+      ],
+      "correct": 1,
+      "explanation": "The clinical picture of a febrile child who is playing with toys and is interested in his surroundings, coupled with a normal band cell ratio and ESR, points to a viral infection (viremia). In viremia, the fever is typically mild (low-grade) and the general condition is fair, unlike bacteremia or septicemia where the general condition is poor or toxic. A band cell ratio of 6% is normal or only slightly elevated (normal is less than 5%), and an elevated CRP and ESR would be expected in bacteremia or septicemia."
+    },
+    {
+      "stem": "A 20-month- old child is brought to emergency department because of fever and irritability and refusal to move his right lower limb. Physical examination reveals a swollen and tender right knee that resists passive motion. Which of the following is the most important test to confirm the possibility of septic arthritis?",
+      "options": [
+        "Complete blood count and differential",
+        "ESR",
+        "Examination of joint fluid",
+        "X ray of the knee"
+      ],
+      "correct": 2,
+      "explanation": "The presentation of a febrile child with a swollen and tender joint that resists passive motion is highly suggestive of septic arthritis. The most important diagnostic test is the examination of the joint fluid obtained by aspiration, as this will identify the causative organism."
+    },
+    {
+      "stem": "A 9-month-old girl presents with a 3-day history of fever to (39.4° C). This morning, the girl developed a rash. On physical examination, the girl is afebrile and has an erythematous, maculopapular rash over her trunk, arms, and legs. Which of the following is the most likely cause of this patient's illness?",
+      "options": [
+        "Chickenpox",
+        "Human herpesvirus 6",
+        "Human parvovirus B19",
+        "Measles"
+      ],
+      "correct": 1,
+      "explanation": "The clinical course described, with a 3-day history of high fever followed by an abrupt resolution of fever and the development of a maculopapular rash on the trunk, arms, and legs, is a classic presentation of roseola infantum. The causative organism for this disease is Human Herpes Virus 6 (HHV-6) or HHV-7, with HHV-6 being more prevalent."
+    },
+    {
+      "stem": "An 8-year-old boy presents to your office with a 3-day history of fevers, sore throat, and headache. His mother also states that he occasionally has been complaining that his abdomen hurts. This morning, the boy's mother noticed that he has developed a red, bumpy rash on his neck and under his arms. On physical exam, his tonsils are erythematous and enlarged. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Measles",
+        "Roseola infantum",
+        "Rubella",
+        "Scarlet fever"
+      ],
+      "correct": 3,
+      "explanation": "The combination of fever, sore throat, headache, abdominal pain, and a bumpy rash on the neck and under the arms is characteristic of scarlet fever. Scarlet fever is associated with streptococcal pharyngitis, which explains the erythematous and enlarged tonsils."
+    },
+    {
+      "stem": "Crops of papular lesions starting on the trunk and spreading to the extremities, in addition to small, irregular red spots with central gray or bluish-white spots that appear on the buccal mucosa were observed in a 5 year old child. Which of the following is most likely diagnosis?",
+      "options": [
+        "Hand-foot-mouth disease",
+        "Measles",
+        "Rubella",
+        "Zoster (shingles)"
+      ],
+      "correct": 1,
+      "explanation": "The description of white, central, gray, or bluish-white spots on the buccal mucosa in the presence of a maculopapular rash is pathognomonic for measles. These spots are known as Koplik's spots."
+    },
+    {
+      "stem": "6-year-old boy is brought to the pediatrician because of a 3 day history of skin lesions. On physical examination, he has multiple yellow, crusted erosions below the nares and on the cheeks, chin, and upper extremities. Vital signs are within normal limits. The rest of the examination is normal. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Impetigo contagiosa",
+        "Measles",
+        "Rubella",
+        "Zoster (shingles)"
+      ],
+      "correct": 0,
+      "explanation": "The presence of multiple yellow, crusted erosions on the face and upper extremities is a classic description of Impetigo contagiosa. This condition is caused by hemolytic streptococci or staphylococci."
+    },
+    {
+      "stem": "12 years old boy develops an abrasion while playing in the school yard. Vaccination record reveals that his last booster was at 6 years, in this situation, which of the following is appropriate?",
+      "options": [
+        "DPT booster dose",
+        "No immunization is required",
+        "Tetanus toxoids",
+        "Tetanus toxoids and tetanus immunoglobulin"
+      ],
+      "correct": 2,
+      "explanation": "The DPT vaccine is given in doses up to 6 years of age, after which DT is given. For an abrasion, the tetanus toxoid (T or DT) is given as a booster, and tetanus immunoglobulin is not required in this case. The last DPT booster was at 6 years, so a tetanus toxoid booster would be appropriate."
+    },
+    {
+      "stem": "A family arrives to your clinic for their 11 month- baby who received obligatory vaccines only. They are wondering about non-compulsory vaccines. Which of the following is correct?",
+      "options": [
+        "Chickenpox vaccine is given below 1 year.",
+        "DT vaccine cannot be given in children above 6 years",
+        "Haemophilus influenza type b vaccine is best given early in life at 2, 4, 6 month. However it can be given to their baby",
+        "Meningococcal vaccine is ineffective above 2 years."
+      ],
+      "correct": 2,
+      "explanation": "The Haemophilus influenzae type b (Hib) vaccine is best given early in life, typically at 2, 4, and 6 months of age, and it protects against serious infections like meningitis and septicemia. However, it can still be given to an 11-month-old infant."
+    },
+    {
+      "stem": "The mother of a 7 day old infant has developed chickenpox. Which of the following is the most appropriate step in the management?",
+      "options": [
+        "Administer acyclovir",
+        "Administer varicella-zoster immunoglobulin to the infant",
+        "Hospitalize the infant in the isolation ward",
+        "Isolate the infant from the mother"
+      ],
+      "correct": 1,
+      "explanation": "A newborn whose mother develops chickenpox seven days after birth is at risk of infection. The most appropriate management is to administer varicella-zoster immunoglobulin (VZIG) to the infant early in the incubation period to provide passive immunity."
+    },
+    {
+      "stem": "You have examined a 16-year-old boy and you are suspecting that he has got infectious mononucleosis caused by EBV. The following are the tests available in your hospital lab, how would you confirm your suspicion?",
+      "options": [
+        "Blood film for atypical cells",
+        "EBV nuclear antigen (EBNA) IgG",
+        "EBV viral capsid antigen (VCA) IgG",
+        "EBV viral capsid antigen (VCA) IgM"
+      ],
+      "correct": 3,
+      "explanation": "The patient's age and suspicion of infectious mononucleosis, a disease caused by the Epstein-Barr virus (EBV), indicate the need for specific diagnostic testing. The presence of viral capsid antigen (VCA) IgM antibodies would confirm an acute infection."
+    },
+    {
+      "stem": "A seven-month-old infant comes for check-up. You discover that he received vaccination at birth and at 2 months' old only; and did not receive vaccinations since then. What is the suitable approach?",
+      "options": [
+        "Do not give any vaccines as the parents are non-compliant",
+        "Give both doses of 4 and 6-months' vaccination simultaneously",
+        "Give the 4 months' vaccination and schedule the 6 months' vaccination after 1-2 months",
+        "Give the 4 months' vaccination only and ignore the 6 months' vaccination as it will be so much delayed"
+      ],
+      "correct": 2,
+      "explanation": "When a child has a delayed vaccination schedule, the approach is to resume the schedule where it was interrupted. It is not necessary to restart the entire course. Thus, the 4-month vaccination should be given now, and the 6-month vaccination should be scheduled after the appropriate interval of 1-2 months."
+    },
+    {
+      "stem": "A 10-year old child is being referred to you to assess the need for vaccination, following an emergency splenectomy done after a road traffic accident. You discuss with the parents his past vaccinations & the necessity to receive some vaccines. Which of the following vaccines is mandatory to protect the child following splenectomy?",
+      "options": [
+        "Haemophilus influenzae serotype b (Hib)",
+        "Hepatitis B vaccine",
+        "Pertussis",
+        "Tetanus toxoid"
+      ],
+      "correct": 0,
+      "explanation": "Splenectomy, whether elective or emergency, removes a key organ for filtering encapsulated bacteria. The Haemophilus influenzae type b (Hib) vaccine is mandatory for children after splenectomy to protect against serious encapsulated bacterial infections such as meningitis and septicemia."
+    },
+    {
+      "stem": "Two brothers coming to the ER with sudden onset of high-grade fever, coryza and scattered itchy papular rash on his back and trunk. They were prescribed antibiotics and antipyretics. Two days later, they came with scattered vesicular rash all over their bodies. What is your diagnosis?",
+      "options": [
+        "Cytomegalovirus",
+        "Epstein bar virus",
+        "Herpes Simplex virus",
+        "Varicella-zoster virus"
+      ],
+      "correct": 3,
+      "explanation": "The clinical history of a febrile, coryza-like illness followed by a scattered papular rash that progresses to a vesicular rash all over the body is characteristic of chickenpox. This is caused by the Varicella-zoster virus."
+    },
+    {
+      "stem": "Rotavirus vaccine should not be initiated for infants older than",
+      "options": [
+        "11 weeks",
+        "13 weeks",
+        "16 weeks",
+        "17 weeks"
+      ],
+      "correct": 2,
+      "explanation": "The rotavirus vaccine, a non-compulsory vaccine, has specific timing for administration. The first dose should not be given after the age of 16 weeks."
+    },
+    {
+      "stem": "The final dose of rotavirus vaccine must be administered no later than",
+      "options": [
+        "6 month of age",
+        "8 month of age",
+        "10 month of age",
+        "12 month of age"
+      ],
+      "correct": 1,
+      "explanation": "According to the textbook's description of non-compulsory rotavirus vaccination, all doses of the vaccine should be completed before the infant is 8 months old."
+    },
+    {
+      "stem": "Scarlet fever is an upper respiratory tract infection associated with a characteristic rash. Which of the following, statements is true?",
+      "options": [
+        "Before desquamation, the reddened papillae are prominent, giving the tongue a strawberry appearance",
+        "It is caused by an infection with pyrogenic endotoxin producing group A Streptococcus",
+        "The milder form can be confused with Kawasaki disease",
+        "The rash begins to fade after 1-2 weeks"
+      ],
+      "correct": 2,
+      "explanation": "The mild form of scarlet fever can be confused with Kawasaki disease, which presents with similar symptoms including a rash and strawberry tongue. The tongue changes are described as 'white strawberry tongue' first, then 'red strawberry tongue' as the white coat peels off. The rash is caused by an erythrogenic toxin-producing Group A beta-hemolytic streptococcus, not endotoxin. The rash fades after 3-7 days, not 1-2 weeks."
+    },
+    {
+      "stem": "Regarding measles, which statement is false?",
+      "options": [
+        "Incubation period is 8-12 days",
+        "Koplik spots have been reported in 50-70% of measles cases",
+        "The rash begins on the forehead, behind the ears, and on the upper neck",
+        "The rash fades over about 3 days in the same progression as it evolved"
+      ],
+      "correct": 3,
+      "explanation": "This statement is false. The rash of measles fades over the next three days in the same progression as it appeared, but this can be a brownish discoloration that may persist for 7-10 days. The other statements are true: the incubation period is 10 days, Koplik's spots are a characteristic sign, and the rash typically begins on the face, along the hairline, and behind the ears."
+    },
+    {
+      "stem": "The most common finding among infants with congenital rubella syndrome is",
+      "options": [
+        "Cataracts",
+        "Deafness",
+        "Neonatal purpura",
+        "Patent ductus arteriosus"
+      ],
+      "correct": 1,
+      "explanation": "The congenital rubella syndrome includes a triad of congenital heart disease, cataracts, and sensorineural deafness. Among these, sensorineural deafness is the most common finding, with a high incidence in congenital rubella syndrome."
+    },
+    {
+      "stem": "Mumps is characterized by",
+      "options": [
+        "A morbilliform rash is rarely seen",
+        "Incubation period ranges from 7-11 days",
+        "Pale opening of the Stensen duct",
+        "Unilateral parotitis rarely becomes bilateral"
+      ],
+      "correct": 0,
+      "explanation": "Mumps is characterized by the swelling of one or both parotid glands, and a morbilliform rash is not mentioned as a feature of the disease. The incubation period is 2-3 weeks, not 7-11 days. The opening of the parotid duct (Stensen's duct) is hyperemic, not pale. Unilateral parotitis is less common than bilateral involvement, not a rare occurrence."
+    },
+    {
+      "stem": "The most common complication of mumps is",
+      "options": [
+        "Conjunctivitis",
+        "Aseptic meningitis",
+        "Optic neuritis",
+        "Thrombocytopenia"
+      ],
+      "correct": 1,
+      "explanation": "Encephalitis is the most common complication of mumps. The textbook also states that the prognosis for encephalitis is good. (Note: Aseptic meningitis is a form of encephalitis and often used interchangeably in this context)."
+    },
+    {
+      "stem": "CNS involvement in mumps is characterized by:",
+      "options": [
+        "Encephalitis most commonly manifests 2-10 days after the parotits",
+        "CNS symptoms usually resolve in 3 days",
+        "CSF protein content is usually elevated",
+        "Facial palsy is a less-common CNS complication"
+      ],
+      "correct": 3,
+      "explanation": "Facial palsy is not listed as a CNS complication of mumps. CNS involvement is characterized by encephalitis, which occurs 3-10 days after the parotitis. The prognosis is usually good, and the CSF protein content is elevated."
+    },
+    {
+      "stem": "The most common cause of recurrent aseptic meningitis is",
+      "options": [
+        "Mumps",
+        "Adenoviruses",
+        "HSV",
+        "Influenza virus"
+      ],
+      "correct": 2,
+      "explanation": "The textbook lists Herpes simplex virus (HSV) as a cause of meningoencephalitis."
+    },
+    {
+      "stem": "Regarding Varicella, which of the following is true",
+      "options": [
+        "It usually begins 4-6 days after exposure",
+        "Subclinical varicella is common",
+        "Mild abdominal pain may occur 24-48 hours before the rash appears",
+        "Lesions often appear first on the extremities"
+      ],
+      "correct": 2,
+      "explanation": "Mild abdominal pain may occur 24-48 hours before the rash appears. The incubation period is 2-3 weeks. The rash is pleomorphic, appearing in successive crops over 3-4 days. The lesions typically appear first on the trunk, not the extremities."
+    },
+    {
+      "stem": "Infectious mononucleosis is not characterized by",
+      "options": [
+        "Aplastic anemia",
+        "Convulsions.",
+        "Elevated liver enzymes.",
+        "Generalized lymphadenopathy and splenomegaly."
+      ],
+      "correct": 0,
+      "explanation": "The manifestations of infectious mononucleosis include anorexia, fever, pharyngitis, cervical lymphadenopathy, splenomegaly, and a macular rash if ampicillin is given. Aplastic anemia is not listed as a characteristic feature or complication of infectious mononucleosis in the text."
+    },
+    {
+      "stem": "Complications of Measles do not include",
+      "options": [
+        "Congenital anomalies.",
+        "Encephalitis.",
+        "Myocarditis.",
+        "Subacute sclerosing panencephalitis."
+      ],
+      "correct": 0,
+      "explanation": "The complications of measles listed in the textbook include respiratory issues (otitis media, laryngitis, bronchitis, pneumonia), diarrhea, and neurological complications (encephalitis, subacute sclerosing panencephalitis). Congenital anomalies are not a listed complication."
+    },
+    {
+      "stem": "One of the following is not a live vaccine",
+      "options": [
+        "BCG.",
+        "MMR.",
+        "Pneumococcal.",
+        "Sabin."
+      ],
+      "correct": 2,
+      "explanation": "The BCG, MMR, and Sabin polio vaccines are all described as live attenuated vaccines. Pneumococcal vaccines are either conjugate or polysaccharide vaccines, not live attenuated vaccines."
+    },
+    {
+      "stem": "About Rota virus vaccine:",
+      "options": [
+        "It is a trivalent vaccine.",
+        "It is given subcutaneous.",
+        "The first dose is given at the age of 4 months.",
+        "Vaccination should be completed before 8 months of age"
+      ],
+      "correct": 3,
+      "explanation": "Rotavirus vaccine is a non-compulsory vaccine given orally in a series of doses. The textbook states that all doses of the vaccine should be finished before the age of 8 months."
+    },
+    {
+      "stem": "Causes of maculopapular rash don't include",
+      "options": [
+        "German measles",
+        "Herpes simplex",
+        "Roseola infantum",
+        "Scarlet fever"
+      ],
+      "correct": 1,
+      "explanation": "The textbook classifies rashes by type. It lists German measles, Roseola infantum, and Scarlet fever as causes of maculopapular rash. Herpes simplex is listed as a cause of vesiculopustular rash."
+    },
+    {
+      "stem": "The following infection has an incubation period of less than 1 week:",
+      "options": [
+        "Mumps.",
+        "Rubella.",
+        "Scarlet fever.",
+        "Varicella."
+      ],
+      "correct": 2,
+      "explanation": "The incubation period for scarlet fever is 2-4 days, which is less than a week. The other options have longer incubation periods: Mumps is 2-3 weeks, Rubella is 2-3 weeks, and Varicella (chickenpox) is 2-3 weeks."
+    },
+    {
+      "stem": "Regarding measles: which of the following is true?",
+      "options": [
+        "The most common complication is otitis media",
+        "The rash starts in the creases",
+        "The rash starts on the chest and abdomen.",
+        "Transmission is via the fecal-oral route."
+      ],
+      "correct": 0,
+      "explanation": "The most common respiratory complications of measles are otitis media, laryngitis, bronchitis, and pneumonia. The rash of measles starts on the face and behind the ears, not the creases or chest. Transmission is by droplet infection, not the fecal-oral route."
+    },
+    {
+      "stem": "Regarding measles: which of the following is false?",
+      "options": [
+        "Fever rises as rash appears",
+        "Koplik spots is late sign",
+        "The rash starts on face.",
+        "Vitamin A may be of value in the treatment."
+      ],
+      "correct": 1,
+      "explanation": "This statement is false. Koplik's spots are a prodromal sign of measles and appear on the second day of fever before the rash appears. Therefore, they are an early sign, not a late one."
+    },
+    {
+      "stem": "Which is not a complication of measles ?",
+      "options": [
+        "Appendicitis",
+        "Encephalitis",
+        "Erythema nodosum",
+        "Gastroenteritis"
+      ],
+      "correct": 2,
+      "explanation": "The complications of measles listed in the textbook include respiratory complications (otitis media, laryngitis, pneumonia), diarrhea, and neurological issues (encephalitis, SSPE). Erythema nodosum is not mentioned as a complication of measles, but it is a late complication of scarlet fever."
+    },
+    {
+      "stem": "The incubation period of rubella is:",
+      "options": [
+        "3-5 days.",
+        "2-3 weeks.",
+        "4 weeks.",
+        "4 weeks"
+      ],
+      "correct": 1,
+      "explanation": "The incubation period for rubella is 2-3 weeks."
+    },
+    {
+      "stem": "Regarding Rubella, infection which is true:",
+      "options": [
+        "Causes a severe systemic manifestation",
+        "Causes tender enlargement of occipital lymph nodes",
+        "Incubation period is 10 days",
+        "Rash duration is longer than that of measles"
+      ],
+      "correct": 1,
+      "explanation": "Rubella infection is characterized by tender enlargement of the occipital and posterior cervical lymph nodes. It causes milder symptoms than measles. The incubation period is 2-3 weeks. The rash duration of rubella is about 3 days, which is shorter than that of measles."
+    },
+    {
+      "stem": "Rubella is not characterized by:",
+      "options": [
+        "Highly contagious by droplet infection.",
+        "Koplik spots",
+        "Rash starts on face.",
+        "Retro-auricular and posterior cervical adenitis."
+      ],
+      "correct": 1,
+      "explanation": "Koplik's spots are a characteristic sign of measles, not rubella. Rubella is highly contagious by droplet infection, the rash starts on the face, and it is associated with retro-auricular and posterior cervical adenitis."
+    },
+    {
+      "stem": "The infectious agent in Roseola infantum is :",
+      "options": [
+        "Herpes simplex Type1.",
+        "Herpes simplex type II.",
+        "Human herpes virus type 1.",
+        "Human herpes virus type 6"
+      ],
+      "correct": 3,
+      "explanation": "The causative organism of roseola infantum is Human Herpes Virus 6 (HHV-6) or HHV-7, with HHV-6 being the more prevalent cause."
+    },
+    {
+      "stem": "Roseola infantum differs from German measles in:",
+      "options": [
+        "Degree and duration of fever preceding the rash.",
+        "Peripheral WBC count.",
+        "Presence of lymphadenopathy.",
+        "Type of the rash."
+      ],
+      "correct": 0,
+      "explanation": "Roseola infantum is characterized by a sudden onset of high fever (39-41°C) for 3-5 days followed by a rash. In contrast, rubella is characterized by a low-grade fever that is milder and shorter, lasting only one day before the rash appears. This difference in the degree and duration of fever preceding the rash is a key distinguishing feature."
+    },
+    {
+      "stem": "Which of the following is not characteristic for infectious mononucleosis?",
+      "options": [
+        "Atypical lymphocytosis.",
+        "Cervical adenopathy",
+        "Pancreatitis",
+        "Tonsillar exudates and sore throat."
+      ],
+      "correct": 2,
+      "explanation": "The textbook lists apathy, fever, pharyngitis, cervical lymphadenopathy, and splenomegaly as features of infectious mononucleosis. Atypical lymphocytosis is a key laboratory finding. Pancreatitis, however, is a complication of mumps, not typically infectious mononucleosis."
+    },
+    {
+      "stem": "A child developed acute rheumatic fever. He has recently recovered from fever with rash. Most probably the rash was due to:",
+      "options": [
+        "Chicken pox.",
+        "German measles",
+        "Roseola infantum.",
+        "Scarlet fever."
+      ],
+      "correct": 3,
+      "explanation": "Acute rheumatic fever is a late complication of an infection with Group A beta-hemolytic streptococcus, which is the causative agent of scarlet fever. Scarlet fever presents with a characteristic rash."
+    },
+    {
+      "stem": "A false statement regarding scarlet fever is",
+      "options": [
+        "Acute onset of high fever, chills, headache, and pharyngitis.",
+        "Fine vesiculo-papular rash appears 24 hours after fever.",
+        "Desquamation of the skin occurs by end of 1st week.",
+        "Acute post-streptococcal glomerulonephritis may occur"
+      ],
+      "correct": 1,
+      "explanation": "This statement is false. Scarlet fever rash is described as a fine papular rash, not a vesiculo-papular rash. The rash also appears on the second day of fever, not necessarily 24 hours later. The other statements are true: the disease has an acute onset with high fever, chills, headache, and pharyngitis, desquamation of the skin occurs, and acute post-streptococcal glomerulonephritis is a known late complication."
+    },
+    {
+      "stem": "Regarding vesicular rash which is true",
+      "options": [
+        "Herpes simplex rash occurs in the trunk.",
+        "Herpes zoster rash occurs at the angle of the mouth.",
+        "Papular urticaria rash may be recurrent",
+        "Varicella rash is not itchy"
+      ],
+      "correct": 2,
+      "explanation": "The textbook states that papular urticaria is a hypersensitivity reaction to an allergen, such as an insect bite, and can be recurrent. The rashes of Herpes simplex and Herpes zoster are on the face, mucocutaneous junctions, and along nerve courses, not specifically the trunk or angle of the mouth. The rash of varicella is described as itchy."
+    },
+    {
+      "stem": "About Varicella, which statement is false?",
+      "options": [
+        "Cerebellar ataxia may be a complication.",
+        "Infectivity starts 24 hours before rash appears.",
+        "Prodromal stage may pass unnoticed..",
+        "The rash does not affect the mucous membranes."
+      ],
+      "correct": 3,
+      "explanation": "This statement is false. The rash of varicella (chickenpox) affects the mucous membranes of the mouth. The other statements are true: cerebellar ataxia is a CNS complication, the infectivity period starts 24 hours before the rash appears, and the prodromal stage of mild fever and malaise may be so mild as to be unnoticed."
+    },
+    {
+      "stem": "Which of the following is true regarding chickenpox?",
+      "options": [
+        "Characteristically, the rash is more on the limbs.",
+        "Has an incubation period of 7 to 14 days.",
+        "Is caused by the varicella-zoster virus.",
+        "Is treated by oral antibacterial drugs"
+      ],
+      "correct": 2,
+      "explanation": "Chickenpox is caused by the varicella-zoster virus. The rash is centripetal, starting on the trunk and spreading to the face, scalp, and proximal parts of the limbs. The incubation period is 2-3 weeks, not 7-14 days. Treatment is symptomatic, and antiviral drugs are used only for specific complications or in immunocompromised patients, not oral antibacterial drugs."
+    },
+    {
+      "stem": "Which is not a complication of varicella?",
+      "options": [
+        "Encephalitis.",
+        "Hemorrhagic vesicles.",
+        "Orchitis.",
+        "Pneumonia."
+      ],
+      "correct": 2,
+      "explanation": "The textbook lists the following as complications of varicella: secondary bacterial infection, encephalitis, aseptic meningitis, and cerebellitis. Orchitis is a complication of mumps, not varicella."
+    },
+    {
+      "stem": "Chicken pox is not characterized by",
+      "options": [
+        "Incubation period is 2-3 weeks.",
+        "Pleomorphic rash.",
+        "Rash is never itchy.",
+        "Short Prodroma."
+      ],
+      "correct": 2,
+      "explanation": "This statement is false. The rash of chickenpox is described as pruritic, meaning it is itchy. The other statements are true: the incubation period is 2-3 weeks, the rash is pleomorphic (presenting in successive crops of lesions in different stages), and there is a short prodromal stage of 24 hours of mild fever and malaise."
+    },
+    {
+      "stem": "The incubation period of chickenpox is usually about",
+      "options": [
+        "2 days.",
+        "Less than 1 week.",
+        "1-2 weeks.",
+        "2-3 weeks."
+      ],
+      "correct": 3,
+      "explanation": "The incubation period for chickenpox (varicella) is 2-3 weeks."
+    },
+    {
+      "stem": "Which of the following statements about mumps is a false one?",
+      "options": [
+        "Incubation period is 2-5 days.",
+        "Orchitis occurs in adolescent patients.",
+        "Parotids are the most commonly involved salivary glands.",
+        "Serum amylase is usually elevated."
+      ],
+      "correct": 0,
+      "explanation": "This statement is false. The incubation period for mumps is 2-3 weeks, not 2-5 days. Orchitis occurs in adolescent patients. The parotid glands are the most commonly involved salivary glands. Serum amylase is elevated if pancreatitis is a complication."
+    },
+    {
+      "stem": "Mumps is not characterized by",
+      "options": [
+        "Unilateral parotid involvement is more frequent than bilateral affection.",
+        "Orchitis is usually more common after puberty.",
+        "Bronchopneumonia is a common complication.",
+        "Deafness is a rare complication"
+      ],
+      "correct": 2,
+      "explanation": "This statement is false. Bronchopneumonia is a common complication of measles, not mumps. The other statements are true: unilateral parotitis is less common than bilateral, orchitis is extremely rare in prepubertal children, and deafness is a rare complication."
+    },
+    {
+      "stem": "The incubation period of mumps virus infection is:",
+      "options": [
+        "12 hours.",
+        "2-3 days.",
+        "2-3 weeks.",
+        "One month."
+      ],
+      "correct": 2,
+      "explanation": "The incubation period of mumps is 2-3 weeks."
+    },
+    {
+      "stem": "Which statement is false about tetanus?",
+      "options": [
+        "Carpopedal spasm is characteristic early in the disease.",
+        "Is caused by Gram positive, anaerobic, spore forming bacilli..",
+        "Non-immune pregnant mothers should be vaccinated.",
+        "The most common site of infection in the newborn is the umbilicus."
+      ],
+      "correct": 0,
+      "explanation": "This statement is false. The characteristic early sign of tetanus is trismus (lockjaw) and risus sardonicus. Carpopedal spasm is a manifestation of manifest hypocalcemic tetany, not tetanus."
+    },
+    {
+      "stem": "About fever which is true",
+      "options": [
+        "Empirical antibiotics should be given in every case with prolonged fever.",
+        "Investigations of prolonged fever may include bone marrow examination",
+        "Prolonged fever is fever lasting for more than 4 days",
+        "Septicemia can be managed at home"
+      ],
+      "correct": 1,
+      "explanation": "The textbook states that investigations for prolonged fever may include bone marrow examination if malignancy (e.g., leukemia, lymphoma) is suspected. Prolonged fever is defined as fever lasting for more than 10-14 days. Septicemia requires urgent hospitalization, not home management. Empirical antibiotics should generally be avoided in prolonged fever as they may mask the underlying condition."
+    },
+    {
+      "stem": "Which of the following is a true statement?",
+      "options": [
+        "BCG vaccine is indicated in children with proven immune deficiency.",
+        "Hepatitis A is recommended after the 1st year of life",
+        "Hepatitis B vaccines need cold chain system.",
+        "MMR vaccine is a heat killed vaccine given at 9 months."
+      ],
+      "correct": 1,
+      "explanation": "Hepatitis A vaccine is a non-compulsory vaccine that is given to children above 1 year of age. BCG is a live attenuated vaccine, and MMR is also a live attenuated vaccine. The polio vaccine is an oral live attenuated vaccine that is easily inactivated, and the Salk vaccine is killed, not Hepatitis B vaccines."
+    },
+    {
+      "stem": "True statement regarding contraindication to vaccination is:",
+      "options": [
+        "DPT vaccine can be given in a child with cerebral palsy.",
+        "German measles vaccine is contraindicated during pregnancy.",
+        "Measles vaccine is contraindicated during a measles epidemic.",
+        "Pneumococcal vaccine is contraindicated in sickle cell disease."
+      ],
+      "correct": 1,
+      "explanation": "Live vaccines, including rubella (part of MMR), are contraindicated during pregnancy. DPT vaccine can be given to a child with cerebral palsy as long as there is no history of convulsions or epilepsy. The measles vaccine is not contraindicated during an epidemic. Pneumococcal vaccine is recommended for children at high risk of pneumococcal disease, such as those with sickle cell disease."
+    },
+    {
+      "stem": "A false statement regarding contraindication to vaccination is:",
+      "options": [
+        "DPT should not be given to febrile infants.",
+        "MMR vaccine is contraindicated in patients under steroid therapy.",
+        "Oral polio vaccine is contraindicated in immunodeficiency",
+        "Tetanus vaccine is contraindicated during pregnancy."
+      ],
+      "correct": 3,
+      "explanation": "This statement is false. Tetanus toxoid is a recommended vaccine for pregnant mothers to prevent neonatal tetanus. The other statements are true precautions or contraindications: DPT should not be given to febrile infants, MMR is contraindicated in patients on high-dose steroid therapy due to its live-attenuated nature, and oral polio vaccine is contraindicated in immunodeficiency."
+    },
+    {
+      "stem": "Vaccination with BCG characteristically produces a papule approximately",
+      "options": [
+        "1 week after vaccination",
+        "2 weeks after vaccination",
+        "3 weeks after vaccination",
+        "6 weeks after vaccination"
+      ],
+      "correct": 3,
+      "explanation": "The textbook states that after BCG vaccination, a papule develops which, over a period of 6 weeks, enlarges and ulcerates before healing with a scar."
+    },
+    {
+      "stem": "Which is not a red flag feature suggesting serious illness in a feverish child?",
+      "options": [
+        "Pale and mottled skin",
+        "Pulsating anterior fontanel",
+        "Reduced level of consciousness",
+        "Significant respiratory distress"
+      ],
+      "correct": 1,
+      "explanation": "Red flag features suggesting a serious illness in a feverish child include pale and mottled skin, reduced level of consciousness, and significant respiratory distress. A pulsating anterior fontanel is a sign of increased intracranial pressure, but it is not listed as a red flag feature for fever specifically."
+    },
+    {
+      "stem": "Which of the following is a non-compulsory vaccine?",
+      "options": [
+        "Poliovirus vaccine",
+        "Pneumococcal vaccine",
+        "BCG vaccine",
+        "Hepatitis B vaccine"
+      ],
+      "correct": 1,
+      "explanation": "According to the table of compulsory vaccines in Egypt, the poliovirus, BCG, and Hepatitis B vaccines are all listed as compulsory. The pneumococcal vaccine is listed under non-compulsory vaccines."
+    },
+    {
+      "stem": "Contraindications to vaccination don't include",
+      "options": [
+        "Patient on high dose steroids",
+        "Patient on iron therapy",
+        "Patient with high fever",
+        "Severe combined immunodeficiency"
+      ],
+      "correct": 1,
+      "explanation": "Patient on antibiotics is not a contraindication to vaccination. The textbook does list high-dose steroid therapy and severe combined immunodeficiency as contraindications. High fever is a precaution to administration of all vaccines."
+    },
+    {
+      "stem": "Meningococcal vaccine is:",
+      "options": [
+        "A capsular polysaccharide",
+        "Dose is 1 ml",
+        "Given by IM injection",
+        "Given within the first year"
+      ],
+      "correct": 0,
+      "explanation": "The meningococcal vaccine is described as a capsular polysaccharide vaccine. The dose is 0.5 ml, and it is given subcutaneously, not IM. It is indicated for children above 2 years of age, not within the first year."
+    },
+    {
+      "stem": "Which one of the following statements about rabies vaccine is correct?",
+      "options": [
+        "Given immediately post exposure",
+        "Given in 4 doses",
+        "Given subcutaneous",
+        "Inactivated"
+      ],
+      "correct": 0,
+      "explanation": "The rabies vaccine is a non-compulsory vaccine that is given post-exposure. The textbook states that post-exposure is immediately indicated if the biting animal is unavailable."
+    },
+    {
+      "stem": "Which of the following statements about roseola infantum is correct?",
+      "options": [
+        "Characterized by sudden onset of high fever",
+        "The fever persists after the maculopapular rash appears",
+        "The diagnosis can be confirmed by sputum culture",
+        "The incubation period is 4 weeks"
+      ],
+      "correct": 0,
+      "explanation": "Roseola infantum is characterized by a sudden onset of high fever (39-41°C) for 3-5 days. The fever subsides as the maculopapular rash appears, it doesn't persist. The diagnosis is clinical, not confirmed by sputum culture. The incubation period is 7-14 days, not 4 weeks."
+    },
+    {
+      "stem": "Which one of the following statements about DPT vaccine is correct?",
+      "options": [
+        "It can be given after the age of 6 years",
+        "It can be given in febrile states",
+        "It contains toxoid and live attenuated vaccine",
+        "Mild fever may occur within 12-24 hours"
+      ],
+      "correct": 3,
+      "explanation": "DPT is a combination vaccine with diphtheria and tetanus toxoids and killed pertussis bacteria. Mild fever may occur within 12-24 hours as a side effect. It should not be given after age 6 or in febrile states."
+    },
+    {
+      "stem": "Which of the following is not a complication of mumps?",
+      "options": [
+        "Orchitis",
+        "Pancreatitis",
+        "Sensorineural deafness",
+        "Septic meningitis"
+      ],
+      "correct": 3,
+      "explanation": "Septic meningitis is not a complication of mumps. Mumps can cause CNS complications like encephalitis and aseptic meningitis, but these are not septic. Orchitis, pancreatitis, and deafness are all listed as complications of mumps."
+    },
+    {
+      "stem": "Which disease cannot be prevented by vaccination?",
+      "options": [
+        "Poliomyelitis",
+        "Staphylococosis",
+        "Tetanus",
+        "Viral B hepatitis"
+      ],
+      "correct": 1,
+      "explanation": "There are vaccines available to prevent poliomyelitis (polio vaccine), tetanus (DPT vaccine, tetanus toxoid), and Hepatitis B (Hepatitis B vaccine). There is no vaccine mentioned in the text for staphylococosis."
+    },
+    {
+      "stem": "Contraindications to vaccination don't include",
+      "options": [
+        "Patient on antibiotics",
+        "Patient on high dose steroids",
+        "Patient with high fever",
+        "Severe combined immunodeficiency"
+      ],
+      "correct": 0,
+      "explanation": "The textbook does not list antibiotics as a contraindication for vaccination. High-dose steroid therapy, high fever, and severe combined immunodeficiency are all listed as contraindications or precautions."
+    },
+    {
+      "stem": "5-in-1 (pentavalent) infant vaccine protects against:",
+      "options": [
+        "Diphtheria, pertussis, polio, rotavirus and Hib",
+        "Diphtheria, tetanus, pertussis, hepatitis B and Hib",
+        "Meningococcus, diphtheria, pertussis, polio and Hib",
+        "Pneumococcus, pertussis, polio, diphtheria and Hib"
+      ],
+      "correct": 1,
+      "explanation": "The '5-in-1' (pentavalent) vaccine protects against Diphtheria, Tetanus, Pertussis, Hepatitis B, and Haemophilus influenzae type b (Hib)."
+    },
+    {
+      "stem": "Which one of the following statements about the MMR vaccine is correct?",
+      "options": [
+        "Convulsions are rare but serious side effects",
+        "MMR is a live attenuated vaccine",
+        "MMR protects against measles, meningococcus and rubella",
+        "The MMR booster is given to immunocompromised children"
+      ],
+      "correct": 1,
+      "explanation": "The MMR vaccine is a live attenuated vaccine that protects against measles, mumps, and rubella. Convulsions are a rare complication of the DPT vaccine, not MMR. The MMR booster is not given to immunocompromised children because it is a live vaccine."
+    },
+    {
+      "stem": "Which one of the following statements about the immunization schedule is correct?",
+      "options": [
+        "BCG can be given after the first year without precautions",
+        "Fever, swelling at the injection site and irritability are signs of anaphylaxis and the child should not be given the vaccine again",
+        "If a child misses an immunization, the course should be restarted according to the schedule",
+        "Presence of moderate or severe acute illness is a precaution to administration of all vaccines"
+      ],
+      "correct": 3,
+      "explanation": "The presence of a moderate or severe acute illness is a precaution for the administration of all vaccines. The other statements are false. BCG should not be given after the first year without a tuberculin test. Fever and swelling are common side effects, not signs of anaphylaxis. If a child misses a dose, the course should be resumed, not restarted."
+    }
+  ]
+}

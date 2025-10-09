@@ -1,0 +1,1409 @@
+{
+  "title": "GYNECOLOGIC ENDOCRINOLOGY",
+  "questions": [
+    {
+      "stem": "The luteal phase of the menstrual cycle is associated with:",
+      "options": [
+        "High progesterone level.",
+        "High LH levels.",
+        "Low basal body temperature.",
+        "Low prolactin level.",
+        "Rising FSH levels."
+      ],
+      "correct": 0,
+      "explanation": "The luteal phase follows ovulation and is characterized by the formation of the corpus luteum, which secretes high levels of progesterone. Progesterone is responsible for the secretory changes in the endometrium and a rise in basal body temperature during this phase."
+    },
+    {
+      "stem": "After ovulation all of the following happens EXCEPT:",
+      "options": [
+        "Thick cervical mucous.",
+        "Progesterone secretion.",
+        "Proliferative endometrium.",
+        "Corpus luteum.",
+        "Higher basal body temperature."
+      ],
+      "correct": 2,
+      "explanation": "After ovulation, the corpus luteum forms and secretes progesterone. Progesterone causes the cervical mucus to become thick and viscid and induces a higher basal body temperature. The endometrium enters the secretory phase under progesterone's influence, while the proliferative phase occurs before ovulation under estrogen's effect."
+    },
+    {
+      "stem": "Menarche usually occurs at the age of:",
+      "options": [
+        "8-10 years.",
+        "11-13 years.",
+        "14-16 years.",
+        "17-18 years.",
+        "18 and above."
+      ],
+      "correct": 1,
+      "explanation": "Menarche, which is the onset of menstruation, normally occurs between 11-13 years of age. This follows the appearance of secondary sexual characteristics, triggered by rising estrogen levels due to pituitary FSH secretion."
+    },
+    {
+      "stem": "Under the effect of progesterone, cervical mucus shows:",
+      "options": [
+        "Profuse amount.",
+        "Decreased viscosity.",
+        "Decreased leucocytes.",
+        "Maximum Ferning test.",
+        "Positive Thread test."
+      ],
+      "correct": 2,
+      "explanation": "The provided correct answer is (c) Decreased leucocytes. However, according to the source, under the effect of progesterone (luteal phase), cervical mucus is characterized by increased leucocytes, becoming scanty and thick-viscid, with a negative Ferning test and negative Spinbarkeit test."
+    },
+    {
+      "stem": "A 19 years old, unmarried female, presented to ER with sudden onset of right lower abdominal pain 1 week after the end of her menses. This pain is associated with a mild increase in vaginal secretions and blood spotting. Ultrasound revealed a normal sized AVF uterus and right adnexal clear cystic structure 20 mm in diameter. What is your provisional diagnosis for this case?",
+      "options": [
+        "Mild PID.",
+        "Ovulatory pain.",
+        "Endometriosis.",
+        "Ectopic pregnancy.",
+        "Ovarian torsion."
+      ],
+      "correct": 1,
+      "explanation": "The patient's presentation with sudden onset right lower abdominal pain approximately 1 week after the end of her menses, along with a small adnexal cystic structure (20 mm), is highly suggestive of ovulatory pain (Mittelschmerz). This pain occurs around the time of ovulation, when the follicle matures or ruptures. The mild spotting and increased vaginal secretions can also be associated with ovulation."
+    },
+    {
+      "stem": "Selection of the dominant follicle in the menstrual cycle is mainly due to:",
+      "options": [
+        "High level of FSH at start of the follicular phase.",
+        "Low level of LH at early follicular phase.",
+        "Increased FSH receptors in the selected follicle.",
+        "Least aromatase activity in the selected follicle.",
+        "Decreasing inhibin level."
+      ],
+      "correct": 2,
+      "explanation": "The selection of the dominant follicle is primarily due to its increased sensitivity to FSH, which results from a rapid proliferation of FSH receptors within that follicle. Estrogen (E2) produced by the follicle further enhances the induction of FSH receptors on granulosa cells."
+    },
+    {
+      "stem": "Regarding luteal phase defect, choose the correct answer:",
+      "options": [
+        "Serum progesterone is less than 5ng/ml in day 21.",
+        "Basal body temperature is monophasic.",
+        "Premenstrual endometrial biopsy shows proliferative endometrium.",
+        "Common cause of recurrent 2nd trimester abortion.",
+        "Common to occur with clomiphene citrate use for ovulation induction."
+      ],
+      "correct": 4,
+      "explanation": "Luteal phase defect (LPD) is a condition where the endometrium shows poor secretory changes. It is a common complication that can occur with the prolonged use of clomiphene citrate (CC) for ovulation induction. This is due to CC's effect on decreasing endogenous FSH release."
+    },
+    {
+      "stem": "Normal luteal phase vaginal cytology shows:",
+      "options": [
+        "Superficial cells with non-rolled edges.",
+        "Eosinophilic cytoplasm.",
+        "Pyknotic nucleus.",
+        "Few lymphocytes.",
+        "Maturation index 0-70-30."
+      ],
+      "correct": 4,
+      "explanation": "In the luteal phase, under the effect of progesterone, there is shedding of more intermediate cells from the vaginal epithelium. The maturation index, which calculates the ratio of basal, intermediate, and superficial cells, would reflect this shift. A maturation index of 0-70-30 (basal-intermediate-superficial) indicates a predominance of intermediate cells, consistent with the luteal phase."
+    },
+    {
+      "stem": "The following is not controlled by hypothalamic releasing hormones?",
+      "options": [
+        "Prolactin.",
+        "FSH and LH.",
+        "TSH.",
+        "ACTH.",
+        "Growth hormone."
+      ],
+      "correct": 0,
+      "explanation": "All pituitary hormones, including FSH, LH, TSH, ACTH, and growth hormone (GH), are stimulated and controlled by hypothalamic releasing hormones. However, prolactin (PRL) is an exception, as it is primarily under chronic inhibition by prolactin inhibiting factor (PIF) from the hypothalamus, rather than being stimulated by a releasing hormone."
+    },
+    {
+      "stem": "The functions of mid-cycle LH surge include the following EXСЕРТ:",
+      "options": [
+        "Enhances thecal cell androgen production.",
+        "Induces final maturation of the dominant follicle.",
+        "Initiates resumption of meiosis.",
+        "Facilitates oocyte expulsion.",
+        "Produces luteolysis."
+      ],
+      "correct": 4,
+      "explanation": "The mid-cycle LH surge is crucial for final maturation of the dominant follicle, initiating resumption of meiosis in the oocyte, and facilitating oocyte expulsion (ovulation). LH also enhances thecal cell androgen production. Luteolysis, the degeneration of the corpus luteum, occurs at the end of the luteal phase, approximately 9 days after ovulation, due to the decline in E2, P, and inhibin, not directly produced by the mid-cycle LH surge."
+    },
+    {
+      "stem": "When do the oogonia begin meiosis in the female?",
+      "options": [
+        "At puberty.",
+        "Monthly during menstruation.",
+        "At age 20.",
+        "Toward the end of gestation of the female fetus.",
+        "During the luteal phase of the cycle."
+      ],
+      "correct": 0,
+      "explanation": "The provided answer key states (a) At puberty. However, the provided textbook excerpts do not explicitly state the exact time when oogonia begin meiosis. The textbook mentions that each primordial follicle consists of a single oocyte arrested in the diplotene stage and that resumption of meiosis occurs during ovulation, implying that meiosis has already started and been arrested much earlier."
+    },
+    {
+      "stem": "Which of the following is suggestive of ovulation?",
+      "options": [
+        "Basal body temperature drops at least 0.5C in the second half of the cycle.",
+        "Day 21 estrogen level is elevated.",
+        "Progesterone level on day 10 of the cycle is elevated.",
+        "Regular cycle with dysmenorrhea.",
+        "Oligomenorrhoea."
+      ],
+      "correct": 3,
+      "explanation": "Primary dysmenorrhea is almost always associated with ovulatory cycles. Regular menstrual cycles typically indicate that ovulation is occurring consistently. Other options are incorrect: basal body temperature rises in the luteal phase; progesterone levels are elevated in the mid-luteal phase (around day 21), not day 10; and oligomenorrhea is often linked to anovulation."
+    },
+    {
+      "stem": "The luteal phase of the menstrual cycle is associated with:",
+      "options": [
+        "High luteinizing hormone level.",
+        "High progesterone levels.",
+        "High prolactin level.",
+        "Low basal body temperature.",
+        "Proliferative changes in the endometrium."
+      ],
+      "correct": 1,
+      "explanation": "The luteal phase of the menstrual cycle, which follows ovulation, is characterized by the formation of the corpus luteum and its secretion of high levels of progesterone. Progesterone is responsible for the secretory changes in the endometrium and a rise in basal body temperature during this phase. LH levels are high before ovulation (LH surge)."
+    },
+    {
+      "stem": "The follicular phase of menstrual cycle is characterized by:",
+      "options": [
+        "Endometrial gland proliferation.",
+        "Decreased ovarian estradiol production.",
+        "Progesterone dominance.",
+        "A fixed length of 8 days.",
+        "A reduction in aromatase activity."
+      ],
+      "correct": 0,
+      "explanation": "The follicular phase of the ovarian cycle coincides with the proliferative phase of the endometrium. During this time, ovarian estrogen, produced by maturing follicles, stimulates endometrial gland and stromal growth (proliferation)."
+    },
+    {
+      "stem": "An involuted corpus luteum becomes a hyalinized mass known as:",
+      "options": [
+        "Corpus delicti.",
+        "Corpus granulosa.",
+        "Graafian follicle.",
+        "Corpus atretic.",
+        "Corpus albicans."
+      ],
+      "correct": 4,
+      "explanation": "After approximately 9 days, if pregnancy does not occur, the corpus luteum undergoes luteolysis and is replaced by an avascular hyalinized mass known as the corpus albicans."
+    },
+    {
+      "stem": "Luteal phase defect:",
+      "options": [
+        "Has inadequate luteal progesterone production.",
+        "Has inadequate follicular estrogen production.",
+        "Can be corrected by estrogen.",
+        "Associated with delayed menstruation.",
+        "Can lead to hypo-prolactinemia."
+      ],
+      "correct": 0,
+      "explanation": "Luteal phase defect (LPD) is defined as a condition characterized by low progesterone levels in the luteal phase (5-10 ng/ml at day 21) and/or a short luteal phase duration (<11 days). This results in poor secretory changes in the endometrium."
+    },
+    {
+      "stem": "On examination of endometrial tissue, simple columnar epithelium with no sub nuclear vacuoles is detected. The stroma is edematous, & a tortuous gland contains secretions. These findings are consistent with:",
+      "options": [
+        "Early proliferative phase.",
+        "Mid-proliferative phase.",
+        "Late proliferative.",
+        "Mid-secretory.",
+        "Non-ovulatory cycle."
+      ],
+      "correct": 3,
+      "explanation": "The endometrial findings of edematous stroma, glandular tortuosity, and secretions are highly consistent with the mid-secretory phase of the endometrial cycle. This phase occurs after ovulation and is under the influence of progesterone, which induces maximal secretory changes. The proliferative phase, in contrast, is characterized by glandular and stromal growth rather than widespread secretions."
+    },
+    {
+      "stem": "Ovulation occurs:",
+      "options": [
+        "Immediately after LH surge.",
+        "6-8 hours after LH surge.",
+        "After Prolactin surge.",
+        "After follicles ripened in the ovary.",
+        "36 hours after LH surge."
+      ],
+      "correct": 4,
+      "explanation": "Ovulation (oocyte release) occurs approximately 36 hours after the onset of the LH surge, and about 12 hours after the LH peak."
+    },
+    {
+      "stem": "Precocious puberty has many physical and psychological effects. One of the effects is not correctable and has major long-term implications:",
+      "options": [
+        "Epiphyseal closure.",
+        "Hair growth.",
+        "Genital development.",
+        "Breast tissue development.",
+        "Start of menstruation."
+      ],
+      "correct": 0,
+      "explanation": "In precocious puberty, early estrogen production leads to premature epiphyseal bone closure, resulting in permanent short stature. This effect on bone age and growth is considered not correctable in the long term, unlike the development of secondary sexual characteristics or menstruation, which can be managed with therapy."
+    },
+    {
+      "stem": "A 6-year-old girl is brought in to you by her mother as she has developed breasts and few pubic hairs. Her hormonal profile shows follicular levels of FSH, LH. These findings are with:",
+      "options": [
+        "Theca cell tumor.",
+        "Iatrogenic sexual precocious puberty.",
+        "Premature thelarche.",
+        "Granulosa cell tumors.",
+        "Central precocious puberty."
+      ],
+      "correct": 4,
+      "explanation": "The patient's presentation with breast and pubic hair development before the age of 8 years, combined with follicular levels of FSH and LH, indicates an activated hypothalamic-pituitary-ovarian axis. This is characteristic of central precocious puberty (true isosexual precocious puberty), which is due to premature activation of the GnRH pathway leading to early FSH and E2 secretion."
+    },
+    {
+      "stem": "In the previous patient, what is the most suitable treatment?",
+      "options": [
+        "Exogenous gonadotrophins.",
+        "Ethinyl estradiol.",
+        "GnRH agonists.",
+        "Clomiphene citrate.",
+        "No treatment; just reassurance."
+      ],
+      "correct": 2,
+      "explanation": "For central precocious puberty, the most suitable treatment involves long-acting GnRH agonists. These agonists initially stimulate, then suppress pituitary FSH and LH, which in turn reduces ovarian estrogen production, thereby halting the progression of puberty and preventing premature epiphyseal closure and resultant short stature."
+    },
+    {
+      "stem": "The most common cause of precocious puberty is:",
+      "options": [
+        "Constitutional",
+        "CNS tumors.",
+        "Albright syndrome.",
+        "Hypothyroidism.",
+        "Gonadal tumors."
+      ],
+      "correct": 0,
+      "explanation": "The most common cause of true isosexual precocious puberty (GnRH-dependent) is constitutional (idiopathic), accounting for approximately 74% of cases. This form is due to idiopathic premature activation of the GnRH pathway."
+    },
+    {
+      "stem": "Which of the following statement is true about the sequence of puberty:",
+      "options": [
+        "Growth spurt. adrenarche, thelarche, axilarche then menarche.",
+        "Growth spurt, thelarche, adrenarche, menarche then axilarche.",
+        "Menarche, axillarche, growth spurt, thelarche, adrenarche.",
+        "Pubarche, growth spurt, axilarche, pubarche, then menarche.",
+        "None of the above."
+      ],
+      "correct": 1,
+      "explanation": "The typical sequence of pubertal growth in females, according to the textbook, starts with the growth spurt, followed by breast development (thelarche), then pubic hair growth (pubarche, linked to adrenarche), the onset of menstruation (menarche), and finally axillary hair development (axillarche)."
+    },
+    {
+      "stem": "A 13 years old young girl presents in the ER with acute pain in the lower abdomen. She has history of cyclical pain for the last 6 months and she has not attained her menarche yet. On local examination, a tense bulge in the region of hymen was seen. The most probable diagnosis is:",
+      "options": [
+        "Vulval fibroma.",
+        "Mid vaginal transverse septum.",
+        "Bartholin cyst.",
+        "Imperforate hymen.",
+        "Clitoridal cyst."
+      ],
+      "correct": 3,
+      "explanation": "The patient's presentation of primary amenorrhea at 13 years old (age of puberty), along with a history of cyclical lower abdominal pain and a tense bulge in the region of the hymen on examination, is highly characteristic of an imperforate hymen. This condition leads to the accumulation of menstrual blood (hematocolpos) behind the hymen, causing cyclical pain and the visible bulge."
+    },
+    {
+      "stem": "A mother attending gynecology outpatient clinic with her girl who is 16 years old with no menarche till now, on examination she has well developed breast (Tanner stage IV) and pubic and axillary hair and pelvi-abdominal swelling what are the most common possibility for the case:",
+      "options": [
+        "Mullerian duct agenesis.",
+        "Outflow tract obstruction.",
+        "Turner syndrome.",
+        "Kallmann syndrome.",
+        "Testicular feminization syndrome."
+      ],
+      "correct": 1,
+      "explanation": "The patient's presentation with primary amenorrhea at 16 years old, well-developed secondary sexual characteristics (breast, pubic, and axillary hair), and a pelvi-abdominal swelling is most consistent with an outflow tract obstruction. This condition allows for normal hormone production and secondary sexual development but prevents the egress of menstrual blood, leading to its accumulation and forming a pelvic mass (hematocolpos/hematometra)."
+    },
+    {
+      "stem": "A 29-year-old patient presented with 2ry amenorrhea following dilatation and curettage for a missed abortion. The most probable diagnosis/ investigation:",
+      "options": [
+        "Asherman's syndrome, for laparoscopy.",
+        "Sheehan's syndrome, for hormonal assay.",
+        "Sheehan's syndrome, for pituitary imaging.",
+        "Asherman's syndrome, hysteroscopy.",
+        "Physiological amenorrhea, no investigations are required."
+      ],
+      "correct": 3,
+      "explanation": "The patient's presentation of secondary amenorrhea following dilatation and curettage (D&C) for a missed abortion is the classic clinical picture for Asherman's syndrome. Asherman's syndrome involves acquired intrauterine adhesions that prevent endometrial proliferation. The gold standard diagnostic tool for this condition, allowing direct visualization and potential treatment, is hysteroscopy."
+    },
+    {
+      "stem": "A 35-year-old woman complains of amenorrhea for 10 months following severe postpartum haemorrhage. She has positive withdrawal on oestrogen/progestogen injection. What is the most probable diagnosis?",
+      "options": [
+        "Sheehan's syndrome.",
+        "Asherman's syndrome.",
+        "Polycystic ovarian disease.",
+        "Hyperprolactinemia.",
+        "Thyroid dysfunction."
+      ],
+      "correct": 0,
+      "explanation": "The patient's presentation of amenorrhea following severe postpartum hemorrhage is the classic definition of Sheehan's syndrome. This condition involves anterior pituitary necrosis, leading to diminished FSH and LH secretion, and subsequent ovarian failure to produce estrogen and progesterone. A positive withdrawal bleeding with exogenous estrogen/progestogen confirms that the endometrium is responsive, further supporting a pituitary-level problem rather than a uterine issue."
+    },
+    {
+      "stem": "All of the following are causes of heterosexual precocious puberty EXCEPT:",
+      "options": [
+        "Constitutional.",
+        "Congenital adrenal hyperplasia.",
+        "Exogenous androgen intake.",
+        "Androgen secreting ovarian tumors.",
+        "Androgen secreting adrenal tumors."
+      ],
+      "correct": 0,
+      "explanation": "Heterosexual precocious puberty is characterized by the development of secondary sexual characteristics that do not match the genetic and phenotypic sex, or isosexual precocity accompanied by virilization, and it is GnRH-independent. Causes include congenital adrenal hyperplasia (CAH), exogenous androgen intake, adrenal tumors, and androgen-secreting ovarian tumors. Constitutional precocious puberty, however, is a form of isosexual precocious puberty, where secondary sexual characteristics are in agreement with the genetic sex (e.g., early breast development and menarche in a girl). Therefore, constitutional precocious puberty is not a cause of heterosexual precocious puberty."
+    },
+    {
+      "stem": "A 28yrs old G2P2 delivered her last child 2yrs ago. She breastfed exclusively for 8 months and stopped breastfeeding several months ago, but can still express milk from both breasts daily. She takes no medications and uses barrier method for contraception. Physical examination is unremarkable. The most likely diagnosis:",
+      "options": [
+        "Pituitary macroadenoma.",
+        "Breast fibroadenosis.",
+        "Hypothyroidism.",
+        "Empty sella syndrome.",
+        "Physiologic galactorrhea."
+      ],
+      "correct": 4,
+      "explanation": "The patient's ability to still express milk daily from both breasts several months after cessation of breastfeeding, in the absence of any medication use or other abnormal physical findings, is most consistent with physiologic galactorrhea. While hyperprolactinemia is often the underlying cause of galactorrhea, it can persist for some time after the cessation of lactation due to lingering physiological effects."
+    },
+    {
+      "stem": "In the previous patient, management should be:",
+      "options": [
+        "Thyroxine supplementation.",
+        "Cabergoline to suppress milk formation.",
+        "Prolactin agonist medication.",
+        "Daily breast milk expression and tight binder.",
+        "Bilateral mastectomy."
+      ],
+      "correct": 1,
+      "explanation": "The management of galactorrhea secondary to hyperprolactinemia, even if physiological, often involves dopamine agonists. Cabergoline is a commonly used dopamine agonist that effectively suppresses prolactin levels and milk formation. This is the most suitable medical treatment given the persistent nature of the galactorrhea."
+    },
+    {
+      "stem": "Which of the following change in puberty is influenced by the estrogen:",
+      "options": [
+        "Growth of the acinar buds of the breast.",
+        "Epiphyseal fusion.",
+        "Proliferative phase of the endometrium.",
+        "All of the above.",
+        "None of the above."
+      ],
+      "correct": 3,
+      "explanation": "Estrogen plays a critical role in various pubertal changes and reproductive processes. It influences the growth of the breast including the budding of the body of the breast, is responsible for epiphyseal fusion leading to cessation of linear growth, and drives the proliferative phase of the endometrium. Therefore, all the listed changes are influenced by estrogen."
+    },
+    {
+      "stem": "Puberty is associated with all EXCЕРТ:",
+      "options": [
+        "Growth spurt.",
+        "Onset of menstruation.",
+        "Alteration in the distribution of body fat.",
+        "Characteristic reduction in FSH.",
+        "Anovulatory cycles."
+      ],
+      "correct": 3,
+      "explanation": "Puberty is a period of significant physiological changes, including a growth spurt, the onset of menstruation, and initial anovulatory cycles. It also involves changes in body composition. However, during puberty, pituitary FSH secretion actually starts to rise in response to GnRH stimulation to initiate follicular development. Therefore, a characteristic reduction in FSH is incorrect."
+    },
+    {
+      "stem": "Regarding puberty, all are true EXCЕРТ:",
+      "options": [
+        "Breast development usually starts about the age of nine.",
+        "The appearance of pubic hair around the age of 10.",
+        "Menstruation at 12-13 years of age.",
+        "Every fetus will develop female external genitalia unless exposed to testosterone.",
+        "Puberty is defined as menarche."
+      ],
+      "correct": 4,
+      "explanation": "Puberty is broadly defined as the period of life that marks the normal physiologic transition from childhood to sexual and reproductive maturity, encompassing physical, mental, and sexual growth. While menarche (the onset of menstruation) is a key event and a clinical manifestation of puberty, it is not the sole definition of puberty itself."
+    },
+    {
+      "stem": "What is the 1st sign of puberty in females?",
+      "options": [
+        "Growth spurt.",
+        "Thelarche.",
+        "Pubarche.",
+        "Menarche.",
+        "Axillarche."
+      ],
+      "correct": 0,
+      "explanation": "The growth spurt is the first sign of puberty to occur in females. This typically peaks around 11 years of age and is followed by the development of secondary sexual characteristics like breast budding (thelarche)."
+    },
+    {
+      "stem": "Complications that could be attributed to post-menopausal hormonal changes include the following EXCEPT:",
+      "options": [
+        "Procidentia.",
+        "Coronary heart diseases.",
+        "Cancer breast.",
+        "Stress urinary incontinence.",
+        "Depression."
+      ],
+      "correct": 2,
+      "explanation": "Postmenopausal hormonal changes, primarily estrogen deficiency, lead to several complications. These include pelvic organ prolapse (such as procidentia) due to weakening of pelvic ligaments, an increased risk of cardiovascular diseases (like coronary heart disease) due to altered lipid profiles, stress urinary incontinence due to atrophic changes in pelvic fascia, and nervous and psychological symptoms like depression. The textbook does not list breast cancer as a direct complication attributed to the hormonal changes of menopause (estrogen deficiency)."
+    },
+    {
+      "stem": "The cause of menopause is:",
+      "options": [
+        "Deficient gonadotrophin production.",
+        "Depletion of ovarian store of follicles.",
+        "Endometrial atrophy.",
+        "Increase ovarian androgen production.",
+        "Increase Estrone level."
+      ],
+      "correct": 1,
+      "explanation": "Menopause is fundamentally caused by the depletion of the ovarian primordial follicles, which have been consumed since menarche. This follicular depletion leads to intrinsic ovarian failure and the cessation of ovarian estrogen secretion."
+    },
+    {
+      "stem": "The following can be used to treat postmenopausal osteoporosis:",
+      "options": [
+        "Selective estrogen receptor modulators.",
+        "Bisphosphonates.",
+        "Calcitonin.",
+        "Vitamin D.",
+        "All of the above."
+      ],
+      "correct": 4,
+      "explanation": "The treatment of postmenopausal osteoporosis involves a multifaceted approach. This includes drugs that slow bone breakdown, such as bisphosphonates and calcitonin, and agents with anabolic effects. Additionally, selective estrogen receptor modulators (SERMs) are approved for prevention of osteoporosis, and Vitamin D supplementation is crucial for prevention and management. Therefore, all the listed options are used in the treatment or prevention of postmenopausal osteoporosis."
+    },
+    {
+      "stem": "The following are contraindications for hormone replacement therapy:",
+      "options": [
+        "Impaired liver functions.",
+        "Gall bladder disease.",
+        "High serum triglycerides.",
+        "Vascular thrombosis.",
+        "All of the above."
+      ],
+      "correct": 4,
+      "explanation": "Hormone therapy (HT) has several contraindications. These include active liver disease and a history of deep vein thrombosis (DVT), stroke, or thromboembolic disease. Additionally, given that combined hormonal contraception (which shares hormonal components with HT) can be associated with increased hepatic cholestasis and a higher incidence of gallstones, as well as effects on lipid metabolism, it is prudent to consider gallbladder disease and high serum triglycerides as contraindications or requiring careful consideration. Therefore, all the listed conditions are generally considered contraindications."
+    },
+    {
+      "stem": "A 52yearold woman presents for her annual exam and gives a history that she has not had menstrual period in 2 years. The following is least likely to be associated with menopause:",
+      "options": [
+        "Osteoporosis.",
+        "Weight loss.",
+        "Vasomotor instability.",
+        "Genital atrophy.",
+        "Mood disturbances."
+      ],
+      "correct": 1,
+      "explanation": "Postmenopausal women commonly experience various symptoms and changes due to estrogen deficiency. These include a tendency to weight gain, rather than weight loss, along with osteoporosis, vasomotor symptoms (hot flushes), genital atrophy, and mood disturbances such as anxiety and irritability. Therefore, weight loss is the least likely to be associated with menopause."
+    },
+    {
+      "stem": "Diagnosis of menopause includes the following EXCEPT:",
+      "options": [
+        "Amenorrhea for 1y in premenopausal women.",
+        "Decreased FSH levels & high E2 levels.",
+        "Symptoms as flushes, irritability, insomnia & weight gain.",
+        "Increased risk of coronary heart disease, & osteoporosis.",
+        "Decrease levels of inhibin."
+      ],
+      "correct": 1,
+      "explanation": "The diagnosis of menopause is defined by 12 months of amenorrhea and is characterized by distinct endocrine changes. These include a marked increase in serum FSH and LH levels and a persistent decrease in ovarian E2 levels. Associated symptoms include hot flushes, irritability, insomnia, and a tendency to weight gain. Menopause also carries an increased risk of coronary heart disease and osteoporosis. Therefore, decreased FSH and high E2 levels are contrary to the hormonal profile of menopause."
+    },
+    {
+      "stem": "Contraindications of hormone therapy in menopause include:",
+      "options": [
+        "Active liver disease",
+        "Suspected breast cancer",
+        "Undiagnosed abnormal genital tract bleeding",
+        "History of DVT.",
+        "All of the above"
+      ],
+      "correct": 4,
+      "explanation": "All the listed conditions are explicitly stated as contraindications for hormone therapy (HT) in menopause. These include active liver disease, known or suspected breast cancer (or estrogen-dependent neoplasia), undiagnosed abnormal bleeding from the genital tract, and a history of deep vein thrombosis (DVT), stroke, or thromboembolic disease."
+    },
+    {
+      "stem": "Women with postmenopausal bleeding need endometrial sampling if endometrial on US is thicker than:",
+      "options": [
+        "1mm.",
+        "2mm.",
+        "5mm.",
+        "8mm.",
+        "10mm."
+      ],
+      "correct": 2,
+      "explanation": "For women with postmenopausal bleeding (PMB), transvaginal sonography (TVS) is used to measure endometrial thickness. An endometrial thickness exceeding a cut-off value of 5.0 mm is considered strongly suspicious for endometrial hyperplasia or malignancy and warrants further investigation, such as endometrial sampling."
+    },
+    {
+      "stem": "Mean age for menopause is:",
+      "options": [
+        "40 years.",
+        "45 years.",
+        "51 years.",
+        "48 years.",
+        "39 years."
+      ],
+      "correct": 2,
+      "explanation": "Natural menopause typically occurs between 45-55 years of age, with a median age of 51 years."
+    },
+    {
+      "stem": "Regarding menopausal osteoporosis, which is true?",
+      "options": [
+        "Characteristically serum Ca is increased.",
+        "Fracture shaft of humerus is common.",
+        "More common in women with sedentary life.",
+        "Treated normally with rest.",
+        "Iron supplements can be of help."
+      ],
+      "correct": 2,
+      "explanation": "Menopausal osteoporosis is a condition of reduced bone density. A key preventative measure is a healthy lifestyle, including weight-bearing exercises. Conversely, a sedentary lifestyle (lack of exercise) is identified as a risk factor, making osteoporosis more common in such individuals."
+    },
+    {
+      "stem": "Menopause is characterized by one of the following:",
+      "options": [
+        "Increased basal metabolic rate.",
+        "High FSH and LH levels.",
+        "Main circulating estrogen is estradiol.",
+        "Hot flushes usually start few years after complete cessation of menstruation.",
+        "Risk of osteoporosis is the same as elderly men in the same age."
+      ],
+      "correct": 1,
+      "explanation": "Menopause is characterized by marked and persistent increases in serum FSH and LH levels, resulting from the decline in ovarian function and estrogen feedback. In contrast, ovarian estradiol (E2) levels significantly decrease. Hot flushes typically begin during the perimenopause or around the time of the final menstrual period, not years after."
+    },
+    {
+      "stem": "A 50 years old woman had undergone total hysterectomy and bilateral salpingo-ophorectomy for uterine leiomyoma. After uneventful postoperative course, she attended outpatient clinic for counseling about hormone replacement therapy (HRT). What is the best therapy for her?",
+      "options": [
+        "Combined HRT.",
+        "Corticosteroids.",
+        "Eltroxin.",
+        "Mineralocorticoids.",
+        "Estrogen only HRT."
+      ],
+      "correct": 4,
+      "explanation": "Since the patient has undergone a total hysterectomy and bilateral salpingo-oophorectomy, meaning her uterus has been removed, the most appropriate form of hormone replacement therapy (HRT) is estrogen-only therapy (ERT). Progestin is typically added to HRT only to protect the endometrium from estrogen-induced hyperplasia and carcinoma; it is unnecessary when the uterus is absent."
+    },
+    {
+      "stem": "A 49 years-old woman complains of irregular menses over the past 6months, with vaginal dryness, difficulty sleeping, and episodes of warmth and sweating at night. BP: 120/68, HR: 90 bpm, and temp 37.2. Her medical history and examination are unremarkable. Most likely diagnosis is:",
+      "options": [
+        "Climacteric (perimenopausal state).",
+        "Endometrial carcinoma.",
+        "Vaginal dystrophy.",
+        "Hypothyroidism.",
+        "Hyperthyroidism."
+      ],
+      "correct": 0,
+      "explanation": "The patient's age (49 years old) combined with symptoms of irregular menses, vaginal dryness, difficulty sleeping, and episodes of warmth and sweating at night (hot flushes/night sweats) are all classic manifestations of the climacteric or perimenopausal state. This period represents the transition from normal ovulatory cycles to permanent amenorrhea of menopause."
+    },
+    {
+      "stem": "In the previous patient, what is your next diagnostic step?",
+      "options": [
+        "Serum FSH level.",
+        "Serum LH level.",
+        "AMH level.",
+        "Ultrasound examination.",
+        "Vaginal smear."
+      ],
+      "correct": 0,
+      "explanation": "In a patient presenting with symptoms suggestive of perimenopause, the serum FSH level is the most appropriate next diagnostic step. During perimenopause, due to diminished follicular number and decreased inhibin-B secretion, FSH levels begin to rise as the body attempts to stimulate the remaining follicles. This hormonal change is a characteristic indicator of the menopausal transition."
+    },
+    {
+      "stem": "An increased risk of Osteoporosis is associated with:",
+      "options": [
+        "Bromocriptine use.",
+        "Excess corticosteroid usage",
+        "Androgen excess in the female.",
+        "Early menarche.",
+        "Excessive protein intake."
+      ],
+      "correct": 1,
+      "explanation": "An increased risk of osteoporosis is directly associated with long-term corticosteroid therapy. Prolonged use of corticosteroids can lead to bone loss. Other factors like premature menopause, lack of exercise, and low body weight are also risk factors."
+    },
+    {
+      "stem": "The use of estrogen alone in menopausal women increase the risk of:",
+      "options": [
+        "Endometrial cancer.",
+        "Ovarian cancer.",
+        "Bone cancer.",
+        "Bowel cancer.",
+        "All of the above."
+      ],
+      "correct": 0,
+      "explanation": "In menopausal women, the use of estrogen alone (Estrogen Replacement Therapy - ERT), without the counteracting effect of progestin, significantly increases the risk of estrogen-induced endometrial hyperplasia and subsequent endometrial carcinoma. This is why progestin is typically added in combined HRT when the uterus is intact."
+    },
+    {
+      "stem": "In the menopause:",
+      "options": [
+        "Osteoporosis is common in Afro-American women.",
+        "They have increase tendency of fracture.",
+        "Post-menopausal bleeding is always due to endometrial carcinoma.",
+        "HRT is always indicated.",
+        "Minipills can be used as hormone replacement therapy."
+      ],
+      "correct": 1,
+      "explanation": "In menopause, due to estrogen deficiency, there is an increased risk of osteoporosis. A major consequence of osteoporosis is an increased tendency for bone fractures, as evidenced by treatments aimed at reducing fracture risk. While postmenopausal bleeding requires investigation for malignancy, it is not always due to endometrial carcinoma. HRT is indicated only in selected cases with severe symptoms, not always."
+    },
+    {
+      "stem": "Postmenopausal women:",
+      "options": [
+        "Malignancy is the commonest cause of postmenopausal bleeding.",
+        "FSH and LH are characteristically low.",
+        "Fibroid uterus tends to grow bigger.",
+        "Hormonal replacement therapy increases the risk of breast cancer.",
+        "Endometrium is characteristically thick on US."
+      ],
+      "correct": 3,
+      "explanation": "In postmenopausal women, while many changes occur, one significant consideration regarding hormone replacement therapy (HRT) is its potential to increase the risk of breast cancer. This is indicated by the contraindication of HT in women with known or suspected breast cancer."
+    },
+    {
+      "stem": "Which of the following is an indication for estrogen treatment?",
+      "options": [
+        "Fibroid.",
+        "Threatened abortion.",
+        "Endometriosis.",
+        "Postmenopausal atrophic vaginitis.",
+        "Induction of ovulation for anovulatory cycle."
+      ],
+      "correct": 3,
+      "explanation": "Postmenopausal atrophic vaginitis is a direct consequence of estrogen deficiency. Estrogen vaginal cream preparations are indicated for local application to treat vaginal atrophy in these cases."
+    },
+    {
+      "stem": "A 32yrs old GIP1 woman presents with an 8 months amenorrhea. A pregnancy test is negative. TSH, PRL are normal. FSH is above 40IU/L. Most likely complication for this patient:",
+      "options": [
+        "She is at significant risk for endometrial cancer.",
+        "She is at significant risk for ovarian cancer.",
+        "She is at significant risk for osteoporosis.",
+        "She is at significant risk of breast cancer.",
+        "She is is at significant risk for multiple gestations."
+      ],
+      "correct": 2,
+      "explanation": "The patient's amenorrhea at 32 years old with a high FSH level (>40 IU/L), after excluding other causes, is indicative of premature ovarian failure (POF). POF is essentially premature menopause, and one of the significant hazards and complications of premature menopause is osteopenia and osteoporosis due to prolonged estrogen deficiency. Therefore, she is at a significant risk for osteoporosis."
+    },
+    {
+      "stem": "In the previous patient diagnostic work up, the most likely to be noted is:",
+      "options": [
+        "Obliterated uterine cavity on saline infusion sonography.",
+        "No bleeding with progestin challenge test.",
+        "Normal estradiol level.",
+        "Abnormal HSG.",
+        "Abnormal MRI brain."
+      ],
+      "correct": 1,
+      "explanation": "In a patient with premature ovarian failure (POF), the ovaries fail to produce sufficient estrogen. Consequently, when a progestin challenge test is administered (giving only progestin), the endometrium, lacking prior estrogen priming and proliferation, will typically show no withdrawal bleeding. This indicates a lack of endogenous estrogen."
+    },
+    {
+      "stem": "The following is the commonest distressing symptom of menopause:",
+      "options": [
+        "Obesity.",
+        "Premenstrual tension.",
+        "Hot flushes.",
+        "Menorrhagia.",
+        "Bone fractures."
+      ],
+      "correct": 2,
+      "explanation": "Among the various symptoms associated with menopause, hot flushes are described as one of the most common and distressing vasomotor symptoms. They affect at least 50% of menopausal women and can be severe enough to warrant medical consultation or treatment."
+    },
+    {
+      "stem": "A 68 years old healthy woman presents for advice regarding the risk of developing osteoporosis. Her height is 155 cm, her weight is 45 kg with regular treadmill walks. She was menopausal at 42yrs old. She doesn't take HRT or medications. What is the best method to screen her for osteoporosis:",
+      "options": [
+        "Peripheral measurement for her heel with photon absorptiometry.",
+        "Standard X-Ray for her spine.",
+        "Dual-Energy X-ray Absorptiometry (DEXA).",
+        "Measure biochemical markers of bone remodeling.",
+        "CT scan to measure the bone density."
+      ],
+      "correct": 2,
+      "explanation": "Given the patient's age (68 years), history of premature menopause (at 42 years old), and low body weight (45 kg), she has several risk factors for osteoporosis. The gold standard method for diagnosing osteoporosis is X-ray bone densitometry, specifically Dual-Energy X-ray Absorptiometry (DEXA)."
+    },
+    {
+      "stem": "In the previous patient, if the investigation needed, demonstrated osteoporosis, next step is:",
+      "options": [
+        "Begin a bisphosphonate.",
+        "Encourage her to engage in weight bearing exercise and take calcium.",
+        "Repeat the study in 1 year.",
+        "Begin raloxifene therapy.",
+        "Recommend she begins combined HRT."
+      ],
+      "correct": 0,
+      "explanation": "Once osteoporosis has been demonstrated, the next step in management typically involves initiating pharmacological treatment. Bisphosphonates are a class of drugs that slow bone breakdown and are a primary treatment option for established osteoporosis."
+    },
+    {
+      "stem": "A 29-year-old G2P0 woman presents with amenorrhea of 10 months duration. Her menses had been regular previously. A pregnancy test is -ve, TSH, prolactin, FSH, and LH were normal. The patient had sequential estrogen and progestin therapy without vaginal bleeding. Her presumptive diagnosis was intrauterine adhesions, which was confirmed with imaging. Which of the following statements is most accurate?",
+      "options": [
+        "Her condition usually occurs after uterine curettage for a pregnancy related process.",
+        "She would best be diagnosed by laparoscopy.",
+        "The patient likely has cramping pain every month.",
+        "Her treatment includes endometrial ablation.",
+        "Her treatment includes regular gestagens intake."
+      ],
+      "correct": 0,
+      "explanation": "The most accurate statement regarding intrauterine adhesions (Asherman's syndrome) is that the condition usually occurs after uterine curettage for a pregnancy-related process. The textbook specifically lists \"iatrogenic via vigorous curettage during D&C procedures especially with surgical evacuation\" as a primary etiology."
+    },
+    {
+      "stem": "A 24-year-old G1P1 woman presents with secondary amenorrhea after delivery. She was diagnosed of Sheehan syndrome. The following is consistent with her presumed diagnosis:",
+      "options": [
+        "Usually associated with hypertensive crisis at or soon after a delivery.",
+        "Caused by an ischemic necrosis of the posterior pituitary gland.",
+        "Associated with decreased prolactin levels.",
+        "Often associated with elevated TSH levels.",
+        "Often associated with elevated ACTH levels."
+      ],
+      "correct": 2,
+      "explanation": "Sheehan's syndrome is caused by ischemic necrosis of the anterior pituitary gland following severe postpartum hemorrhage. Since prolactin (PRL) is produced by the anterior pituitary, Sheehan's syndrome is associated with decreased prolactin levels due to pituitary insufficiency. This also results in diminished levels of other anterior pituitary hormones like FSH, LH, TSH, and ACTH."
+    },
+    {
+      "stem": "A 19-year-old woman has primary amenorrhea, Tanner stage IV breast development, and a pelvic kidney. The most likely diagnosis is:",
+      "options": [
+        "Müllerian agenesis.",
+        "Androgen insensitivity syndrome.",
+        "Gonadal dysgenesis.",
+        "Polycystic ovarian syndrome.",
+        "Kallmann syndrome."
+      ],
+      "correct": 0,
+      "explanation": "Müllerian agenesis, also known as Mayer Rokitansky Kuster Hauser Syndrome, is characterized by primary amenorrhea and normal secondary sexual characteristics, which includes Tanner stage IV breast development as described in the patient. Additionally, the textbook states that Müllerian agenesis can be associated with renal anomalies, such as a pelvic kidney."
+    },
+    {
+      "stem": "A 16-year-old girl has 1ry amenorrhea. Examination shows absence of breast development and small but otherwise normal female pelvic organs. The first investigation to determine the etiology of the amenorrhea is:",
+      "options": [
+        "Serum follicle-stimulating hormone (FSH).",
+        "Serum estradiol.",
+        "Serum testosterone.",
+        "Magnetic resonance imaging (MRI) of the head.",
+        "Ovarian biopsy."
+      ],
+      "correct": 0,
+      "explanation": "When assessing a case of primary amenorrhea, especially with the absence of developed secondary sexual characters, measuring pituitary gonadotropins like serum FSH and LH is a crucial diagnostic step. This helps differentiate between ovarian failure (which would result in high FSH/LH) and hypothalamic/pituitary dysfunction (which would result in low FSH/LH)."
+    },
+    {
+      "stem": "The LEAST of the following to cause primary amenorrhea is:",
+      "options": [
+        "Turner syndrome.",
+        "Imperforate hymen",
+        "Asherman syndrome.",
+        "Mayer Rokitansky Kuster Hauser syndrome.",
+        "Androgen insensitivity syndrome."
+      ],
+      "correct": 2,
+      "explanation": "Asherman syndrome is described as acquired intrauterine adhesions that prevent endometrial proliferation, leading to secondary amenorrhea. In contrast, Turner syndrome, Müllerian agenesis (Mayer Rokitansky Kuster Hauser syndrome), Androgen Insensitivity Syndrome, and imperforate hymen are all recognized causes of primary amenorrhea."
+    },
+    {
+      "stem": "Recognized associations of hyperprolactinemia include all of the following EXCEPT:",
+      "options": [
+        "Stress.",
+        "Phenothiazines use.",
+        "Bromocriptine use.",
+        "Chest trauma.",
+        "Chest varicella zoster infection."
+      ],
+      "correct": 2,
+      "explanation": "Bromocriptine is a dopamine agonist specifically used as a treatment for hyperprolactinemia to reduce elevated prolactin levels. Therefore, it is not an association or cause of hyperprolactinemia. The other options, such as phenothiazine derivatives, psychotropic drugs, and severe stress, are listed as etiological factors for hyperprolactinemia."
+    },
+    {
+      "stem": "Prolactinomas can be associated with all the followings EXСЕРТ:",
+      "options": [
+        "Oral Contraceptive pills.",
+        "Excessive milk secretion.",
+        "Increased size of sella turcica.",
+        "Acromegaly.",
+        "Infertility."
+      ],
+      "correct": 0,
+      "explanation": "Prolactinomas, which are prolactin-secreting pituitary adenomas, are a common cause of hyperprolactinemia. This hyperprolactinemia can lead to excessive milk secretion (galactorrhea) and suppression of GnRH and LH surge, causing anovulation and infertility. Large macroadenomas can cause increased intracranial tension and, by extension, changes in the sella turcica where the pituitary gland is located. The provided text does not associate Oral Contraceptive pills with the development or presence of prolactinomas; OCPs are mentioned in the context of inhibiting GnRH, FSH, and LH production."
+    },
+    {
+      "stem": "Crypto menorrhea is caused by one of the following pathologies:",
+      "options": [
+        "Complete Mullerian agenesis.",
+        "Testicular feminization syndrome.",
+        "Cervical atresia.",
+        "Ashermann syndrome.",
+        "Turner syndrome."
+      ],
+      "correct": 2,
+      "explanation": "Cryptomenorrhea is the accumulation of menstrual blood behind an obstruction. The textbook explicitly states that cervical atresia presents with a clinical picture of cryptomenorrhea, similar to imperforate hymen."
+    },
+    {
+      "stem": "A 30 years old P0+1 presented by 2ry amenorrhea for 1 year following surgical evacuation of 10 weeks pregnancy. She received cyclic oral contraceptive pills for few months but no withdrawal bleeding occurred. What is your provisional diagnosis?",
+      "options": [
+        "Sheehan syndrome.",
+        "Asherman syndrome.",
+        "Turner syndrome.",
+        "Polycystic ovarian disease.",
+        "Premature ovarian failure."
+      ],
+      "correct": 1,
+      "explanation": "Asherman syndrome is caused by acquired intrauterine adhesions that prevent endometrial proliferation, leading to secondary amenorrhea. A common etiology for this condition is vigorous curettage during D&C procedures, especially with surgical evacuation. The patient's history of secondary amenorrhea following surgical evacuation of a pregnancy, combined with the lack of withdrawal bleeding even after receiving cyclic oral contraceptive pills (which provide exogenous hormones), strongly suggests an endometrial issue like Asherman syndrome, where the endometrium cannot respond."
+    },
+    {
+      "stem": "A 17 years old girl is presented with 1ry amenorrhea. On examination, there were: short stature, absent 2ry sex characters, neck webbing and coarctation of the aorta. Abdominal ultrasound visualized a uterus and small sized ovaries with no growing follicles. What is your provisional diagnosis?",
+      "options": [
+        "Congenital adrenal hyperplasia.",
+        "Kallmann's syndrome.",
+        "Polycystic ovary syndrome.",
+        "Testicular feminization syndrome.",
+        "Turner's syndrome."
+      ],
+      "correct": 4,
+      "explanation": "Turner syndrome (45-XO) is characterized by primary amenorrhea and a distinct set of phenotypic features. The patient's presentation of short stature, absent secondary sexual characters, neck webbing, and coarctation of the aorta are all classic clinical characteristics of Turner syndrome as described in the textbook. The ultrasound findings of small ovaries with no growing follicles (streak gonads) are also consistent with this condition."
+    },
+    {
+      "stem": "A 35 years old P0+1 presented by 2ry amenorrhea for 1 year following spontaneous abortion of 10 weeks pregnancy. She received cyclic oral contraceptive pills for few months with positive withdrawal bleeding occurred. What is your next step in evaluation?",
+      "options": [
+        "Hysteroscopic evaluation of uterine cavity.",
+        "Karyotyping.",
+        "FSH and LH levels.",
+        "Laparoscopic evaluation of pelvic cavity.",
+        "M.R.I pelvis."
+      ],
+      "correct": 2,
+      "explanation": "The patient has secondary amenorrhea but experienced positive withdrawal bleeding after receiving cyclic oral contraceptive pills. This indicates that her endometrium is responsive to hormonal stimulation, meaning the issue is not with the uterus itself. Therefore, the problem likely lies in the hypothalamic-pituitary-ovarian axis, preventing endogenous hormone production. The next step in evaluation should be to measure FSH and LH levels to assess ovarian and pituitary function, which helps differentiate causes like premature ovarian failure (high FSH/LH) from hypothalamic/pituitary dysfunction (low FSH/LH)."
+    },
+    {
+      "stem": "A 30 years old woman complaining of breast pain, tenderness and galactorrhea. Serum prolactin level was 700ng/ml. The most valuable investigation required for this case?",
+      "options": [
+        "Thyroid function tests.",
+        "Soft tissue mammography.",
+        "FSH and LH level.",
+        "Pelvic ultrasound.",
+        "CT brain"
+      ],
+      "correct": 4,
+      "explanation": "A serum prolactin level of 700 ng/ml is significantly elevated (normal: 2.9-29 ng/ml). Such a high level in a patient with galactorrhea strongly suggests the presence of a prolactin-secreting pituitary adenoma (prolactinoma) or a hypothalamic disorder. The textbook explicitly states that CT and MRI are used for diagnosing prolactinomas and craniopharyngiomas. Therefore, a CT scan of the brain is the most valuable investigation to visualize the pituitary gland."
+    },
+    {
+      "stem": "A 30 years old nullipara presented with 2ry amenorrhea for 6 months. Pelvic ultrasound was normal, -ve pregnancy test and FSH was 50 mIU/ml. and LH was 30 mIU/ml. Which of the following is the most probable cause?",
+      "options": [
+        "Polycystic ovarian disease.",
+        "Hypothalamic amenorrhea.",
+        "Thyroid disorders should be excluded 1st.",
+        "Premature ovarian failure.",
+        "Sheehan syndrome."
+      ],
+      "correct": 3,
+      "explanation": "The patient is 30 years old and presents with secondary amenorrhea, with significantly elevated FSH (50 mIU/ml) and LH (30 mIU/ml). The textbook defines Premature Ovarian Failure (POF) as the early exhaustion of ovarian primordial follicles before the age of 45 years, which leads to premature menopause and is characterized by secondary amenorrhea with high FSH & LH levels."
+    },
+    {
+      "stem": "A healthy 16-year-old female is referred for never having menstruated. She denies excessive exercise or an eating aversion. On examination, she is 150cm tall and weighs 70kg. The neck is supple and without masses. Her breasts and pubic hair are both Tanner stage I. abdominal examination reveals no masses. What is the most likely diagnosis?",
+      "options": [
+        "Gonadal dysgenesis (Turner's syndrome).",
+        "Premature ovarian failure.",
+        "Kallmann Syndrome.",
+        "Sheehan Syndrome.",
+        "Androgen Insensitivity Syndrome."
+      ],
+      "correct": 0,
+      "explanation": "The patient is 16 years old with primary amenorrhea and Tanner stage I breast and pubic hair, indicating absent secondary sexual characteristics. Her height of 150 cm suggests short stature. The textbook lists short stature and absent secondary sex characters as key phenotypic characteristics of Turner syndrome (gonadal dysgenesis)."
+    },
+    {
+      "stem": "In the previous patient, what is the next step in diagnosis?",
+      "options": [
+        "Serum FSH level.",
+        "Serum Prolactin Level.",
+        "Karyotyping.",
+        "Ultrasound.",
+        "DHEAS level."
+      ],
+      "correct": 2,
+      "explanation": "Given the strong clinical suspicion of Turner syndrome (primary amenorrhea, short stature, absent secondary sexual characteristics) from the previous question, the definitive diagnostic test for this condition, which involves an X chromosome abnormality, is karyotyping. Karyotyping would reveal the characteristic 45-XO chromosomal pattern in Turner syndrome."
+    },
+    {
+      "stem": "In Turner syndrome: the following is true?",
+      "options": [
+        "Genetically is 46 ХО.",
+        "Has testis in inguinal area.",
+        "Usually presents with primary amenorrhea.",
+        "Has low I.Q.",
+        "Usually tall."
+      ],
+      "correct": 2,
+      "explanation": "The textbook states that Turner syndrome (45-XO) presents with primary amenorrhea and is the commonest cause of it. Other options are incorrect: genetically it is 45-XO, not 46-XO; it does not involve testes in the inguinal area (that's Androgen Insensitivity Syndrome); and patients are typically short, not tall. The textbook does not provide information about IQ."
+    },
+    {
+      "stem": "A 17-year-old girl presents with primary amenorrhea. She has normal secondary sexual characteristics and is of average height and normal BMI. Further investigations show normal FSH, LH and estrogen levels. What is the most likely diagnosis?",
+      "options": [
+        "Androgen insensitivity syndrome.",
+        "Congenital adrenal hyperplasia.",
+        "Kleinfelter syndrome.",
+        "Rokitansky syndrome.",
+        "Turner syndrome."
+      ],
+      "correct": 3,
+      "explanation": "The patient presents with primary amenorrhea but normal secondary sexual characteristics and normal FSH, LH, and estrogen levels. This pattern indicates that ovarian and pituitary function is intact, suggesting a structural anomaly of the genital tract that prevents menstruation. Rokitansky syndrome (Müllerian agenesis) is characterized by primary amenorrhea with normal secondary sexual characteristics due to the congenital absence of the uterus, cervix, and upper vagina, while ovaries are normal and produce hormones."
+    },
+    {
+      "stem": "A 17-year-old girl is brought to the gynecology clinic by her mother as she has not yet started menstruation. She has a short stature. Blood tests show high FSH and LH. Secondary sexual characteristics have not yet developed. What is the most likely diagnosis?",
+      "options": [
+        "Anorexia.",
+        "Craniopharyngioma.",
+        "Male karyotype.",
+        "Rokitansky syndrome.",
+        "Turner syndrome."
+      ],
+      "correct": 4,
+      "explanation": "The patient's presentation of primary amenorrhea at 17, short stature, and absent secondary sexual characteristics, combined with high FSH and LH levels, is highly indicative of Turner syndrome. In Turner syndrome, streak gonads lead to ovarian failure, resulting in low estrogen and, consequently, high pituitary gonadotropin (FSH and LH) levels due to a lack of negative feedback."
+    },
+    {
+      "stem": "A 16-year-old girl presents with primary amenorrhea. She has normal external genitalia and normal 2ry sexual characteristics. Ultrasound scan, FSH/ LH & karyotyping are normal. Her BMI is 22. Most likely reason for primary amenorrhea is:",
+      "options": [
+        "Androgen insensitivity syndrome",
+        "Familial delayed puberty",
+        "Polycystic ovary syndrome",
+        "Premature ovarian failure",
+        "Turner syndrome"
+      ],
+      "correct": 1,
+      "explanation": "The patient has primary amenorrhea at 16, but normal secondary sexual characteristics and normal findings on ultrasound, FSH/LH levels, and karyotyping. This rules out most structural, ovarian, pituitary, and chromosomal causes of primary amenorrhea. The textbook mentions that puberty is considered delayed if menses is still absent by the age of 15-16 years, even if secondary sexual characters have started development. In the absence of any pathological findings, familial or constitutional delayed puberty becomes the most likely diagnosis."
+    },
+    {
+      "stem": "A 35-year-old woman with regular periods until 3 months previously suddenly develops amenorrhea. Her hormone levels show increased FSH levels of 16, with reduced estradiol and normal prolactin levels. Her BMI is 20. There is similar history of amenorrhea in her sister who is 38 years of age. What is the most likely diagnosis?",
+      "options": [
+        "Hyperprolactinemia.",
+        "Simmonds disease.",
+        "Hypogonadotropic hypogonadism.",
+        "Pregnancy.",
+        "Premature ovarian failure."
+      ],
+      "correct": 4,
+      "explanation": "The patient, at 35 years old, presents with secondary amenorrhea, increased FSH levels (16 mIU/mL), and reduced estradiol levels. This hormonal profile (high gonadotropins, low estrogen) is characteristic of ovarian failure. Given her age is below 45, this is diagnosed as Premature Ovarian Failure (POF). The additional family history of early amenorrhea in her sister further supports a hereditary or familial component to POF."
+    },
+    {
+      "stem": "An 18-year-old tall girl with a BMI of 19 presents with primary amenorrhea. On examination, her breast is well developed, pubic and axillary hair are sparse, and her external genitalia appears normal. A small inguinal swelling is detected on her right groin. What is your most likely diagnosis?",
+      "options": [
+        "Androgen insensitivity syndrome",
+        "Congenital adrenal hyperplasia",
+        "Kallmann's syndrome",
+        "Rokitansky syndrome",
+        "Turner syndrome"
+      ],
+      "correct": 0,
+      "explanation": "The patient's presentation of primary amenorrhea, well-developed breasts, sparse pubic and axillary hair, normal female external genitalia, and the presence of an inguinal swelling (suggesting undescended testes) is classic for Androgen Insensitivity Syndrome (CAIS). In CAIS, individuals have a 46 XY karyotype with testes that produce androgens, but the body's cells cannot respond to androgens. Estrogen produced from peripheral conversion of androgens leads to breast development, but the lack of androgen effect results in sparse pubic/axillary hair and an absent uterus (causing primary amenorrhea)."
+    },
+    {
+      "stem": "The following are likely causing of 1ry amenorrhea in a 16-year-old woman with normal breast, pelvic and axillary hair development EXCEPT:",
+      "options": [
+        "Androgen insensitivity syndrome.",
+        "Uterine agenesis.",
+        "Kallman's syndrome.",
+        "Vaginal atresia.",
+        "Imperforate hymen."
+      ],
+      "correct": 2,
+      "explanation": "Kallmann's syndrome is a condition of congenital GnRH deficiency that presents with primary amenorrhea in association with infantile sexual development (hypogonadotropic hypogonadism). Infantile sexual development means the absence of secondary sexual characteristics (breast, pubic, and axillary hair development), which contradicts the scenario where the patient has normal development of these features. The other options (Androgen Insensitivity Syndrome, uterine agenesis, vaginal atresia, imperforate hymen) can present with primary amenorrhea while still having normal secondary sexual characteristics."
+    },
+    {
+      "stem": "The following are likely causing of 1ry amenorrhea in a 16-year-old woman with raised LH and FSH levels:",
+      "options": [
+        "Turner's syndrome.",
+        "Pituitary tumors.",
+        "Sheehan syndrome.",
+        "Kallmann syndrome.",
+        "Anorexia nervosa."
+      ],
+      "correct": 0,
+      "explanation": "Raised LH and FSH levels indicate a lack of negative feedback from ovarian hormones, typically due to ovarian failure. In a 16-year-old with primary amenorrhea, this hormonal profile points to hypergonadotropic hypogonadism. Turner syndrome (gonadal dysgenesis) is characterized by streak gonads (non-functional ovaries) which result in high FSH and LH levels due to the absence of estrogen production. The other options (pituitary tumors, Sheehan syndrome, Kallmann syndrome, anorexia nervosa) typically cause hypogonadotropic hypogonadism (low FSH and LH levels)."
+    },
+    {
+      "stem": "Androgen insensitivity syndrome:",
+      "options": [
+        "Typically, due to 5-alpha-reductase deficiency.",
+        "Typically presents at puberty with primary amenorrhea.",
+        "Is associated with 46XX karyotype.",
+        "The uterus and fallopian tubes are usually present.",
+        "Presents with hirsutism."
+      ],
+      "correct": 1,
+      "explanation": "The textbook describes Complete Androgen Insensitivity Syndrome (CAIS) as a condition where individuals have a 46 XY karyotype but develop as females. Due to the absence of a uterus and vagina (or a very short one), these individuals will typically present at puberty with primary amenorrhea. Other options are incorrect: CAIS has a 46 XY karyotype, not 46 XX; the uterus and fallopian tubes are absent; and axillary/pubic hair is sparse or absent, not marked hirsutism."
+    },
+    {
+      "stem": "The following are recognized causes of secondary amenorrhea EXCEPT:",
+      "options": [
+        "Excessive weight loss.",
+        "Excessive exercise.",
+        "Androgen insensitivity syndrome.",
+        "Prolactin-secreting adenoma.",
+        "Pregnancy."
+      ],
+      "correct": 2,
+      "explanation": "Androgen Insensitivity Syndrome (CAIS) is a cause of primary amenorrhea because individuals with this condition are born without a uterus. In contrast, excessive weight loss, excessive exercise, and prolactin-secreting adenoma are listed as causes of secondary amenorrhea due to their effects on the hypothalamic-pituitary-ovarian axis. Pregnancy is also a common physiological cause of secondary amenorrhea."
+    },
+    {
+      "stem": "All of the following regarding prolactin is correct EXCЕРТ:",
+      "options": [
+        "Is a polypeptide hormone.",
+        "Is produced by posterior pituitary lactotrophs.",
+        "Is produced by the endometrium.",
+        "Is produced by decidua.",
+        "Can cause galactorrhea."
+      ],
+      "correct": 1,
+      "explanation": "The textbook states that prolactin is a polypeptide hormone secreted by the lactotrophic cells of the anterior pituitary gland. The posterior pituitary gland primarily serves to transport oxytocin and vasopressin from the hypothalamus, not produce prolactin. Prolactin can indeed cause galactorrhea."
+    },
+    {
+      "stem": "Features of untreated Turner's syndrome (45X) include:",
+      "options": [
+        "Low serum gonadotrophin levels.",
+        "Low serum E₂ levels.",
+        "Hot flashes.",
+        "Increased incidence of gonadal malignant tumors.",
+        "High serum E₂ levels."
+      ],
+      "correct": 1,
+      "explanation": "In Turner syndrome (45-XO), the ovaries are replaced by fibrous tissue (streak gonads), meaning they are non-functional. This ovarian failure results in a marked and persistent decrease in ovarian E2 (estrogen) levels. This also leads to high serum gonadotropin levels (FSH and LH) due to a lack of negative feedback, and symptoms like hot flashes associated with estrogen deficiency."
+    },
+    {
+      "stem": "The following is NOT a component of Rotterdam criteria for diagnosing polycystic ovarian syndrome (PCOS):",
+      "options": [
+        "Oligomenorrhea.",
+        "Polycystic appearing ovaries on sonography.",
+        "Clinical or biochemical signs of hyperandrogenism.",
+        "Peripheral presence of dominant ovarian follicles on sonography.",
+        "Anovulation."
+      ],
+      "correct": 3,
+      "explanation": "According to the Rotterdam criteria for PCOS, one of the diagnostic features is characteristic ultrasound morphology showing increased ovarian size and volume, with peripherally arranged small follicles in a dense stroma (necklace appearance). The textbook explicitly states that in PCOS, there are no dominant or mature follicles present due to chronic anovulation. Therefore, the peripheral presence of dominant ovarian follicles is inconsistent with PCOS diagnosis. The other options (oligomenorrhea, polycystic appearing ovaries on sonography, clinical/biochemical hyperandrogenism, and anovulation) are all components of the Rotterdam criteria for PCOS."
+    },
+    {
+      "stem": "A 41-year-old woman is diagnosed with intrauterine adhesions after having an abortion 18 months ago. The following history and laboratory findings would support this diagnosis:",
+      "options": [
+        "Presence of hot flushes.",
+        "FSH level too low to be measurable.",
+        "Normal estradiol levels for a reproductive-aged woman.",
+        "Monophasic basal body temperature chart.",
+        "Presence of basal cells in vaginal mucosa."
+      ],
+      "correct": 2,
+      "explanation": "Intrauterine adhesions (Asherman's syndrome) are a uterine disorder that prevents endometrial proliferation, leading to secondary amenorrhea. This condition does not affect the function of the ovaries or the hypothalamic-pituitary axis. Therefore, a woman of reproductive age with Asherman's syndrome would still produce normal estradiol levels. This is a key finding that helps differentiate Asherman's syndrome from conditions involving ovarian or pituitary/hypothalamic dysfunction, where estradiol levels would typically be low or abnormal."
+    },
+    {
+      "stem": "A hirsute unmarried 44yearold woman presents with irregular periods, pelvic sonogram demonstrates bilateral ovaries with multiple peripheral follicles. The most appropriate management is:",
+      "options": [
+        "Endometrial ablation.",
+        "Laparoscopic bilateral ovarian cystectomy.",
+        "Laparoscopic bilateral oophorectomy.",
+        "Combined oral contraceptives.",
+        "Danazol, gestrinone."
+      ],
+      "correct": 3,
+      "explanation": "The patient's symptoms (hirsutism, irregular periods) and ultrasound findings (bilateral ovaries with multiple peripheral follicles) are characteristic of Polycystic Ovary Syndrome (PCOS). Since she is unmarried and likely desires contraception (or at least symptom management without pregnancy), Combined Oral Contraceptive Pills (OCPs) are the most appropriate management. OCPs effectively decrease ovarian androgen production, which addresses hirsutism and acne, and provide excellent cycle control for irregular periods."
+    },
+    {
+      "stem": "The following drugs can be used for induction of ovulation in PCO patients EXCEPT:",
+      "options": [
+        "Letrozole.",
+        "Tamoxifen.",
+        "Human menopausal gonadotrophin (HMG).",
+        "Clomiphene citrate.",
+        "Cyproterone acetate."
+      ],
+      "correct": 4,
+      "explanation": "The textbook lists Clomiphene Citrate, Tamoxifen, Letrozole, and Human Pituitary Gonadotropins (like HMG) as drugs used for induction of ovulation. Cyproterone acetate, however, is described as a potent progestin and antiandrogen that inhibits LH and decreases androgen levels, and is used in OCPs for the treatment of hirsutism and contraception, not for inducing ovulation."
+    },
+    {
+      "stem": "In a case of PCOS, all of the following may be present EXCEPT:",
+      "options": [
+        "Elevated androgens.",
+        "Oligomenorrhea.",
+        "Infertility.",
+        "Elevated progesterone.",
+        "Obesity."
+      ],
+      "correct": 3,
+      "explanation": "PCOS is characterized by chronic anovulation. In anovulatory cycles, a corpus luteum does not form, and therefore, there is no significant post-ovulatory progesterone secretion. Thus, progesterone levels are typically not elevated. The other options—elevated androgens, oligomenorrhea, infertility, and obesity—are all recognized clinical presentations or biochemical features of PCOS."
+    },
+    {
+      "stem": "In PCOS, the following are correct EXСЕРT:",
+      "options": [
+        "The hirsutism is dependent on the degree of 5-alpha reductase activity in the skin.",
+        "There is an increased risk of endometrial cancer.",
+        "Androstenedione levels are high.",
+        "There is increased sensitivity to insulin.",
+        "There is bilateral increase in ovarian volume."
+      ],
+      "correct": 3,
+      "explanation": "The textbook states that PCOS may be associated with peripheral insulin resistance disorder leading to hyperinsulinemia. Insulin resistance means a decreased sensitivity to insulin, not increased sensitivity. The other statements are correct: hirsutism's severity can be influenced by 5-alpha reductase activity in the skin; there is an increased risk of endometrial cancer due to unopposed estrogen; and ovarian volume is increased with multiple peripheral follicles."
+    },
+    {
+      "stem": "Concerning luteal phase defect, all are true EXСЕРТ:",
+      "options": [
+        "Can be diagnosed by premenstrual endometrial biopsy.",
+        "May be associated with recurrent abortions.",
+        "May be found in cases of hyperprolactinemia.",
+        "Clomiphene citrate from second day of cycle is a recognized treatment.",
+        "Can be treated with natural progesterone."
+      ],
+      "correct": 3,
+      "explanation": "Luteal phase defect (LPD) is a condition with poor secretory changes in the luteal phase. The textbook explicitly lists prolonged use of Clomiphene Citrate (CC) for ovulation induction as a cause of LPD due to decreased endogenous FSH release. Therefore, CC is not a recognized treatment; in fact, it can contribute to the problem. The other statements are true: LPD can be diagnosed by premenstrual endometrial biopsy, may be associated with recurrent first-trimester abortions, can be found in cases of hyperprolactinemia, and can be treated with progesterone support."
+    },
+    {
+      "stem": "Regarding hirsutism, which is TRUE?",
+      "options": [
+        "Shaving increases hair growth.",
+        "Occurs in congenital adrenal hyperplasia.",
+        "Occurs in anorexia nervosa.",
+        "Is associated with the use of 4th generation gestagens.",
+        "Is associated with cimetidine administration."
+      ],
+      "correct": 1,
+      "explanation": "The textbook lists Congenital Adrenal Hyperplasia (CAH), specifically partial or complete 21-hydroxylase deficiency, as an adrenal gland cause of hirsutism."
+    },
+    {
+      "stem": "Regarding Clomiphene citrate:",
+      "options": [
+        "Improves endometrial receptivity.",
+        "Enhances cervical mucus characteristics.",
+        "May result in ovarian hyperstimulation.",
+        "The treatment of choice in adolescent girls with menstrual irregularities.",
+        "Directly stimulates follicular growth."
+      ],
+      "correct": 2,
+      "explanation": "The textbook states that a side effect of Clomiphene Citrate (CC) is that Ovarian Hyperstimulation Syndrome (OHSS) is more frequent, especially severe forms. CC works by blocking hypothalamic estrogen receptors, leading to increased pituitary FSH, which indirectly stimulates follicular growth. It has \"no adverse effects on cervical mucous or endometrium,\" implying it does not necessarily improve them."
+    },
+    {
+      "stem": "An unmarried 18 years female, presented with excess facial hair growth in a disagreeable manner. She had regular cycles and pelvic ultrasound revealed bilateral increase in ovarian size with dense stroma and peripherally arranged equal size small follicles. Most suitable treatment for her:",
+      "options": [
+        "Medical induction of ovulation.",
+        "Laparoscopic ovarian drilling.",
+        "Prolonged corticosteroid therapу.",
+        "LHRH analogues.",
+        "Cyproterone acetate."
+      ],
+      "correct": 4,
+      "explanation": "The patient presents with hirsutism and ultrasound findings characteristic of Polycystic Ovary Syndrome (PCOS). Since her primary concern is \"excess facial hair growth in a disagreeable manner\" and she is unmarried (implying she may desire contraception), Cyproterone acetate is described as a potent progestin and antiandrogen widely used in treatment of hirsutism for females who request contraception. It works by inhibiting LH and decreasing androgen levels."
+    },
+    {
+      "stem": "Regarding induction of ovulation using human pituitary gonadotropins, choose the CORRECT statement:",
+      "options": [
+        "Hostile cervical secretions may occur as a side effect.",
+        "Decreased endometrial receptivity may result after repeated injections.",
+        "Less risk of hyperstimulation than in clomiphene citrate use.",
+        "Could be used in hypogonadotrophic anovulation.",
+        "No need to give human chorionic gonadotropins."
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists cases with hypogonadotrophic anovulation (low FSH/LH levels) as an indication for the use of pituitary gonadotropins (FSH & LH derivatives like HMG) for ovulation induction. These drugs directly stimulate the growth and maturation of ovarian follicles. Other options are incorrect: OHSS is more frequent with gonadotropins than CC; there are no adverse effects on cervical mucus or endometrium; and human chorionic gonadotropins (hCG) are typically given to trigger ovulation in HMG-induced cycles."
+    },
+    {
+      "stem": "What is the most common cause of hirsutism?",
+      "options": [
+        "Idiopathic.",
+        "Anabolic containing androgen.",
+        "Congenital adrenal hyperplasia.",
+        "Ovarian androblastoma.",
+        "Polycystic ovarian disease."
+      ],
+      "correct": 0,
+      "explanation": "The textbook lists idiopathic hirsutism as the first and most common etiology for excessive androgen-dependent hair growth, explaining it as increased hair follicle sensitivity to normal female androgen levels."
+    },
+    {
+      "stem": "Patients with androgen insensitivity syndrome are characterized by:",
+      "options": [
+        "46 XY karyotype.",
+        "Hypoplastic uterus and ovaries.",
+        "Absent breast development.",
+        "Marked hirsutism.",
+        "Secondary amenorrhea."
+      ],
+      "correct": 0,
+      "explanation": "The textbook explicitly states that patients with Complete Androgen Insensitivity Syndrome (CAIS) have a 46 XY karyotype. While they present with a female phenotype, they have testes (often inguinal) instead of ovaries, an absent uterus, and sparse or absent pubic/axillary hair. They have normal breast development but do not present with hirsutism."
+    },
+    {
+      "stem": "Regarding surgical induction of ovulation:",
+      "options": [
+        "It is done under hysteroscopy guide.",
+        "Effective in cases with high FSH.",
+        "It aims to decrease ovarian estrogen level.",
+        "It gives better permanent results than repeated medical induction.",
+        "It can affect the ovarian reserve."
+      ],
+      "correct": 4,
+      "explanation": "The textbook describes Laparoscopic Ovarian Drilling (LOD) as a surgical procedure for ovulation induction. One of the disadvantages of LOD is its potential for decreasing the ovarian follicular reserve. It is performed via laparoscopy, not hysteroscopy, and is reserved for resistant PCOS cases, not necessarily effective in high FSH cases (which imply ovarian failure). Its effect is time-limited, not permanent."
+    },
+    {
+      "stem": "The following increases ovarian hyperstimulation during ICSI:",
+      "options": [
+        "Low AMH level.",
+        "Hypothalamic anovulatory disorders.",
+        "Use of GnRH antagonists.",
+        "Polycystic ovarian disease.",
+        "Associated thyroid gland disorders."
+      ],
+      "correct": 3,
+      "explanation": "Ovarian Hyperstimulation Syndrome (OHSS) is an iatrogenic disorder due to ovulation induction drugs. The textbook states that purified urinary FSH is \"more suitable for cases with high endogenous LH as those of PCOD, to minimize possibility of severe OHSS\". This implies that PCOS patients are inherently at a higher risk for OHSS during ovarian stimulation protocols (like those used for ICSI), requiring specific strategies to mitigate this risk. PCOS involves a large number of small follicles, making the ovaries particularly responsive to stimulation, thereby increasing the risk of overstimulation."
+    },
+    {
+      "stem": "A 28-year-old woman, presents with PCOS and primary infertility. Her cycles are very irregular and she is currently amenorrheic and on metformin. Her BMI is 28. HSG confirmed bilaterally patent tubes. What is the most appropriate next step for management of her subfertility?",
+      "options": [
+        "Advice on weight loss and review in 6 months",
+        "Intrauterine insemination for six cycles",
+        "Laparoscopic drilling to ovaries",
+        "Start ovulation induction with clomiphene citrate 50 mg twice daily.",
+        "Recommend one cycle of IVF treatment"
+      ],
+      "correct": 3,
+      "explanation": "The patient has PCOS, primary infertility, and anovulation (irregular/amenorrheic cycles), with patent fallopian tubes. The textbook states that Clomiphene Citrate (CC) is the first line of treatment in anovulatory conditions with normal FSH production and intact hypothalamic pituitary axis, as in cases of PCOD. Since her tubes are patent and she's already on metformin (addressing insulin resistance), initiating ovulation induction with CC is the most appropriate next step for her subfertility."
+    },
+    {
+      "stem": "The following are long-term consequences of PCOS, EХСЕРТ:",
+      "options": [
+        "Increased risk of cardiovascular disease.",
+        "Increased risk of breast cancer.",
+        "Increased risk of endometrial cancer.",
+        "Increased risk of type I diabetes mellitus.",
+        "Lipid abnormalities."
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists increased risk for diabetes mellitus, obesity, hyperlipidemia, and cardiovascular disease, as well as increased risk of endometrial hyperplasia and carcinoma, as long-term consequences of PCOS. PCOS is associated with insulin resistance, which predisposes to Type 2 diabetes mellitus, not Type 1 diabetes (an autoimmune condition)."
+    },
+    {
+      "stem": "In women with PCOS, treatment with metformin is associated with:",
+      "options": [
+        "Significant weight loss.",
+        "Ovarian hyperstimulation syndrome.",
+        "Increased risk of multiple pregnancу.",
+        "Increased fasting insulin concentration.",
+        "Increased sensitization to the normal amount of circulating insulin."
+      ],
+      "correct": 4,
+      "explanation": "The textbook mentions that PCOS may be associated with peripheral insulin resistance leading to hyperinsulinemia. Metformin is indicated for cases with insulin resistance. Its mechanism is to improve the body's response to insulin, thereby increasing sensitization to the normal amount of circulating insulin."
+    },
+    {
+      "stem": "Regarding Hirsutism in females, the followings are true EXCEPT:",
+      "options": [
+        "When idiopathic is associated with normal plasma testosterone levels.",
+        "Can be caused by phenytoin.",
+        "Is a presenting symptom of hyperprolactinemia",
+        "May be due to congenital adrenal hyperplasia.",
+        "Is mostly idiopathic."
+      ],
+      "correct": 2,
+      "explanation": "While hyperprolactinemia causes symptoms like amenorrhea and galactorrhea, the textbook does not list hirsutism as a presenting symptom of hyperprolactinemia. Conversely, idiopathic hirsutism is associated with normal plasma testosterone, congenital adrenal hyperplasia causes hirsutism, and hirsutism is mostly idiopathic."
+    },
+    {
+      "stem": "A 22-year-old woman consults you for treatment of hirsutism. She is obese and has facial acne. LH level is 35 mIU/mL and FSH is 9 mIU/mL. Androstenedione and testosterone levels are mildly elevated, but serum DHAS is normal. The patient does not wish to conceive at this time. The following single agent is the most appropriate treatment of her condition?",
+      "options": [
+        "Oral contraceptives.",
+        "Corticosteroids.",
+        "GnRH.",
+        "Bromocriptine.",
+        "Wedge resection."
+      ],
+      "correct": 0,
+      "explanation": "The patient's clinical presentation (hirsutism, obesity, acne, irregular periods implied by PCOS features, elevated LH/FSH ratio, elevated androgens) and laboratory findings are consistent with PCOS. Since she does not wish to conceive, Oral Contraceptive Pills (OCPs) are the most appropriate treatment. OCPs decrease ovarian androgen production, increase Sex Hormone Binding Globulin (SHBG), and decrease free testosterone levels, which effectively treats hirsutism and acne, and regulates menstrual cycles."
+    },
+    {
+      "stem": "А 22-year-old GOP0 presents with hirsutism and acne. Her menarche was at age 13 and very irregular. She denies any medical problems. Height is 150cm, weight is 60kg. BP is 100/60. On physical exam, there is sparse hair around the nipples, chin, and upper lip. No galactorrhoea. Pelvic exam is normal and there is no evidence of clitoromegaly. The following are differential diagnosis for her EXCЕРТ:",
+      "options": [
+        "Idiopathic hirsutism.",
+        "Constitutional hirsutism.",
+        "Polycystic ovarian syndrome.",
+        "Late-onset congenital adrenal hyperplasia.",
+        "Sertoli-Leydig cell tumor."
+      ],
+      "correct": 4,
+      "explanation": "The patient presents with hirsutism, acne, and irregular menses, suggesting hyperandrogenism. Idiopathic hirsutism, constitutional hirsutism, Polycystic Ovarian Syndrome (PCOS), and late-onset congenital adrenal hyperplasia are all common causes or variants of hirsutism. However, Sertoli-Leydig cell tumors are androgenic ovarian tumors that typically cause virilizing effects such as clitoromegaly, deepening of voice, and increased muscle bulk. Since the patient has no evidence of clitoromegaly, a Sertoli-Leydig cell tumor is a less likely differential diagnosis."
+    },
+    {
+      "stem": "In the previous patient, all of the following blood tests would be appropriate to order in the work up of this patient EXCЕРТ:",
+      "options": [
+        "Total testosterone.",
+        "Free testosterone.",
+        "DHEAS.",
+        "Estrone.",
+        "Thyroid profile."
+      ],
+      "correct": 3,
+      "explanation": "In the workup for hirsutism and suspected PCOS, it is appropriate to order tests for total and free testosterone (to assess hyperandrogenism), DHEAS (to rule out adrenal causes of androgen excess), and thyroid profile (to exclude other endocrine disorders that can affect menstrual cycles). Estrone, while an estrogen and relevant in some hormonal contexts (e.g., peripheral conversion of androgens in PCOS), is not typically a primary diagnostic test ordered in the initial workup for hirsutism or PCOS in the provided text."
+    },
+    {
+      "stem": "In the same patient, after all the appropriate lab studies are drawn, you conclude that the patient has PCO. All of the following are appropriate treatments for this disorder EХСЕРТ:",
+      "options": [
+        "Dexamethasone.",
+        "Oral contraceptives.",
+        "Spironolactone.",
+        "Metformin.",
+        "Weight reduction."
+      ],
+      "correct": 0,
+      "explanation": "For the treatment of PCOS, Oral Contraceptives (to suppress ovarian androgens and regulate cycles), Spironolactone (an antiandrogen), Metformin (for insulin resistance), and weight reduction (for obesity, a common feature of PCOS) are appropriate treatments. Dexamethasone is a corticosteroid primarily used to suppress adrenal androgen production in severe cases of Congenital Adrenal Hyperplasia (CAH), not as a general treatment for PCOS unless a specific adrenal component is identified."
+    },
+    {
+      "stem": "Which of the following drugs are not associated with hirsutism?",
+      "options": [
+        "Danazol.",
+        "Phenytoin.",
+        "Cyclosporin",
+        "Norethisterone.",
+        "Finasteride."
+      ],
+      "correct": 4,
+      "explanation": "Finasteride works by inhibiting the enzyme 5-alpha reductase, which is responsible for converting testosterone into the more potent dihydrotestosterone (DHT). By inhibiting this enzyme, Finasteride reduces androgen effect and is therefore used to treat hirsutism, not cause it. Androgenic drugs like Danazol can cause hirsutism. While Phenytoin and Cyclosporin are not explicitly mentioned in the provided text for hirsutism, Norethisterone (a gestagen) is used in OCPs to treat hirsutism, but some progestins can have androgenic effects. However, Finasteride's mechanism directly opposes hirsutism."
+    },
+    {
+      "stem": "Premenstrual syndrome (PMS) has a constellation of possible symptoms. Which of the following would not be expected?",
+      "options": [
+        "Abdominal bloating.",
+        "Weight loss.",
+        "Constipation.",
+        "Anxiety.",
+        "Breast tenderness."
+      ],
+      "correct": 1,
+      "explanation": "The textbook lists weight gain as one of the expected symptoms of Premenstrual Syndrome (PMS). Therefore, weight loss would not be an expected symptom. Other symptoms such as abdominal bloating, breast tenderness, and anxiety are all listed as common manifestations of PMS."
+    },
+    {
+      "stem": "The clots passed with menorrhagia perhaps indicate:",
+      "options": [
+        "No endometrial regeneration.",
+        "No terminal arteriolar spasm.",
+        "Large amount of bleeding.",
+        "All of the above.",
+        "None of the above."
+      ],
+      "correct": 2,
+      "explanation": "Menorrhagia (Heavy Menstrual Bleeding - HMB) is defined as excessive blood loss during menstruation. The textbook includes the presence of large blood clots as one of the indicators for evaluating the amount of menstrual bleeding, specifically when the amount is excessive."
+    },
+    {
+      "stem": "Treatments of primary dysmenorrhea are directed toward addressing the cause, which is associated with elevations of:",
+      "options": [
+        "Estrogen.",
+        "Progesterone.",
+        "FSH.",
+        "Prostaglandin F2 alpha.",
+        "Prostaglandin E2."
+      ],
+      "correct": 3,
+      "explanation": "Primary dysmenorrhea mostly results from increased levels of endometrial prostaglandins (PGLs). Specifically, prostaglandin F2 alpha is mentioned as initiating and controlling vasoconstriction during menstruation. Treatments like NSAIDs work by inhibiting prostaglandin synthesis."
+    },
+    {
+      "stem": "A 60 years old multipara, menopausal for 10 years; presented by vaginal bleeding in the form of few drops of blood. She is known to be hypertensive with poor control. Speculum examination was free and ultrasound revealed anteverted normal sized uterus with a 10 mm endometrial thickness. How can you manage this patient?",
+      "options": [
+        "Check FSH and E2 before taking an action.",
+        "Control hypertension and follow up.",
+        "Progestogens could be used for 6 months.",
+        "Fractional curettage.",
+        "Pelvic MRI for further uterine evaluation."
+      ],
+      "correct": 3,
+      "explanation": "Any Postmenopausal Bleeding (PMB) is considered abnormal, and premalignant and malignant lesions must be thoroughly excluded. An endometrial thickness of 10 mm in a postmenopausal woman is strongly suspicious for endometrial hyperplasia (EH) and correlates with endometrial carcinoma. Therefore, fractional curettage is the gold standard method for diagnosis of endometrial cancer (EC) and is essential to confirm the diagnosis and rule out malignancy."
+    },
+    {
+      "stem": "A 60 years old multipara, menopausal for 5 years; presented by vaginal bleeding in the form of few drops of blood. She is known to be hypertensive with poor control. Speculum examination was free and ultrasound revealed anteverted normal sized uterus with a 3 mm endometrial thickness. How can you manage this patient?",
+      "options": [
+        "Check F.SH and E2 before taking an action.",
+        "Control hypertension and follow up.",
+        "Gestagens could be used for 6 months.",
+        "Fractional curettage.",
+        "Pelvic MRI for further uterine evaluation."
+      ],
+      "correct": 1,
+      "explanation": "In a postmenopausal woman, vaginal bleeding is always abnormal. However, the endometrial thickness is 3 mm, which is below the cut-off value of 5.0 mm that is considered suspicious for endometrial hyperplasia or carcinoma. With such a thin endometrium, the bleeding is likely due to a benign cause like atrophic vaginitis or endometritis. Given the reassuring ultrasound finding, the management would focus on her general health, such as controlling her hypertension, and then a follow-up to monitor symptoms. Fractional curettage is typically reserved for thicker endometria."
+    },
+    {
+      "stem": "Menorrhagia could by caused by all of the following conditions EXCEPТ:",
+      "options": [
+        "Sub mucus fibroid.",
+        "Intrauterine contraceptive device.",
+        "Endometrial hyperplasia.",
+        "Corpus luteum cyst of the ovary.",
+        "Diffuse adenomyosis."
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists leiomyomas (especially submucous), adenomyosis, and intrauterine contraceptive devices (IUDs) as common causes of menorrhagia (Heavy Menstrual Bleeding - HMB). Endometrial hyperplasia can also cause heavy uterine bleeding. Corpus luteum cysts, however, are associated with menstrual disturbance in the form of short delay in cycles or intermenstrual spotting, due to persistent progesterone production, not typically menorrhagia."
+    },
+    {
+      "stem": "Dysfunctional uterine bleeding (DUB) is frequently associated with:",
+      "options": [
+        "Endometrial polyps.",
+        "Anovulation.",
+        "Cervicitis.",
+        "Systemic lupus erythematosus.",
+        "Von Willebrand's disease."
+      ],
+      "correct": 1,
+      "explanation": "The textbook explicitly states that Dysfunctional Uterine Bleeding (DUB) occurs in association with chronic anovulatory disturbances. These anovulatory cycles can lead to endometrial hyperplasia due to unopposed estrogen, contributing to the abnormal bleeding."
+    },
+    {
+      "stem": "Most suitable management of a 36 years old nulligravida with menometrorrhagia due to complex endometrial hyperplasia with atypia is:",
+      "options": [
+        "Induction of ovulation.",
+        "Administration of GnRH analogues to induce menopause.",
+        "Repeated gestagens followed by follow up.",
+        "Selective embolization of the uterine vessels.",
+        "Total hysterectomy."
+      ],
+      "correct": 2,
+      "explanation": "For a 36-year-old nulligravida with complex endometrial hyperplasia with atypia, there is a significant risk of progression to endometrial cancer (29%). While hysterectomy is a definitive treatment for \"atypical complex EH\" in premenopausal women if hormonal therapy fails, for a woman of reproductive age who is nulligravida and likely desires future fertility, the initial and most suitable medical management is often hormonal treatment with gestagens. These aim to reverse the hyperplasia by counteracting the unopposed estrogen effect. This approach allows for uterine preservation, with close follow-up to monitor for response or progression."
+    }
+  ]
+}

@@ -1,0 +1,1495 @@
+{
+  "title": "NORMAL AND ABNORMAL LABOR AND DELIVERY",
+  "questions": [
+    {
+      "stem": "The relation of the fetal parts to one another determines which of the following?",
+      "options": [
+        "Presentation of the fetus.",
+        "Lie of the fetus.",
+        "Attitude of the fetus.",
+        "Position of the fetus.",
+        "Intention of the fetus."
+      ],
+      "correct": 2,
+      "explanation": "Fetal attitude specifically refers to the relation of the fetal parts to each other, such as whether they are in a state of flexion or extension."
+    },
+    {
+      "stem": "Regarding physiology of labor, all the followings are true ЕХСЕРТ:",
+      "options": [
+        "Prodromal stage and latent phase of true labor are overlapping and difficult to distinguish clearly.",
+        "Braxton Hicks contractions are present in late pregnancy and continue to false labor pains then true labor pains.",
+        "False labor pains are relieved by analgesics and antispasmodics.",
+        "Progesterone withdrawal is the main cause of onset of labor in human.",
+        "Show of labor denotes starting shearing movement between lower segment and amniotic membranes."
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists progesterone withdrawal as one of several theories and hypotheses for the onset of labor, explicitly stating that the exact cause is unknown. Therefore, claiming it is the main cause is not supported as true by the text."
+    },
+    {
+      "stem": "A sure evidence of onset of labor is:",
+      "options": [
+        "Abdominal pain.",
+        "Expulsion of mucus streaked with blood (Show).",
+        "Rupture of membranes.",
+        "Head engagement.",
+        "Progressive cervical dilatation."
+      ],
+      "correct": 4,
+      "explanation": "A sure evidence of the onset of labor is progressive cervical dilatation. True labor is fundamentally defined by regular uterine contractions that result in timely cervical effacement and dilatation, differentiating it from false labor pains where these cervical changes are absent."
+    },
+    {
+      "stem": "The following is characteristic of true labor pains:",
+      "options": [
+        "Increasing in frequency, duration and strength.",
+        "Starts after fetal head engagement.",
+        "Starts when the cervix is 3 cm dilated.",
+        "Usually coincide with rupture of membranes.",
+        "Pains are relieved by sedatives and antispasmodics."
+      ],
+      "correct": 0,
+      "explanation": "True labor pains are characterized by gradually increasing in frequency, amplitude (strength), and duration, with shorter resting periods between contractions. Unlike false labor pains, true labor pains are not relieved by sedatives."
+    },
+    {
+      "stem": "Prodromal stage of labor is characterized by:",
+      "options": [
+        "Regular abdominal pains.",
+        "Rupture of membranes.",
+        "Decreased quickening.",
+        "Pelvic pressure symptoms.",
+        "Cervical dilatation up to 3 cm."
+      ],
+      "correct": 3,
+      "explanation": "The prodromal stage of labor is specifically characterized by pelvic pressure symptoms."
+    },
+    {
+      "stem": "A partogram is used for assessment of:",
+      "options": [
+        "Maternal wellbeing.",
+        "Fetal wellbeing during labor.",
+        "Fetal condition after delivery.",
+        "Placental insufficiency.",
+        "Progress of labor."
+      ],
+      "correct": 4,
+      "explanation": "A partogram is used as a graphic record to monitor the progress of labor, specifically allowing an instant visual assessment of the rate of cervical dilatation and effacement, and the descent of the fetal head. It is a tool for early diagnosis of prolonged or abnormal labor."
+    },
+    {
+      "stem": "External cardiotocography (CTG) is used for assessment of:",
+      "options": [
+        "Maternal wellbeing during labor.",
+        "Fetal wellbeing during labor.",
+        "Fetal condition after delivery.",
+        "Engagement of presenting part.",
+        "Progress of cervical dilatation."
+      ],
+      "correct": 1,
+      "explanation": "External cardiotocography (CTG) is used for continuous electronic FHR (fetal heart rate) monitoring during labor, primarily to assess fetal wellbeing, particularly in high-risk pregnancies."
+    },
+    {
+      "stem": "Progress of first stage of normal labor is characterized by:",
+      "options": [
+        "Engagement of fetal head must occur before full cervical dilatation.",
+        "Rate of cervical dilatation is the same through 1st stage.",
+        "In primipara, effacement of the cervix occurs before dilatation.",
+        "Duration till full cervical dilatation is usually less than 3 hours.",
+        "Membranes should be intact till full cervical dilatation."
+      ],
+      "correct": 2,
+      "explanation": "In a primigravida, the progress of the first stage of normal labor is characterized by the effacement of the cervix occurring before dilatation. The rate of cervical dilatation is not uniform throughout the first stage, as it has a slow latent phase and a rapid active phase."
+    },
+    {
+      "stem": "In management of 2nd stage of normal labor:",
+      "options": [
+        "Patient should be instructed not to push down.",
+        "Posterior shoulder is delivered 1st after head expulsion.",
+        "General anesthesia is a must.",
+        "Head is allowed to extend before crowning.",
+        "Episiotomy is routinely done in primipara."
+      ],
+      "correct": 1,
+      "explanation": "In the management of the second stage of normal labor, after the fetal head has been delivered, the posterior shoulder is delivered first by lateral flexion of the spine. Maternal bearing down efforts are encouraged during this stage, and the head should not be allowed to extend before crowning to minimize perineal tears. Episiotomy is performed when needed, not routinely."
+    },
+    {
+      "stem": "The following is best used in intra-partum assessment of fetal wellbeing?",
+      "options": [
+        "Doppler study.",
+        "Non stress test.",
+        "External cardiotocography (CTG).",
+        "Biophysical profile.",
+        "Amniocentesis."
+      ],
+      "correct": 2,
+      "explanation": "For intra-partum assessment of fetal wellbeing, continuous electronic FHR monitoring by Cardiotocography (CTG) is a key method, particularly indicated in high-risk pregnancies. Doppler study, non-stress test, and biophysical profile are primarily methods for antepartum fetal surveillance."
+    },
+    {
+      "stem": "Head is delivered by extension in:",
+      "options": [
+        "Face mento posterior.",
+        "Direct occipito anterior.",
+        "After coming head in breech sacro anterior position.",
+        "Direct Occipito Posterior.",
+        "Direct Occipito transverse."
+      ],
+      "correct": 1,
+      "explanation": "In the mechanism of delivery for a Direct Occipito Anterior (DOA) position, the head is delivered by a movement of extension, where the sub-occipital region hinges under the symphysis pubis."
+    },
+    {
+      "stem": "Head is delivered by flexion in:",
+      "options": [
+        "Face mento posterior.",
+        "Direct occipito anterior.",
+        "Complex presentation.",
+        "Direct Occipito posterior.",
+        "Direct Occipito transverse."
+      ],
+      "correct": 3,
+      "explanation": "In a Direct Occipito Posterior (DOP) position, the head is delivered by a movement of flexion, often described as 'face to pubis' delivery."
+    },
+    {
+      "stem": "The second stage of labor is defined as which of the following?",
+      "options": [
+        "The interval from onset of contractions to the beginning of cervical dilation.",
+        "The time from full cervical dilation to delivery of the fetus.",
+        "The duration of maternal pushing efforts.",
+        "The time from delivery of the fetus until delivery of the placenta.",
+        "The time from delivery of the placenta to discharge from the hospital."
+      ],
+      "correct": 1,
+      "explanation": "The second stage of labor is defined as the period that starts by full cervical dilatation (10 cm) and ends with the complete expulsion of the fetus."
+    },
+    {
+      "stem": "A sure diagnosis of 2nd stage of labor is:",
+      "options": [
+        "Full cervical dilatation.",
+        "Abdominal pains are more frequent.",
+        "Involuntary bearing down.",
+        "Rupture of membranes.",
+        "Head engagement."
+      ],
+      "correct": 0,
+      "explanation": "The second stage of labor is definitively diagnosed by full cervical dilatation (10 cm)."
+    },
+    {
+      "stem": "The following is true about normal labor:",
+      "options": [
+        "The active phase of labor starts at 2 cm dilatation.",
+        "The rate of cervical dilatation is 1 cm/ hour in multigravidas.",
+        "The average duration of the third stage of labor is 1-2 hours.",
+        "The duration of the latent phase is 4 hours in primigravidas.",
+        "The rate of cervical dilatation is 1 cm / hour in primigravidas."
+      ],
+      "correct": 4,
+      "explanation": "In the active phase of the first stage of labor, the rate of cervical dilatation is stated as 1.2 cm/hour in primigravidas (PGDA). While 1 cm/hour is a slight approximation, it is the most accurate statement among the given options, as the active phase starts at 4 cm, the rate for multigravidas is 1.5 cm/hour, and the third stage is 10-30 minutes."
+    },
+    {
+      "stem": "During labor, station (+1) means:",
+      "options": [
+        "Bipareital diameter is at level of ischial spines.",
+        "The head is not engaged.",
+        "Cervix is dilated 1 cm.",
+        "Vault is felt below ischial tuberosity.",
+        "Biparietal diameter is below level of pelvic inlet."
+      ],
+      "correct": 4,
+      "explanation": "During labor, station 0 indicates that the head is engaged, with the biparietal diameter (BPD) passing the plane of the pelvic inlet and the vault felt at the ischial spines. Therefore, a positive station such as (+1) signifies further descent, meaning the biparietal diameter is below the level of the pelvic inlet."
+    },
+    {
+      "stem": "Which of the following is not used to calculate the Bishop score?",
+      "options": [
+        "Cervical consistency.",
+        "Effacement.",
+        "Fetal station.",
+        "Cervical dilatation.",
+        "Parity."
+      ],
+      "correct": 4,
+      "explanation": "The Bishop score is calculated based on cervical length, cervical dilatation, cervical consistency, cervical position, and the station of the fetal head. Parity is not a parameter used to calculate the Bishop score."
+    },
+    {
+      "stem": "On auscultating maternal abdomen during pregnancy/labor, all the followings sounds could be present EXCЕРТ:",
+      "options": [
+        "Fetal heart sounds.",
+        "Umbilical vessels pulsations coinciding with fetal heart rate.",
+        "Uterine vessels pulsations coinciding with maternal pulse rate.",
+        "Maternal heart sounds.",
+        "Maternal intestinal sounds."
+      ],
+      "correct": 3,
+      "explanation": "When auscultating the maternal abdomen during pregnancy or labor, maternal heart sounds are not typically heard as a distinct finding in the way fetal heart sounds, umbilical vessel pulsations (funic souffle), uterine vessel pulsations (uterine souffle), or maternal intestinal sounds might be. Maternal heart sounds are usually assessed directly over the chest."
+    },
+    {
+      "stem": "Regarding management of 1st stage of labor, choose the correct statement:",
+      "options": [
+        "Analgesics should be prohibited.",
+        "Nutrition by IV fluids in active phase of labor.",
+        "Bearing down should be encouraged.",
+        "Dorsal position is encouraged.",
+        "Rectal enema is avoided to prevent contamination."
+      ],
+      "correct": 1,
+      "explanation": "In the management of the first stage of labor, nutrition with oral fluids, juices, or intravenous (IV) fluids is advised to prevent hypoglycemia. Analgesics are used for pain relief, bearing down efforts are discouraged in the first stage, and evacuation of the bladder and rectum is part of patient preparation."
+    },
+    {
+      "stem": "Complication of epidural anesthesia during labor include:",
+      "options": [
+        "Hypertonic inertia.",
+        "Fetal distress.",
+        "Maternal hypertension.",
+        "Loss of auxiliary force of labor.",
+        "Retained placenta."
+      ],
+      "correct": 3,
+      "explanation": "A complication of epidural analgesia during labor is a loss of the urge for straining, which is an auxiliary force of labor. This can increase the duration of the first and second stages of labor and raise the need for instrumental delivery."
+    },
+    {
+      "stem": "The following is considered an alarming sign during labor:",
+      "options": [
+        "Escape of a thick mucus plug streaked with blood in early labor.",
+        "Passage of thick meconium after membranes rupture in cephalic presentation.",
+        "Increased fetal movements.",
+        "Fetal heart rate 120-140 beats/minute.",
+        "Maternal pulse 95/minute."
+      ],
+      "correct": 1,
+      "explanation": "In a cephalic presentation, the passage of meconium after membranes rupture is considered an alarming sign during labor because it denotes fetal hypoxia and acidosis. A fetal heart rate of 120-160 beats/minute is considered normal."
+    },
+    {
+      "stem": "A primipara during labor with a 4cm dilated cervix, 60 % effaced, intact membranes and fetal head at 0 station, occipito-anterior position. After 1 hour, cervix becomes 6 cm dilated, 90% effaced, still intact membranes and head at same station. How can you describe this labor course?",
+      "options": [
+        "Hypotonic inertia.",
+        "Obstructed labor.",
+        "Latent phase of labor.",
+        "Normal progress.",
+        "Precipitate labor."
+      ],
+      "correct": 3,
+      "explanation": "The patient is a primipara in the active phase of labor (starting at 4 cm dilatation). She dilated from 4 cm to 6 cm in one hour, which is a rate of 2 cm/hour. Given that the normal rate of cervical dilatation for a primigravida in the active phase is 1.2 cm/hour, this rate indicates normal progress of labor."
+    },
+    {
+      "stem": "During management of the 2nd stage of normal labor, if the head is allowed to extend after crowning, vulva will be maximally distended by:",
+      "options": [
+        "Suboccipito-bregmatic diameter.",
+        "Suboccipito-frontal diameter.",
+        "Occipito-bregmatic diameter.",
+        "Occipito-frontal diameter.",
+        "Biparietal diameter."
+      ],
+      "correct": 1,
+      "explanation": "During the management of the second stage of normal labor, when the head is allowed for gradual extension after crowning, the vulva will be maximally distended by the suboccipito-frontal diameter (SOF), which measures 10 cm."
+    },
+    {
+      "stem": "During management of 2nd stage of normal labor, if the head is allowed to extend before crowning, vulva will be maximally distended by:",
+      "options": [
+        "Suboccipito-bregmatic diameter.",
+        "Suboccipito-frontal diameter.",
+        "Occipito-bregmatic diameter.",
+        "Occipito-frontal diameter.",
+        "Biparietal diameter."
+      ],
+      "correct": 3,
+      "explanation": "If the head is allowed to extend before crowning during the second stage of labor, the vulva will be maximally distended by the occipito-frontal diameter (OFD), which measures 11.5 cm. This larger diameter increases the liability to perineal tears."
+    },
+    {
+      "stem": "All of the following are indications for episiotomy during labor EXCEРТ:",
+      "options": [
+        "Face to pubis malposition.",
+        "Face direct mentoposterior.",
+        "Preterm labor.",
+        "Rigid perineum.",
+        "Previous recto-vaginal fistula."
+      ],
+      "correct": 1,
+      "explanation": "All the listed options are indications for episiotomy, EXCEPT for Direct Mento-Posterior (DMP) face presentation. In DMP, the head cannot be delivered vaginally due to the inability to flex or extend further, resulting in an obstructed labor that typically requires a Cesarean section, not an episiotomy for vaginal delivery."
+    },
+    {
+      "stem": "Regarding management of second stage of normal labor;",
+      "options": [
+        "Fundal pressure is mandatory to help fetal head expulsion.",
+        "Bearing down is prohibited.",
+        "Episiotomy is routinely done.",
+        "Head is allowed to extend after crowning.",
+        "Perineal support should be maintained till full fetal body extraction."
+      ],
+      "correct": 3,
+      "explanation": "In the management of the second stage of normal labor, the head is allowed for gradual extension after crowning with adequate perineal support to prevent sudden expulsion and perineal tears. Maternal bearing down is encouraged during this stage, and episiotomy is performed when needed, not routinely."
+    },
+    {
+      "stem": "A transverse groove seen on the lower abdomen in a woman during labor could be due to any of the following EXСЕРТ:",
+      "options": [
+        "Full urinary bladder",
+        "Bandl's ring (pathological retraction ring) in obstructed labor",
+        "Associated ovarian tumor.",
+        "Associated uterine fibroid",
+        "Constriction (contraction) ring."
+      ],
+      "correct": 4,
+      "explanation": "A transverse groove seen on the lower abdomen during labor could be due to a full urinary bladder, an associated uterine fibroid, an ovarian tumor, or Bandl's ring (pathological retraction ring) in obstructed labor. However, a constriction (contraction) ring is typically not seen abdominally and is only felt vaginally."
+    },
+    {
+      "stem": "During 3rd stage of normal labor, signs of placental separation include:",
+      "options": [
+        "More marked uterine contractions.",
+        "Patient had a reflex bearing down.",
+        "Elongation of the cord.",
+        "Distension of uterine fundus.",
+        "Perineum is maximally distended."
+      ],
+      "correct": 2,
+      "explanation": "During the third stage of normal labor, one of the classic signs of placental separation and descent is the elongation of the umbilical cord. Other signs include a gush of blood and a suprapubic bulge."
+    },
+    {
+      "stem": "In management of third stage of normal labor:",
+      "options": [
+        "Conservative management is associated with less risk of post-partum hemorrhage.",
+        "Duration till placental delivery should not exceed ½ an hour.",
+        "Estimated blood loss from placental site is about 1 liter.",
+        "Ritgen maneuver may be used to enhance placental separation.",
+        "Manual separation of placenta is routinely done."
+      ],
+      "correct": 1,
+      "explanation": "In the management of the third stage of normal labor, the duration until placental delivery should ideally range from 10 to 30 minutes, especially with active management. Active management aims to reduce blood loss, implying conservative management would not have less risk of PPH. Ritgen's maneuver is for fetal head delivery, not placental separation, and manual separation is for retained placenta, not routine."
+    },
+    {
+      "stem": "In active management of third stage of normal labor:",
+      "options": [
+        "Retained undiagnosed 2nd twin pregnancy may occur.",
+        "Duration till placental delivery should not exceed 1 hour.",
+        "Estimated blood loss from placental site is about 1 liter.",
+        "Steady cord traction is done before uterine contraction to enhance placental separation.",
+        "Manual separation of placenta is routinely done."
+      ],
+      "correct": 0,
+      "explanation": "In active management of the third stage of normal labor, a potential, though rare, complication is the risk of a retained undiagnosed second twin pregnancy. Active management involves the use of ecbolics to promote uterine contractions, and if a second twin is not suspected or diagnosed, it could potentially be retained. The typical duration of the third stage is 10-30 minutes, and cord traction is performed during uterine contractions, not before."
+    },
+    {
+      "stem": "During the 3rd stage of normal labor, signs of placental separation include:",
+      "options": [
+        "Uterine muscle relaxation.",
+        "Patient had an involuntary bearing down.",
+        "Elongation of the cord that recedes back.",
+        "Fundal uterine bulge.",
+        "Vaginal bleeding."
+      ],
+      "correct": 4,
+      "explanation": "During the third stage of normal labor, a sign of placental separation is a gush of blood, which manifests as vaginal bleeding. Other signs include elongation of the umbilical cord and a suprapubic bulge."
+    },
+    {
+      "stem": "The following sign is related to placental separation in the third stage of labor:",
+      "options": [
+        "Cervix becomes closed.",
+        "Uterus becomes softer.",
+        "Suprapubic bulge.",
+        "Patient feels desire to defecate.",
+        "Recession of the umbilical cord occurs."
+      ],
+      "correct": 2,
+      "explanation": "A sign related to placental separation in the third stage of labor is the presence of a suprapubic bulge, which occurs as the placenta descends into and fills the lower uterine segment."
+    },
+    {
+      "stem": "A healthy 23yrs old G1P0 has had an uncomplicated pregnancy to date, presents as she is 40wks and still hasn't delivered. She reports good fetal movements. On PV, her cervix was firm, posterior, 50%effaced, and 1cm dilated, the vertex is station -1. Estimated fetal weight is 3200 gm. The recommended immediate management is:",
+      "options": [
+        "Caesarian section.",
+        "Induction of labor by vaginal misoprostol.",
+        "Start oxytocin infusion after artificial rupture of membranes.",
+        "Continue fetal kick count monitoring and recheck after 1 week.",
+        "Check fetal lung maturation before making an action."
+      ],
+      "correct": 3,
+      "explanation": "The patient is at 40 weeks gestation, which is not yet considered a post-term pregnancy (defined as > 42 weeks). Given the reassuring good fetal movements and an unfavorable cervix (Bishop score likely <5), the recommended immediate management is expectant management by continuing fetal kick count monitoring and rechecking after 1 week, as there are no indications for immediate induction or Cesarean section."
+    },
+    {
+      "stem": "Administration of pethidine injections less than two hours before delivery may be complicated by:",
+      "options": [
+        "Prolonged Labor.",
+        "Intrauterine fetal death.",
+        "Neonatal jaundice.",
+        "Motor block with weakness of lower limbs.",
+        "Neonatal respiratory depression."
+      ],
+      "correct": 4,
+      "explanation": "Administration of pethidine injections less than two hours before delivery may be complicated by neonatal respiratory depression."
+    },
+    {
+      "stem": "The following is best used in intra-partum assessment of fetal wellbeing?",
+      "options": [
+        "Doppler study.",
+        "Non stress test.",
+        "Fetal scalp pH.",
+        "Biophysical profile.",
+        "Amniocentesis."
+      ],
+      "correct": 2,
+      "explanation": "For intra-partum assessment of fetal wellbeing, especially when fetal distress is suspected, fetal scalp pH is considered a definitive diagnostic method. A blood sample is taken from the fetal scalp during labor to measure the pH, with a pH below 7.25 indicating fetal asphyxia due to hypoxia and acidosis."
+    },
+    {
+      "stem": "All the following are possible complications of artificial rupture of membranes during labor EXCЕРТ:",
+      "options": [
+        "Meconium aspiration.",
+        "Cord prolapse.",
+        "Fetal injury.",
+        "Accidental hemorrhage.",
+        "Infection."
+      ],
+      "correct": 0,
+      "explanation": "Possible complications of artificial rupture of membranes (amniotomy) during labor include placental abruption (accidental hemorrhage), vaginal bleeding and fetal injury, cord prolapse, and infection. Meconium aspiration is a consequence of fetal distress, which can be caused or exacerbated by complications like cord prolapse, but it is not a direct complication of the procedure of rupturing the membranes itself."
+    },
+    {
+      "stem": "Elderly primigravida is at increased risk of:",
+      "options": [
+        "Malpresentations.",
+        "Preeclampsia.",
+        "Rupture uterus.",
+        "Placenta previa.",
+        "Precipitate labor."
+      ],
+      "correct": 1,
+      "explanation": "An elderly primigravida is at an increased liability to medical disorders during pregnancy, including preeclampsia (PE), eclampsia, and gestational diabetes mellitus (GDM)."
+    },
+    {
+      "stem": "Grand multipara is at increased risk of:",
+      "options": [
+        "Hyperemesis gravidarum.",
+        "Rupture uterus.",
+        "Accidental hemorrhage.",
+        "Cervical and perineal tears.",
+        "Past date pregnancy."
+      ],
+      "correct": 1,
+      "explanation": "A grand multipara is at an increased liability to rupture of the uterus, which can be due to factors such as oversized babies with malposition and malpresentations, or osteomalacia affecting the bony pelvis."
+    },
+    {
+      "stem": "A primipara during labor, cervix is 1cm dilated, 60 % effaced. Membranes are intact and head is occipito-anterior position at 0 station. After 2 hours, cervical dilatation is the same, 90% effaced, still intact membranes and head at same station. How can you describe this labor course?",
+      "options": [
+        "Hypotonic inertia.",
+        "Obstructed labor.",
+        "False labor.",
+        "Normal progress.",
+        "Precipitate labor."
+      ],
+      "correct": 3,
+      "explanation": "The patient is in the latent phase of labor, which is characterized by slow and variable progress in cervical dilatation and effacement. While dilatation remained at 1 cm for 2 hours, there was significant progress in effacement from 60% to 90%. This progression in effacement, within the context of the highly variable and slow latent phase, indicates normal progress for this stage of labor."
+    },
+    {
+      "stem": "A 23years old G2P2 has had an uncomplicated pregnancy to date. She is 42wks and still had not delivered. She reports good fetal movements. Cervix is soft, central, 50%effaced, and 2 cm dilated. The vertex is at zero station and estimated fetal weight is 3200 gm. What is the recommended management for this case?",
+      "options": [
+        "Immediate caesarian section.",
+        "Induction of labor by vaginal misoprostol.",
+        "Oxytocin infusion and artificial rupture of membranes.",
+        "Continue fetal kick count monitoring and recheck after 1 week.",
+        "Check fetal lung maturation before making an action."
+      ],
+      "correct": 2,
+      "explanation": "The patient is at 42 weeks gestation, which is considered a post-term pregnancy. Her cervix has a favorable Bishop score (soft, central, 50% effaced, 2 cm dilated, vertex at 0 station), indicating it is ripe enough for induction without requiring cervical ripening agents like misoprostol. Given these factors, oxytocin infusion and artificial rupture of membranes (amniotomy) is the recommended management to induce labor."
+    },
+    {
+      "stem": "The average blood loss during normal deliveries is:",
+      "options": [
+        "700 ml.",
+        "500 ml.",
+        "250 ml.",
+        "100 ml.",
+        "50 ml."
+      ],
+      "correct": 1,
+      "explanation": "Postpartum hemorrhage is defined as excessive blood loss greater than 500 ml following a vaginal delivery. This definition implies that the average blood loss during normal vaginal deliveries is generally up to 500 ml."
+    },
+    {
+      "stem": "The average blood loss during uncomplicated cesarean section is:",
+      "options": [
+        "250 ml.",
+        "500 ml.",
+        "700 ml.",
+        "1000 ml.",
+        "The same as normal vaginal delivery with episiotomy."
+      ],
+      "correct": 3,
+      "explanation": "Postpartum hemorrhage (PPH) is defined as excessive blood loss after delivery, with a threshold of greater than 1000 ml following a Cesarean section. Therefore, the average blood loss during an uncomplicated Cesarean section is typically around 1000 ml."
+    },
+    {
+      "stem": "The most important hemostatic mechanism to control blood loss after vaginal delivery:",
+      "options": [
+        "Tourniquet effect of interlacing oblique uterine muscle bundles.",
+        "Fibrinolysin inhibition.",
+        "Increased blood clotting factors in pregnancy.",
+        "Vasoconstriction of intra-myometrial vessels.",
+        "Markedly decreased blood pressure in uterine venules."
+      ],
+      "correct": 0,
+      "explanation": "The most important hemostatic mechanism to control blood loss after vaginal delivery is the tourniquet effect of the interlacing oblique uterine muscle bundles. Sustained myometrial contractions and retraction are crucial for placental separation and for compressing the blood vessels in the placental bed to prevent postpartum hemorrhage."
+    },
+    {
+      "stem": "Which options describes the proper order of the cardinal movements of labor?",
+      "options": [
+        "Engagement, internal rotation, descent, flexion.",
+        "Engagement, external rotation, descent, extension.",
+        "Engagement, extension, internal rotation, flexion.",
+        "Engagement, extension, descent, flexion.",
+        "Engagement, flexion, internal rotation, extension."
+      ],
+      "correct": 4,
+      "explanation": "The proper order of the cardinal movements of labor for the fetal head in occipito-anterior position typically follows this sequence: Engagement, followed by Flexion, then Internal Rotation, and finally Extension for delivery of the head. Descent is a continuous process that occurs throughout these movements."
+    },
+    {
+      "stem": "A31-year old primigravida at 39 weeks gestation complains of painful uterine contractions that are occurring every 3 to 4 minutes. Her cervix has changed from 1 cm to 2 cm dilatation over 1 hour. The following management plans is most appropriate?",
+      "options": [
+        "Caesarean delivery.",
+        "Oxytocin infusion.",
+        "Vaginal prostaglandins.",
+        "Observation for uterine contractions.",
+        "Fetal scalp PH monitoring."
+      ],
+      "correct": 3,
+      "explanation": "The patient is a primigravida at 39 weeks who is in the latent phase of labor, characterized by slow and variable progress in cervical dilatation. Since there is no indication of fetal distress or other complications warranting immediate intervention, the most appropriate management plan is observation for uterine contractions and the natural progression of labor."
+    },
+    {
+      "stem": "A24 year old G2P1 woman at 39 weeks gestation presents with painful uterine contractions and passage of darkvaginal blood mixed with some mucous. What is the most likely cause of this blood?",
+      "options": [
+        "Placenta previa.",
+        "Placental abruption.",
+        "Bloody show.",
+        "Vasa previa.",
+        "Cervical lacerations."
+      ],
+      "correct": 2,
+      "explanation": "The presentation of painful uterine contractions with the passage of dark vaginal blood mixed with mucus is most likely indicative of bloody show. This phenomenon occurs in early labor as the cervix softens, effaces, and dilates, leading to the expulsion of the cervical mucus plug, often tinged with blood from ruptured capillaries."
+    },
+    {
+      "stem": "How you describe cervical dilatation of 1 cm/h in nulliparous women and 1.5 cm/h in multiparous women?",
+      "options": [
+        "False Labor.",
+        "Latent phase of true labor.",
+        "Active phase of true labor.",
+        "Hypotonic inertia.",
+        "Precipitate labor."
+      ],
+      "correct": 2,
+      "explanation": "A cervical dilatation rate of 1.2 cm/hour in primigravidas (nulliparous women) and 1.5 cm/hour in multigravidas (multiparous women) is characteristic of the active phase of true labor, which begins after 4 cm dilatation."
+    },
+    {
+      "stem": "Regarding moulding of fetal head, choose the correct statement:",
+      "options": [
+        "Parietal bones do not overlap each other.",
+        "Parietal bones may overlap frontal bones.",
+        "Should be associated with caput succedaneum.",
+        "Occurs rapidly in after-coming head of breech presentation.",
+        "Marked degree increases fetal risk of intracranial hemorrhage."
+      ],
+      "correct": 4,
+      "explanation": "A marked degree of moulding increases the fetal risk of intracranial hemorrhage due to excessive compression of the cranial bones. Moulding involves the overlapping of fetal skull bones, such as one parietal bone overriding another or over the occipital bone."
+    },
+    {
+      "stem": "Cervical caput during labor denotes:",
+      "options": [
+        "Cervical dystocia.",
+        "Infrequent uterine contractions.",
+        "Cephalo-pelvic disproportion.",
+        "Fetal distress.",
+        "Maternal dehydration."
+      ],
+      "correct": 0,
+      "explanation": "While the textbook does not explicitly define 'cervical caput,' if it refers to edema or swelling of the cervical tissue during labor despite adequate contractions, it would typically denote a failure of the cervix to dilate effectively, which is known as cervical dystocia. The text mentions 'Edematous vagina' in obstructed labor."
+    },
+    {
+      "stem": "Regarding meconium stained liquor; all the followings are true EXCЕРТ:",
+      "options": [
+        "Normal finding in breech presentation due to mechanical compression.",
+        "Thin meconium stained liquor in cephalic presentation indicates fetal monitoring.",
+        "Thick meconium stained liquor in cephalic presentation indicates fetal distress.",
+        "Fetal hypoxia induces vagal stimulation with increased intestinal peristaltic movement and relaxation of anal sphincter.",
+        "Once delivery occurs; no neonatal hazards."
+      ],
+      "correct": 4,
+      "explanation": "All the listed statements about meconium-stained liquor are true, EXCEPT that there are no neonatal hazards once delivery occurs. Meconium aspiration can lead to significant neonatal complications, and clearing the infant's airway is an immediate therapy for suspected meconium aspiration, highlighting the potential hazards."
+    },
+    {
+      "stem": "Immediate therapy for infants with suspected meconium aspiration should be:",
+      "options": [
+        "Corticosteroids.",
+        "Antibiotics.",
+        "Sodium bicarbonate.",
+        "Clearing of the airway.",
+        "Surfactant."
+      ],
+      "correct": 3,
+      "explanation": "The immediate therapy for infants with suspected meconium aspiration should be clearing of the airway."
+    },
+    {
+      "stem": "The incidence of occipto-posterior at time of delivery is:",
+      "options": [
+        "15%.",
+        "25%.",
+        "40%.",
+        "50%.",
+        "60%."
+      ],
+      "correct": 1,
+      "explanation": "The textbook states that Occipito Posterior (OP) positions are encountered in around 20% of cases at the onset of labor. While this is at onset and not delivery, and the textbook also indicates that 90% of OP cases convert to OA during labor, in the absence of a more precise figure for 'at time of delivery,' 25% is the closest option to the initial incidence mentioned."
+    },
+    {
+      "stem": "The commonest cause of occipto-posterior position is",
+      "options": [
+        "Maternal kyphosis.",
+        "Placenta previa.",
+        "Pelvis with narrow fore pelvis.",
+        "Pendulous abdomen.",
+        "Flat pelvis."
+      ],
+      "correct": 2,
+      "explanation": "A common cause of occipito-posterior position is related to pelvic shape, specifically an android or anthropoid pelvis, where the heart-shaped inlet allows the larger biparietal diameter (BPD) to occupy the wider hind-pelvis, and the narrower fore-pelvis (pelvis with narrow fore pelvis) accommodates the smaller bitemporal diameter (BTD)."
+    },
+    {
+      "stem": "Which of the following suggests occipito-posterior malposition in examination?",
+      "options": [
+        "Abdomen looks flattened below the umbilicus.",
+        "Fetal head tends to be smaller in pelvic grip.",
+        "Fetal limbs are felt in midline.",
+        "Fetal heart is auscultated in flanks away from midline.",
+        "All of the above."
+      ],
+      "correct": 4,
+      "explanation": "The provided textbook excerpts do not contain specific information regarding the physical examination findings (such as flattened abdomen, fetal head size in pelvic grip, fetal limb position, or fetal heart sound location) that specifically suggest occipito-posterior malposition. Therefore, this question cannot be answered using the provided sources."
+    },
+    {
+      "stem": "Watchful expectancy in occipito-posterior malposition up to 2 hours in the 2nd stage of labor aims to:",
+      "options": [
+        "Long anterior rotation of occiput 3/8 of a circle occurs.",
+        "Excessive head moulding to pass the pelvis with the larger diameter.",
+        "Yielding of the pelvis with increased pelvic inlet diameter.",
+        "Correction of asynclitism.",
+        "Correction of presentation and denominator."
+      ],
+      "correct": 0,
+      "explanation": "Watchful expectancy in occipito-posterior malposition during labor primarily aims for long anterior rotation of the occiput 3/8 of a circle to a direct occipito-anterior (DOA) position, which occurs in over 90% of cases. This rotation allows for a normal vaginal delivery via extension, although it may prolong the second stage of labor."
+    },
+    {
+      "stem": "All the following regarding occipito posterior position are true EXCЕРТ:",
+      "options": [
+        "During face to pubis delivery, the perineum is distended by the occipito-frontal.",
+        "Deep transverse arrest can be managed by vacuum extraction.",
+        "The progress of labor depends on the degree ofhead flexion.",
+        "Android pelvis is a rare cause.",
+        "During labor, 90% of the cases deliver spontaneously as occipito anterior."
+      ],
+      "correct": 3,
+      "explanation": "All the listed statements are true regarding occipito-posterior position, EXCEPT that an android pelvis is a rare cause. The textbook explicitly lists android or anthropoid pelvis as a cause of occipito-posterior malposition due to its specific inlet shape."
+    },
+    {
+      "stem": "Correction of head deflexion in occipito-posterior position is favored by:",
+      "options": [
+        "Unengaged fetal head.",
+        "Lax pelvic floor muscles.",
+        "Android pelvis.",
+        "Strong uterine contractions.",
+        "Premature rupture of membranes."
+      ],
+      "correct": 3,
+      "explanation": "Correction of head deflexion and subsequent internal rotation in occipito-posterior position is favored by strong uterine contractions. Other favoring factors include an adequate pelvis and good pelvic floor musculature."
+    },
+    {
+      "stem": "In occipito-posterior malposition in labor, deflexion of fetal head is due to:",
+      "options": [
+        "Biparietal diameter occupies sacro-cotyloid pelvic diameter.",
+        "Biparietal diameter occupies oblique pelvic diameter.",
+        "Bitemporal diameter occupies transverse pelvic diameter.",
+        "Bitemporal diameter occupies sacro-cotyloid pelvic diameter.",
+        "Hypertonicity of fetal neck extensor muscles."
+      ],
+      "correct": 0,
+      "explanation": "In occipito-posterior malposition, deflexion of the fetal head can be due to the biparietal diameter (BPD) occupying the sacro-cotyloid pelvic diameter. This occurs in pelvis types like the android pelvis, where the heart-shaped inlet causes the wider BPD to engage in the hind-pelvis and the narrower bitemporal diameter in the fore-pelvis, predisposing to deflexion."
+    },
+    {
+      "stem": "Regarding mechanism of delivery in occipito anterior position:",
+      "options": [
+        "Descent through the birth canal occurs in the 2nd stage only.",
+        "Bitemporal diameter is the engaging diameter.",
+        "Long internal rotation of occiput occurs before correction of deflexion.",
+        "Long internal rotation of shoulders should follows long head rotation.",
+        "Flexion is the movement by which the head is delivered in most cases."
+      ],
+      "correct": 3,
+      "explanation": "In the mechanism of delivery in occipito-anterior position, external rotation of the fetal head is due to the internal rotation of the anterior shoulder. This means that the internal rotation of the shoulders occurs in sequence after the primary internal rotation of the head, causing the head's external rotation. Descent is continuous through both stages, BPD is the engaging diameter, flexion precedes internal rotation, and the head is delivered by extension."
+    },
+    {
+      "stem": "Aprimigravida in the 2nd stage of labor for the past 2 hours with adequate uterine contractions, with the fetus in left occipito-posterior position at station-1. The best way to manage would be:",
+      "options": [
+        "Oxytocin infusion.",
+        "Vacuum extraction.",
+        "Forceps application.",
+        "Watchful expectancy for another 30 minutes.",
+        "Cesarean delivery."
+      ],
+      "correct": 4,
+      "explanation": "The patient is a primigravida who has reached the maximum normal duration of 2 hours in the second stage of labor. The fetus is in a left occipito-posterior (LOP) position, and critically, the head is at station -1, meaning it is not engaged. Instrumental deliveries (vacuum or forceps) are contraindicated if the head is not engaged. Given the prolonged second stage, unengaged head, and OP malposition in a primigravida, Cesarean delivery is the safest and most appropriate management."
+    },
+    {
+      "stem": "The following factors favors long internal rotation of the fetal head in occipito- posterior EXCEPT:",
+      "options": [
+        "Gynecoid pelvis.",
+        "Average sized head.",
+        "Strong uterine contractions.",
+        "Ripped cervix.",
+        "Multiparity."
+      ],
+      "correct": 4,
+      "explanation": "Factors favoring long internal rotation of the fetal head in an occipito-posterior position include correction of deflexion, strong uterine contractions, an adequate pelvis (like a gynecoid pelvis), good pelvic floor musculature, and adequate amniotic fluid. Multiparity is not listed as a favoring factor; rather, issues like pendulous abdomen and weak abdominal muscles in grand multipara can contribute to malpositions."
+    },
+    {
+      "stem": "Which of the followings prevents long internal rotation of fetal occiput in occipito-posterior malposition?",
+      "options": [
+        "Gynecoid pelvis.",
+        "Intact membranes.",
+        "Slow cervical dilatation",
+        "Fetal distress.",
+        "Epidural anesthesia."
+      ],
+      "correct": 4,
+      "explanation": "Epidural anesthesia can indirectly prevent long internal rotation of the fetal occiput in occipito-posterior malposition by leading to a loss of the urge for straining and potentially affecting the strength of uterine contractions. Weak uterine contractions are listed as a factor interfering with internal rotation."
+    },
+    {
+      "stem": "A28 year-old primigravida, 37week's gestation in the second stage of labor for 45 minutes. Pelvis is adequate, membranes are ruptured, foetal head is in ROPposition, +2 station. The foetal heart rate is 120/min and the mother is exhausted. The most appropriate management is:",
+      "options": [
+        "Rehydrate and observe labor.",
+        "Outlet forceps.",
+        "Oxytocin and fundal pressure.",
+        "Vacuum extraction.",
+        "Mc Robert's manoeuvre."
+      ],
+      "correct": 3,
+      "explanation": "The patient is a primigravida in the second stage of labor with an engaged and descended fetal head (+2 station), ROP malposition, and maternal exhaustion. While the FHR is reassuring, maternal exhaustion warrants intervention to shorten the second stage. Vacuum extraction (ventouse) is an appropriate instrumental delivery method for occipito-posterior positions to aid rotation and descent of the head, with generally less injury to the maternal birth canal compared to forceps."
+    },
+    {
+      "stem": "Aprimigravida with occipito-posterior malposition during labor. Cervix is fully dilated; head is 0 station, ruptured membranes with clear liquor. uterine contractions are infrequent. The best management would be:",
+      "options": [
+        "Caesarian section.",
+        "Foceps application.",
+        "Vaccum delivery.",
+        "Avoid bearing down and give sedation.",
+        "Oxytocin and wait for spontaneous rotation."
+      ],
+      "correct": 4,
+      "explanation": "The patient, a primigravida with occipito-posterior malposition, has a fully dilated cervix and an engaged head, but her uterine contractions are infrequent. This indicates hypotonic uterine inertia. The best management is to augment labor with oxytocin infusion to achieve adequate contractions and then wait for spontaneous rotation of the head, as 90% of OP cases rotate anteriorly and deliver vaginally."
+    },
+    {
+      "stem": "A primigravida with occipito-posterior malposition during labor. Cervix is 8cm dilated, head at -2 station with mild pelvic caput. Membranes ruptured spontaneously with thick green liquor and uterine contractions are infrequent. The best management would be:",
+      "options": [
+        "Oxytocin injections.",
+        "Caesarian section.",
+        "Foceps application.",
+        "Vaccum delivery.",
+        "Epidural anesthesia."
+      ],
+      "correct": 1,
+      "explanation": "The patient is a primigravida with thick green liquor, which is a strong indicator of fetal distress. Furthermore, her cervix is not fully dilated (8 cm), and the head is not engaged (-2 station), making instrumental delivery unsuitable. In cases of fetal distress with a non-fully dilated cervix, immediate Cesarean section is the indicated management."
+    },
+    {
+      "stem": "Aprimigravida with occipito-posterior malposition during labor. Cervix is 7cm dilated, head at 0 station, membranes ruptured spontaneously with clear liquor and uterine contractions are infrequent. What is the best management?",
+      "options": [
+        "Oxytocin infusion.",
+        "Caesarian section.",
+        "Forceps application.",
+        "Vaccum delivery.",
+        "Epidural anesthesia."
+      ],
+      "correct": 0,
+      "explanation": "The patient is a primigravida in the active phase of labor (7 cm dilated, head at 0 station) with occipito-posterior malposition and infrequent uterine contractions. This presentation suggests hypotonic uterine inertia. The best management for hypotonic inertia is to augment labor with oxytocin infusion to establish adequate contractions and promote labor progress."
+    },
+    {
+      "stem": "Regarding direct occipito posterior malposition during labor:",
+      "options": [
+        "Occurs in 10% of occipito-posterior malposition",
+        "Marked deflexion causes the sinciput to reach the pelvic floor first.",
+        "Occiput rotates 1/8 of a circle anteriorly.",
+        "Head is delivered in extension.",
+        "Vulva is distended with suboccipito-frontal diameter."
+      ],
+      "correct": 1,
+      "explanation": "In direct occipito-posterior (DOP) malposition, marked deflexion is present, causing the sinciput to reach the pelvic floor first. This type of malposition accounts for about 6% of OP cases, where the occiput rotates posteriorly 1/8 of a circle, and the head is delivered in flexion."
+    },
+    {
+      "stem": "Regarding direct occipito posterior malposition during labor:",
+      "options": [
+        "More common to occur in preterm labors.",
+        "Sudden head compression and decompression may occur.",
+        "Head is delivered in extension.",
+        "Vulval lacerations are common.",
+        "Preferably delivered by vacuum extraction."
+      ],
+      "correct": 3,
+      "explanation": "In direct occipito-posterior malposition, the head is delivered by flexion ('face to pubis'), and the vulva is distended by the occipito-frontal diameter (11.5 cm). This larger distending diameter, compared to a normal occipito-anterior delivery, often leads to common vulval lacerations and necessitates an episiotomy."
+    },
+    {
+      "stem": "Indications of caesarean section in occipito-posterior position include all of the following EXCEPT:",
+      "options": [
+        "Persistent oblique Occipito-posterior.",
+        "Deep transverse arrest.",
+        "Previous caesarean section.",
+        "Face to pubis.",
+        "Fetal distress."
+      ],
+      "correct": 3,
+      "explanation": "All the listed options are indications for Cesarean section in occipito-posterior position, EXCEPT for face to pubis delivery. Face to pubis delivery is a mechanism of vaginal delivery (in flexion) that can occur in some occipito-posterior cases, although it often requires an episiotomy due to the larger diameter distending the vulva."
+    },
+    {
+      "stem": "Regarding face malpresentation:",
+      "options": [
+        "Anencephally and cystic hygroma should be excluded in 1ry face presentation.",
+        "Direct mento-posterior is delivered in flexion.",
+        "In mento-anterior position, fetal back is directed anterior either to Lt or Rt side.",
+        "90% of mento-posterior cases rotate anterior.",
+        "By PV, it could be confused with cases of complete breech."
+      ],
+      "correct": 4,
+      "explanation": "Regarding face malpresentation, it is possible that on vaginal examination (PV), it could be confused with a complete breech presentation due to the need to differentiate the bony landmarks of the chin and mouth from the sacrum and ischial tuberosities, especially if the fetal face is distorted or edematous. Anencephaly is a listed etiology, but not cystic hygroma. Direct mento-posterior is not delivered in flexion, and only about 2/3 of mento-posterior cases rotate anteriorly."
+    },
+    {
+      "stem": "Regarding face malpresentation:",
+      "options": [
+        "Direct mento-anterior is delivered in extension.",
+        "Mento-anterior delivery is considered normal delivery",
+        "Direct mento-posterior should be managed by cesarean section.",
+        "Correction to vertex presentation may be tried in some cases.",
+        "Vaccum extraction could be used if labor is prolonged."
+      ],
+      "correct": 2,
+      "explanation": ""
+    },
+    {
+      "stem": "Regarding face presentation, choose the correct answer:",
+      "options": [
+        "Most cases are mentoposterior.",
+        "Denominator is the fetal nose.",
+        "The engaging diameter is the mento -vertical diameter.",
+        "Increased risk of fetal congenital anomalies.",
+        "The diameter distending the vulva is the submento -bregmatic diameter."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following describes a frank breech?",
+      "options": [
+        "Flexion of the hips and extension of the knees.",
+        "Flexion of the hips and flexion of the knees.",
+        "Extension of the hips and flexion of the knees.",
+        "Extension of the hips and extension the knees.",
+        "Lower extremities flexed at the hips and knees flexed."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In which of the following condition vaginal delivery is contraindicated?",
+      "options": [
+        "Extended breech head.",
+        "Breech with extended legs.",
+        "Twins with 1st vertex and 2nd breech.",
+        "Direct occipto-posterior.",
+        "Premature rupture of membranes."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following is an indication of C.S in breech delivery?",
+      "options": [
+        "Breech with extended legs (frank breech).",
+        "Complete breech.",
+        "Estimated fetal weight is between 2.5 kg to 3.5 kg.",
+        "Sacro-anterior position.",
+        "Extended fetal neck as detected by ultrasound."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "The following is encouraging for a trial of vaginal delivery in breech presentation:",
+      "options": [
+        "Previous breech delivery.",
+        "Footling presentation.",
+        "Estimated fetal weight is between 1.5 kg to 2 kg.",
+        "Buttocks are felt at level of pelvic brim.",
+        "Extended fetal head as detected by ultrasound."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A P2+2 with previous precipitate vaginal deliveries, 38 weeks gestation presents for ANC. Examination and US show complete breech presentation +/- 3 kg, fundal posterior placenta and AFI: 15. What is your suggested management?",
+      "options": [
+        "Wait for spontaneous onset of labor.",
+        "Induction of labor.",
+        "Cesarean delivery.",
+        "Spontaneous correction is the rule.",
+        "Council for external cephalic version."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In Assisted Breech delivery:",
+      "options": [
+        "Traction on fetal trunk should be done to assist fetal head delivery.",
+        "Prague maneuver is routinely used to deliver the after coming head.",
+        "Fetal back should be kept anterior.",
+        "Once the fetal neck appears under symphysis, fetal body should be lifted towards mother's abdomen.",
+        "Episiotomy is usually done after delivering the fetal body."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Regarding assisted breech delivery:",
+      "options": [
+        "Baby is delivered spontaneously till the fetal head.",
+        "Fetal body should be covered with warm towels to avoid premature respiration.",
+        "Moulding of the fetal head is delayed.",
+        "After-coming head is delivered in extension.",
+        "Cord prolapse is more common in frank breech."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which type of breech presentation with highest incidence of cord prolapse?",
+      "options": [
+        "Complete breech.",
+        "Frank breech.",
+        "Preterm breech.",
+        "Sacro-posterior presentation.",
+        "Footling presentation."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Which type of breech presentation with least incidence of cord prolapse?",
+      "options": [
+        "Complete breech.",
+        "Frank breech.",
+        "Preterm breech.",
+        "Sacro-posterior presentation.",
+        "Footling presentation."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Regarding retained after-coming head of breech presentation:",
+      "options": [
+        "More common in complete breech.",
+        "Mere common in primipara.",
+        "In preterm breech, the head may be entrapped in incompletely dilated cervix.",
+        "Previous cephalic delivery minimizes the risk of retained after-coming head.",
+        "Urgent cesarean delivery is the suitable management."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following can predispose to retained after-coming head in breech presentation?",
+      "options": [
+        "Complete breech.",
+        "Frank breech.",
+        "Well flexed fetal head.",
+        "Associated placenta previa.",
+        "Traction on fetal body during assisted breech delivery."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "What is commonest type of monozygotic twins?",
+      "options": [
+        "Dichorionic diamniotic.",
+        "Dichorionc monoamniotic.",
+        "Monochorionic diamniotic.",
+        "Monochorionic monoamniotic.",
+        "Conjoined twins."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Regarding monozygotic twins, if splitting of the fertilized ovum occurs during 1 2 days of fertilization, the resultant twins will be:",
+      "options": [
+        "Monochorionic monoamniotic.",
+        "Monochorionic diamniotic.",
+        "Dichorionic monoamniotic.",
+        "Dichorionic diamniotic.",
+        "Conjoined twins."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A patient had just delivered her first twin vaginally at 37 weeks. PV examination reveals a fully dilated cervix and a shoulder presenting second twin with bulging amniotic sac. Fetal heart rate is reassuring. The appropriate management?",
+      "options": [
+        "Amniotomy & oxytocin.",
+        "External cephalic version and wait for spontaneous cephalic delivery.",
+        "Amniotomy, internal podalic version & breech extraction.",
+        "Immediate cesarean section.",
+        "No action & wait for spontaneous expulsion."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Obstetric ultrasound in twin pregnancy can identify all of the following EXCEPT:",
+      "options": [
+        "Differentiate monochorionic from dichorionic type.",
+        "Differentiate monoamniotic from diamniotic type.",
+        "Diagnosis of conjoined twins.",
+        "Diagnosis of discordant twins.",
+        "Diagnosis of contracted pelvis."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Multifetal gestations have a higher risk of all the following EXCЕРТ:",
+      "options": [
+        "Preeclampsia.",
+        "Atonic postpartum hemorrhage.",
+        "Maternal anemia.",
+        "Post term pregnancy.",
+        "Hyperemesis gravidarum."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A full term primipara with twin pregnancy presents after delivery of first twin vaginally at home an hour ago. PV reveals a fully dilated cervix and a shoulder presenting second twin with drained liquor. The appropriate management is:",
+      "options": [
+        "Oxytocin.",
+        "External cephalic version and wait for spontaneous cephalic delivery.",
+        "internal podalic version & breech extraction.",
+        "Cesarean section.",
+        "No action & wait for spontaneous expulsion."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Transverse lie in a full-term multipara in labor, is most commonly managed by:",
+      "options": [
+        "External cephalic version.",
+        "Wait for spontaneous vaginal delivery.",
+        "Cesarean delivery.",
+        "Oxytocin induction.",
+        "Internal podalic version and breech extraction."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "In a multipara at 32 weeks; transverse lie is diagnosed by US during routine ANC. Best management is:",
+      "options": [
+        "External cephalic version.",
+        "Wait for spontaneous correction.",
+        "Cesarean delivery.",
+        "Oxytocin induction.",
+        "Internal podalic version and breech extraction."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Regarding a case of neglected shoulder:",
+      "options": [
+        "More common in preterm labor.",
+        "External cephalic version is a safe option.",
+        "Internal podalic version may be done in selected cases.",
+        "Low vertical cesarean section is preferably done.",
+        "Easy fetal extraction in transverse lower segment incision."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the followings predisposes to cord prolapse:",
+      "options": [
+        "Coiling of the cord around fetal neck.",
+        "True knot of the cord.",
+        "Major placenta previa (centralis).",
+        "Oligohydramnios.",
+        "Malpositions and malpresentations."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Regarding cord prolapse, one of the following is correct:",
+      "options": [
+        "Usually associated with polyhydramnios.",
+        "In breech presentation, it is most likely with frank breech.",
+        "Urgent cesarean delivery is indicated regardless pulsations.",
+        "Reposition of the cord in the vagina has no value in decreasing fetal mortality.",
+        "Patient should be positioned in semi-sitting position."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Regarding occult cord prolapse, all the followings are true EXCEРТ:",
+      "options": [
+        "Membranes are intact.",
+        "Cord is not seen outside the vulva.",
+        "Cord is not felt by PV examination.",
+        "Variable deceleration is present on continuous CTG monitoring.",
+        "It can kill the baby without leaving any trace of evidence."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A multipara presents with a prolapse non-pulsating cord. Cervix is 8 cm cervical dilatation, cephalic occipito-anterior -2 station. What should be your next step?",
+      "options": [
+        "No emergency and observe labor.",
+        "Urgent cesarean section.",
+        "Vacuum extraction.",
+        "Reposit the cord above the presenting part.",
+        "Continue labor."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A multipara with polyhydramnios has a pulsating cord prolapse following uncontrolled artificial rupture of membranes during 2nd stage of labor. Fetus is cephalic, occipito-anterior and descended to +2 station after rupture membranes. What is your suggested management?",
+      "options": [
+        "Caesarean delivery.",
+        "Forceps application not including the cord between blades.",
+        "Vacuum extraction including the cord in the cup.",
+        "Reposit the cord in vagina and follow labor progress.",
+        "Put the patient on Lt Lateral position."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Cord presentation denotes:",
+      "options": [
+        "Only umbilical cord is felt with no presenting part.",
+        "Umbilical cord will be delivered 1st.",
+        "Membranes are intact with cord felt below the presenting part.",
+        "Cord is protruding outside the vulva.",
+        "Tight coiling of the cord around fetal neck."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A full-term multipara during labor with a cord felt below the fetal head at -2 station. Cervix is 3 cm 80% effaced, membranes are intact and fetal heart is reassuring. What is your recommended management?",
+      "options": [
+        "Artificial rupture of membranes.",
+        "Cesarean delivery.",
+        "Observe progress of labor so long membranes are intact.",
+        "Oxytocin to enhance labor.",
+        "By vaginal examination try to elevate the cord above the presenting part."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A P3+0 cephalic presentation had ROM and a fully dilated cervix for 1/2 an hour. She has uterine contraction 1/10 minutes and PV shows a fetal head station -2. The most probable diagnosis is:",
+      "options": [
+        "Obstructed labor.",
+        "Hypotonic uterine inertia.",
+        "Hypertonic uterine inertia.",
+        "Constriction ring.",
+        "Cervical dystocia."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Regarding the previous case, what is your suggested management?",
+      "options": [
+        "Watchful expectancy for another 1 hour.",
+        "Instrumental delivery.",
+        "Cesarean section.",
+        "Oxytocin infusion.",
+        "Vaginal misoprostol."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Contraindications for oxytocin during labor include:",
+      "options": [
+        "Past date pregnancy.",
+        "Pathological retraction ring.",
+        "Maternal hypertension.",
+        "Premature rupture of membranes.",
+        "Fetal malpositions."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The leading cause of maternal mortality in Egypt is:",
+      "options": [
+        "Postpartum hemorrhage.",
+        "Puerperal sepsis.",
+        "Eclampsia.",
+        "Amniotic fluid embolism.",
+        "Anesthesia complications."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Complications of precipitate labor include all the following EXCЕРТ:",
+      "options": [
+        "Preterm labor.",
+        "Cervical tears.",
+        "Perineal tears",
+        "Intracranial hemorrhage.",
+        "Post-partum hemorrhage."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Contraindications of use of oxytocin include all the following EXСЕРТ:",
+      "options": [
+        "Transverse lie.",
+        "Occipito posterior position.",
+        "Hypertonic inertia.",
+        "Cervical dystocia.",
+        "Fetal distress."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Complications of oxytocin include all the following EXCEPT:",
+      "options": [
+        "Fetal distress.",
+        "Hypertonic inertia.",
+        "Rupture uterus.",
+        "Maternal hypertension.",
+        "Neonatal hyperbilirubinemia."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The following drugs is contraindicated in cases of hypertonic uterine inertia:",
+      "options": [
+        "IV fluids.",
+        "Oxytocin.",
+        "Sedatives",
+        "Hyoscine.",
+        "Analgesics."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Contraindications for oxytocin to augment labor include:",
+      "options": [
+        "Premature fetus.",
+        "Hypertonic uterine inertia.",
+        "Maternal hypertension.",
+        "Premature rupture of membranes.",
+        "All cases with antepartum hemorrhage."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 35-year-old G4P3, 36 weeks gestation presents with frequent painful contractions of two hours duration. On examination, the cervix is fully dilated and the head is felt at +2 station. This course of labor may be associated with all of the following EXСЕРТ:",
+      "options": [
+        "Higher incidence of Cesarean section.",
+        "Fetal intracranial haemorrhage.",
+        "Fetal distress.",
+        "Atonic postpartum haemorrhage.",
+        "Traumatic postpartum haemorrhage."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Regarding a constriction ring, all of the followings are true EXCEPT:",
+      "options": [
+        "It is felt vaginally.",
+        "It is seen abdominally.",
+        "It is relieved by deep anaesthesia.",
+        "It is associated with retained placenta.",
+        "It can occur at any part of the uterus."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A full term pregnant, obese, multipara presented late in labor with a fully dilated cervix and involuntary bearing down. Head was delivered spontaneously but arrest of the shoulder delivery occurred. What would be your next step in the management of this patient:",
+      "options": [
+        "Cesarean section.",
+        "Traction on fetal head.",
+        "Hyper flex both hips with abduction and suprapubic pressure.",
+        "Introduce your hand vaginally to bring down an arm.",
+        "Cover the head with warm towel and wait for spontaneous expulsion."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following are possible causes for an obstructed labor EXCЕРТ:",
+      "options": [
+        "Maternal diabetes.",
+        "Malpresentations.",
+        "Contracted pelvis.",
+        "Placenta previa.",
+        "Pendulous abdomen."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A diabetic primipara with a short stature presents with a fully dilated cervix for 2 hours. FHR is reassuring but contractions become very infrequent. Fetus is cephalic, -2 station with ruptured membranes. Your likely diagnosis is:",
+      "options": [
+        "Iry hypotonic uterine inertia.",
+        "Obstructed labor.",
+        "Rupture uterus.",
+        "Cervical dystocia.",
+        "Shoulder dystocia."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A full-term multipara was referred to the hospital after a prolonged labor in a private clinic. A fetal arm was seen coming out from the vulva, cervix was 9 cm dilated and fetal heart was absent. Best management will be:",
+      "options": [
+        "External cephalic version to allow normal cephalic delivery.",
+        "External podalic version and breech extraction.",
+        "Internal podalic version and breech extraction.",
+        "Wait for full cervical dilatation.",
+        "Upper segment caesarian section."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A rising transverse groove seen on the lower abdomen in a woman during labor could be due to:",
+      "options": [
+        "Full urinary bladder.",
+        "Obstructed labor.",
+        "Constriction ring.",
+        "Associated uterine fibroid.",
+        "(a) and (b)."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Commonest complication of shoulder dystocia is:",
+      "options": [
+        "Cerebral palsy.",
+        "Clavicular fracture.",
+        "Intracranial hemorrhage.",
+        "Rupture uterus.",
+        "Brachial plexus injury."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "All the followings are alarming for shoulder dystocia EXCEPT:",
+      "options": [
+        "Estimated fetal weight >4 kg.",
+        "Slow fetal descent during labor.",
+        "Prolonged 2nd stage with slow head extension (turtle sign).",
+        "Maternal diabetes.",
+        "Premature rupture of membranes."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 38-year-old G4P3 of 41 week's gestation is delivering an infant with an estimated foetal weight of 3800gm. After delivery of the head, you note a turtle sign. What is your next procedure?",
+      "options": [
+        "Cesarean section.",
+        "Lovset's manoeuvre.",
+        "Mauricau-Smellie-Viet manoeuvre.",
+        "Delivery of the posterior arm.",
+        "McRobert's manoeuvre."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Mc Robert's manoeuvre entails:",
+      "options": [
+        "Delivery of the posterior arm.",
+        "Internal rotation of the foetal shoulders to the oblique plane.",
+        "Fundal pressure.",
+        "Jaw flexion.",
+        "Maternal thigh flexion and suprapubic pressure."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "After performing the appropriate manoeuvres, a 35-year-old G4P3 finally delivered a 4000gm baby. The attending paediatrician notes that the right arm is hanging to the baby's side with the forearm extended and internally rotated. Which of the following is the baby's most likely diagnosis?",
+      "options": [
+        "Clavicle fracture.",
+        "Humerus fracture.",
+        "Klumpke's palsy.",
+        "Erb's palsy.",
+        "Shoulder dislocation."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A pathological retraction ring (Bandl ring) is commonly associated with:",
+      "options": [
+        "Preterm labour.",
+        "Precipitate labour.",
+        "Obstructed labour.",
+        "Twin pregnancy.",
+        "Functional ovarian cysts."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All the followings describe pathological retraction ring EXCEPT:",
+      "options": [
+        "It represents an exaggerated physiologic retraction.",
+        "Felt and seen abdominally.",
+        "Present between the upper uterine segment and the lower uterine segment.",
+        "Associated with foetal distress.",
+        "Relieved by deep anaesthesia."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 32-year-old woman G2P1 of 38 week's gestation is having regular contractions. The cervix has been fully dilated for one hour and on examination the head is felt at -1 station with caput succedaneum and severe moulding. The most probable cause for her condition is:",
+      "options": [
+        "Hypertonic inertia.",
+        "Constriction ring.",
+        "Full bladder and rectum.",
+        "Cervical dystocia.",
+        "Cephalo-pelvic disproportion."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "An obstructed labor in a primipara will eventually leads to:",
+      "options": [
+        "2ry hypotonic inertia.",
+        "Hypertonic inertia.",
+        "Rupture uterus.",
+        "Constriction ring.",
+        "Precipitate labor."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Obstructed labor in a multipara will eventually leads to:",
+      "options": [
+        "2ry hypotonic inertia.",
+        "Hypertonic inertia.",
+        "Rupture uterus.",
+        "Constriction ring.",
+        "Precipitate labor."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 34-year-old G5 P4 is referred with a prolonged 2nd stage of labor. Cervix is fully dilated; LOA position; -2 station. Increasing Pelvic caput that is seen protruding out till the introitus and marked moulding are present. FHR is absent. The most appropriate management is:",
+      "options": [
+        "Trial for forceps application.",
+        "Vacuum extraction.",
+        "Emergency Caesarean section.",
+        "Start oxytocin infusion.",
+        "Rehydration and observe."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All of the following cause labor dystocia EХСЕРТ:",
+      "options": [
+        "Hydrocephalus.",
+        "Occipto-anterior.",
+        "Face presentation.",
+        "Occipito-posterior.",
+        "Ovarian mass."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Management of shoulder dystocia include all of the following EXСЕРТ:",
+      "options": [
+        "Mc Robert's manoeuvre.",
+        "Episiotomy.",
+        "Fundal pressure.",
+        "Woods screw manoeuvre.",
+        "Delivery of the posterior arm."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Regarding shoulder dystocia; all the followings are true EХСЕРТ:",
+      "options": [
+        "It could be predicted in most of cases.",
+        "More common in diabetic mothers.",
+        "Fundal pressure should be avoided.",
+        "Avoid lateral flexion of the head on the neck.",
+        "Caesarean delivery is the gold standard treatment."
+      ],
+      "correct": 4
+    }
+  ]
+}

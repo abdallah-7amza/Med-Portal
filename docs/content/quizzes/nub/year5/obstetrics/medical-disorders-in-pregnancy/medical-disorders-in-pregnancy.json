@@ -1,0 +1,629 @@
+{
+  "title": "Medical Disorders in Pregnancy",
+  "questions": [
+    {
+      "stem": "Hypertension in pregnancy is defined as:",
+      "options": [
+        "Blood pressure of 160/100 or greater.",
+        "Blood pressure of 140/90 or greater.",
+        "Increased systolic pressure by 30 mm Hg.",
+        "Increased diastolic pressure by 15 mm Hg.",
+        "Loss of mid-trimester drop of blood pressure."
+      ],
+      "correct": 1,
+      "explanation": "Hypertension (HTN) during pregnancy is diagnosed when the systolic BP is 140 mm Hg or more and/or diastolic BP of 90 mm Hg or more, measured at two occasions at least four hours apart in the sitting position."
+    },
+    {
+      "stem": "Predisposing factors for preeclampsia include all the followings EXCEPT:",
+      "options": [
+        "Multiparity.",
+        "Multiple pregnancies.",
+        "Polyhydramnios.",
+        "Antiphospholipid syndrome.",
+        "Previous development of preeclampsia."
+      ],
+      "correct": 0,
+      "explanation": "Primigravidas are a risk factor, implying that multiparity is not. Other risk factors include multifetal pregnancy, extremes of age, diabetes, obesity, chronic hypertension, chronic renal disease, previous preeclampsia, and SLE. Antiphospholipid Syndrome (APS) and polyhydramnios are also associated with conditions that are risk factors."
+    },
+    {
+      "stem": "In absence of molar pregnancy, a BP of 140/90 before 20 weeks is considered:",
+      "options": [
+        "Pregnancy induced hypertension.",
+        "Chronic Hypertension.",
+        "Superimposed pre-eclampsia.",
+        "Physiological change in pregnancy.",
+        "Toxins of pregnancy (toxemia)."
+      ],
+      "correct": 1,
+      "explanation": "Chronic hypertension (C-HTN) is diagnosed before pregnancy or when hypertension develops before 20 weeks gestation. Gestational hypertension and preeclampsia occur after 20 weeks gestation."
+    },
+    {
+      "stem": "Pre-eclampsia is \"cured\" by:",
+      "options": [
+        "Antihypertensives.",
+        "Salt free diet.",
+        "Diuretics.",
+        "Termination of the pregnancy.",
+        "Magnesium sulphate."
+      ],
+      "correct": 3,
+      "explanation": "The only definitive cure for preeclampsia is termination of pregnancy. Once the placenta is delivered, most signs and symptoms of preeclampsia rapidly decline."
+    },
+    {
+      "stem": "Which of the followings alert you for a higher risk of later development of preeclampsia?",
+      "options": [
+        "Lower limb ankle edema.",
+        "Loss of early drop of blood pressure.",
+        "Persistent headache or blurred vision.",
+        "Decreased platelets count.",
+        "Concentrated urine with strong odor."
+      ],
+      "correct": 1,
+      "explanation": "Normally, blood pressure drops slightly in the second trimester. A loss of this early drop is an abnormal sign that could alert for a higher risk of later development of preeclampsia. Other options are features of severe preeclampsia, not early alerts."
+    },
+    {
+      "stem": "Early laboratory change in preeclampsia is:",
+      "options": [
+        "Elevated serum liver enzymes.",
+        "Elevated hematocrit value.",
+        "Elevated serum uric acid.",
+        "Low platelets count.",
+        "Low creatinine clearance."
+      ],
+      "correct": 2,
+      "explanation": "An elevated uric acid level can be an early indicator in patients who may develop preeclampsia later on. Other options are typically criteria for severe preeclampsia."
+    },
+    {
+      "stem": "Proteinuria in pregnancy may be due to all the followings EXCEPT:",
+      "options": [
+        "Urine sample is not midstream and contaminated by secretions.",
+        "Urinary tract infection.",
+        "Preeclampsia.",
+        "Renal impairment.",
+        "Excess protein dietary intake."
+      ],
+      "correct": 4,
+      "explanation": "Proteinuria can be caused by contamination, UTI, preeclampsia, and renal impairment. Excess protein dietary intake is not a recognized cause of significant proteinuria in pregnancy."
+    },
+    {
+      "stem": "A 28 years old primigravida, 36 weeks pregnant with uneventual antenatal care; presents with persistent headache and nausea for 2 days. BP is 120/80; urine albumin: trace. How will you proceed?",
+      "options": [
+        "Mostly the cause is non-obstetric.",
+        "Repeat urine albumin after 24 hours.",
+        "Exclude HELLP syndrome.",
+        "Start Mgso4 therapy.",
+        "Pregnancy termination."
+      ],
+      "correct": 0,
+      "explanation": "With normal blood pressure (120/80) and only trace proteinuria, the diagnostic criteria for preeclampsia are not met. The cause of the headache and nausea is most likely non-obstetric."
+    },
+    {
+      "stem": "A healthy, previously normotensive, 26-year-old G1P0, presents at 34 weeks' gestation with a BP of 142/94mmHg. What test should you 1st check?",
+      "options": [
+        "Complete blood count.",
+        "Uric acid level.",
+        "Liver function tests.",
+        "Creatinine level.",
+        "Urine test for albumin."
+      ],
+      "correct": 4,
+      "explanation": "The patient has new-onset hypertension after 20 weeks. The first step is to check for proteinuria with a urine albumin test to differentiate between gestational hypertension and preeclampsia."
+    },
+    {
+      "stem": "A 23 years primigravida presented for antenatal care at 32 weeks gestation. Her BP was 140/90, urine test for albumin was negative. Most appropriate management for this case:",
+      "options": [
+        "Rest, salt restriction and follow up.",
+        "Urgent Cesarean section.",
+        "Induction of labor.",
+        "Oral diuretics.",
+        "Oral MgSo4."
+      ],
+      "correct": 0,
+      "explanation": "This patient has gestational hypertension (hypertension without proteinuria). Management is conservative with close follow-up and monitoring to rule out the development of preeclampsia."
+    },
+    {
+      "stem": "Diagnostic features of severe preeclampsia include:",
+      "options": [
+        "Blood pressure equals or more than 160/100.",
+        "Marked lower limb edema.",
+        "Presence of proteinuria 100 mg/24 hours urine.",
+        "Increased RBCs count.",
+        "Sudden severe lower abdominal pain."
+      ],
+      "correct": 0,
+      "explanation": "One of the key diagnostic criteria for severe preeclampsia is severe hypertension, defined as a sustained systolic BP ≥ 160 mmHg or diastolic BP ≥ 110 mmHg."
+    },
+    {
+      "stem": "Severe preeclampsia is characterized by which of the following?",
+      "options": [
+        "Blood pressure equals or more than 140/90",
+        "Proteinuria more than 5 g on a 24-h urine collection.",
+        "Urine output less than 1500 ml/day.",
+        "Platelets less than 250000/ml.",
+        "Severe lower limb edema."
+      ],
+      "correct": 1,
+      "explanation": "Massive proteinuria (>5 g in a 24-hour urine collection) is a criterion for severe preeclampsia. BP for severe PE is ≥160/110, oliguria is <500 ml/day, and thrombocytopenia is platelets <100,000/µL."
+    },
+    {
+      "stem": "A 25 years old primigravida at 32 weeks gestation was admitted to ER in eclamptic fits. Most appropriate initial management:",
+      "options": [
+        "Heavy sedation.",
+        "Mouth gag and clear air way.",
+        "Immediate CPR.",
+        "General anasthesia.",
+        "Endotracheal intubation and cesarean section."
+      ],
+      "correct": 1,
+      "explanation": "The initial management of an eclamptic seizure is to protect the patient from injury (e.g., using a mouth gag to prevent tongue biting) and ensure a clear airway to maintain oxygenation."
+    },
+    {
+      "stem": "Complications of preeclampsia include all the following EXCEPT:",
+      "options": [
+        "Residual hypertension",
+        "Recurrence in subsequent pregnancy",
+        "Preterm labor.",
+        "Symmetrical intrauterine growth restriction.",
+        "Renal failure."
+      ],
+      "correct": 3,
+      "explanation": "Preeclampsia is associated with placental insufficiency, which typically causes asymmetric intrauterine growth restriction (IUGR) due to the 'brain-sparing phenomenon'. Symmetrical IUGR is more often caused by early fetal insults like infections or chromosomal abnormalities."
+    },
+    {
+      "stem": "A 25 years old primigravida at 32 weeks gestation was admitted to ER due to eclamptic fits. Management should include:",
+      "options": [
+        "Diuretics should be given to prevent pulmonary edema.",
+        "Oral antihypertensive agents should be given until the blood pressure is 110/70.",
+        "After fit control, pregnancy could be continued to reach fetal maturity.",
+        "Intravenous magnesium sulphate",
+        "Delivery by cesarean section is mandatory."
+      ],
+      "correct": 3,
+      "explanation": "The standard of care for seizure control and prophylaxis in eclampsia is intravenous magnesium sulphate. After stabilization, prompt delivery is indicated."
+    },
+    {
+      "stem": "Preeclampsia is associated with all the following EXCEPT:",
+      "options": [
+        "Blood pressure equals or more than 140/90.",
+        "Lower limb edema.",
+        "Proteinuria.",
+        "Polyuria with low urine specific gravity.",
+        "Hemoconcentration."
+      ],
+      "correct": 3,
+      "explanation": "Preeclampsia is associated with generalized edema, hemoconcentration, and can progress to cause oliguria (decreased urine output). Polyuria (excessive urine production) is not a feature of preeclampsia."
+    },
+    {
+      "stem": "HELLP syndrome include all the following EXCEPT:",
+      "options": [
+        "Decreased platelets count.",
+        "Increased liver enzymes.",
+        "Increased hematocrit value.",
+        "Decreased red cell count.",
+        "Decreased uric acid level."
+      ],
+      "correct": 4,
+      "explanation": "HELLP syndrome consists of Hemolysis (decreased red cell count), Elevated Liver enzymes, and Low Platelet count. Preeclampsia is associated with an elevated serum uric acid, so a decreased uric acid level would be an exception."
+    },
+    {
+      "stem": "Which of the followings causes increased hematocrit value during pregnancy?",
+      "options": [
+        "Excess folic acid intake during pregnancy.",
+        "B12 deficiency.",
+        "Physiological blood changes.",
+        "Hemolysis.",
+        "Preeclampsia."
+      ],
+      "correct": 4,
+      "explanation": "Preeclampsia is associated with hemoconcentration due to endothelial dysfunction and fluid shift from the intravascular to the extravascular space, resulting in an increased hematocrit value."
+    },
+    {
+      "stem": "What is the most common cause of decreased hematocrit during pregnancy?",
+      "options": [
+        "Iron deficiency.",
+        "Folic acid deficiency.",
+        "B12 deficiency.",
+        "Physiological hemodilution.",
+        "Hemolysis."
+      ],
+      "correct": 3,
+      "explanation": "During a normal pregnancy, plasma volume increases more than red blood cell mass, leading to physiological hemodilution, which is the most common cause of a decreased hematocrit."
+    },
+    {
+      "stem": "A 23 years primigravida, 32 weeks gestation came to the ER with severe headache, irritability and blurring of vision. Her B.P was 180/110, urine test for albumin was ++++. Choose the most appropriate management for this case:",
+      "options": [
+        "Reassurance, mild analgesics and recheck after few days.",
+        "Control hypertension and wait till fetal maturation.",
+        "Fetal biophysical profile and Doppler indices will determine time of termination.",
+        "Diuretics and antihypertensive till spontaneous onset of labor.",
+        "Admission, I.V. Mgso4 infusion, antihypertensive and urgent termination."
+      ],
+      "correct": 4,
+      "explanation": "This patient has severe preeclampsia with severe features. The management includes hospitalization, seizure prophylaxis with IV magnesium sulphate, antihypertensive therapy, and urgent termination of pregnancy after maternal stabilization."
+    },
+    {
+      "stem": "A primigravida 36 weeks gestation presents with acute abdominal pain. B.P: 110/70; pulse rate: 120/minute. Abdominal examination reveals hard tender uterus and absent fetal heart. Ultrasound shows a large retroplacental hematoma. Most probable etiology?",
+      "options": [
+        "Rupture uterus.",
+        "Associated surgical condition.",
+        "Pathologically adherent placenta.",
+        "Preeclampsia.",
+        "Hypertonic uterine action."
+      ],
+      "correct": 3,
+      "explanation": "The clinical picture is classic for a severe placental abruption. Preeclampsia and maternal hypertension are the most common predisposing factors for placental abruption."
+    },
+    {
+      "stem": "A 23 years primigravida, 32 weeks gestation came to the E.R with irritability and blurring of vision. Her B.P was 180/110, urine test for albumin was +++. Choose the most appropriate statement for this case:",
+      "options": [
+        "Sometimes, it is a temporary condition and resolves spontaneously.",
+        "Fetal Doppler should be assessed before making an obstetric decision.",
+        "Magnesium sulphate therapy till fetal maturity.",
+        "Diuretics could be used for initial control.",
+        "Urgent termination is recommended."
+      ],
+      "correct": 4,
+      "explanation": "The patient has severe preeclampsia. The definitive treatment for preeclampsia is delivery. In cases of severe preeclampsia, urgent termination of pregnancy is recommended after maternal stabilization, regardless of gestational age."
+    },
+    {
+      "stem": "What is the 1st evidence of magnesium sulphate toxicity when used in eclampsia?",
+      "options": [
+        "Disturbed conscious level.",
+        "Absent knee jerk.",
+        "Oliguria.",
+        "Respiratory depression.",
+        "Absent fetal beat to beat variability on continuous fetal monitoring."
+      ],
+      "correct": 1,
+      "explanation": "The first clinical sign of magnesium sulphate toxicity is the loss of deep tendon reflexes, most commonly the patellar (knee jerk) reflex."
+    },
+    {
+      "stem": "After control of an eclamptic fit in a 22 years old primigravida at 30 weeks gestation, the patient becomes fully conscious, well oriented with BP:140/90 and ++ urine albumin. What will be your recommended management?",
+      "options": [
+        "Observe in the hospital till no albuminuria.",
+        "Continue Mgso4 till fetal maturation.",
+        "Discharge on antihypertensive drugs and recheck after 1-2 weeks.",
+        "Urgent termination of pregnancy.",
+        "Assess placental functions before making a decision."
+      ],
+      "correct": 3,
+      "explanation": "Eclampsia is a definitive indication for delivery. After stabilizing the patient and controlling the seizure, urgent termination of pregnancy is the recommended management, regardless of gestational age."
+    },
+    {
+      "stem": "Differential diagnosis of convulsions in the 2nd half of pregnancy includes all the followings EXCEPT:",
+      "options": [
+        "Eclampsia.",
+        "Thyrotoxic storm.",
+        "Epilepsy.",
+        "Hysterical.",
+        "Cerebrovascular accident."
+      ],
+      "correct": 1,
+      "explanation": "While thyrotoxic storm is a severe medical emergency, convulsions are not a typical presenting feature. Eclampsia, epilepsy, CVA, and even hysterical fits are all considered in the differential diagnosis of seizures in pregnancy."
+    },
+    {
+      "stem": "Regarding seizure disorders during pregnancy, which of the following statements is true?",
+      "options": [
+        "Most cases worsen during pregnancy.",
+        "Cases with partial seizures commonly change to generalized colonic type even with treatment.",
+        "Combined drugs are preferable for better control.",
+        "Incidence of fetal anomalies is increased in treated cases.",
+        "Avoid calcium supplements during pregnancy."
+      ],
+      "correct": 3,
+      "explanation": "Many anticonvulsant drugs are teratogenic and are associated with an increased incidence of fetal congenital anomalies. Seizure frequency remains unchanged in most pregnant women with epilepsy."
+    },
+    {
+      "stem": "Regarding diabetes mellitus with pregnancy, choose the correct statement:",
+      "options": [
+        "Insulin requirements increase mainly in first trimester of pregnancy.",
+        "Oral hypoglycemic drugs are always effective for control.",
+        "Oligohydramnios commonly develops with poor diabetes control.",
+        "Fetal macrosomia is common.",
+        "Placenta previa is a common association."
+      ],
+      "correct": 3,
+      "explanation": "Maternal hyperglycemia leads to fetal hyperinsulinemia, which acts as a growth hormone, resulting in fetal macrosomia (oversized fetus). Polyhydramnios, not oligohydramnios, is also a common complication."
+    },
+    {
+      "stem": "Regarding diabetes mellitus with pregnancy, choose the correct statement:",
+      "options": [
+        "Maximum increase in insulin requirements occurs in 3rd trimester.",
+        "Metformin is contraindicated.",
+        "Postdate commonly develops with poor diabetes control.",
+        "Increased risk of shoulder dystocia.",
+        "Maternal fasting glucose level of 120 mg/dl is considered normal."
+      ],
+      "correct": 3,
+      "explanation": "Fetal macrosomia, a common complication of diabetes in pregnancy, significantly increases the risk of shoulder dystocia during delivery. Metformin is considered safe, and a fasting glucose of 120 mg/dl is abnormal."
+    },
+    {
+      "stem": "The recommended time to screen asymptomatic pregnant women for gestational diabetes by 50 gm OGTT (oral glucose tolerance test) is:",
+      "options": [
+        "In the first trimester.",
+        "At 16-20 weeks gestation.",
+        "At 24-28 weeks gestation.",
+        "At 35-37 weeks gestation.",
+        "At 38-40 weeks gestation."
+      ],
+      "correct": 2,
+      "explanation": "Universal screening for gestational diabetes mellitus (GDM) is recommended for all pregnant women between 24 and 28 weeks of gestation, as this is when insulin resistance from placental hormones is most prominent."
+    },
+    {
+      "stem": "Obstetric complications that alert you for possibility of diabetes mellitus include all the followings EXCEPT:",
+      "options": [
+        "Repeated abortions.",
+        "Previous unexplained intrauterine fetal death.",
+        "Previous thromboembolization.",
+        "Polyhydramnios.",
+        "Oversized fetus."
+      ],
+      "correct": 0,
+      "explanation": "While diabetes is a risk factor for many complications, repeated first-trimester abortions are more commonly associated with other conditions like chromosomal abnormalities or antiphospholipid syndrome rather than being a primary alert for diabetes."
+    },
+    {
+      "stem": "Regarding diabetes mellitus with pregnancy; all the followings are true EXCEPT:",
+      "options": [
+        "Diabetes becomes more difficult in control due to effect of placental hormones.",
+        "Decreased renal threshold of glucose renders urine test unreliable.",
+        "Fetal hyperinsulinemia leads to fetal macrosomia and polyhydramnios.",
+        "Metformin and insulin are safe during pregnancy.",
+        "Glycosylated Hb is normalized soon after initiation of proper treatment."
+      ],
+      "correct": 4,
+      "explanation": "Glycosylated hemoglobin (HbA1c) reflects average blood glucose control over the preceding 2-3 months. Therefore, it does not normalize immediately after starting treatment."
+    },
+    {
+      "stem": "The most common fetal anomaly due to uncontrolled diabetes is:",
+      "options": [
+        "Ventricular septal defect.",
+        "Down syndrome.",
+        "Open neural tube defects.",
+        "Renal agenesis.",
+        "Sacral agenesis (caudal regression)."
+      ],
+      "correct": 0,
+      "explanation": "Congenital heart defects are the most common anomalies associated with pregestational diabetes, with ventricular septal defect (VSD) and transposition of the great arteries being frequent."
+    },
+    {
+      "stem": "The most specific fetal anomaly due to uncontrolled diabetes is:",
+      "options": [
+        "Ventricular septal defect.",
+        "Down syndrome.",
+        "",
+        "Renal agenesis.",
+        "Sacral agenesis (caudal regression)."
+      ],
+      "correct": 4,
+      "explanation": "Sacral agenesis, part of the caudal regression syndrome, is a rare congenital anomaly but is highly specific to maternal pregestational diabetes."
+    },
+    {
+      "stem": "Physiologic symptoms in normal pregnancy that mimic cardiac diseases include all the followings EXCEPT:",
+      "options": [
+        "Lower limbs edema.",
+        "Dyspnea on exertion.",
+        "Orthopnea.",
+        "Palpitations.",
+        "Hemoptysis."
+      ],
+      "correct": 4,
+      "explanation": "Lower limb edema, dyspnea, and palpitations are common physiological changes in pregnancy. Hemoptysis (coughing up blood) is always a pathological sign and is not a normal finding in pregnancy."
+    },
+    {
+      "stem": "Which of the following signs is specific to heart disease with pregnancy?",
+      "options": [
+        "Congested neck veins.",
+        "Increased basal pulse rate.",
+        "Soft systolic apex murmur.",
+        "Some ECG changes.",
+        "Diastolic murmur."
+      ],
+      "correct": 4,
+      "explanation": "Soft systolic ejection murmurs (flow murmurs) are common in normal pregnancy due to increased cardiac output. However, a diastolic murmur is almost always pathological and is a specific sign of heart disease."
+    },
+    {
+      "stem": "A full term 30 years old primigravida, known to have a rheumatic mitral stenosis, came to ER in first stage of labor. Most appropriate statement regarding management:",
+      "options": [
+        "Fetus is usually macrosomic.",
+        "Cesarean delivery is contraindicated.",
+        "Antibiotics should be avoided.",
+        "Corticosteroids should be administered.",
+        "Ergometrine should be avoided during the third stage."
+      ],
+      "correct": 4,
+      "explanation": "Ergometrine causes peripheral vasoconstriction, which can suddenly increase venous return to the heart. In a patient with mitral stenosis, this can precipitate acute pulmonary edema and heart failure."
+    },
+    {
+      "stem": "Regarding management of a case with rheumatic heart during labor:",
+      "options": [
+        "Excess IV fluids should be given for hydration and nutrition.",
+        "Antibiotics are preferably avoided.",
+        "Bearing down should be minimized.",
+        "Diuretics are contraindicated.",
+        "Oxytocin is given as IV shot."
+      ],
+      "correct": 2,
+      "explanation": "Bearing down during the second stage of labor increases venous return and cardiac workload. In patients with heart disease, this should be minimized or avoided, often by using an assisted (instrumental) delivery."
+    },
+    {
+      "stem": "Which of the following drugs is associated with high fetal risk when used in pregnant cases with prosthetic valve?",
+      "options": [
+        "Warfarin.",
+        "Low molecular weight heparin.",
+        "Digitalis.",
+        "β blockers.",
+        "Diuretics."
+      ],
+      "correct": 0,
+      "explanation": "Warfarin crosses the placenta and is a known teratogen, causing fetal warfarin syndrome (nasal hypoplasia, stippled epiphyses) in the first trimester and increasing the risk of fetal hemorrhage later in pregnancy."
+    },
+    {
+      "stem": "Complications of heart diseases with pregnancy include all the followings EXCEPT:",
+      "options": [
+        "Heart failure.",
+        "Pulmonary edema.",
+        "Atrial fibrillation.",
+        "Pregnancy induced hypertension.",
+        "Low birth weight."
+      ],
+      "correct": 3,
+      "explanation": "Heart failure, pulmonary edema, arrhythmias like atrial fibrillation, and low birth weight (due to poor perfusion) are all known complications. Pregnancy-induced hypertension (preeclampsia) is a separate disease entity and not a direct complication of pre-existing heart disease."
+    },
+    {
+      "stem": "Most common cause of vomiting in 1st trimester is:",
+      "options": [
+        "Emesis gravidarum.",
+        "Pyelonephritis.",
+        "Food poisoning.",
+        "Molar pregnancy.",
+        "Peptic ulcer."
+      ],
+      "correct": 0,
+      "explanation": "Emesis gravidarum, or nausea and vomiting of pregnancy (morning sickness), is extremely common, affecting up to 80% of pregnancies in the first trimester."
+    },
+    {
+      "stem": "Vomiting in 3rd trimester could be due to any of the following EXCEPT:",
+      "options": [
+        "Severe preeclampsia.",
+        "Pyelonephritis.",
+        "Food poisoning.",
+        "Hyperemesis gravidarum.",
+        "Peptic ulcer."
+      ],
+      "correct": 3,
+      "explanation": "Hyperemesis gravidarum is, by definition, a condition of severe nausea and vomiting of the first trimester. While vomiting can occur in the third trimester from other causes, it would not be classified as hyperemesis gravidarum."
+    },
+    {
+      "stem": "An 8 weeks primigravida, 23 years old, presented with intractable vomiting for 3 days and marked sense of fatigue. Her tongue was dry, and urine analysis showed ketonuria and depleted urinary chloride. Best management will be:",
+      "options": [
+        "Reassurance as it is a self-limited condition.",
+        "Oral antiemetics.",
+        "Advise termination of pregnancy.",
+        "Prevent oral feeding and give IV fluids in a hospital.",
+        "Upper endoscopy is required."
+      ],
+      "correct": 3,
+      "explanation": "The signs of dehydration (dry tongue) and metabolic disturbance (ketonuria) indicate severe hyperemesis gravidarum. The best management is hospitalization, making the patient NPO (nothing by mouth), and starting intravenous fluid and electrolyte replacement."
+    },
+    {
+      "stem": "A patient is having high fever, nausea and loin pain in the third trimester. Her urine analysis reveals bacteria and increased WBCs. It is most likely:",
+      "options": [
+        "Acute appendicitis.",
+        "Asymptomatic bacteriuria.",
+        "Acute pyelonephritis.",
+        "Abruptio placentae.",
+        "Acute PID."
+      ],
+      "correct": 2,
+      "explanation": "The triad of fever, loin pain, and bacteruria/pyuria (bacteria and WBCs in urine) is classic for acute pyelonephritis, a kidney infection."
+    },
+    {
+      "stem": "The following is considered a risk factor to develop DVT during pregnancy:",
+      "options": [
+        "Anti-phospholipid syndrome.",
+        "Body mass index equal or more than 20.",
+        "Hypervitaminosis.",
+        "Cases with bronchial asthma.",
+        "Precipitate labor."
+      ],
+      "correct": 0,
+      "explanation": "Antiphospholipid syndrome is a major risk factor for both arterial and venous thrombosis, including deep venous thrombosis (DVT), especially during the hypercoagulable state of pregnancy."
+    },
+    {
+      "stem": "A 33 years old woman with previous 3 intrauterine fetal deaths at 20 to 30 weeks gestation. Investigations revealed +ve lupus anticoagulant and anticardiolipin antibodies. What is the best management for this case?",
+      "options": [
+        "Anticoagulant therapy after 1st trimester.",
+        "Oral corticosteroids after 1st trimester.",
+        "Low dose aspirin from early beginning of pregnancy.",
+        "Combined low dose aspirin and heparin from early beginning of pregnancy.",
+        "Cerclage operation should be considered at 12 weeks as an additional treatment."
+      ],
+      "correct": 3,
+      "explanation": "This patient has obstetric antiphospholipid syndrome (APS). The standard of care to improve pregnancy outcomes is combination therapy with low-dose aspirin and prophylactic heparin (usually LMWH), started early in pregnancy."
+    },
+    {
+      "stem": "The following is considered a risk factor to develop DVT during pregnancy:",
+      "options": [
+        "Obesity.",
+        "Decreased maternal age.",
+        "Severe anemia.",
+        "Rapid vaginal delivery.",
+        "Lower limb edema."
+      ],
+      "correct": 0,
+      "explanation": "Obesity is a well-established independent risk factor for venous thromboembolism (VTE), including DVT, both in and out of pregnancy."
+    },
+    {
+      "stem": "All the followings could be caused by antiphospholipid syndrome EXCEPT:",
+      "options": [
+        "Pregnancy induced hypertension.",
+        "Accidental hemorrhage.",
+        "Deep venous thrombosis.",
+        "Blighted ovum.",
+        "Intrauterine growth restriction."
+      ],
+      "correct": 2,
+      "explanation": "Antiphospholipid syndrome is a thrombophilia, which directly increases the risk of deep venous thrombosis (DVT). It is a cause of DVT, not an exception. However, based on the provided answer key, this option is marked as the exception. In clinical practice, APS is strongly associated with PIH, abruption, DVT, early pregnancy loss (blighted ovum), and IUGR."
+    },
+    {
+      "stem": "Fetal complications due to materno-fetal RH incompatibility include:",
+      "options": [
+        "Intrauterine jaundice.",
+        "Hydrocephalus.",
+        "Intrauterine hemolysis.",
+        "Delayed lung maturity.",
+        "Polyhydramnios."
+      ],
+      "correct": 2,
+      "explanation": "The pathophysiology of Rh disease is the destruction (hemolysis) of fetal Rh-positive red blood cells by maternal anti-D IgG antibodies that have crossed the placenta. This leads to anemia and its sequelae."
+    },
+    {
+      "stem": "An Rh-ve primipara delivered an Rh +ve baby. Maternal indirect Coomb's test is -ve. How will you proceed?",
+      "options": [
+        "Check father Rh.",
+        "Anti D is given to the mother.",
+        "No action.",
+        "Neonatal exchange transfusion is considered.",
+        "Maternal plasmapheresis."
+      ],
+      "correct": 1,
+      "explanation": "This is the classic scenario for Rh prophylaxis. An unsensitized (Coombs negative) Rh-negative mother who delivered an Rh-positive baby should receive Anti-D immunoglobulin within 72 hours of delivery to prevent sensitization."
+    },
+    {
+      "stem": "A 2nd G P1, pregnant 32 weeks, Rh-ve with indirect Coomb's test: 1/16. U.S confirmed gestational age with no abnormal findings. What you recommend?",
+      "options": [
+        "Detect whether the father is homogenous or heterogonous for Rh genes.",
+        "Terminate pregnancy.",
+        "Anti D is given to the mother",
+        "Cordocentesis.",
+        "Follow up."
+      ],
+      "correct": 4,
+      "explanation": "The patient is already sensitized. A titer of 1:16 is often considered the critical titer. Management involves close monitoring of the maternal titer and fetal well-being with serial ultrasounds to look for signs of fetal anemia (e.g., increased MCA peak systolic velocity). As such, follow-up is the next step."
+    },
+    {
+      "stem": "Regarding management of Rh incompatibility, all the followings are true EXCEPT:",
+      "options": [
+        "Manual separation of placenta is preferably avoided during labor as it increases feto-maternal transfusion.",
+        "Anti D may be given to sensitized Rh -ve mothers.",
+        "Anti D should be given any time during pregnancy if bleeding occurs.",
+        "In molar pregnancy, no sensitization occurs due to avascularity of the villi.",
+        "In utero-transfusion may be done by Rh +ve blood in cases with hydrops fetalis."
+      ],
+      "correct": 1,
+      "explanation": "Anti-D immunoglobulin is a prophylaxis used to prevent an Rh-negative mother from becoming sensitized. It has no benefit and is contraindicated once sensitization has already occurred (i.e., in sensitized mothers)."
+    },
+    {
+      "stem": "ABO incompatibility is characterized by:",
+      "options": [
+        "ABO antibodies are IgG with maximum placental transfer.",
+        "1st baby is not affected.",
+        "Severity increases with subsequent pregnancies.",
+        "Occurs when the mother is O blood group and the fetus is A or B blood group.",
+        "Fetal hydrops usually develops in early pregnancy"
+      ],
+      "correct": 3,
+      "explanation": "ABO hemolytic disease of the newborn typically occurs when a mother with blood type O (who has naturally occurring anti-A and anti-B antibodies) has a fetus with blood type A or B."
+    }
+  ]
+}

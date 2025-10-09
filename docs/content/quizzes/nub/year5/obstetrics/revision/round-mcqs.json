@@ -1,0 +1,310 @@
+{
+  "title": "Round MCQs",
+  "questions": [
+    {
+      "stem": "Warning symptoms in pregnancy include all of the following EXCEPT:",
+      "options": [
+        "Gush of fluid from the vagina",
+        "Vaginal bleeding",
+        "Abdominal pains",
+        "Tachypnea (rapid breathing)"
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists bleeding, regular colicky pains, persistent vomiting, a sudden escape of fluid, severe persistent headache, blurring of vision, and marked swelling as warning symptoms. While dyspnea (difficulty breathing) can be a complaint, simple tachypnea is not listed as a primary warning sign in the same category."
+    },
+    {
+      "stem": "Which of the following is routinely performed in a primigravida woman?",
+      "options": [
+        "Rh typing",
+        "Complete Blood Count (CBC)",
+        "Gestational age assessment",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "During the first antenatal care (ANC) visit, a thorough history is taken to calculate gestational age and the EDD. Routine laboratory tests include blood group and Rh typing, as well as a complete blood picture (CBC)."
+    },
+    {
+      "stem": "What is the commonest cause of abortion in the first trimester?",
+      "options": [
+        "Uterine anomalies",
+        "Maternal infections",
+        "Chromosomal abnormalities",
+        "Endocrine disorders"
+      ],
+      "correct": 2,
+      "explanation": "Genetic or chromosomal abnormalities are the most common cause of early pregnancy loss, responsible for over 50% of spontaneous abortion cases."
+    },
+    {
+      "stem": "A pregnant patient with spotting is found by US to have a viable fetus in the uterine cavity with a closed cervix. The diagnosis is:",
+      "options": [
+        "Threatened abortion",
+        "Inevitable abortion",
+        "Incomplete abortion",
+        "Missed abortion"
+      ],
+      "correct": 0,
+      "explanation": "The clinical picture of a threatened abortion includes minimal vaginal bleeding (spotting), a closed cervix, and an ultrasound confirming a living fetus within the uterus."
+    },
+    {
+      "stem": "Which of the following is a characteristic feature of an inevitable abortion?",
+      "options": [
+        "Open cervix with bleeding",
+        "Closed cervix",
+        "Closed cervix with bleeding"
+      ],
+      "correct": 0,
+      "explanation": "An inevitable abortion is characterized by moderate to severe vaginal bleeding and a dilated (open) cervix, indicating that the pregnancy cannot be salvaged."
+    },
+    {
+      "stem": "A patient presents with hypotension, tachycardia, and signs of hemoperitoneum. The most likely diagnosis is:",
+      "options": [
+        "Ruptured ectopic pregnancy",
+        "Molar pregnancy",
+        "Threatened abortion"
+      ],
+      "correct": 0,
+      "explanation": "A disturbed or ruptured ectopic pregnancy with severe internal hemorrhage presents with signs of shock, including a rapid pulse (tachycardia), a fall in blood pressure (hypotension), and signs of peritoneal irritation from blood in the abdomen (hemoperitoneum)."
+    },
+    {
+      "stem": "In a suspected ectopic pregnancy with hCG of 1200 and no IUP on US, the next step is:",
+      "options": [
+        "Give methotrexate",
+        "Immediate surgery",
+        "Repeat hCG and US after 48 hours"
+      ],
+      "correct": 2,
+      "explanation": "An intrauterine pregnancy should typically be visible on transvaginal ultrasound when hCG levels reach 1500 IU/mL. Since the level is below this 'discriminatory zone,' it's necessary to repeat the hCG level after 48 hours to check for the appropriate doubling time of a viable intrauterine pregnancy."
+    },
+    {
+      "stem": "Methotrexate treatment for ectopic pregnancy is contraindicated if:",
+      "options": [
+        "There is no fetal heart activity",
+        "The ectopic mass is < 3.5 cm",
+        "The serum hCG level is > 6000 IU/L"
+      ],
+      "correct": 2,
+      "explanation": "Medical management of ectopic pregnancy with methotrexate is indicated for early, undisturbed cases where the mass is small, there is no fetal cardiac activity, and the hCG level is below 6000 mIU/ml."
+    },
+    {
+      "stem": "An incomplete molar pregnancy typically results from:",
+      "options": [
+        "Fertilization by 1 sperm",
+        "Fertilization by 2 sperms",
+        "An empty ovum"
+      ],
+      "correct": 1,
+      "explanation": "A partial (incomplete) mole originates from the fertilization of a normal ovum by two sperms, leading to a triploid karyotype (e.g., 69 chromosomes)."
+    },
+    {
+      "stem": "Which type of ovarian cyst is associated with a complete molar pregnancy?",
+      "options": [
+        "Theca-lutein cyst",
+        "Corpus luteal cyst",
+        "Follicular cyst"
+      ],
+      "correct": 0,
+      "explanation": "Theca-lutein cysts occur in 25-60% of complete molar pregnancies due to ovarian hyperstimulation from the very high levels of hCG produced by the trophoblastic cells."
+    },
+    {
+      "stem": "Diagnosis of Down syndrome in the first trimester is suggested by:",
+      "options": [
+        "High hCG and Nuchal Translucency (NT) > 3mm on US",
+        "Low hCG and low PAPP-A",
+        "Isolated finding of a short femur"
+      ],
+      "correct": 0,
+      "explanation": "First-trimester screening for Down syndrome (Double Marker Test) combines maternal serum markers with ultrasound. Fetuses with Down syndrome typically show high hCG, low PAPP-A, and an increased nuchal translucency (NT) measurement of >3.0 mm."
+    },
+    {
+      "stem": "Nuchal Translucency (NT) is performed at what gestational age?",
+      "options": [
+        "8-10 weeks",
+        "11-13 weeks",
+        "15-18 weeks"
+      ],
+      "correct": 1,
+      "explanation": "The measurement of the nuchal translucency skin fold on the fetal neck is performed between 11 and 13 weeks of gestation as part of first-trimester aneuploidy screening."
+    },
+    {
+      "stem": "All of the following are functions of the placenta EXCEPT:",
+      "options": [
+        "Transport of nutrients and toxins",
+        "Immunity acceptance",
+        "Secretion of hormones",
+        "Initiating uterine contractions for labor"
+      ],
+      "correct": 3,
+      "explanation": "The placenta's main functions are nutrient transfer, endocrine/metabolic activity (hormone production), and immunological protection. While placental hormones are involved in the process leading to labor, the placenta itself does not directly initiate uterine contractions."
+    },
+    {
+      "stem": "The maternal part of the placenta is formed from the:",
+      "options": [
+        "Decidua basalis",
+        "Decidua capsularis",
+        "Chorion frondosum"
+      ],
+      "correct": 0,
+      "explanation": "The placenta is a dual-origin organ formed from the fetal chorion frondosum and the maternal decidua basalis."
+    },
+    {
+      "stem": "A placenta with an accessory lobe is known as:",
+      "options": [
+        "Placenta previa",
+        "Succenturiate Placenta",
+        "Circumvallate placenta"
+      ],
+      "correct": 1,
+      "explanation": "A succenturiate placenta is characterized by a small, separate accessory lobe connected to the main placental body by membranes and blood vessels."
+    },
+    {
+      "stem": "Cervical incompetence is typically managed by:",
+      "options": [
+        "Progesterone supplements",
+        "Bed rest only",
+        "Cervical cerclage"
+      ],
+      "correct": 2,
+      "explanation": "The standard treatment for cervical incompetence during pregnancy is a cerclage operation, which involves placing a circumferential suture around the cervix to reinforce it."
+    },
+    {
+      "stem": "What is the first thing to be done before the second stage of labor begins?",
+      "options": [
+        "Administer anesthesia",
+        "Evacuate the bladder",
+        "Start an oxytocin drip"
+      ],
+      "correct": 1,
+      "explanation": "Ensuring the bladder is empty, either by spontaneous voiding or catheterization, is a key first step in managing the second stage of labor to allow for fetal descent."
+    },
+    {
+      "stem": "The third stage of labor is defined as the period from:",
+      "options": [
+        "Full cervical dilatation to the delivery of the fetus",
+        "The delivery of the fetus to the delivery of the placenta",
+        "The delivery of the placenta to one hour postpartum"
+      ],
+      "correct": 1,
+      "explanation": "The third stage of labor begins immediately after the delivery of the fetus and ends with the complete expulsion of the placenta and membranes."
+    },
+    {
+      "stem": "A patient in the third stage of labor has a firmly contracted uterus but continues to bleed. What is the likely cause?",
+      "options": [
+        "Uterine atony",
+        "Retained placental fragments",
+        "Genital tract laceration"
+      ],
+      "correct": 2,
+      "explanation": "If postpartum hemorrhage occurs while the uterus is firmly contracted, the cause is likely traumatic (e.g., a cervical, vaginal, or perineal laceration) rather than atonic (a soft, boggy uterus) or from retained products."
+    },
+    {
+      "stem": "The relation of the fetal parts to one another is defined as:",
+      "options": [
+        "Fetal lie",
+        "Fetal attitude",
+        "Fetal position"
+      ],
+      "correct": 1,
+      "explanation": "Fetal attitude describes the relation of the fetal parts to each other, which is typically an attitude of flexion."
+    },
+    {
+      "stem": "Which fetal head diameter presents in a well-flexed vertex delivery?",
+      "options": [
+        "Biparietal diameter",
+        "Suboccipitobregmatic diameter",
+        "Occipitofrontal diameter"
+      ],
+      "correct": 1,
+      "explanation": "The suboccipitobregmatic diameter (SOB), approximately 9.5 cm, is the engaging diameter when the fetal head is fully flexed."
+    },
+    {
+      "stem": "What is the presenting diameter in a brow presentation, making vaginal delivery impossible unless it converts?",
+      "options": [
+        "Suboccipitobregmatic (9.5 cm)",
+        "Occipitofrontal (11.5 cm)",
+        "Mentovertical (13.5 cm)"
+      ],
+      "correct": 2,
+      "explanation": "In a brow presentation, the head is partially extended, presenting the mentovertical diameter (13.5 cm), which is too large to pass through the maternal pelvis, causing obstructed labor."
+    },
+    {
+      "stem": "What is the single most common cause of breech presentation at term?",
+      "options": [
+        "Idiopathic",
+        "Preterm labor",
+        "Uterine anomalies"
+      ],
+      "correct": 0,
+      "explanation": "While prematurity is a major factor, in at least one-third of breech presentations at term, no specific underlying cause can be identified, making it idiopathic."
+    },
+    {
+      "stem": "In breech presentation, which variety is a strong indication for a Cesarean section?",
+      "options": [
+        "Footling breech",
+        "Frank breech with adequate pelvis",
+        "Complete breech in a multipara"
+      ],
+      "correct": 0,
+      "explanation": "A footling breech is an indication for Cesarean section due to the high risk of umbilical cord prolapse and the presenting part being a poor dilating wedge."
+    },
+    {
+      "stem": "Management for a persistent occipito-posterior (OP) position with arrest of descent is often:",
+      "options": [
+        "Manual rotation",
+        "Cesarean section",
+        "Application of forceps"
+      ],
+      "correct": 1,
+      "explanation": "When the fetal head fails to rotate from an OP position and descent arrests (deep transverse arrest), labor becomes obstructed. A Cesarean section is often the safest mode of delivery."
+    },
+    {
+      "stem": "In a multiparous woman, obstructed labor can eventually lead to:",
+      "options": [
+        "Hypotonic uterine inertia",
+        "Hypertonic inertia",
+        "Uterine rupture"
+      ],
+      "correct": 2,
+      "explanation": "Obstructed labor places immense strain on the lower uterine segment, which can lead to thinning and eventual rupture, a life-threatening obstetric emergency."
+    },
+    {
+      "stem": "What is the most common cause of uterine rupture?",
+      "options": [
+        "A scar from a previous Cesarean section",
+        "Grand multiparity",
+        "Obstructed labor"
+      ],
+      "correct": 0,
+      "explanation": "The presence of a uterine scar, most commonly from a previous Cesarean section, is the single most significant risk factor for uterine rupture in subsequent pregnancies."
+    },
+    {
+      "stem": "Upon diagnosing a cord prolapse, what is the IMMEDIATE first step?",
+      "options": [
+        "Manually elevate the presenting fetal part to relieve pressure on the cord.",
+        "Place the mother in the Trendelenburg position.",
+        "Rush the patient for immediate Cesarean section."
+      ],
+      "correct": 0,
+      "explanation": "The immediate first aid measure for a cord prolapse is to manually lift the presenting fetal part off the umbilical cord to restore blood flow to the fetus while preparing for emergency delivery."
+    },
+    {
+      "stem": "A 23-year-old at 42 weeks gestation has a favorable cervix (soft, 2 cm dilated, 50% effaced). What is the recommended management?",
+      "options": [
+        "Immediate caesarian section",
+        "Induction by vaginal misoprostol",
+        "Oxytocin infusion and artificial rupture of membranes",
+        "Continue monitoring for another week"
+      ],
+      "correct": 2,
+      "explanation": "At 42 weeks (post-term pregnancy), induction of labor is indicated. Since the cervix is favorable (high Bishop score), cervical ripening with prostaglandins is not needed, and induction can proceed directly with an oxytocin infusion and/or amniotomy."
+    },
+    {
+      "stem": "What does the obstetrical history G3P2L2 mean?",
+      "options": [
+        "Three pregnancies, two births, two living children",
+        "Two pregnancies, three births, two living children",
+        "Three pregnancies, three births, two living children"
+      ],
+      "correct": 0
+    }
+  ]
+}

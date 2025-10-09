@@ -1,0 +1,124 @@
+{
+  "title": "PBL of GIT",
+  "questions": [
+    {
+      "stem": "Common symptoms of GERD include?",
+      "options": [
+        "Projectile vomiting",
+        "large amount of vomiting",
+        "epigastric mass",
+        "respiratory manifestation"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A nine month old infant developed acute watery diarrhea. He has runny nose and tachypnea with fever. Stool culture was free. With normal vital signs. The most likely diagnosis is:",
+      "options": [
+        "Viral Diarrhea",
+        "Bacterial Diarrhea.",
+        "Infection with Protozoa",
+        "Shock."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A nine month old infant developed acute watery diarrhea. He has runny nose and tachypnea with fever. Stool culture was free. With normal vital signs. Treatment of this case must include:",
+      "options": [
+        "Oral Rehydration Solution [ORS].",
+        "Cephalosporins",
+        "Metronidazole",
+        "Amoxicillin"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A nine month old infant developed acute watery diarrhea. He has runny nose and tachypnea with fever. Stool culture was free The most common causative agent causing that is :",
+      "options": [
+        "Shigella",
+        "Salmonella",
+        "E. Coli",
+        "Rotavirus"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Mostafa, a 4 month old infant, presents with vomiting since the first week of life. The vomiting occurs daily, is usually small in amount, but occasionally is projectile. Physical examination reveals a happy infant who is thriving well. The breathing is noisy. DD is:",
+      "options": [
+        "Brain tumor",
+        "CHPS",
+        "GERD"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 5 year old infant with intermittent, painful bright red blood per rectum for the past 3 months. Inspection of the anus shows no fissures but blood on rectal exam. Bleeding and coagulation time were normal . The most likely Diagnosis is:",
+      "options": [
+        "Haemophilia",
+        "Shigella infection",
+        "Intussusception",
+        "Giardiasis"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "First line of management of upper GI bleeding is:",
+      "options": [
+        "give vit.K",
+        "Do ABC",
+        "blood transfusion",
+        "band ligation"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "5 year old infant with intermittent, painful bright red blood per rectum for the past months. Inspection of the anus shows no fissures but blood on rectal exam. Bleeding and coagulation time were normal. The most useful treatment is:",
+      "options": [
+        "Antibiotics.",
+        "Reassurance.",
+        "Antiviral Drugs.",
+        "Air Enema."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Gastrointestinal Causes of Cough",
+      "options": [
+        "Achalasia",
+        "GER",
+        "Foreign body ingestion",
+        "T of (H) shaped",
+        "All of above"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "bloody diarrhea caused by all of the following except:",
+      "options": [
+        "salmonella",
+        "shigella",
+        "viral infection",
+        "entameba infection"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All are causes of chronic diarrhea except:",
+      "options": [
+        "Celiac disease",
+        "Cystic fibrosis",
+        "short bowel syndrome",
+        "Viral Gastroenteritis"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The most serious type of dehydration is",
+      "options": [
+        "Isotonic dehydration",
+        "hypertonic dehydration",
+        "hypotonic dehydration"
+      ],
+      "correct": 1
+    }
+  ]
+}

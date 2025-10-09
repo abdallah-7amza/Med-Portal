@@ -1,0 +1,544 @@
+{
+  "title": "KAF",
+  "questions": [
+    {
+      "stem": "Six years old male presenting to the OP clinic by generalized edema which is more apparent in the morning. Which of the following is not an expected finding?",
+      "options": [
+        "Abdominal pain",
+        "Ascites",
+        "Infection",
+        "Polyuria"
+      ],
+      "correct": 3,
+      "explanation": "The patient's presentation of generalized edema, more apparent in the morning, with normal vital signs, is typical of nephrotic syndrome. In this condition, patients develop oliguria due to a decrease in glomerular filtration rate, not polyuria. The other options, such as abdominal pain from ascites and a high risk of infection, are recognized complications of nephrotic syndrome."
+    },
+    {
+      "stem": "A 5-year-old girl presents to the emergency department with a 2-day history of fever, vomiting and dysuria. On examination, she has suprapubic tenderness. What is the best way to collect a urine sample?",
+      "options": [
+        "Clean catch",
+        "Suprapubic aspirate",
+        "Urine bag",
+        "Urinary catheter"
+      ],
+      "correct": 0,
+      "explanation": "The patient is a 5-year-old girl, which is within the age group of toilet-trained children. The textbook states that midstream urine collection, or 'clean catch,' is the appropriate method for obtaining a urine sample in this group of children. Suprapubic aspiration and bladder catheterization are more invasive methods, while a urine bag is associated with a high risk of contamination."
+    },
+    {
+      "stem": "A 4 years old male presenting to the OP clinic by dark-colored urine following URTI. Which of the following is not consistent with the diagnosis of post streptococcal GN?",
+      "options": [
+        "Normal C3",
+        "Impaired renal function",
+        "Lower limb edema",
+        "BP > 150/100"
+      ],
+      "correct": 0,
+      "explanation": "The clinical picture of dark-colored urine following an upper respiratory tract infection is highly suggestive of acute post-streptococcal glomerulonephritis (APSGN). This condition is characterized by a decrease in C3 complement levels, which typically return to normal within 8 weeks. Therefore, a normal C3 level would be inconsistent with this diagnosis. The other options, including impaired renal function, lower limb edema, and hypertension, are all consistent clinical features of APSGN."
+    },
+    {
+      "stem": "A 10-year-old girl presents with complaints of dysuria, lower abdominal pain and gross hematuria for the last 2 days. She has no complaints of fever or flank pain. Her urinalysis demonstrates > 100 white blood cells per high-power field, 10 to 50 red blood cells/HPF. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Acute pyelonephritis",
+        "Cystitis",
+        "Hemoglobinuria",
+        "IgA nephropathy"
+      ],
+      "correct": 1,
+      "explanation": "The patient's symptoms of dysuria, lower abdominal pain, and gross hematuria without fever or flank pain are classic for lower urinary tract infection, or cystitis. The presence of a large number of white blood cells and red blood cells in the urine further supports this. Acute pyelonephritis, an upper UTI, would typically present with fever and flank pain."
+    },
+    {
+      "stem": "A 2-year-old boy presents with eye swelling and puffiness of the face. Neither jaundice nor cyanosis was noticed. Edema has been worsening over the past few days, and is most prominent in the morning. On examination his vital signs are normal. He has edema around the eyes, with scrotal enlargement. His abdomen is distended and dull to percussion. Nutritional history is optimum. What are the investigations needed to prove your diagnosis?",
+      "options": [
+        "Complete blood count",
+        "Echocardiography",
+        "Endoscopy",
+        "Urine analysis and plasma proteins"
+      ],
+      "correct": 3,
+      "explanation": "The clinical presentation of periorbital and scrotal edema, ascites, and dullness to percussion, along with a history of optimal nutrition, strongly suggests nephrotic syndrome. The key laboratory findings to confirm this diagnosis are heavy-range proteinuria and hypoalbuminemia, which are assessed by urine analysis and plasma protein levels."
+    },
+    {
+      "stem": "A 5 years old girl presenting with dark-colored urine and mild peri-orbital puffiness. You are suspecting post-streptococcal GN. The following investigation is not required:",
+      "options": [
+        "Complement (C3, C4)",
+        "Kidney functions",
+        "Urine analysis",
+        "Urine culture and sensitivity"
+      ],
+      "correct": 3,
+      "explanation": "The clinical presentation of dark-colored urine and periorbital puffiness following an upper respiratory tract infection is a classic presentation of acute post-streptococcal glomerulonephritis. This is an immune-mediated condition and not a direct bacterial infection of the urinary tract. Therefore, a urine culture and sensitivity test is not required for diagnosis, although it may be done if a coexisting urinary tract infection is suspected. The other options, including complement levels (C3, C4), kidney function tests, and urine analysis, are all important investigations for confirming the diagnosis of glomerulonephritis."
+    },
+    {
+      "stem": "Ali is a 5 years old male presenting to the OP clinic by generalized edema which is more apparent in the morning. Serum albumin = 1.4 g/dL, cholesterol = 360 mg/dL, urinalysis revealed +++ proteins and RBC 1-2/HPF. Serum creatinine is normal. Which of the following is the most probable pathological change?",
+      "options": [
+        "Focal segmental glomerulosclerosis",
+        "IgA nephropathy",
+        "Membranous glomerulopathy",
+        "Minimal change"
+      ],
+      "correct": 3,
+      "explanation": "This 5-year-old patient presents with classic features of nephrotic syndrome, including generalized edema, low serum albumin, high cholesterol, and proteinuria. The absence of significant hematuria, hypertension, or impaired renal function points toward minimal change nephrotic syndrome (MCNS), which is the most common cause of nephrotic syndrome in children between 2 and 6 years of age."
+    },
+    {
+      "stem": "A 3 years old female presenting to the OP clinic by recurrent UTI. What is the most appropriate initial investigation to evaluate her condition?",
+      "options": [
+        "Abdominal US",
+        "CT abdomen",
+        "Plain X-ray abdomen",
+        "VCUG (Voiding cystourethrogram)"
+      ],
+      "correct": 0,
+      "explanation": "For a child presenting with recurrent urinary tract infections (UTI), the initial investigation of choice is an abdominal ultrasound. The purpose of this is to detect any underlying anatomical abnormalities such as obstructive uropathy that may predispose the child to recurrent infections."
+    },
+    {
+      "stem": "Yousef is an 11 years old male presenting to the OP clinic by generalized edema which is more apparent in the morning. Serum albumin = 1.6 g/dL, cholesterol = 310 mg/dL, urinalysis revealed +++ proteins and RBC > 100/HPF. Serum creatinine is mildly elevated. Which of the following is the most probable pathological change?",
+      "options": [
+        "Minimal change",
+        "IgA nephropathy",
+        "Focal segmental glomerulosclerosis",
+        "Microangiopathy"
+      ],
+      "correct": 2,
+      "explanation": "The patient is an 11-year-old male with nephrotic syndrome. Unlike minimal change nephrotic syndrome, this patient has significant hematuria (RBC > 100/HPF) and mildly elevated serum creatinine, suggesting renal impairment. This presentation is more consistent with a more severe pathological change, such as focal segmental glomerulosclerosis (FSGS), which is a common cause of steroid-resistant nephrotic syndrome."
+    },
+    {
+      "stem": "A 10 years old boy suffered from acute tonsillitis two weeks ago. Now he complains of general weakness; edema of eyelids, headache, nausea and vomiting. Skin is pale, appetite is reduced, and daily urine output is 600 ml. Urinalysis: protein 1+, WBC 4-6/HPF, RBCs are too numerous to count. What is the most probable etiology?",
+      "options": [
+        "Genetic",
+        "Immunological",
+        "Infectious",
+        "Malignancy"
+      ],
+      "correct": 1,
+      "explanation": "The patient's history of tonsillitis two weeks ago, followed by symptoms of general weakness, edema, headache, and dark urine, is characteristic of acute post-streptococcal glomerulonephritis. The pathogenesis of this condition is an immune-mediated response following infection with specific 'nephritogenic strains' of group A streptococci."
+    },
+    {
+      "stem": "Treatment of this boy (Question 10) should include:",
+      "options": [
+        "Beta blockers",
+        "Fluid balance",
+        "Potassium therapy",
+        "Tonsillectomy"
+      ],
+      "correct": 1,
+      "explanation": "The boy has acute nephritic syndrome, which is associated with oliguria and hypervolemia. The cornerstone of management is fluid balance, restricting fluid intake to prevent further fluid overload, heart failure, and hypertensive encephalopathy. The other options are either not indicated (tonsillectomy is a preventative measure for rheumatic fever, not a treatment for APSGN) or are not the primary, immediate treatment. Potassium therapy would be needed only if hyperkalemia is present, but fluid balance is a universal measure."
+    },
+    {
+      "stem": "A 7 year female child presents to the ER with puffiness of the eyelids and dorsum of the feet associated with dark tea-colored urine. Her BP is 150/100. Serum albumin is 3.4 g/dL. One of these statements is incorrect:",
+      "options": [
+        "Group A beta hemolytic streptococci are responsible",
+        "Hypertensive heart failure is a complication",
+        "Steroids is the drug of choice",
+        "There is a latent period after this infection"
+      ],
+      "correct": 2,
+      "explanation": "The clinical picture of periorbital edema, dark urine, and hypertension following a suspected streptococcal infection is characteristic of acute post-streptococcal glomerulonephritis (APSGN). The textbook states that supportive treatment, including fluid and salt restriction, and antihypertensives, is the main management, with complete recovery in over 95% of cases. Steroids are not mentioned as the drug of choice for APSGN."
+    },
+    {
+      "stem": "A male 4 years old child presents with puffiness of the eyelids and pitting edema of the lower limbs. His blood pressure is normal. One of these statements is incorrect:",
+      "options": [
+        "Complement level is normal",
+        "Renal functions are normal.",
+        "Renal biopsy is indicated",
+        "The commonest cause is minimal change nephrotic syndrome."
+      ],
+      "correct": 2,
+      "explanation": "The child presents with classic signs of nephrotic syndrome: puffiness of the eyelids and pitting edema, with normal blood pressure. In this common age group (2-6 years), the most probable cause is minimal change nephrotic syndrome (MCNS), for which a renal biopsy is not routinely indicated. Biopsy is reserved for cases with atypical features such as gross hematuria, persistent hypertension, or an onset outside this age range. In MCNS, complement levels and renal functions are typically normal."
+    },
+    {
+      "stem": "A 5 years old male presented with dark color urine 2 weeks after an upper respiratory tract infection. Urinalysis: RBC +++, albumin ++++, blood urea: 25 mg/dl, serum creatinine 0.6 mg/dl. Poor prognostic indicator in this case is:",
+      "options": [
+        "Gross hematuria",
+        "Heavy-range proteinuria",
+        "High ASOT",
+        "Normal Complement 4"
+      ],
+      "correct": 1,
+      "explanation": "The patient's history and symptoms are consistent with acute post-streptococcal glomerulonephritis (APSGN). The presence of heavy-range proteinuria (albumin ++++) is an atypical finding and a poor prognostic indicator, as APSGN is typically associated with mild to moderate proteinuria. Gross hematuria, high ASOT, and normal C4 are all common findings in APSGN and do not indicate a poor prognosis."
+    },
+    {
+      "stem": "A 5 years old girl presented to outpatient clinic with her mother complaining of abdominal pain almost every day. The mother reported a new onset nocturnal enuresis and the child is crying during urination. Pain is mainly suprapubic. A urine dipstick is positive for WBC, nitrite, leukocyte esterase and RBCs. What is the most likely diagnosis?",
+      "options": [
+        "Acute cystitis",
+        "Chronic constipation",
+        "Glomerulonephritis",
+        "Psychosocial problem"
+      ],
+      "correct": 0,
+      "explanation": "The girl's symptoms of suprapubic abdominal pain, new-onset nocturnal enuresis, and crying during urination point towards a lower urinary tract infection (cystitis). The positive dipstick test for WBCs, nitrites, leukocyte esterase, and RBCs strongly supports this."
+    },
+    {
+      "stem": "What is your next action (Case in question 15)?",
+      "options": [
+        "Ask for stool examination",
+        "Check school environment",
+        "Do urine culture",
+        "Order voiding cystourethrogram"
+      ],
+      "correct": 2,
+      "explanation": "The initial dipstick findings are suggestive of a urinary tract infection. The next most appropriate step, as stated in the textbook, is to perform a urine culture and sensitivity test to confirm the diagnosis and identify the causative organism, which will guide antibiotic treatment."
+    },
+    {
+      "stem": "A 7 year old boy presented with puffiness of both eye lids that started since 4 days. On examination the oral temperature was 37.9 degrees, pulse 90/minute, BP 85/55, and respiratory rate 20/minute. He had ascites and lower limbs pitting edema. Air entry was diminished on the right side. Which of the following is not useful in the treatment of this child?",
+      "options": [
+        "Corticosteroids",
+        "Intercostal tube under-water seal",
+        "IV salt-free albumin",
+        "Low salt diet"
+      ],
+      "correct": 1,
+      "explanation": "The patient has ascites and diminished air entry on the right side, suggesting pleural effusion. An intercostal tube with an underwater seal is used for purulent pleural effusion (empyema), which is a complication of bacterial pneumonia. This is not a standard treatment for pleural effusion secondary to nephrotic syndrome, which is managed with diuretics and albumin."
+    },
+    {
+      "stem": "A 7 years old girl presented with burning urination and abdominal pain. She developed bed wetting in the last 5 days after being dry for more than one year. No vomiting, diarrhea, normal bowel habits. Urine was turbid but its color was normal. What is the most likely diagnosis?",
+      "options": [
+        "Acute cystitis",
+        "Acute glomerulonephritis",
+        "Acute pyelonephritis",
+        "Acute pancreatitis"
+      ],
+      "correct": 0,
+      "explanation": "The patient's symptoms of burning urination (dysuria), abdominal pain, and new-onset secondary enuresis without fever or flank pain are characteristic of a lower urinary tract infection (UTI), or acute cystitis."
+    },
+    {
+      "stem": "A 4 years old girl presented with fever 39C and abdominal pain. She vomited 3 times. She has no dysuria and bowel habits are normal. Urine was turbid but its color was normal. What is the most likely diagnosis?",
+      "options": [
+        "Acute cystitis",
+        "Acute glomerulonephritis",
+        "Acute pancreatitis",
+        "Acute pyelonephritis"
+      ],
+      "correct": 3,
+      "explanation": "This child presents with a high fever and abdominal pain, along with vomiting. These systemic symptoms, especially the high fever, are indicative of an upper urinary tract infection (pyelonephritis), unlike cystitis, which typically presents without fever."
+    },
+    {
+      "stem": "A 5-years-old girl presenting with generalized edema 1 week ago. Serum albumin 1.6 g/dL, cholesterol 310 mg/dL, urine protein/creatinine ratio 4. Steroid therapy was initiated. This morning she presented with severe abdominal pain. Examination revealed diffuse abdominal tenderness. Which of the following is the most likely cause for her condition?",
+      "options": [
+        "Bacterial peritonitis",
+        "Cholecystitis",
+        "Mesenteric hypoperfusion",
+        "Pyelonephritis"
+      ],
+      "correct": 0,
+      "explanation": "The patient has nephrotic syndrome and is on steroid therapy, which increases the risk of infection. The sudden onset of severe abdominal pain with diffuse tenderness is highly suggestive of bacterial peritonitis, a common and serious complication of nephrotic syndrome, especially in patients with ascites."
+    },
+    {
+      "stem": "The ultra-filtrate which is filtered through the glomerular capillary walls doesn't contain?",
+      "options": [
+        "Albumin",
+        "Creatinine",
+        "Electrolytes",
+        "Low-molecular-weight proteins"
+      ],
+      "correct": 0,
+      "explanation": "The filtration barrier of the glomerulus is designed to prevent the passage of high molecular weight substances like albumin. The ultra-filtrate is normally composed of water, electrolytes, creatinine, and low-molecular-weight proteins."
+    },
+    {
+      "stem": "Which of the following is a recognized complication of acute nephritic syndrome?",
+      "options": [
+        "Amyloidosis",
+        "Hypertension",
+        "Hypovolemia",
+        "Peritonitis"
+      ],
+      "correct": 1,
+      "explanation": "Acute nephritic syndrome is a glomerular disease characterized by hypertension, oliguria, hematuria, and edema. Hypertension is a key feature and a recognized complication, which can lead to other serious complications like hypertensive encephalopathy."
+    },
+    {
+      "stem": "Regarding minimal change nephrotic syndrome, which of the following is true?",
+      "options": [
+        "Glomeruli appear histologically normal on light microscopy",
+        "It is mainly a disease of adults",
+        "It is characterized by IgM deposition along the basement membrane",
+        "Typically presents with a non-selective proteinuria"
+      ],
+      "correct": 0,
+      "explanation": "The defining feature of minimal change nephrotic syndrome (MCNS) is that the glomeruli appear normal when viewed under a light microscope, hence the name 'minimal change.' It is the most common cause of nephrotic syndrome in children, not adults, and presents with a selective proteinuria."
+    },
+    {
+      "stem": "Post-streptococcal glomerulonephritis is characterized by:",
+      "options": [
+        "Hypotension is common",
+        "Puffy eye-lids and dark urine are the usual presenting features",
+        "Typically follows group B beta-hemolytic streptococcal infection",
+        "Urine examination shows massive albuminuria"
+      ],
+      "correct": 1,
+      "explanation": "Acute post-streptococcal glomerulonephritis (APSGN) typically presents with hematuria, which is described as dark, smoky, or tea-colored urine, and mild edema, often first noticed as puffiness of the eyelids. It is an immune-mediated response following group A beta-hemolytic streptococcal infection, not group B, and is associated with hypertension, not hypotension."
+    },
+    {
+      "stem": "Which of the following is a recognized complication of acute nephritic syndrome?",
+      "options": [
+        "Amyloidosis",
+        "Hypovolemia",
+        "Hypertension",
+        "Peritonitis"
+      ],
+      "correct": 2,
+      "explanation": "Acute nephritic syndrome is a glomerular disease that can lead to complications such as hypertension, heart failure, and acute kidney injury. Hypertension is a direct consequence of fluid overload and is a common complication."
+    },
+    {
+      "stem": "The most sensitive investigation for detection of vesico-ureteric reflux is:",
+      "options": [
+        "CT abdomen",
+        "Intravenous pyelography (IVP)",
+        "Ultrasonography",
+        "Voiding cystourethrogram (VCUG)"
+      ],
+      "correct": 3,
+      "explanation": "A voiding cystourethrogram (VCUG) is the most definitive and important investigation for diagnosing vesico-ureteric reflux (VUR). It involves injecting contrast into the bladder and taking X-rays during urination to visualize any reflux into the ureters and kidneys."
+    },
+    {
+      "stem": "In nephrotic syndrome which is true?",
+      "options": [
+        "Edema occurs as a result of hypoglobulinemia",
+        "Hypocholesterolemia is common",
+        "Hepatic albumin synthesis is decreased",
+        "Males are more commonly affected than females"
+      ],
+      "correct": 3,
+      "explanation": "The textbook states that minimal change nephrotic syndrome, the most common type of nephrotic syndrome in children, has an incidence in males to females of 2:1. Edema is due to hypoalbuminemia, not hypoglobulinemia. Hepatic albumin synthesis is increased, and hypercholesterolemia is a characteristic feature."
+    },
+    {
+      "stem": "Which of the following is wrong about nocturnal enuresis?",
+      "options": [
+        "ADH rises during sleep",
+        "Anticholinergic drugs can be used",
+        "Drug therapy is the last therapeutic option",
+        "Family history may be present"
+      ],
+      "correct": 0,
+      "explanation": "The pathophysiology of nocturnal enuresis often involves decreased production of antidiuretic hormone (ADH) at night, leading to nocturnal polyuria. Therefore, the statement that ADH rises during sleep is incorrect. The other options are all correct statements about nocturnal enuresis, including the use of anticholinergic drugs and the presence of a family history."
+    },
+    {
+      "stem": "The following may be a complication of post-streptococcal GN?",
+      "options": [
+        "Bacteremia",
+        "Hypertensive encephalopathy",
+        "Pyelonephritis",
+        "Pulmonary embolism"
+      ],
+      "correct": 1,
+      "explanation": "Hypertensive encephalopathy is a recognized and serious complication of acute post-streptococcal glomerulonephritis. It is a result of severe, uncontrolled hypertension associated with the disease."
+    },
+    {
+      "stem": "Pre-renal causes of renal failure include which of the following?",
+      "options": [
+        "Dehydration",
+        "Renal stone",
+        "Systemic lupus erythematosus",
+        "Vesico-ureteric reflux"
+      ],
+      "correct": 0,
+      "explanation": "Prerenal acute kidney injury is caused by renal hypoperfusion. The textbook lists dehydration, due to causes such as GIT losses or hemorrhage, as a primary cause. The other options are causes of intrinsic renal or postrenal failure."
+    },
+    {
+      "stem": "The true statement about nocturnal enuresis is:",
+      "options": [
+        "It is more common in girls",
+        "May be the initial presentation of type 1 diabetes mellitus",
+        "Should be investigated by renal isotope scan",
+        "Usually represents a worse prognosis than diurnal enuresis"
+      ],
+      "correct": 1,
+      "explanation": "Nocturnal enuresis can be a symptom of polyuria, and the textbook lists diabetes mellitus as a possible organic cause, especially new-onset enuresis in a previously toilet-trained child. The other statements are incorrect: enuresis is more common in boys, primary enuresis has a good prognosis, and a renal isotope scan is not a standard investigation."
+    },
+    {
+      "stem": "The presence of RBC casts indicates that the origin of hematuria is:",
+      "options": [
+        "The glomeruli",
+        "The urinary bladder",
+        "The renal pelvis",
+        "The ureters"
+      ],
+      "correct": 0,
+      "explanation": "The presence of red blood cell (RBC) casts in a urinalysis is a key indicator that the hematuria originates from the glomeruli. Casts are formed in the renal tubules and represent a mold of the tubule, confirming that the red blood cells passed through the nephron."
+    },
+    {
+      "stem": "Causes of hematuria do not include",
+      "options": [
+        "Diabetes mellitus",
+        "Hemophilia",
+        "Renal vein thrombosis",
+        "Sickle cell disease"
+      ],
+      "correct": 0,
+      "explanation": "Diabetes mellitus itself is not listed as a direct cause of hematuria in the textbook. However, it can be a cause of polyuria, which is a common differential diagnosis for enuresis. Hemophilia, renal vein thrombosis, and sickle cell disease are all listed as causes of hematuria."
+    },
+    {
+      "stem": "Risk factors in urinary tract infection do not include",
+      "options": [
+        "Male sex",
+        "Urinary tract anomaly",
+        "Urinary stones",
+        "Vesicoureteral reflux"
+      ],
+      "correct": 0,
+      "explanation": "While male sex is a risk factor for urinary tract infections (UTIs) in the first year of life (3:1 male to female ratio in that age group), the overall incidence is higher in females (10:1 ratio after one year). Therefore, male sex is not a general risk factor for all age groups. Urinary tract anomalies, stones, and vesicoureteral reflux are all recognized predisposing factors."
+    },
+    {
+      "stem": "Which of the following is not present in hemolytic uremic syndrome?",
+      "options": [
+        "Acute renal failure",
+        "Hemolytic anemia",
+        "Thrombocytopenia",
+        "Leukopenia"
+      ],
+      "correct": 3,
+      "explanation": "Hemolytic uremic syndrome (HUS) is a triad of acute renal failure, hemolytic anemia, and thrombocytopenia. The textbook does not mention leukopenia as a feature of HUS."
+    },
+    {
+      "stem": "Nephrotic syndrome is a hypercoagulable state resulting from",
+      "options": [
+        "Decrease hepatic production of fibrinogen",
+        "Increased protein C and protein S",
+        "Hemoconcentration",
+        "Renal impairment"
+      ],
+      "correct": 2,
+      "explanation": "Nephrotic syndrome is a hypercoagulable state due to several factors, including hemoconcentration, urinary loss of natural anticoagulants like antithrombin III, and increased hepatic synthesis of lipoproteins. Therefore, hemoconcentration is a correct factor."
+    },
+    {
+      "stem": "Steroid resistance nephrotic syndrome is defined as failure to achieve remission after:",
+      "options": [
+        "2-4 weeks of corticosteroid therapy",
+        "4-6 weeks of corticosteroid therapy",
+        "6-8 week of corticosteroid therapy",
+        "8-10 weeks of corticosteroid therapy"
+      ],
+      "correct": 1,
+      "explanation": "The textbook defines steroid-resistant nephrotic syndrome (SRNS) as the failure to achieve remission after 4-6 weeks of steroid therapy."
+    },
+    {
+      "stem": "Which laboratory test can help you to reach the diagnosis of post-streptococcal glomerulonephritis:",
+      "options": [
+        "C3 and C4 levels",
+        "ESR",
+        "Serum creatinine",
+        "Serum albumin"
+      ],
+      "correct": 0,
+      "explanation": "In acute post-streptococcal glomerulonephritis, C3 complement levels are typically decreased and C4 levels are normal. This is a key finding that helps in the diagnosis. The other options are less specific."
+    },
+    {
+      "stem": "In nephrotic syndrome the urinary protein to creatinine ratio is more than:",
+      "options": [
+        "0.5",
+        "1",
+        "1.5",
+        "2"
+      ],
+      "correct": 3,
+      "explanation": "The textbook defines heavy-range proteinuria in nephrotic syndrome as a urinary protein/creatinine ratio greater than 2."
+    },
+    {
+      "stem": "In nocturnal enuresis which is correct:",
+      "options": [
+        "Family history is positive in 10% of cases",
+        "It is more common among females",
+        "Never caused by organic cause",
+        "Prognosis is good in primary type"
+      ],
+      "correct": 3,
+      "explanation": "The textbook states that primary nocturnal enuresis is due to a maturational delay in bladder control and has a good prognosis. The other options are incorrect: it is more common in males (3:1), family history is positive in 50% of cases, and it can be caused by organic issues."
+    },
+    {
+      "stem": "Which of the following is true regarding primary nocturnal enuresis:",
+      "options": [
+        "Is defined as bed wetting after age of 3 years",
+        "It may be associated with adenoid hypertrophy",
+        "It has a high rate of recurrence and bad prognosis",
+        "Most children have organic causes"
+      ],
+      "correct": 1,
+      "explanation": "The textbook mentions adenoid hypertrophy as a cause of nocturnal enuresis, likely due to sleep disorders. The other statements are incorrect. Primary enuresis is defined as bed wetting after the age of 5, has a good prognosis, and most children have a functional, not organic, cause."
+    },
+    {
+      "stem": "Which of the following is a recognized complication of acute nephritic syndrome?",
+      "options": [
+        "Amyloidosis",
+        "Hypertension",
+        "Hypovolemia",
+        "Peritonitis"
+      ],
+      "correct": 1,
+      "explanation": "As in question 22, hypertension is a common and serious complication of acute nephritic syndrome, resulting from fluid retention and hypervolemia."
+    },
+    {
+      "stem": "Glomerular hematuria may be associated with:",
+      "options": [
+        "Gross hematuria that is bright red or pink",
+        "It occurs in the terminal portion of the urine stream",
+        "Normal urinary RBC morphology",
+        "Urinary microscopic findings of RBC casts"
+      ],
+      "correct": 3,
+      "explanation": "The presence of RBC casts is a definitive sign of glomerular hematuria. Glomerular hematuria is also typically described as brown, smoky, or tea-colored urine, not bright red, and the red blood cells are dysmorphic due to their passage through the filtration barrier."
+    },
+    {
+      "stem": "One of the following can be a complication of minimal change nephrotic syndrome:",
+      "options": [
+        "Ascites",
+        "Atrio-ventricular heart block",
+        "Bleeding tendency",
+        "Deep venous thrombosis"
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists thromboembolic events, including deep venous thrombosis (DVT) and pulmonary embolism, as a major complication of nephrotic syndrome due to factors like hemoconcentration and the loss of natural anticoagulants. Ascites is a clinical feature, not a complication. Atrio-ventricular heart block and bleeding tendency are not complications of nephrotic syndrome."
+    },
+    {
+      "stem": "Which of the following may be a cause of acute pre-renal failure?",
+      "options": [
+        "Aminoglycosides intake",
+        "Acute glomerulonephritis",
+        "Massive bleeding",
+        "Vesicourteric reflux"
+      ],
+      "correct": 2,
+      "explanation": "Massive bleeding leads to hypovolemia and renal hypoperfusion, which is the definition of a prerenal cause of acute kidney injury. Aminoglycoside intake is a cause of intrinsic renal failure, acute glomerulonephritis is an intrinsic cause, and vesicoureteric reflux is a risk factor for chronic kidney disease and pyelonephritis, not a direct cause of acute pre-renal failure."
+    },
+    {
+      "stem": "Regarding nephrotic syndrome pathophysiology, which of the following is correct?",
+      "options": [
+        "Edema occurs as a result of hypoglobulinemia",
+        "Hepatic albumin synthesis is decreased",
+        "Hypocholesterolemia is common",
+        "Idiopathic type may be due to disturbance in T cell function"
+      ],
+      "correct": 3,
+      "explanation": "The pathophysiology section for nephrotic syndrome mentions that idiopathic nephrotic syndrome can be caused by T-cell dysfunction. The other options are incorrect: edema is due to hypoalbuminemia, not hypoglobulinemia; hepatic albumin synthesis is increased, and hypercholesterolemia is common, not hypocholesterolemia."
+    },
+    {
+      "stem": "A case of glomerulonephritis can present by:",
+      "options": [
+        "Dysuria",
+        "Enuresis",
+        "Oliguria",
+        "Polyuria"
+      ],
+      "correct": 2,
+      "explanation": "Oliguria, or a decrease in urine output, is a key clinical feature of glomerulonephritis, resulting from a decreased glomerular filtration rate."
+    },
+    {
+      "stem": "Pyelonephritis presents commonly with:",
+      "options": [
+        "Dysuria",
+        "Fever with rigors",
+        "Hypothermia",
+        "Prolonged jaundice"
+      ],
+      "correct": 1,
+      "explanation": "Pyelonephritis, as an upper urinary tract infection, is characterized by systemic symptoms such as high fever and rigors, in contrast to a lower UTI (cystitis)."
+    },
+    {
+      "stem": "A common manifestation of chronic kidney disease is:",
+      "options": [
+        "Chronic anemia",
+        "Hypotension",
+        "Loin pain and tenderness",
+        "Oliguria"
+      ],
+      "correct": 0,
+      "explanation": "The textbook lists chronic unexplained anemia as a common clinical manifestation of chronic kidney disease, due to the kidneys' role in erythropoiesis. Other manifestations include hypertension, not hypotension, and loin pain is typically associated with acute pyelonephritis."
+    }
+  ]
+}

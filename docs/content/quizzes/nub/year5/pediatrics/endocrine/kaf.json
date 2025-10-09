@@ -1,0 +1,379 @@
+{
+  "title": "KAF",
+  "questions": [
+    {
+      "stem": "The mother of a 2 week old infant received a letter reporting that her newborn screen is abnormal indicating possible congenital hypothyroidism. The tests are repeated and proved low T4 and high TSH. Which of the following is the most appropriate approach at this point?",
+      "options": [
+        "Begin sodium L-thyroxine therapy",
+        "Close follow-up",
+        "Serum for maternal antithyroid antibodies",
+        "Thyroid ultrasound and scan"
+      ],
+      "correct": 0,
+      "explanation": "The neonatal thyroid screening program is designed to prevent mental retardation in cases of congenital hypothyroidism. When a newborn screen is abnormal and is confirmed by a repeat test showing low T4 and high TSH, treatment should be initiated immediately with sodium L-thyroxine therapy to reduce the risk of impaired neurodevelopment."
+    },
+    {
+      "stem": "Two months old female presenting with lethargy, poor feeding, abdominal distention and prolonged neonatal jaundice. The treating physician suspected hypothyroidism. Which of the following is consistent with this diagnosis?",
+      "options": [
+        "Bone age of 2 months",
+        "Defecation more than 3 times/day",
+        "Hemoglobin 12 g/dL",
+        "Posterior fontanel 0.5 cm"
+      ],
+      "correct": 3,
+      "explanation": "The clinical diagnosis of a 2-month-old female with lethargy, poor feeding, abdominal distention, and prolonged neonatal jaundice points to congenital hypothyroidism. A posterior fontanel size of 0.5 cm is a normal finding at this age. Congenital hypothyroidism would be associated with a widely opened anterior and posterior fontanelle, constipation, and a low hemoglobin count."
+    },
+    {
+      "stem": "Day 7 old female neonate diagnosed on routine screening with primary congenital hypothyroidism. What is the expected hormonal profile?",
+      "options": [
+        "High TSH + High thyroxine",
+        "High TSH + Low thyroxine",
+        "Low TSH + High thyroxine",
+        "Low TSH + Low thyroxine"
+      ],
+      "correct": 1,
+      "explanation": "Primary congenital hypothyroidism is caused by a lesion in the thyroid gland. As a result, the thyroid gland produces low levels of T3 and T4, while the pituitary gland compensates by producing high levels of TSH."
+    },
+    {
+      "stem": "Day 11 old male neonate diagnosed on routine screening with primary hypothyroidism. His laboratory assessment may reveal:",
+      "options": [
+        "Low TSH",
+        "Low ACTH",
+        "High thyroxine level",
+        "High serum bilirubin"
+      ],
+      "correct": 3,
+      "explanation": "A neonate with primary congenital hypothyroidism may present with prolonged neonatal jaundice. Other laboratory assessments may show low T4 and high TSH. ACTH is not directly related to thyroid function."
+    },
+    {
+      "stem": "A 9 days old neonate has an elevated TSH and low T4 on his screen. If this condition is left untreated, the infant is likely to demonstrate which of the following in the first few months of life?",
+      "options": [
+        "Convulsions",
+        "Diarrhea",
+        "Irritability",
+        "Prolonged jaundice"
+      ],
+      "correct": 3,
+      "explanation": "A neonate with an elevated TSH and low T4 is diagnosed with congenital hypothyroidism. If left untreated, manifestations in the first few months of life include prolonged jaundice, constipation, and decreased activity."
+    },
+    {
+      "stem": "A 6 years old child presenting with polyuria and polydipsia. Investigations revealed fasting blood glucose 300 mg/dl with no ketonuria. Criteria to diagnose diabetes in children include:",
+      "options": [
+        "Fasting blood glucose >110 mg/dL",
+        "Metabolic acidosis with HCO3 < 15 mmol/L",
+        "Random blood glucose >126 mg/dL",
+        "Random blood glucose >200 mg/dL with the presence of diabetes symptoms"
+      ],
+      "correct": 3,
+      "explanation": "The diagnostic criteria for diabetes mellitus include a random blood glucose level of ≥200 mg/dL in the presence of diabetes symptoms such as polyuria and polydipsia. Fasting blood glucose of ≥126 mg/dL is also a criterion. Metabolic acidosis is a complication of diabetic ketoacidosis, not a diagnostic criterion for diabetes itself."
+    },
+    {
+      "stem": "Five months old infant who missed neonatal screening with late proven diagnosis of hypothyroidism. This child will be likely to develop:",
+      "options": [
+        "Gynecomastia",
+        "Diarrhea",
+        "Subnormal mentality",
+        "Tall stature with preservation of infantile proportions"
+      ],
+      "correct": 2,
+      "explanation": "Thyroid hormones are crucial for the growth and development of the brain, and their deficiency in early life can cause irreversible brain damage and mental retardation. Therefore, an infant who misses neonatal screening and has a late diagnosis of hypothyroidism is likely to develop subnormal mentality."
+    },
+    {
+      "stem": "A 6-years-old boy arrives at the emergency room complaining of rapid breathing and vomiting dating 2 days ago. On examination he has deep rapid breathing with a special breath odor. What is the most important investigation?",
+      "options": [
+        "Blood gases",
+        "CT of the chest",
+        "PCR for COVID-19",
+        "X ray chest"
+      ],
+      "correct": 0,
+      "explanation": "A 6-year-old boy with rapid breathing and vomiting, along with a special breath odor (acetone odor), is likely in diabetic ketoacidosis (DKA). The deep rapid breathing is a sign of metabolic acidosis, so a blood gas analysis is the most important investigation to confirm the acidosis."
+    },
+    {
+      "stem": "A 5 years old child presenting with dehydration, abdominal pain, vomiting and lethargy. Investigations revealed blood glucose = 400 mg% ketonuria. What is the most probable diagnosis?",
+      "options": [
+        "Appendicitis",
+        "Diabetic ketoacidosis (DKA)",
+        "Intestinal obstruction",
+        "Intussusception"
+      ],
+      "correct": 1,
+      "explanation": "The clinical presentation of dehydration, abdominal pain, vomiting, and lethargy, coupled with a blood glucose level of 400 mg% and ketonuria, is the classic picture of diabetic ketoacidosis."
+    },
+    {
+      "stem": "A 7 years old child presenting with dehydration, abdominal pain, vomiting and lethargy. Investigations revealed blood glucose = 500 mg%, pH 7.15, HCO3 9 mmol/L. What is the most appropriate line of management?",
+      "options": [
+        "IV infusion of intermediate-acting insulin",
+        "IV infusion of short-acting insulin and glucose 5% infusion",
+        "IV infusion of short-acting insulin and normal saline",
+        "IV infusion of long-acting insulin and glucose 5% infusion"
+      ],
+      "correct": 2,
+      "explanation": "A child presenting with dehydration, abdominal pain, vomiting, lethargy, high blood glucose (500 mg%), and metabolic acidosis (pH 7.15, HCO3 9 mmol/L) is in diabetic ketoacidosis. The first step in management is fluid replacement with normal saline. Insulin therapy is started after resuscitation, after one hour from fluid therapy, and continuous low-dose intravenous infusion of short-acting insulin is used."
+    },
+    {
+      "stem": "A 6 years old child presenting to the ER with respiratory distress (RR=48/min). Examination reveals mild dehydration, acidotic breathing. What is the most helpful clue for the diagnosis?",
+      "options": [
+        "Blood glucose < 45 mg%",
+        "History of constipation in the last few days",
+        "History of secondary nocturnal enuresis",
+        "Non-ketonuric hyperglycemia"
+      ],
+      "correct": 2,
+      "explanation": "A 6-year-old child with respiratory distress and acidotic breathing is likely to have diabetic ketoacidosis. A history of secondary nocturnal enuresis (bed wetting) is a common symptom of diabetes mellitus due to polyuria."
+    },
+    {
+      "stem": "A 7 years old child presenting to the ER with acidotic breathing, moderate dehydration, ketonemia and blood sugar 360 mg/dL. What is the first step in therapy?",
+      "options": [
+        "Correction of acidosis with NaHCO3",
+        "Fluid replacement with glucose containing solution",
+        "Fluid replacement with saline",
+        "Subcutaneous insulin injection."
+      ],
+      "correct": 2,
+      "explanation": "A child with acidotic breathing, moderate dehydration, ketonemia, and high blood sugar is in diabetic ketoacidosis (DKA). The first step in therapy is fluid replacement with saline to correct the dehydration and hypovolemia."
+    },
+    {
+      "stem": "Sara was diagnosed at the age of 10 years as type 1 diabetes mellitus. The parents are asking about her long-term diabetic complications. Which of the following is correct?",
+      "options": [
+        "Low HbA1c is associated with increased risk of complications",
+        "Diabetic complications usually occur during the first 2 years after diagnosis",
+        "Microvasculopathy include retinopathy autonomic neuropathy and nephropathy",
+        "Mixed insulin is effective in prevention of diabetic complications"
+      ],
+      "correct": 2,
+      "explanation": "Long-term diabetic complications include microvasculopathy, which affects the small blood vessels and can lead to retinopathy, sensory and autonomic neuropathy, and nephropathy. Low HbA1c is associated with a decreased risk of complications."
+    },
+    {
+      "stem": "Ali is a 7 years old boy with type 1 diabetes. Which is correct about nutritional management of his diabetes?",
+      "options": [
+        "Animal fat is preferred to plant fat",
+        "Complex carbohydrates are preferred to simple ones",
+        "Low fiber diet is recommended",
+        "Proteins should constitute 30-35% of the caloric intake"
+      ],
+      "correct": 1,
+      "explanation": "For the nutritional management of diabetes, a healthy diet is recommended, with complex carbohydrates preferred over simple ones, as they provide a sustained release of glucose. Plant fats and oils are preferred over animal fats. Proteins should constitute about 15% of the total caloric requirement, not 30-35%."
+    },
+    {
+      "stem": "Brain edema complicating DKA remains a major cause of morbidity and mortality in children with type 1 DM. The following is a risk factor for development of brain edema:",
+      "options": [
+        "Continuous administration of insulin at a dose of 0.1 unit/kg/hour",
+        "Rapid correction of hyper-osmolality",
+        "Slow correction of blood glucose",
+        "Slow correction of fluid deficit"
+      ],
+      "correct": 1,
+      "explanation": "Cerebral edema is a major complication of diabetic ketoacidosis (DKA). One of the risk factors for its development is the rapid correction of hyper-osmolality. Correction of fluid deficit and blood glucose should be gradual to avoid this complication."
+    },
+    {
+      "stem": "A 7 years old boy complaining of rapid breathing and vomiting for 2 days. He has been receiving anti-emetic drugs without response. On examination he responds poorly to stimulation, has deep rapid breathing and sunken eyes. What is the most appropriate first step?",
+      "options": [
+        "CT of the brain",
+        "CSF examination",
+        "Infusion of sodium bicarbonate and insulin",
+        "Saline infusion"
+      ],
+      "correct": 3,
+      "explanation": "The patient presents with symptoms of diabetic ketoacidosis (DKA). The first and most appropriate step is resuscitation and rehydration with intravenous saline infusion to correct the dehydration and improve circulatory status."
+    },
+    {
+      "stem": "A 10-year-old girl presents to clinic with a 1-year history of abdominal pain and constipation. Recently she has been finding games lessons at school very tiring. Her mother has noticed that her shoe size has not changed over the last 2 years. On examination: weight 75th centile, height at 25th centile; pulse 60/m. Abdominally she has palpable fecal mass. Which of the following is the likely diagnosis?",
+      "options": [
+        "Acquired Hypothyroidism",
+        "Addison's disease",
+        "Constitutional delay of growth and puberty",
+        "Cushing syndrome"
+      ],
+      "correct": 0,
+      "explanation": "The patient's presentation of a 1-year history of abdominal pain and constipation, along with physical examination findings of growth failure (shoe size not changing, height at 25th percentile with normal weight), fatigue (finding games lessons tiring), and bradycardia (pulse 60/m), are classic symptoms of acquired hypothyroidism."
+    },
+    {
+      "stem": "A 9-year-old boy presents with vomiting and abdominal pain few hours ago. The mother reports that her child was in a good health until polyuria started 2 months ago, and he began to lose weight. On examination he has deep rapid breathing, respiratory rate 50/m and normal blood pressure. Chest x ray is normal. What is the most likely diagnosis?",
+      "options": [
+        "Acute leukemia",
+        "Diabetic ketoacidosis",
+        "Intestinal obstruction",
+        "Renal failure"
+      ],
+      "correct": 1,
+      "explanation": "The boy's history of polyuria and weight loss over the past two months, combined with the acute symptoms of vomiting, abdominal pain, and deep rapid breathing (Kussmaul breathing) on examination, strongly suggests diabetic ketoacidosis (DKA). These acute symptoms represent the metabolic derangement resulting from uncontrolled diabetes."
+    },
+    {
+      "stem": "A venous blood gases shows pH 7.05, HCO3 8 mmol/L may be present in the following condition:",
+      "options": [
+        "Bartter syndrome",
+        "Congenital hypertrophic pyloric stenosis (CHPS)",
+        "Diabetic ketoacidosis",
+        "Type 1 respiratory failure"
+      ],
+      "correct": 2,
+      "explanation": "The blood gas results of pH 7.05 and HCO3 8 mmol/L indicate severe metabolic acidosis. Diabetic ketoacidosis is an acute metabolic derangement that results in metabolic acidosis due to the accumulation of ketone bodies."
+    },
+    {
+      "stem": "Regarding typel diabetes, which of the following statements is correct:",
+      "options": [
+        "It is associated with marked insulin resistance",
+        "It is associated with some HLA types",
+        "It can be triggered by infectious agents as diphtheria",
+        "It is usually transmitted as single gene inheritance"
+      ],
+      "correct": 1,
+      "explanation": "Type 1 diabetes is an autoimmune disease with a strong genetic component. There is a known association between type 1 diabetes and susceptibility genes related to the human leukocyte antigen (HLA) in chromosome 6. It is not associated with marked insulin resistance (that is Type 2), and it is triggered by environmental factors, not necessarily infectious agents like diphtheria. It has a polygenic, not a single gene, inheritance."
+    },
+    {
+      "stem": "A false statement regarding congenital hypothyroidism is:",
+      "options": [
+        "Diagnosis can be suggested by routine T4 screening test in the newborn.",
+        "Diagnosis may be suggested by absent lower femoral epiphyses in X-ray of a full-term infant.",
+        "Once diagnosed, therapy is indicated for life.",
+        "Propranolol is the treatment of choice."
+      ],
+      "correct": 3,
+      "explanation": "Propranolol is a beta-blocker used to treat hyperthyroidism and other conditions. The treatment of choice for congenital hypothyroidism is L-thyroxine. The other statements are true regarding congenital hypothyroidism."
+    },
+    {
+      "stem": "Early manifestations of congenital hypothyroidism include:",
+      "options": [
+        "Clear facial features at birth.",
+        "Mental retardation",
+        "Open anterior fontanel is an important early feature.",
+        "Prolonged jaundice."
+      ],
+      "correct": 3,
+      "explanation": "Early manifestations of congenital hypothyroidism are often subtle or non-specific due to the transplacental passage of maternal T4. However, prolonged jaundice is one of the early symptoms that may be noticed in the first few weeks of life."
+    },
+    {
+      "stem": "Which is not a feature of congenital hypothyroidism?",
+      "options": [
+        "Hypothermia.",
+        "Hyperglycemia.",
+        "Prolonged hyperbilirubinemia.",
+        "Radiological signs of delayed osseous maturation."
+      ],
+      "correct": 1,
+      "explanation": "Hypothyroidism is a state of low metabolic activity. Hyperglycemia is a feature of diabetes mellitus. Congenital hypothyroidism is characterized by hypothermia, prolonged hyperbilirubinemia, and delayed osseous maturation."
+    },
+    {
+      "stem": "In children with hypothyroidism, a true statement is:",
+      "options": [
+        "Goitre must be present for diagnosis.",
+        "Hypertonia is usually present due to pyramidal tract affection.",
+        "Measuring TSH is the most sensitive test for diagnosis.",
+        "The tongue is usually protruded due to small oral cavity."
+      ],
+      "correct": 2,
+      "explanation": "TSH is the most sensitive test for primary hypothyroidism because its level is markedly elevated (above 50 micro unit/L) in this condition. The tongue is protruded because it is large, not because of a small oral cavity. Hypotonia is present, not hypertonia, and goiter is not always present."
+    },
+    {
+      "stem": "Manifestations of congenital hypothyroidism include",
+      "options": [
+        "Hepatomegaly",
+        "Hypotonia.",
+        "Polycythemia",
+        "Rickets"
+      ],
+      "correct": 1,
+      "explanation": "Manifestations of congenital hypothyroidism include hypotonia, poor feeding, abdominal distention, and umbilical hernia. Hepatomegaly and polycythemia are not typical manifestations, and rickets is associated with vitamin D deficiency, not hypothyroidism."
+    },
+    {
+      "stem": "Initial investigations of a child with DKA should include:",
+      "options": [
+        "Abdominal ultrasound",
+        "Blood culture",
+        "Urine culture & sensitivity",
+        "Venous blood gases"
+      ],
+      "correct": 3,
+      "explanation": "A child with DKA presents with deep rapid breathing, which is a sign of metabolic acidosis. Therefore, the most important initial investigation to confirm the acidosis is a venous blood gas analysis to check the pH and bicarbonate levels."
+    },
+    {
+      "stem": "The following is not a manifestation of DKA in children:",
+      "options": [
+        "Abdominal pain",
+        "Diarrhea",
+        "Tachypnea",
+        "Vomiting"
+      ],
+      "correct": 1,
+      "explanation": "DKA is characterized by symptoms such as vomiting, abdominal pain, and tachypnea. Diarrhea is not a typical manifestation of DKA."
+    },
+    {
+      "stem": "Concerning neonatal thyroid screening, what is the correct statement:",
+      "options": [
+        "It has a low sensitivity",
+        "It is a blood test",
+        "It is done for high-risk neonates only",
+        "It should be performed on Day 1 or 2"
+      ],
+      "correct": 1,
+      "explanation": "Neonatal thyroid screening is a blood test performed by heel prick on filter paper, and it is implemented for all newborns to prevent mental retardation. It is performed between the 3rd and 7th day of life, not on day 1 or 2."
+    },
+    {
+      "stem": "Regarding congenital hypothyroidism, which of the following statements is correct:",
+      "options": [
+        "It is usually caused by hypothalamic or pituitary defect",
+        "It is usually non-goitrous",
+        "Karyotyping is a helpful investigation",
+        "Maternal thyroidectomy may be the cause"
+      ],
+      "correct": 1,
+      "explanation": "The most common cause of congenital hypothyroidism is thyroid maldevelopment and agenesis, which results in a non-goitrous form of the disease. Hypothalamic or pituitary defects are rare causes."
+    },
+    {
+      "stem": "Which of the following is correct about congenital hypothyroidism?",
+      "options": [
+        "It may be caused by ingestion of iodine",
+        "It is known as Hashimoto's thyroiditis",
+        "Coarse features are always clear since birth",
+        "Hypotonia and umbilical hernia may be a manifestation"
+      ],
+      "correct": 3,
+      "explanation": "Congenital hypothyroidism can cause hypotonia, abdominal distention, and an umbilical hernia. Coarse features may be present but are not always clear since birth due to the transplacental passage of maternal thyroxine."
+    },
+    {
+      "stem": "The most accurate test of thyroid function is:",
+      "options": [
+        "Free T3",
+        "Free T4",
+        "Total T4",
+        "TSH"
+      ],
+      "correct": 3,
+      "explanation": "TSH (thyroid-stimulating hormone) is the most sensitive test for diagnosing primary hypothyroidism, where its level is markedly elevated."
+    },
+    {
+      "stem": "The most common cause of congenital hypothyroidism is:",
+      "options": [
+        "Dyshormonogenesis",
+        "Defect of iodide transport",
+        "Iodine deficiency",
+        "Thyroid maldevelopment"
+      ],
+      "correct": 3,
+      "explanation": "The most common cause of congenital hypothyroidism is thyroid maldevelopment, including agenesis and dysgenesis."
+    },
+    {
+      "stem": "The following can be present in patients with congenital hypothyroidism:",
+      "options": [
+        "Advanced bone age",
+        "Dehydration",
+        "Sinus bradycardia",
+        "Upper segment: Lower segment = 1:1.7"
+      ],
+      "correct": 2,
+      "explanation": "The normal ratio of the upper segment to the lower segment is 1.7:1 in infants. Hypothyroidism can cause physical retardation with short limbs. Bradycardia is a cardiac manifestation of hypothyroidism. A patient with congenital hypothyroidism may have sinus bradycardia."
+    },
+    {
+      "stem": "Which of the following is not a feature of type I diabetes mellitus?",
+      "options": [
+        "Usually affects children",
+        "Onset is insidious",
+        "The etiology is multifactorial",
+        "Insulin secretion is reduced"
+      ],
+      "correct": 1,
+      "explanation": "The onset of type 1 diabetes is typically acute and rapid, not insidious. It usually affects children, has a multifactorial etiology involving both genetics and environmental factors, and is characterized by a significant reduction or absence of insulin secretion."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Primary Health Care",
+  "questions": [
+    {
+      "stem": "The following are true about health promotion EXCEPT:",
+      "options": [
+        "Environmental sanitation",
+        "Active immunization",
+        "Healthy lifestyle",
+        "Health education"
+      ],
+      "correct": 1,
+      "explanation": "Active immunization is considered a form of specific protection, which is a component of primary prevention, rather than health promotion."
+    },
+    {
+      "stem": "The statement 'People feel the importance of primary health care services' indicates:",
+      "options": [
+        "Affordability",
+        "Accessibility",
+        "Acceptability",
+        "Availability"
+      ],
+      "correct": 2,
+      "explanation": "Acceptability refers to the willingness of the community to use the health services, which is influenced by cultural and social factors."
+    },
+    {
+      "stem": "Promotive elements of primary health care include all the following EXCEPT:",
+      "options": [
+        "Immunization",
+        "Availability of essential drugs",
+        "Safe water supply and basic sanitation",
+        "Maternal and child health and health education"
+      ],
+      "correct": 1,
+      "explanation": "The availability of essential drugs is a curative or treatment element of Primary Health Care, not a promotive one."
+    },
+    {
+      "stem": "Which of these is NOT an element of Primary Health Care (PHC)?",
+      "options": [
+        "Health education",
+        "Environmental sanitation",
+        "Setting health policies and legislations",
+        "Essential drug list"
+      ],
+      "correct": 2,
+      "explanation": "Setting health policies and legislation is a higher-level governmental function and not a direct element of the PHC service package itself."
+    },
+    {
+      "stem": "Which of the following statements about family practice is true?",
+      "options": [
+        "It ensures continuity of care for the same individual.",
+        "It does not ensure continuity of care for the disease.",
+        "A family folder is not necessary.",
+        "Comprehensive care is not involved in the practice."
+      ],
+      "correct": 0,
+      "explanation": "A core principle of family practice is providing continuous, comprehensive care for individuals and families over time."
+    },
+    {
+      "stem": "A health office has responsibilities concerning immunization activities.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "explanation": "True. Health offices are typically involved in the planning, delivery, and monitoring of public immunization programs."
+    },
+    {
+      "stem": "Promotion of food supply and proper nutrition is an element of PHC.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "explanation": "True. This is one of the eight essential elements of Primary Health Care as defined by the Alma-Ata Declaration."
+    },
+    {
+      "stem": "A needs assessment measures the gap between the current condition and international standards.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "explanation": "False. A needs assessment measures the gap between the current condition ('what is') and the desired condition or objective ('what should be') within a specific community, not necessarily against an international standard."
+    },
+    {
+      "stem": "Screening tests are not part of a PHC program.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "explanation": "False. Screening for common diseases and conditions is a key component of the preventive services offered within Primary Health Care."
+    }
+  ]
+}

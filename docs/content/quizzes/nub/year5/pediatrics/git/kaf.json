@@ -1,0 +1,665 @@
+{
+  "title": "KAF",
+  "questions": [
+    {
+      "stem": "A 2-year-old child presents with severe episodes of intermittent colicky abdominal pain, vomiting and bleeding per rectum. There was a recent history of an attack of diarrhea. A tubular mass is palpated in the right lower quadrant. To reach the diagnosis you should request:",
+      "options": [
+        "Abdominal US",
+        "Barium follow-through",
+        "Lower endoscopy",
+        "Upper endoscopy"
+      ],
+      "correct": 0,
+      "explanation": "The clinical presentation of a 2-year-old with severe, colicky abdominal pain, vomiting, and bleeding per rectum, particularly after a history of diarrhea, along with a palpable tubular mass, is highly suggestive of intussusception. An abdominal ultrasound (US) is the diagnostic investigation of choice for this condition."
+    },
+    {
+      "stem": "A 2-year-old child presents with gastroenteritis and moderate dehydration. Serum sodium is 165 mEq/L. In this type of dehydration, which of the following is an expected finding?",
+      "options": [
+        "Markedly sunken anterior fontanel",
+        "Moist oral mucous membranes",
+        "Polyuria",
+        "Very dry tongue"
+      ],
+      "correct": 3,
+      "explanation": "A serum sodium level of 165 mEq/L indicates hypernatremic (hypertonic) dehydration. This type of dehydration is characterized by water loss in excess of electrolyte loss, leading to a hypertonic extracellular fluid (ECF). This causes water to shift out of the cells, leading to cellular dehydration. The clinical signs of cellular dehydration include a very dry tongue and oral mucous membranes."
+    },
+    {
+      "stem": "An 18 month old male is brought to the emergency department with a chief complaint of diarrhea and vomiting for 2 days. His mother describes stools as liquid and foul smelling. He has about 6 episodes of diarrhea and 8 episodes of vomiting per day. His mother reports that he is not feeding well and his activity level is decreased. He seems weak, tired and sleepy. He has a decreased number of wet diapers. On examination, he has severe dehydration. The most important initial management steps:",
+      "options": [
+        "Give antidiarrheal medication",
+        "Give parenteral antiemetic",
+        "Insert IV line and correct dehydration",
+        "Send home advising the mother for giving ORS and excess fluids"
+      ],
+      "correct": 2,
+      "explanation": "The patient presents with signs of severe dehydration, including lethargy and decreased activity, a decreased number of wet diapers, and a history of vomiting and diarrhea. Severe dehydration is an indication for hospital management with intravenous (IV) fluid therapy. Starting an IV line to correct dehydration is the most important initial step. Antidiarrheal drugs are contraindicated, and oral rehydration solution (ORS) is for mild-to-moderate cases."
+    },
+    {
+      "stem": "A 6-month-old infant has crying spells followed by passage of bloody stools. On examination of abdomen a sausage shaped mass is palpable around the umbilicus. What is the most likely diagnosis?",
+      "options": [
+        "Acute intussusception.",
+        "Congenital pyloric stenosis",
+        "Duodenal atresia",
+        "Meconium ileus."
+      ],
+      "correct": 0,
+      "explanation": "The classic triad of intussusception is sudden, severe, paroxysmal abdominal pain (manifesting as crying spells), a palpable sausage-shaped abdominal mass, and passage of red currant jelly stools (bloody stools with mucus). The age of onset, clinical picture, and physical exam findings are all highly characteristic of acute intussusception."
+    },
+    {
+      "stem": "A 7-year-old presents with abdominal pain. The pain is described as periumbilical and dull and has occurred almost daily for the past 3 months. The pain does not seem to be related to food intake. His growth and development have been normal, he is not vomiting, and bowel movements are normal. Physical examination is remarkable. Stool and urine analysis are normal. Which of the following is the most appropriate next step in this patient's management?",
+      "options": [
+        "CT abdomen",
+        "Oral ranitidine",
+        "Reassurance",
+        "Upper GIT endoscopy"
+      ],
+      "correct": 2,
+      "explanation": "The patient's pain is described as periumbilical, dull in nature, not severe, and a long duration without interference with daily activities, vomiting, weight loss, or other signs of organic disease. The physical examination and basic lab work (stool and urine analysis) are normal. These features are characteristic of dysfunctional recurrent abdominal pain (also known as psychogenic or nonspecific abdominal pain), which constitutes more than 90% of cases of chronic abdominal pain in children. The appropriate management is reassurance."
+    },
+    {
+      "stem": "A 5-month-old female infant is brought to her physician with a 1-day history of diarrhea. The diarrhea has become more watery since it began. The patient vomited once yesterday but has fed fairly well since that time. On examination, the patient is alert and active. Physical examination is remarkable for dry lips and sticky mucus membranes. Which of the following is the most appropriate next step in this patient's management?",
+      "options": [
+        "Administer intravenous isotonic fluid",
+        "Administer oral antidiarrheal drugs",
+        "Administer oral rehydration solution",
+        "Restrict diet to clear liquids only"
+      ],
+      "correct": 2,
+      "explanation": "The patient has a history of watery diarrhea and dry mucous membranes, but is still alert and active, indicating she is likely in a state of mild-to-moderate dehydration. The most important line of treatment and the first step in managing a child with mild-to-moderate dehydration is oral rehydration therapy (ORS). IV fluids are for severe dehydration or shock, while antidiarrheal drugs are contraindicated. Diet should not be restricted to clear liquids only; feeding should be resumed shortly after starting rehydration."
+    },
+    {
+      "stem": "A one year old boy presented to the emergency room with severe colicky abdominal pain associated with vomiting and bleeding per rectum. Abdominal examination revealed abdominal mass felt in the right upper quadrant. Rectal examination revealed blood on the finger on withdrawal. The most appropriate line of treatment is:",
+      "options": [
+        "Close follow-up",
+        "Surgical consultation",
+        "3rd generation cephalosporin and metronidazole",
+        "Withdrawal of cow's milk from feeds"
+      ],
+      "correct": 1,
+      "explanation": "The clinical picture of severe colicky abdominal pain, vomiting, bleeding per rectum, a palpable abdominal mass, and blood on rectal examination is the classic presentation of intussusception. This condition is a surgical emergency that requires immediate surgical consultation."
+    },
+    {
+      "stem": "A 6-year-old child presents with abdominal pain. The pain is described as dull and not interfering with the child activity. Which of the following manifestations is consistent with organic cause?",
+      "options": [
+        "Dull aching nature",
+        "Duration less than 20 minutes",
+        "Flank pain",
+        "Peri-umbical in site"
+      ],
+      "correct": 2,
+      "explanation": "Dysfunctional abdominal pain is typically vague, dull aching in nature, periumbilical in location, and subsides in less than 20 minutes. Organic abdominal pain is often away from the umbilicus, and flank pain is a characteristic symptom of pyelonephritis, a potential organic cause of abdominal pain."
+    },
+    {
+      "stem": "A 5 week old male presented with projectile vomiting after feeding and poor weight gain. On examination, visible peristalsis is seen as a wave moving from left to right across the abdomen. The most appropriate treatment of this condition is:",
+      "options": [
+        "Antiemetic drugs",
+        "Drugs enhancing gastric emptying",
+        "Surgery",
+        "Thickening agents to the feeds"
+      ],
+      "correct": 2,
+      "explanation": "The clinical presentation of a 5-week-old infant with projectile, non-bilious vomiting, poor weight gain, and visible gastric peristalsis is classic for congenital hypertrophic pyloric stenosis. The definitive treatment for this condition is a surgical pyloromyotomy."
+    },
+    {
+      "stem": "A 3 year old boy presents to the ER with history of severe persistent vomiting and diarrhea over the last 36 hours. On examination the child was severely dehydrated, with cold extremities. The skin was mottled, heart rate 160/min and blood pressure 60/30. The expected acid-base disturbance is:",
+      "options": [
+        "Metabolic acidosis",
+        "Metabolic alkalosis",
+        "Respiratory acidosis",
+        "Respiratory alkalosis"
+      ],
+      "correct": 0,
+      "explanation": "The patient is in hypovolemic shock due to severe vomiting and diarrhea, as evidenced by severe dehydration, cold mottled skin, tachycardia, and hypotension. Shock leads to tissue hypoperfusion and lactic acid accumulation, which causes metabolic acidosis."
+    },
+    {
+      "stem": "A newborn noticed to have chocking attacks immediately on starting bottle feeding associated with cyanosis. On examination his heart was normal, but his lungs show bilateral crepitations. After two days he was worse and hospitalized. CXR revealed aspiration pneumonia, and he was put on the ventilator. The next step to reach a diagnosis is:",
+      "options": [
+        "Arterial blood gases",
+        "Barium meal",
+        "Echocardiography",
+        "Radio-opaque nasogastric tube"
+      ],
+      "correct": 3,
+      "explanation": "Choking and cyanosis with feeding, along with bilateral lung crepitations and aspiration pneumonia, are classic signs of tracheo-esophageal fistula (TEF) or esophageal atresia. The most common type is esophageal atresia with a tracheo-esophageal fistula. The key diagnostic step is to attempt to pass a nasogastric tube, which will be unable to pass to the stomach and will be seen coiled in the esophageal pouch on an X-ray."
+    },
+    {
+      "stem": "A 5 months old infant presenting to the ER with moderate dehydration. The patient is not shocked. If IV fluid therapy is indicated, what is the most appropriate solution to correct dehydration?",
+      "options": [
+        "Glucose 5%: Saline at a ratio of 1:1 over 8 hours",
+        "Glucose 5%: Saline at a ratio of 4:1 over 24 hours",
+        "Ringer lactate solution 20 ml/Kg over 1 hour",
+        "Ringer lactate solution 20 ml/Kg over 16 hours"
+      ],
+      "correct": 0,
+      "explanation": "For moderate dehydration without shock, the first step is to correct the fluid deficit. The recommended fluid solution is glucose 5% and saline in a 1:1 ratio, and the deficit should be given over 6-8 hours. The dosage for shock therapy is a bolus of 10-20 ml/kg over 20-30 minutes, not 1 hour or 16 hours."
+    },
+    {
+      "stem": "A 5 months old infant presenting to the ER with mild dehydration. He is fully conscious, not shocked and his weight is 7 Kg. What is the most correct statement about management of dehydration?",
+      "options": [
+        "Ringer lactate solution 20 ml/Kg over 1 hour",
+        "ORS: 700 ml over 4-6 hours",
+        "ORS: 350 ml over 4-6 hours",
+        "ORS followed by maintenance intravenous fluids"
+      ],
+      "correct": 2,
+      "explanation": "For mild dehydration, the management is oral rehydration therapy (ORS). The volume of ORS for mild dehydration is 50 ml/kg over 4-6 hours. For a 7 kg infant, the required amount is 50x7=350 ml over 4-6 hours."
+    },
+    {
+      "stem": "A one Month old boy is brought to the emergency department by his mother, who states that he has projectile vomiting for the past several days. She states that he vomits every time she feeds him and the vomitus is non-bilious. Blood gases revealed hypochloremic metabolic alkalosis. Expected findings do not include:",
+      "options": [
+        "Constipation",
+        "Double bubble sign",
+        "Hypokalemia",
+        "Prolonged neonatal jaundice"
+      ],
+      "correct": 1,
+      "explanation": "The clinical picture of projectile, non-bilious vomiting in a one-month-old with hypochloremic metabolic alkalosis is classic for hypertrophic pyloric stenosis. A 'double bubble sign' on an abdominal X-ray is characteristic of duodenal atresia, an intestinal obstruction that presents at birth with bilious vomiting."
+    },
+    {
+      "stem": "A 4 years old boy presenting to the ER with drooling, vomiting, dysphagia following ingestion of a cleaning agent of unknown nature. The correct management of this case should include:",
+      "options": [
+        "Activated charcoal",
+        "Induction of emesis",
+        "IV fluid until endoscopy",
+        "Stomach wash"
+      ],
+      "correct": 2,
+      "explanation": "The patient has ingested a corrosive agent. In cases of corrosive ingestion, it is contraindicated to induce emesis, perform a stomach wash, or use activated charcoal. The appropriate management includes hospital admission, starting IV fluids, and performing an endoscopy to assess the extent of the injury."
+    },
+    {
+      "stem": "A 4 years old boy presenting to the ER with recent history of ingestion of a disc battery. X-ray showed that the battery is present in the esophagus. There is no vomiting, dysphagia nor abdominal pain. The correct management of this case should include:",
+      "options": [
+        "Activated charcoal",
+        "Close follow-up",
+        "Emergency endoscopic removal",
+        "Induction of emesis"
+      ],
+      "correct": 2,
+      "explanation": "Disc batteries lodged in the esophagus are considered corrosive and can cause significant local tissue injury and perforation. Therefore, even if the patient is asymptomatic, an emergency endoscopic removal is necessary."
+    },
+    {
+      "stem": "Eight months old infant has a 2 day history of diarrhea and poor fluid intake. You diagnose 10 to 15% dehydration. Serum Na is 140 mEq/L. Which of the following fluid is appropriate to begin immediate rehydration?",
+      "options": [
+        "Normal saline",
+        "Whole blood",
+        "Glucose 5% and normal saline (1:4)",
+        "Glucose 5% and normal saline (1:2)"
+      ],
+      "correct": 0,
+      "explanation": "The patient has severe dehydration (10-15%) with shock, as indicated by a dehydration level this high. Shock therapy requires immediate administration of intravenous fluid, typically Ringer's lactate or normal saline, at a dose of 10-20 ml/kg over 20-30 minutes."
+    },
+    {
+      "stem": "A 6-month-old baby is admitted with complaint of vomiting and abdominal distention of 36 hours duration. On examination, the baby is dehydrated and the abdomen is distended, there is visible intestinal peristalsis and a mass is palpable in the right hypochondrium. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Acute intussusception",
+        "Congenital pyloric stenosis",
+        "Fecal mass",
+        "Meconium ileus"
+      ],
+      "correct": 0,
+      "explanation": "The age of the patient (6 months), the presence of vomiting, abdominal distention, and a palpable mass in the right hypochondrium strongly suggest intussusception. While pyloric stenosis typically presents earlier with non-bilious vomiting and a different mass location, and meconium ileus is a neonatal presentation, intussusception is the most common cause of intestinal obstruction in infancy and fits this clinical picture."
+    },
+    {
+      "stem": "A 2-day-old female presents with abdominal distension and vomiting. She has not yet passed a meconium stool. What is the most likely diagnosis?",
+      "options": [
+        "Hirschsprung Disease",
+        "Malrotation with midgut volvulus",
+        "Necrotizing enterocolitis",
+        "Pyloric stenosis"
+      ],
+      "correct": 0,
+      "explanation": "The patient is a newborn with abdominal distention, vomiting, and a history of delayed passage of meconium. This is the classic presentation of Hirschsprung disease."
+    },
+    {
+      "stem": "An 8-month-old infant is admitted with history of excessive crying with pain in the abdomen. Child is pale and pain is recurrent. An hour before hospitalization the child was passing blood and mucus per rectum. What is the most likely diagnosis?",
+      "options": [
+        "Acute amebic colitis",
+        "Acute bacillary dysentery",
+        "Acute appendicitis",
+        "Acute intussusception"
+      ],
+      "correct": 3,
+      "explanation": "The patient's age (8 months), presentation with excessive crying (paroxysmal pain), pallor, and the passage of blood and mucus (red currant jelly stools) are classic signs of intussusception."
+    },
+    {
+      "stem": "A 12-month-old girl has been spitting up her meals since 1-month of age. Her growth is at the ninety-fifth percentile, and she is otherwise asymptomatic and without findings on physical examination. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Gastroesophageal reflux",
+        "Hirschsprung Disease",
+        "Partial duodenal atresia",
+        "Pyloric stenosis"
+      ],
+      "correct": 0,
+      "explanation": "The child presents with regurgitation (spitting up), but her growth is excellent, and she has no other symptoms or signs of a serious underlying condition. This is a common presentation of gastroesophageal reflux (GER) in an otherwise healthy infant. The condition is typically benign and self-limiting."
+    },
+    {
+      "stem": "A 10-month-old boy has a 5 hours history of crying with intermittent drawing up his knees to his chest, on the way to the emergency room he passes a loose, bloody stool. Physical examination reveals sausage shaped mass in the right upper quadrant. Plain X ray of the abdomen might show",
+      "options": [
+        "Air under the diaphragm",
+        "Double bubble sign",
+        "Multiple air fluid levels",
+        "Renal stones"
+      ],
+      "correct": 2,
+      "explanation": "The patient's clinical signs (paroxysmal crying, bloody stool, sausage-shaped mass) are classic for intussusception, a type of intestinal obstruction. Intestinal obstruction is characterized on plain abdominal X-ray by the presence of multiple air-fluid levels."
+    },
+    {
+      "stem": "A 13-year old boy presents with a 6-month- history of recurrent abdominal pain and constipation. The pain occurs mostly in the evenings, just before he goes to sleep, Abdominal examination revealed a mass felt in the left lower quadrant. All labs are normal. Which of the following is the most likely cause?",
+      "options": [
+        "Celiac disease",
+        "Fecal mass",
+        "Hirschsprung disease",
+        "Intussusception"
+      ],
+      "correct": 1,
+      "explanation": "The patient has a history of long-standing constipation and recurrent abdominal pain, with a palpable mass in the left lower quadrant, which is the typical location for an impacted fecal mass. The labs are normal, ruling out other organic causes. This clinical picture is most consistent with functional constipation leading to fecal impaction."
+    },
+    {
+      "stem": "An 18-month-old child presents to the emergency center having had a brief generalized tonic-clonic seizure. He is now postictal and has a temperature of 40°C. During examination he has a large watery stool that has both blood and mucus in it. Which of the following is the most likely cause?",
+      "options": [
+        "Enterovirus",
+        "Rotavirus",
+        "Salmonella",
+        "Shigella"
+      ],
+      "correct": 3,
+      "explanation": "The patient has a high fever, convulsions, and bloody diarrhea. The combination of high fever, bloody diarrhea (enterocolitis), and neurological symptoms (convulsions) in a young child is a known complication of Shigella infection."
+    },
+    {
+      "stem": "A 5 week old boy presents to clinic with vomiting for the last 2 weeks. He is not gaining weight properly. The mother states the vomiting is projectile, non-bilious but she feels that he has a good suck and swallow. Examination revealed an olive like mass felt to the right of umbilicus. Which of the following is the likely diagnosis?",
+      "options": [
+        "Congenial hypertrophic pyloric stenosis",
+        "Early gastroenteritis",
+        "Fecal mass",
+        "Sepsis"
+      ],
+      "correct": 0,
+      "explanation": "The patient's age (5 weeks), the history of projectile, non-bilious vomiting that started in the last two weeks, poor weight gain, and the pathognomonic finding of an olive-like mass in the abdomen are all classic signs of congenital hypertrophic pyloric stenosis."
+    },
+    {
+      "stem": "A 12-month-old girl is brought to the emergency department by her mother. She has had ten watery stools and five vomits in the previous 12 hours. She is eating poorly but drinks eagerly, has no fever and is bright and alert. Her eyes look sunken, but anterior fontanel and capillary refill are normal. There is no blood in the stool and the vomitus is clear yellow in color. Which of the following is the correct diagnosis?",
+      "options": [
+        "Hypovolemic shock",
+        "Mild dehydration",
+        "Moderate dehydration",
+        "Severe dehydration"
+      ],
+      "correct": 2,
+      "explanation": "According to the dehydration grading table, a child with sunken eyes, normal capillary refill, and a normal fontanel falls into the category of moderate dehydration. The absence of hypotension and tachycardia indicates that the child is not yet in shock."
+    },
+    {
+      "stem": "Proper management of case 26 includes:",
+      "options": [
+        "Delaying feeding for 48 hours",
+        "Giving oral rehydration solution",
+        "Prescribe antibiotics",
+        "Use anti-diarrheals"
+      ],
+      "correct": 1,
+      "explanation": "The patient in the previous question has moderate dehydration without shock. The most appropriate management is to administer an oral rehydration solution. Giving antidiarrheal drugs is contraindicated, and feeding should be continued."
+    },
+    {
+      "stem": "A 6 month old breast fed infant has been getting suppositories and enemas every 3-4 days because she does not otherwise defecate. She had neonatal history of delayed passage of meconium. Rectal examination finds an empty rectum. This infant most probably has:",
+      "options": [
+        "Celiac disease",
+        "Functional constipation",
+        "Hirschsprung disease",
+        "Imperforate anus"
+      ],
+      "correct": 2,
+      "explanation": "The classic triad of Hirschsprung disease includes a history of delayed passage of meconium, chronic constipation requiring intervention (suppositories, enemas), and an empty rectum on digital examination."
+    },
+    {
+      "stem": "Which of the following investigations you will order for case 28?",
+      "options": [
+        "Barium enema",
+        "Jejunal biopsy",
+        "Liver function tests",
+        "Stool culture"
+      ],
+      "correct": 0,
+      "explanation": "The clinical picture of chronic constipation with delayed meconium and an empty rectum is highly suggestive of Hirschsprung disease. A barium enema is a standard diagnostic investigation for this condition. A rectal biopsy is the gold standard for a definitive diagnosis."
+    },
+    {
+      "stem": "The proper management for case 28 is:",
+      "options": [
+        "Gluten free diet",
+        "Giving antibiotics",
+        "Lactose free formula",
+        "Surgical"
+      ],
+      "correct": 3,
+      "explanation": "The patient's clinical presentation points to Hirschsprung disease. The definitive treatment for this condition is surgical intervention."
+    },
+    {
+      "stem": "Which of the following is true about Celiac disease?",
+      "options": [
+        "Is an autosomal dominant inherited disorder",
+        "Is an immune-mediated disorder that may be associated with diabetes mellitus",
+        "Is due to atrophy of the villi within the colon",
+        "Is due to a lack of pancreatic exocrine enzyme function"
+      ],
+      "correct": 1,
+      "explanation": "Celiac disease is described as an immune-mediated enteropathy induced by gluten in genetically predisposed individuals. It is associated with other autoimmune disorders like diabetes and thyroiditis. It affects the small intestine, not the colon, causing villous atrophy."
+    },
+    {
+      "stem": "Which of the following is true regarding gastro-oesophageal reflux disease?",
+      "options": [
+        "Can be a cause of apnea in infants",
+        "Is a cause of bilious vomiting",
+        "Is uncommon in children with severe physical disability",
+        "Is usually due to incompetent upper esophageal sphincter"
+      ],
+      "correct": 0,
+      "explanation": "The textbook states that gastro-esophageal reflux (GER) can be a cause of apnea in infants. GER causes non-bilious vomiting, is common in children with severe physical disabilities, and is due to an incompetent lower esophageal sphincter, not the upper one."
+    },
+    {
+      "stem": "Which of the following supports dysfunctional recurrent abdominal pain?",
+      "options": [
+        "Pain located periumbilical",
+        "Pain radiates to the back",
+        "Prolonged fever",
+        "Weight loss"
+      ],
+      "correct": 0,
+      "explanation": "Dysfunctional recurrent abdominal pain is typically vague, dull aching, and located periumbilically. Pain radiating to the back may suggest pancreatitis, and prolonged fever or weight loss would point toward an organic cause."
+    },
+    {
+      "stem": "For a 16 kg boy, maintenance IV fluid requirement should be:",
+      "options": [
+        "1000 ml",
+        "1200 ml",
+        "1300 ml",
+        "1600 ml"
+      ],
+      "correct": 2,
+      "explanation": "The maintenance fluid requirement is calculated based on weight. For the first 10 kg, it's 100 ml/kg (so 10x100=1000 ml). For each kg from 11-20 kg, it's 50 ml/kg (so for the next 6 kg, it's 6x50=300 ml). The total is 1000+300=1300 ml per 24 hours."
+    },
+    {
+      "stem": "The amount of oral rehydration solution for a 6 month old infant with diarrhea and mild dehydration is:",
+      "options": [
+        "50 ml/kg",
+        "75 ml/kg",
+        "150 ml/kg",
+        "300 ml/kg"
+      ],
+      "correct": 0,
+      "explanation": "The textbook states that for a child with mild dehydration, the amount of ORS to be given is 50-80 ml/kg. The most common initial dose in this range is 50 ml/kg."
+    },
+    {
+      "stem": "Glucose in oral rehydration solution (ORS) is added to:",
+      "options": [
+        "Facilitate sodium absorption",
+        "Improve the taste",
+        "Meet the child's energy requirements",
+        "Prevent malnutrition"
+      ],
+      "correct": 0,
+      "explanation": "The mechanism of action of ORS depends on glucose-facilitated sodium absorption, which helps in rehydration. While glucose provides some calories, its primary role in ORS is to aid sodium and water absorption."
+    },
+    {
+      "stem": "The most common viral cause of gastroenteritis in infants is:",
+      "options": [
+        "Adenovirus",
+        "Echo virus",
+        "Parvovirus B19",
+        "Rota virus"
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists Rotavirus as a common viral agent causing gastroenteritis."
+    },
+    {
+      "stem": "The correct statement about ORS therapy is:",
+      "options": [
+        "It can be given by nasogastric tube",
+        "It is used to stop diarrhea",
+        "It is used mainly in bacterial gastroenteritis",
+        "It should be given rapidly to correct dehydration"
+      ],
+      "correct": 0,
+      "explanation": "ORS can be administered via a nasogastric tube in cases where the child is unconscious, uncooperative, or has persistent vomiting. ORS does not stop diarrhea; its function is to facilitate sodium and water absorption. It is effective for all types of microorganisms, not just bacteria. It should be given slowly to avoid vomiting."
+    },
+    {
+      "stem": "The correct statement about ORS composition is:",
+      "options": [
+        "Action depends on glucose-facilitated potassium absorption",
+        "Can be given undiluted",
+        "Constituents include: Na, Cl, K, Glucose",
+        "Should be diluted in 100 ml water"
+      ],
+      "correct": 2,
+      "explanation": "The composition of ORS includes sodium (Na), chloride (Cl), potassium (K), and glucose. Its action depends on glucose-facilitated sodium absorption, not potassium absorption. It is prepared by dissolving a packet in 1 liter of water, not 100 ml."
+    },
+    {
+      "stem": "Which of the following is true about Celiac disease?",
+      "options": [
+        "Eating gluten triggers an immune response in the large intestine.",
+        "It is an autosomal dominant disease",
+        "It is due to atrophy of the villi within the colon",
+        "It may be manifested by short stature"
+      ],
+      "correct": 3,
+      "explanation": "Celiac disease is an immune-mediated disorder affecting the small intestine, characterized by villous atrophy. It can present in later childhood with growth failure or short stature, with or without gastrointestinal symptoms."
+    },
+    {
+      "stem": "Gastro-esophageal reflux disease (GERD):",
+      "options": [
+        "Can be a cause of apnea in infants",
+        "Is a cause of bilious vomiting",
+        "Is uncommon in children with severe physical disability",
+        "Is usually due to incompetent upper esophageal sphincter"
+      ],
+      "correct": 0,
+      "explanation": "The textbook states that gastro-esophageal reflux (GERD) is a cause of apnea in infants. It is not a cause of bilious vomiting, as the gastric contents have not yet passed the pylorus. GERD is common in children with severe physical disabilities and is usually due to an incompetent lower esophageal sphincter, not the upper one."
+    },
+    {
+      "stem": "Which of the following is true regarding lactose intolerance in a 4 year old child?",
+      "options": [
+        "Is likely to cause blood and mucous in the stools",
+        "Is most likely temporary, secondary to acquired lactase deficiency",
+        "Is treated by amino-acid or soy protein based formula",
+        "Is usually due to a genetic deficiency of intestinal lactase enzyme"
+      ],
+      "correct": 1,
+      "explanation": "Lactose intolerance is often secondary to acute gastroenteritis, which damages the intestinal mucosa and causes a temporary loss of the lactase enzyme. It presents with watery, acidic stools and is treated with a lactose-free formula for a few days. Bloody stools are a sign of cow's milk protein allergy."
+    },
+    {
+      "stem": "Congenital hypertrophic pyloric stenosis:",
+      "options": [
+        "Can be associated with hyperchloremic alkalosis in severe cases",
+        "Is more common in girls",
+        "Is treated by surgical pyloromyotomy",
+        "Is usually discovered with first feed"
+      ],
+      "correct": 2,
+      "explanation": "Congenital hypertrophic pyloric stenosis is treated by surgical pyloromyotomy. It is more common in boys and is typically discovered between 2-6 weeks of age, not with the first feed."
+    },
+    {
+      "stem": "Which of the following is used to manage hypernatremic dehydration?",
+      "options": [
+        "Calcium gluconate 10%",
+        "Glucose/saline in a ratio 3:1",
+        "Glucose 10%",
+        "Glucose 4 ml/kg + insulin (1 unit insulin for 20 ml glucose 10%)"
+      ],
+      "correct": 1,
+      "explanation": "For hypernatremic dehydration, the deficit fluid is a glucose/saline solution in a ratio of 3:1 or 2:1, which has a low sodium content to allow for a gradual reduction in serum sodium and prevent cerebral edema. Calcium gluconate is for hypocalcemia, and glucose with insulin is for diabetic ketoacidosis."
+    },
+    {
+      "stem": "Which condition is not associated with vomiting?",
+      "options": [
+        "Aminoacidopathies",
+        "DKA",
+        "Intestinal obstruction",
+        "Vitamin D deficiency"
+      ],
+      "correct": 3,
+      "explanation": "Aminoacidopathies, Diabetic Ketoacidosis (DKA), and intestinal obstruction are all causes of vomiting. Vitamin D deficiency leads to rickets, which is not typically associated with vomiting."
+    },
+    {
+      "stem": "Concerning oral lesions. What is the correct statement:",
+      "options": [
+        "Herpangina is caused by Herpes simplex virus",
+        "Monilial stomatitis is characterized by multiple ulcers mostly on the tongue",
+        "Monilial stomatitis can be treated by nystatin or miconazole",
+        "Persistent Candida infection may be due to humoral immunodeficiency"
+      ],
+      "correct": 2,
+      "explanation": "Monilial stomatitis (thrush) is caused by Candida albicans and is treated with oral nystatin or miconazole. Herpangina is caused by Coxsackievirus, not Herpes simplex. Monilial stomatitis presents with white plaques, not ulcers. Persistent Candida infection may be due to T-cell, not humoral, immunodeficiency."
+    },
+    {
+      "stem": "The following is a cause of persistent diarrhea:",
+      "options": [
+        "Over feeding",
+        "Oral ampicillin",
+        "Lactose intolerance",
+        "Rota virus"
+      ],
+      "correct": 2,
+      "explanation": "Lactose intolerance is listed as a cause of persistent diarrhea. Overfeeding, oral ampicillin, and Rotavirus are causes of acute diarrhea."
+    },
+    {
+      "stem": "Which is not a cause of bloody diarrhea?",
+      "options": [
+        "E.coli",
+        "Entameba histolytica",
+        "Rota virus",
+        "Salmonella"
+      ],
+      "correct": 2,
+      "explanation": "Rotavirus causes watery diarrhea. Enteroinvasive E. coli, Entameba histolytica, and Salmonella are all listed as causes of bloody diarrhea."
+    },
+    {
+      "stem": "Gastroenteritis is commonly associated with:",
+      "options": [
+        "Heart failure",
+        "Hypokalemia",
+        "Metabolic alkalosis",
+        "Polyuria"
+      ],
+      "correct": 1,
+      "explanation": "Hypokalemia is a common complication of severe gastroenteritis due to increased intestinal fluid loss. Metabolic acidosis is a common complication, not alkalosis."
+    },
+    {
+      "stem": "Gastroenteritis is not complicated by",
+      "options": [
+        "Acute kidney injury",
+        "Convulsions",
+        "DIC (Disseminated intravascular coagulopathy)",
+        "Hypercalcemia"
+      ],
+      "correct": 3,
+      "explanation": "Gastroenteritis can lead to acute kidney injury, convulsions, and Disseminated intravascular coagulopathy (DIC) as complications. It is more likely to cause hypocalcemia due to fluid loss, not hypercalcemia."
+    },
+    {
+      "stem": "Convulsions in GE may be caused by:",
+      "options": [
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hypokalemia",
+        "Hyponatremia"
+      ],
+      "correct": 3,
+      "explanation": "Convulsions in gastroenteritis can be caused by metabolic disturbances, including hyponatremia and hypernatremia, as well as fever and toxins."
+    },
+    {
+      "stem": "Investigations of gastroenteritis does not include :",
+      "options": [
+        "Blood gases & electrolytes",
+        "Kidney function tests",
+        "Lower endoscopy",
+        "Stool analysis"
+      ],
+      "correct": 2,
+      "explanation": "The diagnosis of gastroenteritis is primarily clinical. Investigations are aimed at identifying complications or the causative organism. These include blood gases, electrolytes, kidney function tests, and stool analysis. A lower endoscopy is not a routine investigation for gastroenteritis."
+    },
+    {
+      "stem": "Concerning management of gastroenteritis. What is the correct statement:",
+      "options": [
+        "Antibiotics are indicated in most cases",
+        "Anti-motility drugs can be tried in older children",
+        "Feeding should be stopped for at least 12 hours",
+        "It can be managed at home"
+      ],
+      "correct": 3,
+      "explanation": "Mild-to-moderate gastroenteritis can be managed at home with oral rehydration therapy and continued feeding. Antibiotics are not indicated in most cases since many are viral. Anti-motility drugs are contraindicated. Feeding should be started shortly after rehydration begins, not stopped for 12 hours."
+    },
+    {
+      "stem": "In gastro-esophageal reflux one of the following is wrong",
+      "options": [
+        "Dystonic movements of head & neck may be associated",
+        "It may be asymptomatic",
+        "Most cases resolve spontaneously",
+        "Symptoms usually start after 1st year of life"
+      ],
+      "correct": 3,
+      "explanation": "Gastro-esophageal reflux (GER) symptoms usually start in infancy, often before the first year of life. It can be asymptomatic, most cases resolve spontaneously, and abnormal posturing (Sandifer syndrome) can be associated with severe cases."
+    },
+    {
+      "stem": "Which is not a cause of oropharyngeal dysphagia?",
+      "options": [
+        "Cerebral palsy",
+        "Esophagitis",
+        "Scleroderma",
+        "Vascular ring"
+      ],
+      "correct": 1,
+      "explanation": "Esophagitis is a cause of esophageal dysphagia, characterized by difficulty in food transport through the esophagus. Cerebral palsy, scleroderma, and vascular ring are causes of oropharyngeal or mechanical dysphagia."
+    },
+    {
+      "stem": "Regarding persistent diarrhea, which statement is correct?",
+      "options": [
+        "In sugar intolerance the stool is bloody",
+        "In cow's milk allergy the stool is acidic",
+        "In bacterial overgrowth colonic bacteria invade upper part of small intestine",
+        "Vitamin D is the most important vitamin to be replaced"
+      ],
+      "correct": 2,
+      "explanation": "The textbook states that in bacterial overgrowth, colonic bacteria invade the upper small intestine, leading to mucosal damage and persistent diarrhea. In sugar intolerance, the stool is acidic due to undigested sugars, while bloody stools are characteristic of cow's milk protein allergy."
+    },
+    {
+      "stem": "The following is not a cause of emesis in childhood:",
+      "options": [
+        "Aminoacidopathy",
+        "Hepatitis",
+        "Peptic ulcer",
+        "Pertussis"
+      ],
+      "correct": 2,
+      "explanation": "Peptic ulcer is not mentioned as a cause of vomiting in the provided text. The textbook lists aminoacidopathies, hepatitis, and pertussis as causes of vomiting."
+    },
+    {
+      "stem": "The most important step in treatment of acute gastro-enteritis in infants is:",
+      "options": [
+        "Early oral antibiotics and constipating drugs",
+        "Early oral antibiotics and intestinal spasmolytic drugs",
+        "Early oral rehydration solution and continuation of breast feeding",
+        "Early oral rehydration solution and stop oral feeding"
+      ],
+      "correct": 2,
+      "explanation": "The most important step is correction of dehydration with oral rehydration solution, followed by continuation of breast feeding or early re-feeding. The textbook explicitly states that antibiotics are not indicated in most cases and anti-motility drugs are contraindicated."
+    },
+    {
+      "stem": "Which is a cause of acute abdominal pain?",
+      "options": [
+        "Diabetic ketosis",
+        "Lower lobe pneumonia",
+        "Pharyngitis",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists all of the above conditions as medical causes of acute abdominal pain. Diabetic ketoacidosis, lower lobe pneumonia, and pharyngitis (through mesenteric adenitis) can all present with abdominal pain."
+    },
+    {
+      "stem": "Of the following, the most common symptom of gastroesophageal reflux disease in infants is:",
+      "options": [
+        "Abnormal posturing",
+        "Excessive crying",
+        "Failure to thrive",
+        "Regurgitation"
+      ],
+      "correct": 3,
+      "explanation": "Regurgitation (non-forceful return of gastric contents) is the most common symptom of gastroesophageal reflux disease in infants. It is so common that it is often referred to as 'spitting up'."
+    }
+  ]
+}

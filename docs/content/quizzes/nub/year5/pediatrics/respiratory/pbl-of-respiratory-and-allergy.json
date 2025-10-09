@@ -1,0 +1,843 @@
+{
+  "title": "PBL of Respiratory & Allergy",
+  "questions": [
+    {
+      "stem": "All of the following are causes of a wheezy chest in children except:",
+      "options": [
+        "Bronchial Asthma",
+        "Lobar pneumonia",
+        "Aspiration",
+        "Bronchopulmonary Dysplasia (BPD)"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "In asthma, controller medications include all of the following except:",
+      "options": [
+        "Inhaled Corticosteroids (ICS)",
+        "Long-Acting Beta-Agonists (LABA)",
+        "Short-Acting Beta-Agonists (SABA)",
+        "Leukotriene Receptor Antagonists (LTRA)"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "One of the following is considered a part of chest auscultation:",
+      "options": [
+        "Wheezing",
+        "Cyanosis",
+        "Pigmentation"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "All of the following are lines of treatment for anaphylaxis except:",
+      "options": [
+        "IV corticosteroids",
+        "IM epinephrine",
+        "Nebulized salbutamol",
+        "Antibiotics"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A primary investigation for diagnosing bronchial asthma is spirometry.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "All of the following are causes of type 1 respiratory failure except:",
+      "options": [
+        "Severe pneumonia",
+        "Massive lung collapse",
+        "Tension pneumothorax",
+        "Intracranial haemorrhage"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 12-year-old male presents with a 1-month history of fever, cough, profuse nocturnal sweating, and loss of appetite, unresponsive to antibiotics. Examination shows a temp of 38°C, and bilateral lower lobe crepitations. What is the most likely diagnosis?",
+      "options": [
+        "Cystic fibrosis",
+        "Tuberculosis",
+        "Bronchial asthma",
+        "Bronchopneumonia"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Regarding the previous case of suspected Tuberculosis, what is the next step to confirm the diagnosis?",
+      "options": [
+        "CT chest",
+        "Serum immunoglobulins",
+        "Tuberculin test",
+        "Sweat chloride test"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Regarding the management of Tuberculosis in a child, which one of the following statements is correct?",
+      "options": [
+        "Corticosteroid inhalation therapy is indicated.",
+        "Pancreatic enzyme replacement therapy is the treatment of choice.",
+        "An antibiotic treatment course for 6 weeks is mandatory.",
+        "Triple or quadruple anti-tuberculous therapy is recommended."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 2-year-old child has a persistent cough, poor weight gain, and a history of two hospitalizations for pneumonia. He passes large, foul-smelling stools and now has a high fever with greenish sputum. Examination reveals FTT and diminished air entry. What is the most likely diagnosis?",
+      "options": [
+        "Cystic fibrosis",
+        "Tuberculosis",
+        "Bronchial asthma",
+        "Bronchiectasis"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "For the previous patient with suspected Cystic Fibrosis, which of the following is most useful in establishing the diagnosis?",
+      "options": [
+        "Electron microscopy",
+        "Estimation of serum Igs level",
+        "CT chest",
+        "Sweat chloride test"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following treatments is NOT indicated for the management of a patient with Cystic Fibrosis?",
+      "options": [
+        "Corticosteroids",
+        "Pancreatic enzyme replacement therapy",
+        "Broad-spectrum antibiotics",
+        "Leukotriene receptor antagonist"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 5-year-old presents with a 2-week history of fever, weight loss, and cough, now with dyspnea, hemoptysis, and foul-smelling sputum. CXR reveals a distinct lesion. What is the most appropriate diagnosis?",
+      "options": [
+        "Cystic fibrosis",
+        "Lung abscess",
+        "Bronchiectasis",
+        "Bronchopneumonia"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A lung abscess could be complicated by all of the following except:",
+      "options": [
+        "Empyema",
+        "Pneumothorax",
+        "Bronchiectasis",
+        "Cystic fibrosis"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which one of the following sentences is true about a lung abscess?",
+      "options": [
+        "Treatment course is a broad-spectrum antibiotic for 2 weeks.",
+        "Bronchoscopy is indicated only to identify and remove a foreign body.",
+        "Blood culture and sensitivity test is ideal to detect the causative agent.",
+        "It couldn't be a complication of community-acquired pneumonia."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Clubbing is a clinical sign of all of the following except:",
+      "options": [
+        "Tetralogy of Fallot",
+        "Cystic Fibrosis",
+        "Bronchial asthma",
+        "Bronchiectasis"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The most effective way to reduce transmission of tuberculosis within an orphanage in a highly endemic area would be:",
+      "options": [
+        "To perform a tuberculin skin test (PPD) on all infants upon entry.",
+        "To isolate all infants with fevers.",
+        "To require tuberculosis screening, diagnosis, and treatment of all staff members.",
+        "To perform a chest radiograph for all infants upon entry.",
+        "To require tuberculosis screening and treatment of all infants upon entry."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All of the following are true about Cystic Fibrosis except:",
+      "options": [
+        "ENT examination may reveal nasal polyps.",
+        "The child may present with rectal prolapse.",
+        "Assessment of serum immunoglobulin is necessary to establish the diagnosis.",
+        "Sinusitis is a common presentation.",
+        "This child may present with hemoptysis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A child with Cystic Fibrosis may present later in life with all of the following except:",
+      "options": [
+        "Liver cirrhosis and portal hypertension.",
+        "Distal intestinal obstruction.",
+        "Allergic Broncho Pulmonary Aspergillosis (ABPA).",
+        "Diabetes mellitus.",
+        "Delayed mental development."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Which one of the statements about lung abscess is not true?",
+      "options": [
+        "It can occur due to an inhaled foreign body.",
+        "It can occur after aspiration pneumonia.",
+        "Diagnosis is made at bronchoscopy.",
+        "CT chest is the diagnostic test of choice."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following statements about Cystic Fibrosis (CF) is true?",
+      "options": [
+        "The essential diagnostic investigation is CT Chest.",
+        "Prenatal diagnosis of CF is still not possible.",
+        "Meconium ileus may occur in neonates with CF.",
+        "All CF children will develop nasal polyps."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which one of the following investigations confirms the diagnosis of primary ciliary dyskinesia?",
+      "options": [
+        "High‐resolution computed tomography.",
+        "Nitric oxide breath test.",
+        "Nasal mucociliary clearance test.",
+        "Electron Microscopy of ciliary structure and function.",
+        "Sweat chloride test."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following statements about the management of bronchiectasis is true?",
+      "options": [
+        "There is no evidence for the use of prophylactic antibiotics.",
+        "Chest physiotherapy is a key part of managing this condition.",
+        "Long-term oral corticosteroids prevent recurrent infections.",
+        "Surgery is never an option."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following statements about cystic fibrosis is true?",
+      "options": [
+        "It is inherited as an autosomal recessive condition.",
+        "CF results in decreased chloride concentration in sweat.",
+        "Patients with CF have abnormal cilia structure and function.",
+        "CF carriers are symptomatic."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following is not common in primary pulmonary tuberculosis in an immunocompetent child?",
+      "options": [
+        "Cavitation",
+        "Fibrosis",
+        "Lymphadenopathy",
+        "Ghon's focus"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Reactivation of pulmonary tuberculosis is due to:",
+      "options": [
+        "Malnutrition",
+        "Pulmonary hypertension",
+        "Airway obstruction",
+        "Traumatic chest injury"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following is NOT a clinical feature of non-CF bronchiectasis?",
+      "options": [
+        "Clubbing",
+        "Coarse crackles",
+        "Chronic productive cough",
+        "Haemoptysis",
+        "Steatorrhoea"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Which one of the following clinical signs is unlikely to be found in a child with pulmonary TB?",
+      "options": [
+        "Diminished air entry",
+        "Respiratory distress",
+        "Diffuse wheeze",
+        "Crepitations"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following clinical findings is the most common indicator for cystic fibrosis in a newborn?",
+      "options": [
+        "Failure to thrive",
+        "Diarrhea",
+        "Clubbing",
+        "Meconium ileus"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "In a family with a mother having pulmonary tuberculosis, which action is the most appropriate to start with for her children?",
+      "options": [
+        "Perform tuberculin skin test",
+        "Do CXR",
+        "Give them BCG vaccine",
+        "Initiate chemoprophylaxis"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Regarding the tuberculin skin test, which one of the following statements is true?",
+      "options": [
+        "The reaction is measured by the area of erythema.",
+        "The reaction is measured 24 hours after administration.",
+        "PPD is administered by subcutaneous injection.",
+        "A false negative test can occur in disseminated TB."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Concerning Empyema, which of the following is true?",
+      "options": [
+        "The child often lies on the unaffected side.",
+        "Pus is only aspirated to the amount required for laboratory analysis.",
+        "Closed drainage of pus by an underwater seal is a management step.",
+        "Antibiotics should be administered through the drainage tube."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following statements is most likely appropriate in CF management?",
+      "options": [
+        "Anti-inflammatory drugs for CF lung disease appear to have beneficial effects on disease progression.",
+        "Nebulized antibiotics are important for chronic Staph. aureus infection.",
+        "Few patients will require pancreatic enzyme replacement.",
+        "Supplement with oral rehydration fluid isn't essential in hot environments."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In lung abscess, which of the following is true?",
+      "options": [
+        "A chest drain is usually required.",
+        "Clubbing is a common feature.",
+        "Amoebic lung abscess is a rare cause in children.",
+        "Haemoptysis isn't an associated symptom."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Causes of bronchiectasis in childhood include all of the following except:",
+      "options": [
+        "Cystic fibrosis",
+        "Bronchial asthma",
+        "Immunodeficiency",
+        "Bronchiolitis"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Regarding bronchiectasis, all the following statements are true except:",
+      "options": [
+        "Etiological Classification includes cystic fibrosis and non-cystic fibrosis bronchiectasis.",
+        "Chronic aspiration is a recognized cause of bronchiectasis in children.",
+        "Therapy for bronchiectasis in children includes early surgical resection.",
+        "The mainly affected areas are the basal segments of the lower lobes, the right middle lobe and the lingula."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Free-flow oxygen can be given by a self-inflating ambu-bag.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Pleural effusion may be present in all of the following except:",
+      "options": [
+        "Nephrotic syndrome",
+        "Pulmonary tuberculosis",
+        "Streptococcus pneumoniae infection",
+        "Bronchial asthma"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The most common presentation of bronchiectasis is:",
+      "options": [
+        "Productive cough of copious sputum",
+        "Hemoptysis",
+        "Chest pain",
+        "Wheezes"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "An 8-year-old girl presents with weight loss, night fever, and sweats. Her grandfather was treated for 6 months at a chest hospital. Examination shows diminished air entry on the right side. CXR shows cavitation in the upper right lung. Her most probable diagnosis is pulmonary T.B.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The commonest cause of bronchiolitis is:",
+      "options": [
+        "Viral",
+        "Bacterial"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "All are chronic suppurative lung diseases except:",
+      "options": [
+        "Lung abscess",
+        "Tuberculosis",
+        "Ciliary dyskinesia",
+        "Bronchial asthma"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 9-month-old male has episodes of coughing paroxysms for one month, followed by vomiting and an inspiratory 'whoop' sound with facial congestion. What is the most likely diagnosis?",
+      "options": [
+        "Tuberculosis",
+        "Whooping cough",
+        "Bronchial asthma",
+        "Viral croup"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "For the patient with whooping cough, which of the following drugs will be prescribed?",
+      "options": [
+        "Rifampicin",
+        "B2 agonists",
+        "Systemic steroids",
+        "Erythromycin"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 6-year-old girl has had a dry cough for months, worse after exercise and at night. Her parents have eczema. On examination, wheezing is detected in both lungs. What is the most likely diagnosis?",
+      "options": [
+        "Bronchial asthma",
+        "Pertussis",
+        "Bronchiectasis",
+        "Interstitial pneumonia"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "For the previous patient with suspected asthma, which investigation will you request?",
+      "options": [
+        "Serum total and specific IgE",
+        "CT chest",
+        "Echocardiography",
+        "Sputum culture and sensitivity"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "For the patient with asthma, treatment will include:",
+      "options": [
+        "Chest physiotherapy",
+        "Hydroxychloroquine",
+        "Inhaled B2 agonists",
+        "Erythromycin"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 5-year-old girl developed a severe sore throat, drooling, high fever, and increasing breathing difficulty over 8 hours. She looks toxic, is unable to speak, and is sitting immobile and upright with an open mouth. What is the most likely diagnosis?",
+      "options": [
+        "Acute bronchitis",
+        "Acute epiglottitis",
+        "Acute laryngitis",
+        "Acute laryngotracheitis"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "For the patient with acute epiglottitis, the most likely responsible agent is:",
+      "options": [
+        "Haemophilus influenzae type b",
+        "Respiratory syncytial virus",
+        "Parainfluenza virus",
+        "Staphylococcus aureus"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "What is the first step in managing a child with acute epiglottitis?",
+      "options": [
+        "Oxygen therapy and securing the airway",
+        "Intercostal intubation",
+        "Oral cephalosporins",
+        "Oral rifampicin"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 4-year-old girl presents with severe irritability and non-stop crying for 3 hours after a 5-day history of a runny nose. She is febrile (38.5°C), has yellowish discharge from the right ear, and the left tympanic membrane is congested and bulging. What is the most likely diagnosis?",
+      "options": [
+        "Acute otitis externa",
+        "Acute otitis media",
+        "Acute mastoiditis",
+        "Acute labyrinthitis"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "For acute otitis media, the most common causative bacteria is:",
+      "options": [
+        "Staphylococcus aureus",
+        "Streptococcus pneumoniae",
+        "Pseudomonas aeruginosa",
+        "Group A beta-hemolytic streptococci"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which antibiotic is most suitable for a child with acute otitis media?",
+      "options": [
+        "Oral erythromycin",
+        "Oral penicillin",
+        "Oral antipseudomonal antibiotics",
+        "Oral broad-spectrum antibiotics (e.g., Amoxicillin)"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 4-year-old girl presents with grade 3 respiratory distress and looks toxic with a temp of 39.6°C. She has had a fever and severe cough for 4 days. Examination reveals diminished air entry over the right lung with scattered consonating crepitations. What is the most likely diagnosis?",
+      "options": [
+        "Acute bronchitis",
+        "Acute bronchiolitis",
+        "Bacterial pneumonia",
+        "Atypical pneumonia"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "To confirm the diagnosis of bacterial pneumonia in the previous patient, you should order:",
+      "options": [
+        "Chest X-ray",
+        "Blood gases",
+        "Complete blood picture",
+        "Erythrocyte sedimentation rate (ESR)"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The first step in the management of a child with severe bacterial pneumonia and respiratory distress is:",
+      "options": [
+        "Immediate oxygen and antibiotics",
+        "Immediate mechanical ventilation",
+        "Immediate oxygen and bronchodilator",
+        "Immediate intercostal tube insertion"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A previously well 8-month-old infant has had a runny nose, sneezing, and coughing for 2 days. Examination shows mild respiratory distress and bilateral expiratory wheezing. What is the most likely diagnosis?",
+      "options": [
+        "Bronchiolitis",
+        "Lobar pneumonia",
+        "Pleural effusion",
+        "Tuberculosis"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Investigation of a case of acute bronchiolitis includes:",
+      "options": [
+        "Sputum culture and sensitivity",
+        "Tuberculin testing",
+        "Chest x-ray and blood gases",
+        "Echocardiography"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Regarding bronchiolitis, which one of the following statements is INCORRECT?",
+      "options": [
+        "It is common in infants.",
+        "It is mostly due to respiratory syncytial virus infection.",
+        "It is mainly treated with nebulized epinephrine.",
+        "It has a good prognosis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 3-year-old presents with a two-week history of fever and cough. Her grandfather, who recently stayed with the family, had a 3-month history of weight loss, fever, and hemoptysis. CXR showed enlarged hilar lymph nodes. What is the most likely diagnosis?",
+      "options": [
+        "Bronchitis",
+        "Bronchiectasis",
+        "Pleural effusion",
+        "Tuberculosis"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "For the previous patient with suspected TB, the following investigations should be ordered first EXCEPT:",
+      "options": [
+        "Tuberculin test",
+        "ESR",
+        "Bronchoscopy",
+        "Early morning gastric aspirate for stain and culture"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Regarding tuberculosis in children, which one of the following is CORRECT?",
+      "options": [
+        "It is most common in children between 5-14 years.",
+        "It is treated with rifampicin for 1 month.",
+        "It is commonly seen in children with HIV infection (AIDS).",
+        "Vaccination is compulsory at 2, 4, and 6 months of age."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A healthy 18-month-old is in a separate room when the family hears a sudden onset of coughing and choking, which resolves. The child now appears normal except for audible wheezes. What is the most likely diagnosis?",
+      "options": [
+        "Acute pneumonia",
+        "Foreign Body Inhalation",
+        "URTI",
+        "Acute epiglottitis"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is the first investigation you will order for a patient with suspected foreign body inhalation?",
+      "options": [
+        "Blood culture",
+        "Chest x-ray (inspiratory and expiratory views)",
+        "Stool analysis",
+        "Acute phase reactants"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "How will you manage a patient with confirmed foreign body inhalation?",
+      "options": [
+        "Close observation",
+        "ET intubation",
+        "Antibiotics according to culture and sensitivity",
+        "Bronchoscopic evaluation and removal"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Concerning Empyema, which of the following is true?",
+      "options": [
+        "The child often lies on the unaffected side.",
+        "Pus is only aspirated to the amount required for laboratory analysis.",
+        "Closed drainage of pus by an underwater seal is a management step.",
+        "Antibiotics should be administered through the drainage tube."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The most common trigger for asthma exacerbations in children is:",
+      "options": [
+        "Viral infections",
+        "Allergens",
+        "Exercise",
+        "Smoke inhalation"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The peak flow meter is most useful in asthma monitoring for:",
+      "options": [
+        "Detecting early signs of an asthma attack and monitoring response to treatment",
+        "Measuring lung function in neonates",
+        "Diagnosing asthma in children",
+        "Monitoring the response to asthma medications"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following signs and symptoms is NOT indicative of an acute asthma exacerbation in children?",
+      "options": [
+        "Restlessness and agitation",
+        "Reduced ability to speak in complete sentences",
+        "Pleuritic chest pain",
+        "Wheezing that worsens with activity"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A child diagnosed with asthma should receive which of the following vaccinations as part of routine care?",
+      "options": [
+        "Influenza vaccine",
+        "Hepatitis B vaccine",
+        "Mumps, measles, and rubella (MMR) vaccine",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "In a child with poorly controlled asthma, which of the following medications is contraindicated as monotherapy?",
+      "options": [
+        "Oral corticosteroids",
+        "Long-acting beta-2 agonists (LABA)",
+        "Leukotriene modifiers",
+        "Cromolyn sodium"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following is considered a key component of a written asthma action plan?",
+      "options": [
+        "A detailed daily medication schedule.",
+        "Symptoms-based instructions for altering medication in response to worsening asthma control.",
+        "Contact information for the child's asthma specialist or primary care provider.",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "First-line therapy for maintaining control of persistent asthma in children includes which of the following?",
+      "options": [
+        "Short-acting beta-2 agonists (SABAs) alone",
+        "Inhaled corticosteroids (ICS) with or without a long-acting beta-2 agonist (LABA)",
+        "Magnet therapy devices",
+        "Oral theophylline"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "An 8-month healthy boy presents with a runny nose, dry cough, and grade 2 respiratory distress. On examination, he has bilateral wheezes and no family history of atopy. What is the best initial management?",
+      "options": [
+        "SABA",
+        "High dose steroids",
+        "Oxygen therapy",
+        "Anticholinergic"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 10-year-old boy presents with a 10-day history of cough, headache, and arthralgia, with no fever. Chest examination reveals decreased air entry on the left side. Penicillin was prescribed with no apparent relief. The possible organism could be:",
+      "options": [
+        "Streptococcus",
+        "Staphylococcus",
+        "Mycoplasma",
+        "Klebsiella"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 5-year-old asthmatic girl presents with a mild asthma exacerbation. The best initial management should be:",
+      "options": [
+        "SABA",
+        "Systemic Steroids",
+        "Mg sulphate",
+        "Leukotriene inhibitors"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 2-year-old boy presents with a high-grade fever of 40°C, vomiting, and refusal to eat. Oral examination reveals large red tonsils with white foci. The best treatment is:",
+      "options": [
+        "Soothing gel",
+        "Antibiotics",
+        "Antihistamines",
+        "Antitussive"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The most common bacteria that causes otitis media is:",
+      "options": [
+        "Staphylococcus aureus",
+        "Streptococcus pneumoniae",
+        "Pseudomonas aeruginosa",
+        "Group A beta-hemolytic streptococci"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The first step in the management of a child with severe pneumonia and respiratory distress is:",
+      "options": [
+        "Immediate oxygen and antibiotics",
+        "Immediate mechanical ventilation",
+        "Immediate oxygen and bronchodilator",
+        "Immediate intercostal tube insertion"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Investigation for a case of acute bronchiolitis includes:",
+      "options": [
+        "Sputum culture and sensitivity",
+        "Tuberculin testing",
+        "Chest x-ray and blood gases",
+        "Echocardiography"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "In a child with bronchial asthma, which one of the following investigations might you request to support the diagnosis of atopy?",
+      "options": [
+        "Serum total and specific IgE",
+        "CT chest",
+        "Echocardiography",
+        "Sputum culture and sensitivity"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Regarding tuberculosis, which one of the following is CORRECT?",
+      "options": [
+        "Most common in children between 5-14 years.",
+        "Treated with rifampicin for 1 month.",
+        "Commonly seen in children with HIV infection (AIDS).",
+        "Vaccination is compulsory at 2, 4, and 6 months of age."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All of the following are lines of treatment for anaphylaxis except:",
+      "options": [
+        "IV corticosteroids",
+        "IM epinephrine",
+        "Nebulized salbutamol",
+        "Antibiotics",
+        "Histamine 1 receptor antagonist"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "All are true about the management of acute epiglottitis except:",
+      "options": [
+        "Acute epiglottitis should be managed in the ICU.",
+        "Parenteral antibiotics like cephalosporins are used.",
+        "With proper treatment, most children recover within 2-3 days.",
+        "Prophylaxis with rifampicin for close contacts is recommended.",
+        "You should examine the pharynx and larynx with a tongue depressor immediately in children with suspected epiglottitis."
+      ],
+      "correct": 4
+    }
+  ]
+}

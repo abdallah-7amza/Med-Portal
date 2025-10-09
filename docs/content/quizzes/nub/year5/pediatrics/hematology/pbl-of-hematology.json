@@ -1,0 +1,346 @@
+{
+  "title": "PBL of Hematology",
+  "questions": [
+    {
+      "stem": "A CBC report shows: HB=7 g/dL, Retics=0.4%, Plt=8,000/μL, WBCs=2,000/μL. What does this indicate?",
+      "options": [
+        "Pancytopenia",
+        "Thalassemia"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A CBC shows: Hb: 6 g/dL, WBCs: 8,000/μL, Plt: 200,000/μL, Retics: 10%. What is the likely diagnosis?",
+      "options": [
+        "Iron deficiency anemia",
+        "Hemolytic anemia"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "In iron deficiency anemia, which of the following is true?",
+      "options": [
+        "Increased serum ferritin",
+        "Increased total iron binding capacity (TIBC)"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "All of the following are treatments for ß-thalassemia EXCEPT:",
+      "options": [
+        "Blood transfusion",
+        "Folic acid",
+        "Iron Therapy",
+        "Iron Chelation Therapy"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A CBC report shows: Hb 7, MCV 68, MCH 24, Retic 6%, PLT 450,000, WBCs 11,000. All of the following are true about this condition EXCEPT:",
+      "options": [
+        "It is more common in males than females.",
+        "Nutritional history is important.",
+        "Unconjugated bilirubin is elevated."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A CBC report shows: Hb 7, MCV 68, MCH 24, Retic 16%, PLT 450,000, WBCS 11,000. All of the following are true about this condition EXCEPT:",
+      "options": [
+        "It is more common in males than females.",
+        "Nutritional history is important.",
+        "Unconjugated bilirubin is elevated."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All of the following are treatments of thalassemia except:",
+      "options": [
+        "Iron chelation",
+        "Iron therapy",
+        "Bone marrow transplantation",
+        "Splenectomy"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is seen in a bone marrow examination of a patient with ITP?",
+      "options": [
+        "Increased megakaryocytes",
+        "Decreased megakaryocytes"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In severe hemophilia A, what is the factor VIII level?",
+      "options": [
+        "30-50%",
+        "<1%"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following cases of leukemia is associated with a favorable prognosis?",
+      "options": [
+        "Patient with age of onset of 3 months",
+        "A 4-year old patient with acute myeloid leukemia",
+        "A patient with total leucocytic count of 11,000/mm² and initial response to immunosuppressives",
+        "A patient with acute lymphoid leukemia and CNS infiltration"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following is a cause of non-thrombocytopenic purpura?",
+      "options": [
+        "Fanconi's anemia",
+        "Hemolytic uremic syndrome",
+        "Henoch-Schonlein purpura",
+        "Thrombopoietin deficiency"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following hemolytic anemias does not typically present in the neonatal period?",
+      "options": [
+        "Spherocytosis",
+        "α-thalassemia",
+        "β-thalassemia",
+        "ABO incompatibility"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "In which type of these hemoglobinopathies are the patients most prone to serious bacterial sepsis?",
+      "options": [
+        "α-thalassemia",
+        "β-thalassemia major",
+        "β-thalassemia intermedia",
+        "Sickle cell anemia"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following is not a cause of microcytic hypochromic anemia?",
+      "options": [
+        "G-6-PD deficiency",
+        "Iron deficiency",
+        "Lead poisoning",
+        "Thalassemia trait"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following is the most common cause of iron deficiency anemia worldwide?",
+      "options": [
+        "Poor dietary intake",
+        "Parasitic infestation",
+        "Malabsorption",
+        "Increased demand during pregnancy"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which physical finding is most characteristic of iron deficiency anemia?",
+      "options": [
+        "Jaundice",
+        "Koilonychia (spoon-shaped nails)",
+        "Splenomegaly",
+        "Hypertension"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "In a complete blood count (CBC), which of the following is decreased in iron deficiency anemia?",
+      "options": [
+        "Mean Corpuscular Volume (MCV)",
+        "Mean Corpuscular Hemoglobin Concentration (MCHC)",
+        "Ferritin",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following is the most reliable laboratory marker for iron stores?",
+      "options": [
+        "MCV",
+        "Serum iron",
+        "Ferritin",
+        "Total iron-binding capacity (TIBC)"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following is increased in iron deficiency anemia?",
+      "options": [
+        "Ferritin",
+        "Hemoglobin",
+        "TIBC",
+        "MCV"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A child with iron deficiency anemia may present with:",
+      "options": [
+        "Pica (eating non-food items)",
+        "Goiter",
+        "Severe itching",
+        "Jaundice"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The first-line treatment for iron deficiency anemia is:",
+      "options": [
+        "Immediate blood transfusion",
+        "Oral iron supplementation and treatment of the cause",
+        "Corticosteroids",
+        "Folic acid alone"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following is NOT a typical cause of iron deficiency anemia?",
+      "options": [
+        "Chronic peptic ulcer bleeding",
+        "Heavy menstrual bleeding",
+        "Celiac disease",
+        "Polycythemia vera"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which symptom is due to reduced oxygen delivery to tissues in anemia?",
+      "options": [
+        "Tinnitus",
+        "Fatigue",
+        "Constipation",
+        "Alopecia"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "In iron deficiency anemia, the peripheral smear typically shows:",
+      "options": [
+        "Normocytic, normochromic RBCs",
+        "Microcytic, hypochromic RBCs",
+        "Macrocytic RBCs",
+        "Sickle-shaped RBCs"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 5-year-old girl presents with fatigue and pallor. Labs: Hb 8.2 g/dL, MCV 68 fL, ferritin 8 ng/mL. The most likely cause is:",
+      "options": [
+        "Vitamin B12 deficiency",
+        "Iron deficiency anemia",
+        "Hemolysis",
+        "Bone marrow failure"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A patient on long-term proton pump inhibitor (PPI) therapy develops microcytic anemia. What is the mechanism?",
+      "options": [
+        "Increased blood loss",
+        "Reduced gastric acid leading to impaired iron absorption",
+        "Increased RBC destruction",
+        "Bone marrow suppression"
+      ],
+      "correct": 1,
+      "explanation": "Acid is needed to convert dietary iron into its absorbable form."
+    },
+    {
+      "stem": "In a patient with hemophilia A, which clotting factor is deficient?",
+      "options": [
+        "Factor VIII",
+        "Factor IX",
+        "Factor XI",
+        "Factor VII"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The inheritance pattern of hemophilia is:",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked recessive",
+        "X-linked dominant"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following is the most common presentation of Immune Thrombocytopenic Purpura (ITP) in children?",
+      "options": [
+        "Severe joint pain",
+        "Spontaneous bruising and petechiae",
+        "High-grade fever",
+        "Chronic fatigue"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The main mechanism of platelet destruction in ITP is:",
+      "options": [
+        "Decreased platelet production in the bone marrow",
+        "Autoimmune-mediated destruction via antibodies",
+        "Hypersplenism only",
+        "Defective clotting factor synthesis"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which feature favors chronic ITP rather than acute ITP?",
+      "options": [
+        "Sudden onset after viral infection",
+        "Resolution within 3 months",
+        "Duration >12 months",
+        "Spontaneous recovery in weeks"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following best describes the underlying defect in thalassemia?",
+      "options": [
+        "Defective heme synthesis",
+        "Defective globin chain production",
+        "Iron transport defect",
+        "Abnormal erythropoietin production"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which laboratory finding is most typical in β-thalassemia trait?",
+      "options": [
+        "Microcytosis with high RBC count",
+        "Microcytosis with low RBC count",
+        "Macrocytosis",
+        "Normocytic anemia"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 25-year-old woman has microcytosis (MCV 68 fL), normal ferritin, high RBC count, and HbA2 = 4.5%. What is the most likely diagnosis?",
+      "options": [
+        "Iron deficiency anemia",
+        "β-thalassemia trait",
+        "α-thalassemia silent carrier",
+        "Sideroblastic anemia"
+      ],
+      "correct": 1,
+      "explanation": "Elevated HbA2 and high RBC count are classic for β-thalassemia trait."
+    },
+    {
+      "stem": "Which RBC indices pattern best differentiates β-thalassemia trait from iron deficiency anemia?",
+      "options": [
+        "Low MCV, low RBC count",
+        "Low MCV, high RBC count",
+        "High MCV, low RBC count",
+        "Normal MCV, high RBC count"
+      ],
+      "correct": 1,
+      "explanation": "In iron deficiency, both MCV and RBC count are low; in β-thalassemia trait, RBC count is preserved or elevated."
+    }
+  ]
+}

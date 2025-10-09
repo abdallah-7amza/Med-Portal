@@ -1,0 +1,1738 @@
+{
+  "title": "Endocrinology - Dr. Nadine",
+  "questions": [
+    {
+      "stem": "A 19-year-old nonpregnant woman is a marathon runner and is complaining of amenorrhea, which is most likely due to:",
+      "options": [
+        "Gonadotrophin receptor insensitivity.",
+        "Pituitary dysfunction.",
+        "Hypothalamic dysfunction.",
+        "Immune downregulation of ovary.",
+        "Ovarian failure."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 33-year-old woman has amenorrhea lyr ago since her last VD that was complicated by severe PPH. She was unable to breast feed her baby. Most likely cause of this condition is:",
+      "options": [
+        "Gonadotropin receptor insensitivity.",
+        "Pituitary dysfunction.",
+        "Hypothalamic dysfunction.",
+        "Ovarian failure.",
+        "Hyperprolactenemia."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Commonest cause of precocious puberty includes:",
+      "options": [
+        "Estrogen secreting ovarian tumor.",
+        "Granulosa cell tumor.",
+        "Drug intake.",
+        "Constitutional early onset GnRH pulsatility.",
+        "Primary hypothyroidism."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 32-year-old G1P1 woman presents with an 8months amenorrhea. A pregnancy test is negative. TSH, PRL are normal. FSH is 40IU/L. Most likely complication for this patient:",
+      "options": [
+        "She is at significant risk for Endometrial cancer.",
+        "She is at significant risk for Ovarian cancer.",
+        "She is at significant risk for Osteoporosis.",
+        "She is at significant risk of Breast cancer.",
+        "She is at significant risk for Multiple gestations."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "If the previous patient is to have a diagnostic work-up, the most likely to be noted is:",
+      "options": [
+        "Obliterated uterine cavity on saline infusion sonography.",
+        "No bleeding with progestin challenge test.",
+        "Normal level estradiol.",
+        "Abnormal HSG.",
+        "Abnormal MRI of the brain."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 41-year-old woman is suspected of having intrauterine adhesions. which of the following historical or laboratory information would be present in this patient:",
+      "options": [
+        "Presence of hot flushes.",
+        "FSH level too low to be measured.",
+        "Normal estradiol levels for her reproductive age.",
+        "Monophasic basal body temperature chart.",
+        "Abnormal sella turcica on CT brain."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "If MRI shows a mass in the posterior pituitary gland. the following hormone is suspected to be elevated:",
+      "options": [
+        "FSH",
+        "LH",
+        "PRL",
+        "TSH",
+        "Oxytocin."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 33-year-old woman who is pregnant 28 weeks, has a microadenoma of the pituitary gland. Best therapy is:",
+      "options": [
+        "Craniotomy and pituitary resection.",
+        "Tamoxifen therapy.",
+        "Oral bromocriptine therapy.",
+        "Lumbar puncture.",
+        "No therapy is needed."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 34-year-old woman had no menses since she had a cone biopsy lyear ago. Since then, she complains of severe cramping lower abdominal pain for 5days each month. Her BBT chart is biphasic. Most likely cause of amenorrhea:",
+      "options": [
+        "Hypothalamic etiology.",
+        "Pituitary etiology.",
+        "Ovarian etiology.",
+        "Uterine etiology.",
+        "Cervical etiology."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 24-year-old woman G1P1 is complaining of 2ry amenorrhea since her last delivery that was complicated with severe PPH. The following is consistent with her diagnosis:",
+      "options": [
+        "Usually associated with hypertensive crisis at or soon after delivery.",
+        "Caused by an ischemic necrosis of the posterior pituitary gland.",
+        "Associated with decreased prolactin levels.",
+        "Often associated with elevated TSH.",
+        "Associated with elevated FSH, LH."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Best description of the mechanism of Asherman syndrome is:",
+      "options": [
+        "Trophoblastic hyperplasia.",
+        "Myometrial scarring.",
+        "Decidual hypertrophy.",
+        "Cervical atresia.",
+        "Endometrial disruption."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 25-year-old woman presents with a 6months amenorrhea. Her pregnancy test is negative. She is diagnosed as PCOS. The following is consistent with her disorder:",
+      "options": [
+        "Estrogen deficiency and vaginal atrophy.",
+        "Osteoporosis.",
+        "Endometrial hyperplasia.",
+        "Hypoglycemia.",
+        "Cachexia."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 15-year-old female is diagnosed with gonadal dysgenesis. She has delayed puberty, short stature and elevated gonadotropin levels. The following is generally present:",
+      "options": [
+        "Secondary amenorrhea.",
+        "Tanner II breast development.",
+        "69XXY karyotype.",
+        "Osteoporosis.",
+        "Polycystic ovaries."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Select the correct statement regarding Kallmann's syndrome:",
+      "options": [
+        "It is due to pituitary anomaly.",
+        "It occurs in short statured persons.",
+        "The genotype is 47 XXY.",
+        "It is associated with anomaly in the olfactory bulb.",
+        "It occurs only in females."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "An 18-year-old woman complains of 1ry amenorrhea. She has normal breast, pubic and axillary hair development, blind ended vaginal pouch and no cervix. Most likely diagnosis:",
+      "options": [
+        "Mullerian agenesis.",
+        "Kallman syndrome.",
+        "Sheehan syndrome.",
+        "Gonadal dysgenesis.",
+        "PCOS."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 19-year-old woman with primary amenorrhea and normal breast development, she has a pelvic kidney. The most likely diagnosis is:",
+      "options": [
+        "Mullerian agenesis.",
+        "Androgen insensitivity.",
+        "Gonadal dysgenesis.",
+        "Kallman syndrome.",
+        "PCOS."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The following is the best explanation for breast development in a patient with AIS:",
+      "options": [
+        "Gonadal production of estrogen.",
+        "Adrenal production of estrogen.",
+        "Breast tissue sensitivity to progesterone.",
+        "Peripheral conversion of androgens.",
+        "none of the above."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A mother brings her 12-year-old daughter for consultation as most of her class mates had started their menses, while she hasn't. You should ask the mother about:",
+      "options": [
+        "Has your daughter had any acne?",
+        "Has your daughter started to develop breasts?",
+        "Does your daughter have any pubic hair?",
+        "Does your daughter have any axillary hair?",
+        "Has your daughter had any vaginal spotting?"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 68-year-old healthy woman presents for advice regarding the risk of developing osteoporosis. Her height is 160cm, her weight is 40kg with regular treadmill walks. She was menopausal at 42yrs old. She doesn't take HRT. Her mother died at 72yrs from complicated spontaneous hip fracture. The risk for developing osteoporosis in this case include all the following EXCEPT:",
+      "options": [
+        "The age of her menopause.",
+        "Her height.",
+        "Her weight.",
+        "No intake of HRT.",
+        "Maternal spontaneous hip fracture."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 17-year-old patient hasn't started her period. She is 125cm tall with no breast buds or pubic hair. Her pelvic examination reveals a uterus and cervix, but the ovaries are not palpable. FSH, LH are high. The most likely diagnosis is:",
+      "options": [
+        "Testicular feminization.",
+        "Mc-Cune Albright syndrome.",
+        "Kallman syndrome.",
+        "Gonadal dysgenesis.",
+        "Mullerian agenesis."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The following may occur as a result of Sheehan syndrome EXCEPT:",
+      "options": [
+        "Pallor.",
+        "Galactorrhea.",
+        "Bradycardia.",
+        "Amenorrhea.",
+        "Asthenia."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Tubal patency is screened by:",
+      "options": [
+        "Laparoscopy.",
+        "Hysteroscopy.",
+        "Hysterosalpingography.",
+        "Abdominal ultrasonography.",
+        "Vaginal ultrasonography."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 55-year-old woman comes to your office to discuss menopause. You tell her that all the following are part of this stage EXCEPT:",
+      "options": [
+        "Hot flushes.",
+        "Vaginal dryness.",
+        "Mood swings.",
+        "Insomnia.",
+        "Breast tissue hyperplasia."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 52-year-old recently menopausal female has developed severe hot flushes. She recently takes no medications nor ERT. Most effective to relieve her symptoms:",
+      "options": [
+        "Fluoxetine.",
+        "Black cohosh.",
+        "Red clover.",
+        "Soy protein.",
+        "Vitamin E."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The following medical treatment is effective in treating hyperprolactinemia:",
+      "options": [
+        "Clomiphene citrate.",
+        "Human menopausal gonadotropins.",
+        "Dopamine agonists.",
+        "Metformin.",
+        "Oral contraceptive pills."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 56-year-old female has been on combined hormone therapy for 6months. This is associated with a reduced risk for which of the following:",
+      "options": [
+        "Bone fracture.",
+        "Myocardial infarction.",
+        "Stroke.",
+        "Breast cancer.",
+        "Venous thromboembolism."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 15-year-old patient is evaluated for masculinization and amenorrhea. She has excessive facial hair growth. She is 160cm tall. She has prominent musculature and under-developed breasts. Pelvic examination reveals enlarged clitoris, moderate posterior labial-scrotal fusion, and the cervix is seen in the vaginal vault. There are no pelvic masses on bimanual examination. This patient's chromosomes are most likely:",
+      "options": [
+        "XX.",
+        "XXY.",
+        "XO/XY.",
+        "XX/XY.",
+        "XYY."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A mother brings in her 16-year-old daughter because she hasn't ever had menses. O/E the girl is 173 tall with mature breast development, scanty pubic and axillary hair. PV is difficult and you are unable to identify a cervix nor palpate a uterus. Most likely diagnosis:",
+      "options": [
+        "Congenital adrenal hyperplasia.",
+        "Imperforate hymen.",
+        "Turner syndrome.",
+        "Mayer- Rokitansky- Kuster Hauser syndrome.",
+        "Complete androgen insensitivity syndrome."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 35-year-old accountant complains of episodic bloating, breast tenderness, dyspareunia, irritability and depression which leave her with \"only one good week a month\". Pelvic examination is normal. The best diagnostic course:",
+      "options": [
+        "Begin a prospective diary of symptoms for the next 2months.",
+        "Obtain a serum progesterone level during the last half of her menstrual cycle.",
+        "Obtain a serum estrogen level during the first half of her menstrual cycle.",
+        "Perform a TVS.",
+        "Perform MRI pelvis."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In the previous patient, which symptom is most consistent with her diagnosis:",
+      "options": [
+        "PCOS.",
+        "Luteal phase defect.",
+        "Normal menstrual cycle.",
+        "Anovulatory DUB.",
+        "Endometriosis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 25-year-old athlete with BMI: 18 presents to the fertility clinic after trying for pregnancy for 2years. She has oligomenorrhea and her partner's semen analysis is within normal. She has low FSH, LH and estrogen levels, while androgen profile is normal. Best strategy for ovarian stimulation:",
+      "options": [
+        "Clomiphene citrate.",
+        "Lifestyle intervention (normalize weight and exercise) + HMG.",
+        "Pulsatile GnRH.",
+        "Recombinant FSH.",
+        "IVF- ICSI."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 16-year-old girl presents with 1ry amenorrhea. She has Tanner V breast, pubic hair development. O/E she has blind ending vagina. Karyotype is 46XX. Most likely diagnosis:",
+      "options": [
+        "Congenital adrenal hyperplasia.",
+        "Constitutional delay.",
+        "Mayer Rokitansky Kuster Hauser syndrome.",
+        "McCune Albright syndrome.",
+        "Complete androgen insensitivity syndrome."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 50-year-old patient is due to have a major abdominal surgery. she is currently taking combined continuous HRT. when should she stop HRT before surgery:",
+      "options": [
+        "2weeks.",
+        "4weeks.",
+        "6weeks.",
+        "8weeks.",
+        "10weeks."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The most reliable test to check for ovulation is:",
+      "options": [
+        "Basal body temperature chart.",
+        "Antral follicle count.",
+        "Serum progesterone.",
+        "FSH.",
+        "Inhibin B."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which test from the routine workup will give an idea about ovarian reserve:",
+      "options": [
+        "ΑΜΗ.",
+        "Ovarian blood flow.",
+        "Inhibin B.",
+        "Estradiol.",
+        "FSH."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Which test is confirmatory about ovarian reserve:",
+      "options": [
+        "ΑΜΗ.",
+        "Ovarian blood flow.",
+        "Inhibin B.",
+        "Estradiol.",
+        "FSH."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The following is not controlled by hypothalamic releasing hormones:",
+      "options": [
+        "Prolactin.",
+        "FSH and LH.",
+        "TSH.",
+        "ACTH.",
+        "Growth hormone."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following causes hyperprolactinemia?",
+      "options": [
+        "Sheehan syndrome.",
+        "Stress.",
+        "Ashermann syndrome.",
+        "Clomiphene citrate.",
+        "LHRH analogues."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The luteal phase of menstrual cycle is associated with:",
+      "options": [
+        "High progesterone level.",
+        "Rising FSH levels.",
+        "Rising LH levels.",
+        "Low basal body temperature.",
+        "Low prolactin level."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The cause of menopause is:",
+      "options": [
+        "Deficient gonadotrophin production.",
+        "Depletion of ovarian store of follicles.",
+        "Endometrial atrophy.",
+        "Increase ovarian androgen production.",
+        "Increase estrone level."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The use of estrogen alone as HRT in menopausal women is contraindicated as it increases the risk of:",
+      "options": [
+        "Endometrial cancer.",
+        "Ovarian cancer.",
+        "Bone cancer.",
+        "Bowel cancer.",
+        "All of the above."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following may cause cryptomenorrhea?",
+      "options": [
+        "Marked retroverted uterus.",
+        "Scanty menstrual flow.",
+        "Imperforate hymen.",
+        "Severe pelvic inflammatory disease.",
+        "Endometriosis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 52-year-old woman comes to the physician because of severe hot flashes. Her LMP was 1year ago. She has no medical problems, takes no medications. She has a family history of cardiovascular disease and she does not smoke. Physical examination is unremarkable. Your management should include:",
+      "options": [
+        "Estrogen replacement.",
+        "Combined estrogen and progestogens.",
+        "Reassurance.",
+        "Multivitamins.",
+        "Work sick leave."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "All the following symptoms may be present in this woman EXCEPT:",
+      "options": [
+        "Insomnia.",
+        "Breast pain.",
+        "Decreased libido.",
+        "Mood changes.",
+        "Weight gain."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 15-year-old patient presents with primary amenorrhea. O/E, secondary sexual characteristics are absent. Investigation reports a high serum FSH. Based on this, which of the following is the MOST likely diagnosis:",
+      "options": [
+        "Androgen insensitivity syndrome.",
+        "Gonadal dysgenesis.",
+        "Physiological delay.",
+        "Prolactinoma.",
+        "Congenital adrenal hyperplasia."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The next investigation should be:",
+      "options": [
+        "Karyotyping.",
+        "Abdominal ultrasound.",
+        "LH essay.",
+        "MRI brain.",
+        "Fundus examination."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "What is the appropriate management in this case:",
+      "options": [
+        "Prescribe growth hormone injection.",
+        "Hormone replacement therapy.",
+        "Consultation with internal medicine for kidney and cardiovascular problems.",
+        "A and B.",
+        "All of the above."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 26-year-old patient presents 1ry infertility for 2 years. Her hormonal evaluation and ovulation were found to be normal. Her pelvic US revealed normal findings. She has a recent normal HSG and her husband semen analysis was reported to be normal. She has normal recent potcoital test. Her family history is irrelevant. The following procedure is advisable at this stage for the diagnosis of the cause of infertility:",
+      "options": [
+        "Basal body temperature chart.",
+        "Pituitary CT scan.",
+        "Diagnostic laparoscopy and hysteroscopy.",
+        "Repeat hysterosalpingography.",
+        "Cervical mucus study."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "During the evaluation of infertility in a 25-year-old woman, a HSG showed evidence of Asherman syndrome. Which of the following symptoms would you expect this patient to have:",
+      "options": [
+        "Amenorrhea.",
+        "Menometrorrhagia.",
+        "Menorrhagia.",
+        "Metrorrhagia.",
+        "Dysmenorrhea."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Progesterone is secreted by:",
+      "options": [
+        "Thymus.",
+        "Thyroid.",
+        "Testis.",
+        "Corpus luteum.",
+        "Suprarenal gland."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "In Turner syndrome: which is true?",
+      "options": [
+        "Genetically, it is 46 XO.",
+        "Has testis in inguinal area.",
+        "Usually presents with primary amenorrhea.",
+        "Has low IQ.",
+        "Usually, tall."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following are recognized causes of secondary amenorrhea EXCEPT:",
+      "options": [
+        "Excessive weight loss.",
+        "Vigorous exercise.",
+        "Androgen insensitivity syndrome.",
+        "Prolactin secreting adenoma.",
+        "Pregnancy."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 49-year-old woman complains of irregular menses over the past 6months, vaginal dryness, difficulty sleeping, and episodes of warmth and sweating at night. Ο/Ε, BP: 120/68, HR: 90, temp 36.8. Cardiac and lung examinations are unremarkable. Examination of the external genitalia does not reveal any masses. What is the most likely diagnosis:",
+      "options": [
+        "Climacteric (perimenopausal state).",
+        "Endometrial carcinoma.",
+        "Vaginal dystrophy.",
+        "Hypothyroidism.",
+        "Hyperthyroidism."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "What is your next diagnostic step?",
+      "options": [
+        "Serum FSH level.",
+        "Serum LH level.",
+        "AMH level.",
+        "Ultrasound examination.",
+        "Vaginal smear."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "An increased risk of osteoporosis is associated with:",
+      "options": [
+        "Bromocriptine use.",
+        "Excess gluco-corticosteroid usage.",
+        "Androgen excess in the female.",
+        "Early menarche.",
+        "Excessive protein intake."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Hypothyroidism can affect fertility by causing:",
+      "options": [
+        "Blocked fallopian tubes.",
+        "Antisperm antibodies.",
+        "Thick cervical mucus.",
+        "Ovulatory problems.",
+        "Endometriosis."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Compared to clomiphene citrate, HMG have:",
+      "options": [
+        "Lower incidence of twin pregnancy.",
+        "Lower incidence of ectopic pregnancy.",
+        "Lower cost.",
+        "Higher incidence of ovarian hyper-stimulation syndrome (OHSS).",
+        "Higher incidence of abortion."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Precocious puberty has many physical and psychological effects. One of the effects is not reversible or correctable and has major long-term implications:",
+      "options": [
+        "Epiphyseal closure.",
+        "Hair growth.",
+        "Genital development.",
+        "Breast tissue development.",
+        "Start of menstruation."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A patient has profuse thin cervical mucus with a degree of stretchability and a palm-leaf pattern. The following is compatible with this finding:",
+      "options": [
+        "The secretory phase of the menstrual cycle.",
+        "Preovulatory estrogen surge.",
+        "On combination birth control pills.",
+        "Being postmenopausal.",
+        "Early follicular phase."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 21-year-old medical student presents with increasing nervousness, fatigue, weight loss and palpitations. She has stressful academic load but normal monthly menses. She lost 4kg in one month, has warm skin but no goiter. She also has tachycardia without murmurs or clicks. What is the next step in her evaluation?",
+      "options": [
+        "Initiate antianxiety medications.",
+        "Provide psychiatric/psychological referral for stress management.",
+        "Perform thyroid scan.",
+        "Measure TSH levels.",
+        "Perform CT brain."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The following is true about longitudinal vaginal septum EXCEPT:",
+      "options": [
+        "It results from improper fusion of the two Mullerian ducts.",
+        "It may cause dyspareunia.",
+        "It is treated surgically by excision of the septum.",
+        "It does not interfere with vaginal delivery.",
+        "It causes cryptomenorrhea."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Cryptomenorrhea may be present with all the following presentations EXCEPT:",
+      "options": [
+        "Acute urinary retention.",
+        "Hematocolpos.",
+        "Lower abdominal pain.",
+        "Premenstrual spotting.",
+        "Abdominal distension."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Normal luteal phase vaginal cytology shows one of the following characteristics:",
+      "options": [
+        "Superficial cells with non-rolled edges.",
+        "Eosinophilic cytoplasm.",
+        "Pyknotic nucleus.",
+        "Few lymphocytes.",
+        "Maturation index 0-70-30."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "From an outflow tract perspective, the uterine anomaly that may cause a problem is:",
+      "options": [
+        "Arcuate uterus.",
+        "Bicornuate uterus.",
+        "Complete septate uterus.",
+        "Unicornuate uterus.",
+        "Noncommunicating functioning horn."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 26-year-old patient attends to check her fertility as she will marry soon. Her menses are irregular since menarche with repeated amenorrhea for several cycles. Her BMI is 40, she has mild hirsutism and US shows increased ovarian volume with increased peripheral small follicles. What your provisional diagnosis?",
+      "options": [
+        "Congenital adrenal hyperplasia.",
+        "Cushing syndrome.",
+        "Androgen producing tumor.",
+        "Myxedema.",
+        "PCO"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "What is the suitable initial management?",
+      "options": [
+        "Corticosteroids",
+        "Clomiphene citrate.",
+        "Metformin and weight reduction.",
+        "Thyroxin.",
+        "Hair ablation."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "This patient attends again after 9 months of continuous marital life with delayed conception. Semen analysis is normal and HSG reveals no abnormality with patent tubes. How will you proceed?",
+      "options": [
+        "Ovarian drilling.",
+        "Dopamine agonists.",
+        "ICSI",
+        "Clomiphene citrate.",
+        "HMG-HCG injections."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "This patient has a delayed cycle for few days with +ve pregnancy test that is followed by vaginal bleeding. What is the most probable cause in this condition?",
+      "options": [
+        "Endometrial hyperplasia.",
+        "Luteal phase defect.",
+        "Poor quality ova.",
+        "Poor cervical mucus",
+        "Sperm defect."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is your recommendation after this event?",
+      "options": [
+        "Fractional curettage.",
+        "OCP for few cycles.",
+        "Luteal support by progesterone in next cycles.",
+        "Parent karyotyping.",
+        "ICSI."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Amenorrhea following delivery may be explained by any of the following EXCEPT:",
+      "options": [
+        "Lactation.",
+        "Endometriosis.",
+        "New pregnancy.",
+        "Use of injectables for contraception.",
+        "Use of Mirena IUD."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "All the following can cause hirsutism EXCEPT:",
+      "options": [
+        "PCO.",
+        "Some ovarian tumors.",
+        "Androgen insensitivity syndrome.",
+        "Familial.",
+        "Adrenal disorders."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The karyotype of patient with androgen insensitivity syndrome is:",
+      "options": [
+        "46XX.",
+        "46XY.",
+        "47XXY.",
+        "45X0.",
+        "45XY."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A newly married 22-year-old woman consults due to increased facial acne. 2nd day FSH: 4miu/ml LH: 12miu/ml. TVS: increased ovarian volume with increased number of small follicles. The patient wishes to conceive soon. Most suitable treatment for her:",
+      "options": [
+        "Oral contraceptive pills for 6 months.",
+        "Corticosteroids.",
+        "Metformin.",
+        "ICSI.",
+        "Laparoscopic ovarian drilling."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following is suggestive of ovulation:",
+      "options": [
+        "BBT drops at least 0.5 degree in the second half of the cycle.",
+        "Day 21 estrogen level is elevated.",
+        "Progesterone level on day 10 of the cycle is elevated.",
+        "Regular cycles with dysmenorrhea.",
+        "Oligomenorrhea."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Ovulation occurs:",
+      "options": [
+        "Immediately after LH surge.",
+        "6-8hours after LH surge.",
+        "After prolactin surge.",
+        "After follicles ripened in the ovary.",
+        "36hours after LH surge."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Menopause is best diagnosed by:",
+      "options": [
+        "Serum inhibin level.",
+        "Ionized serum calcium level.",
+        "Serum progesterone level.",
+        "Serum estriol level.",
+        "Serum cortisol level."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Spinnbarkeit is a term which means:",
+      "options": [
+        "Crystallization of the cervical mucus.",
+        "Thickening of the cervical mucus.",
+        "Mucus secretion of the cervix.",
+        "Threading of the cervical mucus.",
+        "Thinning of the cervical mucus."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The initial evaluation in an infertile couple should include:",
+      "options": [
+        "Ovarian biopsy.",
+        "Semen analysis.",
+        "D&C.",
+        "Laparoscopy.",
+        "Sperm penetration assay."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Ovulation can be diagnosed by the following measures EXCEPT:",
+      "options": [
+        "Measuring day 14 serum progesterone.",
+        "Observing a rise in BBT in the 2nd half of the cycle.",
+        "Study of the cervical mucus.",
+        "Endometrial biopsy.",
+        "Ultrasound."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Recognized feature of Sheehan syndrome:",
+      "options": [
+        "Menorrhagia.",
+        "Galactorrhea.",
+        "Insulin resistance.",
+        "Hypothyroidism.",
+        "Dwarfism."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "In PCO:",
+      "options": [
+        "Estradiol levels are high.",
+        "There is increased sensitivity to insulin.",
+        "Has no change in FSH: LH ratio.",
+        "Androstendione levels are high.",
+        "Sex hormone binding globulin are increased."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Secondary amenorrhea may be related to:",
+      "options": [
+        "Emotional factor.",
+        "Systemic disease.",
+        "Nutrition.",
+        "Specific endocrine disorder.",
+        "All of the above."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "After menopause, which of the following is true:",
+      "options": [
+        "There is increase vaginal acidity.",
+        "Gonadotropins secretion falls.",
+        "Recurrent vaginal bleeding should be investigated by endometrial biopsy.",
+        "Malignancy is the leading cause of postmenopausal bleeding.",
+        "Bone mineral density increases."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Premenstrual tension should be initially treated with:",
+      "options": [
+        "COCP.",
+        "Hysterectomy.",
+        "Aldosterone.",
+        "Diuretics.",
+        "D &C."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Androgen insensitivity syndrome:",
+      "options": [
+        "Characteristic include normal uterus/ breast development and ambiguous genitalia.",
+        "Karyotyping is 46XX.",
+        "Have normal female testosterone level.",
+        "Gonadectomy must be performed after puberty due to increased risk of malignancy.",
+        "ERT is not indicated because they have enough estrogens to produce breast development."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Optimal development of the corpus luteum is most closely associated with:",
+      "options": [
+        "Follicular phase of the endometrium.",
+        "Proliferative phase of the endometrium.",
+        "Secretory phase of the endometrium.",
+        "Shedding phase of the endometrium.",
+        "Hyperplastic endometrium."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 54-year-old menopausal woman, on HRT for hot flushes, presents with irregular vaginal bleeding for 2 weeks. Bleeding is spontaneous, bright red and painless. How would you counsel this case?",
+      "options": [
+        "Pathological causes should be excluded.",
+        "Estrogen dose in HRT should be increased.",
+        "Cyclic progestins for 6 months.",
+        "Discontinue HRT and check her after few months.",
+        "Hysterectomy is considered."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "This patient inquired about her regular screening program. What is the most recommended investigation for the future?",
+      "options": [
+        "Annual mammography.",
+        "Annual endometrial cytology.",
+        "Annual serum AFP level.",
+        "Annual curettage.",
+        "Annual office hysteroscopy."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 16-year-old girl, presents with her mother as she has cyclic severe pelvic cramps and vomiting in the first 2 days of her flow. What is the most likely cause?",
+      "options": [
+        "Excess prostaglandin release.",
+        "Endometriosis.",
+        "Subtle ovarian torsion.",
+        "Pelvic congestion.",
+        "Irritable bowel syndrome."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "What will be your first line of treatment?",
+      "options": [
+        "Combined oral contraceptive pills.",
+        "Non-steroidal anti-inflammatory drugs.",
+        "Bromocriptine.",
+        "Re-check when pain occurs.",
+        "Laparoscopy is considered."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The most common cause of female infertility is:",
+      "options": [
+        "Ovulatory disorders.",
+        "Endometriosis.",
+        "Pelvic adhesions.",
+        "Cervical pathology.",
+        "Uterine pathology."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Percentage of couple who are unable to conceive after one year of coitus:",
+      "options": [
+        "5%",
+        "15%",
+        "40%",
+        "85%",
+        "90%"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 31-year-old patient is preparing to start IVF due to obstructed tubes. Her HSG shows bilateral hydrosalpinx, what should be your next step:",
+      "options": [
+        "Patient should begin her IVF treatment cycle.",
+        "Patient should not be offered the opportunity of IVF.",
+        "Bilateral salpingectomies should be done prior to starting IVF.",
+        "Hydrosalpinx should be drained via transvaginal aspiration prior to IVF.",
+        "Hydrosalpinx should be drained via laparoscopy prior to IVF."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 22-year-old woman with amenorrhea 6weeks, undergoes surgery for acute appendicitis. At the time of surgery, a 3cm Lt vascular with blood-filled central cavity ovarian cyst is discovered. Pregnancy test is positive. Most appropriate next step:",
+      "options": [
+        "Ovarian wedge resection.",
+        "Ovarian cystectomy.",
+        "Oophorectomy.",
+        "Salpingo-oophorectomy.",
+        "No additional therapy indicated."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 33-year-old woman who underwent normal puberty has 18months period of secondary amenorrhea and hot flushes. Her pregnancy test is negative. Her FSH: 98 miu/ml, her LH: 68miu/ml. She desires pregnancy. Most appropriate next step:",
+      "options": [
+        "Karyotype.",
+        "Clomiphene citrate therapy.",
+        "Gonadotropin stimulation therapy.",
+        "IVF- ICSI.",
+        "Hormone replacement therapy."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Physical stigmata of Turner syndrome are due to loss of chromosomal material from:",
+      "options": [
+        "chromosome 21",
+        "chromosome 13",
+        "chromosome 18",
+        "Short arm of X chromosome.",
+        "The Y chromosome."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 33-year-old G2P1 presents with milky nipple discharge from both breasts even without expression. All the following may be a cause EXCEPT:",
+      "options": [
+        "Pregnancy.",
+        "Breast abscess.",
+        "Pituitary adenoma.",
+        "Psychotropic medications.",
+        "Hypothyroidism."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 27-year-old G1P1comes to your office 8months after an uncomplicated vaginal delivery of a healthy male newborn as she has been trying to conceive for 3months, but failed and she is very anxious about this. She is still breast feeding routinely. What is the likely underlying cause of her condition?",
+      "options": [
+        "Thyroid hormone suppression of the anterior pituitary.",
+        "Abnormal endometrial regeneration causing failure of implantation.",
+        "Prolactin-induced inhibition of pulsatile GnRH from the hypothalamus.",
+        "Reduced tubal motility 2ry to subclinical inflammation after vaginal delivery.",
+        "Pathological decreased sperm count of the male partner."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 30-year-old patient with PCO, started OCPs to reduce her symptoms of acne and hirsutism. After 6months of use, she is pleased with the aesthetic improvement and wonders how the birth control pill works to improve her symptoms. This is due to:",
+      "options": [
+        "Increased 5areductase activity in the skin.",
+        "Lower sex hormone binding globulin, and therefore lowering circulating testosterone.",
+        "Increased sex hormone binding globulin and therefore higher circulating testosterone.",
+        "Increased sex hormone binding globulin and therefore lower circulating testosterone.",
+        "Stimulation of LH production leading to lower circulating testosterone."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Hyperprolactinemia can be caused by all the following EXCEPT:",
+      "options": [
+        "Dopamine antagonists.",
+        "Hyperthyroidism.",
+        "Pituitary adenoma.",
+        "Antipsychotic medication.",
+        "Stress."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 25-year-old healthy woman complains of breast tenderness and amenorrhea for 6weeks duration. O/E: a whitish breast discharge is noticed. Pregnancy test is negative, TSH is normal, PRL is 80ng/ml. Radiological assessment may be needed on:",
+      "options": [
+        "Lumbar spine.",
+        "Sella turcica.",
+        "Chest.",
+        "Pelvic organs.",
+        "Abdominal organs."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A patient presents with galactorrhea. Prolactin level shows three folds elevation. The following is a normal physiologic reason for such condition:",
+      "options": [
+        "Enlarged sella turcica.",
+        "Pituitary adenoma.",
+        "Pregnancy.",
+        "Sheehan syndrome.",
+        "Primary hypothyroidism."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Causes of secondary amenorrhea include:",
+      "options": [
+        "Turner syndrome.",
+        "Anorexia.",
+        "Androgen insensitivity syndrome.",
+        "Imperforate hymen.",
+        "Transverse vaginal septum."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Selection of the dominant follicle in the menstrual cycle is mainly due to:",
+      "options": [
+        "High level of FSH at start of the follicular phase.",
+        "Low level of LH at early follicular phase.",
+        "Increased FSH receptors in the selected follicle.",
+        "Least aromatase activity in the selected follicle.",
+        "Decreasing level of inhibin peptide."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Regarding luteal phase defect, choose the correct answer:",
+      "options": [
+        "Serum progesterone is less than 5ng/ml in day 21",
+        "Basal body temperature is monophasic.",
+        "Premenstrual endometrial biopsy shows proliferative endometrium.",
+        "Common cause of recurrent 2nd trimesteric abortion.",
+        "Common to occur with clomiphene citrate use for ovulation induction."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "The following is best done at any time of the menstrual cycle in infertility cases:",
+      "options": [
+        "Serum estrogen level.",
+        "Serum progesterone level.",
+        "FSH & LH.",
+        "Serum prolactin.",
+        "Ultrasound folliculometry."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "An unmarried 18-year-old female presented with excess facial hair growth. She had regular cycles and US revealed bilateral increase in ovarian size with dense stroma and peripherally arranged equal size small follicles. Most suitable treatment for her is:",
+      "options": [
+        "Medical induction of ovulation.",
+        "Laparoscopic ovarian drilling.",
+        "Prolonged corticosteroid therapy.",
+        "LHRH analogues.",
+        "Cyproterone acetate."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "The luteal phase of the menstrual cycle is associated with:",
+      "options": [
+        "Cervical mucus with increased viscosity.",
+        "Thin endometrial lining less than 5mm.",
+        "Rising FSH levels.",
+        "Rising LH levels.",
+        "Low basal body temperature."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A long statured unmarried 20-year-old with average BMI has primary amenorrhea with normally developed breast, absent pubic and axillary hair, past history of inguinal hernia repair at age of 2 years. US sows absent uterus. Most likely diagnosis is:",
+      "options": [
+        "Mullerian agenesis.",
+        "Androgen insensitivity syndrome.",
+        "Turner syndrome.",
+        "Polycystic ovarian syndrome.",
+        "Kallman syndrome."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following may cause 2ry dysmenorrhea?",
+      "options": [
+        "Retroverted uterus.",
+        "Polycystic ovarian disease.",
+        "Imperforate hymen.",
+        "Acute pelvic inflammatory disease.",
+        "Endometriosis."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 13-year-old girl presents with cyclic lower abdominal pain for 6months. She has no menses. On separating the labia, a tense bluish bulge is seen. Most probable diagnosis:",
+      "options": [
+        "Bartholin cyst.",
+        "Imperforate hymen.",
+        "Transverse vaginal septum.",
+        "Cervical atresia.",
+        "Uterine aplasia."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is the most important determinant factor for ovarian reserve?",
+      "options": [
+        "Maternal age.",
+        "Maternal BMI.",
+        "Hereditary factors.",
+        "Associated thyroid disorders.",
+        "Associated polycystic ovaries."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "PCO can be associated with all the following EXCEPT:",
+      "options": [
+        "Inverted FSH/LH ratio.",
+        "Elevated serum ΑΜΗ.",
+        "Reduced level of total and free testosterone.",
+        "Increased insulin resistance.",
+        "Reduced serum progesterone."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A couple with a delayed conception for 8months attend the clinic seeking fertility. Male is smoker with semen analysis of 15million/ ml and decreased motility. Female is 25-year-old with normal hormonal profile and HSG. most suitable next step:",
+      "options": [
+        "Male treatment and re-do semen analysis after 6months.",
+        "Testicular biopsy.",
+        "Laparoscopy.",
+        "Hysteroscopy.",
+        "IVF-ICSI."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Normal parameters of semen analysis include:",
+      "options": [
+        "Volume: ≥5m.",
+        "Count: 15 million/ml.",
+        "PH: less than 2.5",
+        "Motility: ≥50% with progressive motility.",
+        "Morphology: ≥90% with normal forms."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Normal parameters of semen analysis include:",
+      "options": [
+        "Volume: at least 5ml or more.",
+        "Count: 15 million or more/ml.",
+        "PH: 3.5",
+        "Motility: at least 80% or more with progressive motility.",
+        "Abnormal forms: less than 5%"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The following are used to check ovulation EXCEPT:",
+      "options": [
+        "Mid-cycle progesterone level.",
+        "Mid-cycle LH kits.",
+        "Mid-cycle folliculometry.",
+        "Mid-cycle cervical mucus test.",
+        "Mid-cycle pain."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Regarding clomiphene citrate:",
+      "options": [
+        "Used in hypothalamic causes of infertility.",
+        "Used in pituitary causes of infertility.",
+        "Cannot be used without HCG triggering.",
+        "Most common medication used for induction of ovulation.",
+        "Effective in cases with premature ovarian failure."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Polycystic ovarian disease is characterized by:",
+      "options": [
+        "Elevated LH/FSH ratio.",
+        "Elevated TSH level.",
+        "Menorrhagia.",
+        "Dysmenorrhea.",
+        "Association with insulin dependent diabetes mellitus."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A60-year-old woman complains of vaginal dryness & dyspareunia. First management is:",
+      "options": [
+        "Corticosteroid cream.",
+        "Estrogen vaginal cream.",
+        "Testosterone vaginal cream.",
+        "Hormone replacement therapy.",
+        "Reassurance and follow up."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "HSG of an infertile patient shows Asherman's syndrome. Your treatment plan is:",
+      "options": [
+        "Laparoscopic lysis of the adhesions + clomiphene citrate therapy.",
+        "Hysteroscopic lysis of adhesions + estrogen therapy.",
+        "Laparoscopic lysis of adhesions + gestagens therapy.",
+        "Hysteroscopic lysis of the adhesions + GnRH analogues.",
+        "Laparotomy for adhesiolysis and timed intercourse."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Effects of progesterone production in menstrual cycle include:",
+      "options": [
+        "Increases amount of cervical secretions.",
+        "Facilitates upward transfer of sperms at day of ovulation.",
+        "Renders the endometrium suitable for implantation.",
+        "Responsible for colicky pains at onset of menstrual flow.",
+        "Exerts +ve feedback on FSH and LH in mid-luteal period."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "As regard induction of ovulation by Clomiphene citrate:",
+      "options": [
+        "Decreases cervical mucus sperm receptivity.",
+        "Effective in cases with Sheehan syndrome.",
+        "Risk of having a malformed fetus is doubled.",
+        "The treatment of choice in adolescent girls with anovulation.",
+        "Human chorionic gonadotropins should be given to ensure ovulation."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 23-year-old woman complains of heavy menstrual periods, associated with cramping pain, every 2weeks. And every other episode, there is very brief painful spotting for 2days. Her BBT is biphasic. Her physical examination is normal. the most likely diagnosis:",
+      "options": [
+        "Anovulatory bleeding.",
+        "Progressive endometriosis.",
+        "Chronic constipation.",
+        "Mittelschmerz.",
+        "Fibroid uterus."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The post ovulation cervical mucus is characterized by:",
+      "options": [
+        "Thin.",
+        "Profuse.",
+        "Acellular.",
+        "Negative thread test.",
+        "Maximum ferning."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Hormonal assays commonly required for infertility assessment include:",
+      "options": [
+        "Serum FSH and LH at day 21 of the cycle.",
+        "Urinary estriol level to detect impending ovulation within 48 hrs.",
+        "Serum progesterone at day 14 of the cycle.",
+        "Serum cortisol level.",
+        "Thyroid function tests."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Regarding surgical induction of ovulation:",
+      "options": [
+        "It is the most preferred induction method.",
+        "Has an extended ovulation effect up to 3yrs.",
+        "Can cause peritoneal adhesions.",
+        "Has no effect on ovarian reserve.",
+        "Effective in all forms of anovulation."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "What is the most serious complication in IVF/ICSI:",
+      "options": [
+        "Allergic reactions to ovulation induction agents.",
+        "Pelvic infection.",
+        "Multiple pregnancies.",
+        "Ovarian hyperstimulation.",
+        "Ectopic pregnancy."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "The success rate of IVF/ICSI cycles depend upon these factors EXCEPT:",
+      "options": [
+        "Wife's age.",
+        "Husband's age.",
+        "Quality of oocytes retrieved.",
+        "Quality of embryos transferred.",
+        "Quality of endometrium."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 35-year-old with 2ry amenorrhea, has +ve withdrawal progesterone challenge test, this occurs in:",
+      "options": [
+        "Pregnancy.",
+        "Turner (45XO).",
+        "Pituitary failure.",
+        "Mullerian agenesis.",
+        "PCOD."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 30-year-old female is concerned about irregular menses (fewer than 9/year), acne and hirsutism. Her BMI is 36. She has no other medical problems and would like to have a baby. Her FBS is 135mg/dl. Most appropriate treatment:",
+      "options": [
+        "Lifestyle modification only.",
+        "Lifestyle modification and insulin.",
+        "Lifestyle modification and metformin.",
+        "Lifestyle modification and an oral contraceptive.",
+        "Lifestyle modification and oral testosterone."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Under the effect of progesterone, cervical mucus shows:",
+      "options": [
+        "Profuse amount.",
+        "Decreased viscosity.",
+        "Increased leucocytes.",
+        "Maximum Ferning test.",
+        "Positive Spinbarkeit (thread test)."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A 19-year-old, unmarried female, presented to ER with acute Rt abdominal pain 1 week after the end of her menses. This pain is associated with a mild increase in vaginal secretions and blood spotting. US revealed a normal sized AVF uterus and a Rt adnexal clear cystic structure 20mm in diameter. What is your provisional diagnosis for this case?",
+      "options": [
+        "Mild PID.",
+        "Ovulatory pain.",
+        "Endometriosis.",
+        "Ectopic pregnancy.",
+        "Ovarian torsion."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Regarding clomiphene citrate:",
+      "options": [
+        "Improves endometrial receptivity by its estrogenic effect.",
+        "Enhances cervical mucus characteristics.",
+        "May result in mild ovarian hyperstimulation.",
+        "The treatment of choice in adolescent girls with menstrual irregularities.",
+        "Directly stimulates follicular growth."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Menopause is characterized by one of the following:",
+      "options": [
+        "Increased basal metabolic rate.",
+        "High FSH and LH levels.",
+        "Main circulating estrogen is estradiol.",
+        "Hot flushes usually start few years after complete cessation of menstruation.",
+        "Risk of osteoporosis is the same as elderly men in the same age."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Cryptomenorrhea is caused by one of the following pathologies:",
+      "options": [
+        "Complete Mullerian agenesis.",
+        "Testicular feminization syndrome.",
+        "Cervical atresia.",
+        "Asherman syndrome.",
+        "Turner syndrome."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Polycystic ovarian disease commonly includes one of the following characteristics:",
+      "options": [
+        "Elevated FSH and decreased LH.",
+        "Low androgen level.",
+        "High progesterone level.",
+        "Multiple large dominant follicles in ultrasound.",
+        "Obesity with increased insulin resistance."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 30-year-old P0+1 presented with 2ry amenorrhea for lyear following surgical evacuation of 10weeks pregnancy. She received cyclic oral contraceptive pills for few months but no withdrawal bleeding occurred. Your provisional diagnosis:",
+      "options": [
+        "Sheehan syndrome.",
+        "Asherman syndrome.",
+        "Turner syndrome.",
+        "Polycystic ovarian disease.",
+        "Premature ovarian failure."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "In postmenopausal women:",
+      "options": [
+        "Malignancy is the commonest cause of postmenopausal bleeding.",
+        "FSH and LH are characteristically low.",
+        "Fibroid uterus tends to grow bigger.",
+        "HRT increases the risk of breast cancer.",
+        "Endometrium is characteristically thick on US."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 35-year-old P1+0 with 2ry amenorrhea for 6 months. FSH: 40miu/ml.",
+      "options": [
+        "Premature ovarian failure.",
+        "Asherman syndrome.",
+        "Kallmann syndrome.",
+        "Turner syndrome.",
+        "Sheehan syndrome.",
+        "Polycystic ovary syndrome."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 35-year-old with delayed conception. 2nd day hormonal level: FSH: 3miu/ml, LH: 7 miu/ml.",
+      "options": [
+        "Premature ovarian failure.",
+        "Asherman syndrome.",
+        "Kallmann syndrome.",
+        "Turner syndrome.",
+        "Sheehan syndrome.",
+        "Polycystic ovary syndrome."
+      ],
+      "correct": 5
+    },
+    {
+      "stem": "A 29-year-old with 2ry amenorrhea for 1 year following vaginal delivery that was complicated by severe postpartum hemorrhage. She didn't lactate and FSH: 1 miu/ml.",
+      "options": [
+        "Premature ovarian failure.",
+        "Asherman syndrome.",
+        "Kallmann syndrome.",
+        "Turner syndrome.",
+        "Sheehan syndrome.",
+        "Polycystic ovary syndrome."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "A 22-year-old, obese, unmarried with 2ry amenorrhea for 3 months associated with facial acne and hirsutism. US shows bilateral increased ovarian stromal size with increased number of peripheral small follicles.",
+      "options": [
+        "Premature ovarian failure.",
+        "Asherman syndrome.",
+        "Kallmann syndrome.",
+        "Turner syndrome.",
+        "Sheehan syndrome.",
+        "Polycystic ovary syndrome."
+      ],
+      "correct": 5
+    },
+    {
+      "stem": "A 25-year-old G2P1, previous surgical evacuation for missed abortion and developed amenorrhea since then. Negative withdrawal bleeding after estrogen/progesterone therapy. FSH: 5 miu/ml, LH: 4 miu/ml.",
+      "options": [
+        "Premature ovarian failure.",
+        "Asherman syndrome.",
+        "Kallmann syndrome.",
+        "Turner syndrome.",
+        "Sheehan syndrome.",
+        "Polycystic ovary syndrome."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "This is associated with raised free androgen, low progesterone.",
+      "options": [
+        "Clomid.",
+        "Anovulation.",
+        "Oligospermia",
+        "Azospermia.",
+        "PCOS.",
+        "PID."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "The most common cause of tubal disease.",
+      "options": [
+        "Clomid.",
+        "Anovulation.",
+        "Oligospermia",
+        "Azospermia.",
+        "PCOS.",
+        "PID."
+      ],
+      "correct": 5
+    },
+    {
+      "stem": "The only treatment is donor insemination.",
+      "options": [
+        "Clomid.",
+        "Anovulation.",
+        "Oligospermia",
+        "Azospermia.",
+        "PCOS.",
+        "PID."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "An oral treatment for anovulation.",
+      "options": [
+        "Clomid.",
+        "Anovulation.",
+        "Oligospermia",
+        "Azospermia.",
+        "PCOS.",
+        "PID."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The most common cause of hirsutism is constitutional.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Induction of ovulation in Kallman syndrome is best done by clomiphene citrate.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Progesterone level more than 5ng/ml on day 21, indicates ovulation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Hyperprolactinemia is commonly treated by dopamine agonists.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Most commonly used investigations to diagnose ovulation are vaginal ultrasound and serum progesterone level.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Most common cause of 2ry amenorrhea is premature ovarian failure.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Precocious puberty is commonly associated with long stature.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The commonest cause of secondary amenorrhea is pregnancy.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In the normal menstrual cycle, ovulation occurs 12 hours prior to LH surge.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "The commonest cause of anovulation is polycystic ovarian disease.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Commonest cause of secondary amenorrhea is PCO.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Menopausal females have relatively alkaline vaginal pH.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    }
+  ]
+}

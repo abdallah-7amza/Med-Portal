@@ -1,0 +1,206 @@
+{
+  "title": "PBL of Endocrine", 
+  "questions": [
+    {
+      "stem": "Most common cause of congenital hypothyroidism:",
+      "options": [
+        "Maternal antithyroid drugs",
+        "Dyshormonogenesis",
+        "Aplasia"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All of the following are precipitating factors of DKA except:",
+      "options": [
+        "Infection",
+        "Psychological stress",
+        "Physical trauma",
+        "Over dose of insulin"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Type I diabetes mellitus is an:",
+      "options": [
+        "infectious disease",
+        "Autoimmune disease",
+        "vascular disease",
+        "congenital disease"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Clinical triad of Coma, dehydration and audotie breathing in not known diabetic child should raise the possibilty of DKA.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Correction of shock, acidosis & dehydration by IV fluid is the most urgent line of therapy in DKA.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following is true about DKA?",
+      "options": [
+        "Triad of dehydration, Acidosis & Coma",
+        "fatal in 10% of diabetic children",
+        "May be 1st manifestation in 20% of diabetes",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Diabetes mellitus presents by all of the following except:",
+      "options": [
+        "Polyuria, polydipsia",
+        "Primary nocturnal enuresis",
+        "DKA represents the initial presentation in 10-20% of cases.",
+        "Recent weight loss"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "All of the following are acute complications of TYPE I Diabetes mellitus except:",
+      "options": [
+        "Infections",
+        "Hypoglycemia",
+        "DKA",
+        "Ischemic heart disease"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "All of the following statements about DKA management are true except:",
+      "options": [
+        "Initial plasma potassium may be low or high",
+        "The use of bicarbonate for correction of acidosis in DKA is not recommended early",
+        "Insulin therapy started after 1h from fluid therapy",
+        "0.9 % saline is used in hyperosmolar cases"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which of the following is an acute complication for type 1 DM in children?",
+      "options": [
+        "Microvasculopathy",
+        "Diabetic ketoacidosis",
+        "Delayed puberty",
+        "Ischemic heart disease",
+        "Diabetic foot"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Insulin deficiency is associated with:",
+      "options": [
+        "Reduced lipolysis",
+        "Increased ketogenesis",
+        "Reduced gluconeogenesis",
+        "Reduced proteolysis",
+        "Glycogenesis"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "All of the following investigations for congenital hypothyroidism are true except:",
+      "options": [
+        "Low T4",
+        "High TSH",
+        "Delayed bone age",
+        "Thyroid scanning is essential for diagnosis of the cause.",
+        "High T3"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "Congenital Hypothyroidism associated with all of the following except?",
+      "options": [
+        "widely opened anterior fontanels",
+        "Goiter may be present",
+        "Lifelong therapy with L thyroxin",
+        "Short stature",
+        "Normal motor and mental development"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "All of the following are true about the management of DKA EXCEPT:",
+      "options": [
+        "IV fluid Correction must be gradual as rapid rehydration lead to cerebral edema.",
+        "When blood glucose has fallen to≤ 300 mg/dl add glucose to the IV fluids to avoid hypoglycemia.",
+        "If the patient shows mild dehydration, you start the deficit + maintenance therapy without bolus fluids.",
+        "Insulin therapy starts with resuscitation fluid therapy.",
+        "Diabetic ketoacidosis represents the initial presentation of DM in 10-20 % of cases."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Which statement isn`t true regarding Potassium therapy during of management of DKA?",
+      "options": [
+        "Initial plasma potassium level may be low or high.",
+        "Potassium therapy start after the IV fluid resuscitation",
+        "Potassium therapy start after the patient passes urine provided K is not elevated.",
+        "Plasma potassium level will rise following treatment with insulin.",
+        "Potassium is added 30-40 mEq/L after the first hour of IV fluid therapy."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A one year old child presented with the history of short stature, tiredness and constipation. Examination revealed a palpable goiter, Serum T4 was decreased and TSH levels were increased. Which is the most probable diagnosis?",
+      "options": [
+        "Thyroid agenesis",
+        "Thyroid Dyshormonogenesis",
+        "Ectopia thyroid",
+        "Central hypothyroidism"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Iodine deficiency can cause:",
+      "options": [
+        "Goitre",
+        "Thyroid cancer",
+        "Solitary thyroid nodules",
+        "Thyroiditis"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "In type 1 diabetes, the pancreas can’t make insulin because:",
+      "options": [
+        "The child is overweight or obese",
+        "The body’s immune system has attacked the pancreas",
+        "The patient eats more simple carbs than the body can handle",
+        "All of the above"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "children with type 1 diabetes need to:",
+      "options": [
+        "Lose weight",
+        "Take insulin in shots or with a pump",
+        "Remove sugar from their diets",
+        "Take oral hypoglycemic pills"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is the first step in the management of diabetic ketoacidosis?",
+      "options": [
+        "To provide fluids intravenously",
+        "To provide insulin",
+        "To provide bicarbonate",
+        "To initiate insulin and fluids simultaneously"
+      ],
+      "correct": 0
+    }
+  ]
+}

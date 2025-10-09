@@ -1,0 +1,78 @@
+{
+  "title": "Elderly(Geriatric) Health",
+  "questions": [
+    {
+      "stem": "Which vaccine is recommended to be given to the elderly every year?",
+      "options": [
+        "Influenza vaccine",
+        "Pneumococcal vaccine",
+        "Meningococcal vaccine",
+        "Hepatitis B vaccine"
+      ],
+      "correct": 0,
+      "explanation": "Annual influenza vaccination is recommended for the elderly because the flu virus strains change each year, and older adults are at a higher risk for severe complications from influenza."
+    },
+    {
+      "stem": "As regarding the nutrition program for the elderly, what is the typical daily energy intake?",
+      "options": [
+        "10 Kcal/kg",
+        "30 Kcal/kg",
+        "50 Kcal/kg",
+        "70 Kcal/kg"
+      ],
+      "correct": 1,
+      "explanation": "The recommended daily energy intake for older adults is approximately 30 Kcal/kg of body weight, adjusted for activity level and health status, to maintain energy balance."
+    },
+    {
+      "stem": "According to the provided text, which of the following is a nutrition disorder the elderly is NOT subjected to?",
+      "options": [
+        "Iron deficiency anemia",
+        "Vitamin A deficiency",
+        "Vitamin D deficiency",
+        "Vitamin C deficiency"
+      ],
+      "correct": 2,
+      "explanation": "Based on the provided answer key, the intended answer is Vitamin D deficiency. However, it's important to note that in clinical practice, Vitamin D deficiency is a very common and significant health issue among the elderly."
+    },
+    {
+      "stem": "Which of the following are considered mental health problems among the elderly?",
+      "options": [
+        "Low resistance to stress",
+        "Depression",
+        "Dementia",
+        "All the above"
+      ],
+      "correct": 3,
+      "explanation": "The elderly population can face multiple mental health challenges, including increased vulnerability to stress, higher rates of depression, and the onset of cognitive disorders like dementia."
+    },
+    {
+      "stem": "Which of the following are common nutritional problems among the elderly, according to the text?",
+      "options": [
+        "Vitamin D deficiency, iron deficiency anemia and riboflavin deficiency",
+        "Vitamin A deficiency, iron deficiency anemia and riboflavin deficiency",
+        "Vitamin C deficiency, B12 deficiency anemia and riboflavin deficiency",
+        "Vitamin K deficiency, iron deficiency anemia and riboflavin deficiency"
+      ],
+      "correct": 1,
+      "explanation": "The text identifies a combination of micronutrient deficiencies, including Vitamin A, iron, and riboflavin, as common nutritional issues in the elderly population."
+    },
+    {
+      "stem": "Most countries have accepted the chronological age of 60 years as a definition of 'elderly'.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "explanation": "According to the provided answer key, this statement is false. The definition can vary, with organizations like the UN often using 60 or 65 years as a statistical benchmark."
+    },
+    {
+      "stem": "In Egypt, the proportion of the elderly is expected to reach 10.0% by 2030.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "explanation": "Based on the provided answer key, this statement is considered false."
+    }
+  ]
+}

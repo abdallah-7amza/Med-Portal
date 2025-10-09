@@ -1,0 +1,82 @@
+{
+  "title": "Diagnostic Procedures and Operations in Gynecology",
+  "questions": [
+    {
+      "stem": "Transvaginal ultrasound of the pelvis:",
+      "options": [
+        "Requires a full bladder.",
+        "Should not be performed in a woman who is menstruating.",
+        "Can detect a fetal heart rate at six weeks' gestation.",
+        "Should not be performed in a woman with suspected genital herpes.",
+        "Can accurately diagnose deposits of endometriosis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following is an advantage of vaginal over abdominal hysterectomy:",
+      "options": [
+        "More suitable for cases with suspected marked pelvic adhesions.",
+        "Ovaries could be removed safely as in abdominal hysterectomy.",
+        "Lower incidences of bladder and ureteric injury.",
+        "Lower incidence of intestinal complications and peritonitis.",
+        "Less incidence of vault prolapse."
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Hysterosalpingography complications include all of the following EXCEPT:",
+      "options": [
+        "Oil embolism.",
+        "Pain with neurogenic shock.",
+        "Ascending infection.",
+        "Disturbance of undiagnosed pregnancy.",
+        "Uterine perforation."
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "What is the most serious complication specific to hysteroscopy?",
+      "options": [
+        "Fluid overload.",
+        "Uterine perforation.",
+        "Injury of a major pelvic vessel.",
+        "Bowel injury.",
+        "Surgical emphysema."
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The following is the least site for ureteric injury during hysterectomy?",
+      "options": [
+        "During clamping infundibulo-pelvic ligament.",
+        "During clamping of utero-sacral ligament.",
+        "During clamping of round ligament.",
+        "During clamping of vaginal angles.",
+        "During parametrial dissection and lymph node removal in radical surgery."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Rectal examination in gynecology has all the following uses EXCEPT:",
+      "options": [
+        "Pelvic examination in virgins.",
+        "Cases with atrophic vaginitis.",
+        "Cases with cancer cervix.",
+        "Cases with old complete perineal tear.",
+        "Differentiate rectocele from enterocele."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "On examining a 35 years old multipara complaining of lower abdominal heaviness, uterus was felt symmetrically enlarged of about 12 weeks size. All of the following could be an etiology EXCEPT:",
+      "options": [
+        "Uterine fibroid.",
+        "Adenomyosis.",
+        "Pregnancy.",
+        "Hematometra.",
+        "Chronic hypertrophic cervicitis."
+      ],
+      "correct": 4
+    }
+  ]
+}

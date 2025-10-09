@@ -1,0 +1,533 @@
+{
+  "title": "KAF",
+  "questions": [
+    {
+      "stem": "A 2 year old girl was brought to the emergency department with sudden severe hematemesis. History revealed umbilical sepsis during neonatal period. The child appears pale and physical examination reveals a firm spleen palpable 7 cm below the costal margin. She does not exhibit hepatomegaly, ascites or lymphadenopathy. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Hepatic vein thrombosis",
+        "Liver cirrhosis",
+        "Portal vein thrombosis",
+        "Vasoocclusive disease"
+      ],
+      "correct": 2,
+      "explanation": "The patient's history of neonatal umbilical sepsis followed by severe hematemesis, firm splenomegaly without hepatomegaly, ascites, or lymphadenopathy, is characteristic of pre-hepatic portal hypertension due to portal vein thrombosis. Umbilical sepsis can lead to thrombophlebitis of the umbilical vein, which is the most common cause of portal vein thrombosis. The bleeding from hematemesis is typically due to esophageal varices, a consequence of portal hypertension."
+    },
+    {
+      "stem": "A 12-year-old boy is brought to the clinic by his parents. He has been complaining of mild abdominal pain and yellow sclera. The parents report that he had flu like illness with fever nausea and poor appetite over the last 10 days. On examination he is jaundiced and his liver is palpable 4 cm below the costal margin and mildly tender. Which of the following is the likely diagnosis?",
+      "options": [
+        "Acute hepatitis",
+        "Cholestasis",
+        "Hemolytic crisis due G6PD deficiency",
+        "Liver cirrhosis"
+      ],
+      "correct": 0,
+      "explanation": "The clinical picture of a 12-year-old boy with a history of flu-like illness (fever, nausea, poor appetite) for 10 days, followed by jaundice, yellow sclera, mild abdominal pain, and a mildly tender, enlarged liver, is a classic presentation of acute icteric hepatitis."
+    },
+    {
+      "stem": "14 year-old girl has hepatosplenomegaly, intention tremors, dystonia and deterioration in her school performance; she has a several year history of elevated liver enzymes. Which is the best explanation of her condition?",
+      "options": [
+        "Cystic fibrosis",
+        "Liver cirrhosis",
+        "Wilson disease",
+        "a 1 antitrypsin deficiency"
+      ],
+      "correct": 2,
+      "explanation": "Wilson disease is a metabolic disorder characterized by copper accumulation. The clinical features of hepatosplenomegaly, elevated liver enzymes, and neurological symptoms like intention tremors and dystonia are a classic combination seen in Wilson disease. A key diagnostic feature is the Kayser-Fleischer ring, which is a brown ring at the edge of the iris due to copper accumulation."
+    },
+    {
+      "stem": "You are advised by the obstetrician that the mother of a baby she has delivered is a carrier of hepatitis B surface antigen. Which of the following is the most appropriate action?",
+      "options": [
+        "Administer hepatitis B immunoglobulin and hepatitis B vaccine to the infant",
+        "Administer hepatitis B immunoglobulin only.",
+        "Isolate the infant",
+        "Screen the infant for HBSAg"
+      ],
+      "correct": 0,
+      "explanation": "Infants born to mothers who are positive for the hepatitis B surface antigen (HBsAg) should receive both specific hepatitis B immunoglobulins intramuscularly and the hepatitis B vaccine within 12 hours of birth, in separate sites."
+    },
+    {
+      "stem": "8 month old child admitted in emergency department, with a history of recurrent hematemesis for the past 3 days. On examination the baby was very pale with altered consciousness; he has hepatomegaly of 6 cm below costal margin. Which of the following is the most appropriate initial action?",
+      "options": [
+        "Abdominal ultrasound",
+        "Liver biopsy",
+        "Ringer lactate then blood transfusion",
+        "Upper endoscopy and injection sclerotherapy"
+      ],
+      "correct": 2,
+      "explanation": "The patient is an infant presenting with recurrent hematemesis, pallor, and altered consciousness, indicating severe bleeding and hemorrhagic shock. The most appropriate initial action is to stabilize the patient by treating the shock with intravenous fluids, such as Ringer's lactate, followed by a blood transfusion."
+    },
+    {
+      "stem": "A 4-year-old boy presents with fever, nausea and vomiting for 2 days followed by jaundice, and dark urine. The child had a tonsillectomy operation last year. Investigations revealed elevated liver enzymes and negative Hepatitis A IgM. You are going to screen for virus B infections, Which of the following markers you are going to request?",
+      "options": [
+        "HBs antigen",
+        "HBs antigen and HBc antigen",
+        "HBs antigen and HBc antibodies",
+        "HBs antigen and HBs antibodies"
+      ],
+      "correct": 2,
+      "explanation": "The patient's history of tonsillectomy last year, which could be a route for transmission, along with acute hepatitis symptoms (fever, nausea, vomiting, jaundice, dark urine), suggests a potential hepatitis B infection. The markers to request for a recent infection are HBsAg and IgM anti-HBc."
+    },
+    {
+      "stem": "A 7 -year-old boy presents with jaundice, hepatomegaly and, elevated liver enzymes of 7 months duration. A diagnosis of chronic hepatitis is suggested. Markers for hepatitis A, hepatitis B and C are negative. Which of the following investigation may be diagnostic?",
+      "options": [
+        "Abdominal ultrasound",
+        "Barium enema",
+        "Immunoglobulins and auto antibodies",
+        "Upper endoscopy"
+      ],
+      "correct": 2,
+      "explanation": "The patient's prolonged jaundice, hepatomegaly, and elevated liver enzymes for 7 months, with negative markers for hepatitis A, B, and C, suggest a diagnosis of chronic hepatitis. Since viral causes have been ruled out, the next step is to investigate for non-viral causes, such as autoimmune chronic hepatitis, which is diagnosed by testing for hypergammaglobulinemia and autoantibodies."
+    },
+    {
+      "stem": "A 4 week- old full term female presents to the office with increasing jaundice over the last week together with dark urine and persistently pale color stool. On examination her weight and height are at the 50th percentile. Her liver is felt 4 cm below the costal margin, firm in consistency and no splenomegaly is noted. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Biliary atresia",
+        "Congenital spherocytes anemia",
+        "Idiopathic hepatitis",
+        "Wilson disease"
+      ],
+      "correct": 0,
+      "explanation": "The patient is a full-term female neonate with a normal birth weight and height, who presents with increasing jaundice at 4 weeks, dark urine, and persistently pale stools. Examination reveals a firm liver and no splenomegaly. This clinical picture is most consistent with extrahepatic biliary atresia."
+    },
+    {
+      "stem": "A 3-week-old infant breast fed, has a jaundice first noticed 12 days ago. On examination, he is active with good sulking. Total bilirubin: $8 mg/dl$ direct bilirubin, $4.5 mg/dl$. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Biliary atresia",
+        "Breast milk jaundice",
+        "Congenital hypothyroidism",
+        "Sepsis"
+      ],
+      "correct": 0,
+      "explanation": "A 3-week-old breastfed infant with jaundice first noticed 12 days ago, presenting with a direct bilirubin level of 4.5 mg/dL, is a clear case of neonatal cholestasis, defined as direct bilirubin being greater than 20% of total bilirubin. Biliary atresia is the second most common cause of neonatal cholestasis, presenting early with persistent jaundice and sometimes pale, clay-colored stools."
+    },
+    {
+      "stem": "A 10 years old boy presents with recurrent attacks of hematemesis. Examination reveals abdominal distention, dilated abdominal veins, and liver 5 cm in the mid clavicular line and tense ascites. Which one of the following statements is correct?",
+      "options": [
+        "Emergency endoscopy is needed.",
+        "The patient has extrahepatic biliary atresia",
+        "The patient has pre hepatic portal hypertension.",
+        "The patient never presents with melena"
+      ],
+      "correct": 0,
+      "explanation": "A 10-year-old boy with recurrent hematemesis, abdominal distention, and dilated abdominal veins, along with ascites and hepatomegaly, has signs of portal hypertension. Hematemesis is a medical emergency that requires an emergency endoscopy to identify and treat the source, which is most likely bleeding esophageal varices."
+    },
+    {
+      "stem": "A neonate aged 3 weeks develops jaundice at birth, associated with pale clay colored stools. On examination the patient has yellowish green jaundice, microcephaly and hepatosplenomegaly. Which of the following investigations may be diagnostic?",
+      "options": [
+        "Abdominal ultrasound",
+        "ALT, AST and serum bilirubin",
+        "Hepatitis markers",
+        "Torch screening"
+      ],
+      "correct": 3,
+      "explanation": "The neonate presents with jaundice, pale stools, microcephaly, and hepatosplenomegaly. Microcephaly is a key finding that is suggestive of congenital infections such as TORCH infections, which are a known cause of neonatal cholestasis. Therefore, TORCH screening would be the most appropriate diagnostic investigation."
+    },
+    {
+      "stem": "A 12-week old infant presented with poor feeding and vomiting. On examination, he was jaundiced, had several bruises and hepatomegaly. Investigations showed bilirubin of $11 mg/dl$ 80% conjugated. The radionuclide scan showed no excretion at 24 hours and a liver biopsy was done. What is the most likely diagnosis?",
+      "options": [
+        "Biliary atresia.",
+        "Choledochal cyst.",
+        "Hypothyroidism",
+        "Neonatal hepatitis."
+      ],
+      "correct": 0,
+      "explanation": "The patient is a 12-week-old infant with jaundice, acholic (pale) stools, and a radionuclide scan (HIDA scan) that shows no excretion of the dye into the intestine after 24 hours. The failure of the dye to appear in the intestine is diagnostic of biliary atresia."
+    },
+    {
+      "stem": "The cause of bruises in the previous case is due to",
+      "options": [
+        "Hyperbilirubinemia.",
+        "Hypoprothrombinemia.",
+        "Thrombocytopenia.",
+        "Vitamin E malabsorption"
+      ],
+      "correct": 1,
+      "explanation": "The presence of several bruises in a jaundiced infant with hepatomegaly indicates a bleeding tendency. In cases of cholestasis and liver disease, there is fat malabsorption leading to deficiency of fat-soluble vitamins, including Vitamin K. This, in turn, causes hypoprothrombinemia, resulting in bleeding and bruising."
+    },
+    {
+      "stem": "A 6 year-old boy presents with fever, anorexia, abdominal pain and vomiting of 4-6 days duration. Examination reveals yellowish discoloration of the eyes and tender hepatomegaly. Which of the following statements is correct?",
+      "options": [
+        "Jaundice may be absent in some cases",
+        "Liver biopsy is essential for diagnosis",
+        "Protein restriction is the mainstay of treatment",
+        "The condition may be due to biliary atresia"
+      ],
+      "correct": 0,
+      "explanation": "The clinical picture of fever, anorexia, abdominal pain, and vomiting, followed by jaundice and tender hepatomegaly, is a classic presentation of acute hepatitis. However, anicteric hepatitis, where jaundice is absent, is a common form of the disease, especially in infants."
+    },
+    {
+      "stem": "A 14-day-old infant is jaundiced. The total bilirubin level is $14 mg/dl$ and the direct bilirubin is $5 mg/dl$. Which of the following test is appropriate?",
+      "options": [
+        "Blood type and direct antibody test on infant's blood",
+        "Blood type and direct antibody test on mother's blood",
+        "Examination of infant's blood smear",
+        "Urine analysis and culture"
+      ],
+      "correct": 3,
+      "explanation": "A 14-day-old infant with a total bilirubin of 14 mg/dl and a direct bilirubin of 5 mg/dl has neonatal cholestasis. Sepsis is a common infectious cause of neonatal cholestasis, so urine analysis and culture are important investigations to rule out a urinary tract infection as a potential cause."
+    },
+    {
+      "stem": "A 10-year-old female patient sought medical consultation with a main complaint of nausea, poor appetite, and fever for one week. She has abdominal pain. Her urine color is dark. Examination showed a scleral icterus and tenderness on the right side of the abdomen. Which of the following is the most probable cause?",
+      "options": [
+        "Acute viral hepatitis A",
+        "Viral hepatitis C",
+        "Urinary stones.",
+        "Urinary tract infection"
+      ],
+      "correct": 0,
+      "explanation": "The patient's symptoms of nausea, poor appetite, fever, abdominal pain, and dark urine, followed by scleral icterus, are typical of acute viral hepatitis. Hepatitis A is an acute viral infection that commonly presents with these symptoms."
+    },
+    {
+      "stem": "A previously well 12-year-old boy presented with a four-day history of decreased energy and appetite. 2 days after, his parents noticed yellowish discoloration of his sclera and dark urine. On examination the liver was enlarged and tender. Investigations revealed total serum bilirubin $13 mg/dl$ with conjugated bilirubin $5 mg/dl$ albumin level $2.9 g/L$ and elevated INR that did not respond to intravenous doses of vitamin K. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Acute liver cell failure",
+        "Biliary atresia",
+        "Chronic liver cell failure",
+        "Sclerosing cholangitis"
+      ],
+      "correct": 0,
+      "explanation": "The patient presents with symptoms of acute hepatitis. The key findings are the elevated INR that did not respond to vitamin K and the low albumin level. This indicates a severe impairment of the liver's synthetic function, which, along with the recent onset, is diagnostic of acute liver cell failure, also known as fulminant hepatitis."
+    },
+    {
+      "stem": "A male infant presented with hematemesis in the causality. By examination clinically palpable splenomegaly was detected. From history this infant did exchange transfusion for severe hyper-bilirubinemia when he was 3 days old in which the umbilical catheter remained for 72 hours. The most important diagnostic step is:",
+      "options": [
+        "Bleeding time",
+        "CBC",
+        "Liver biopsy",
+        "Upper endoscopy"
+      ],
+      "correct": 3,
+      "explanation": "The infant's history of umbilical catheterization for exchange transfusion as a neonate is a significant risk factor for portal vein thrombosis. The presenting symptoms of hematemesis and splenomegaly are hallmarks of portal hypertension. The most important diagnostic step to identify the source of the bleeding is an upper endoscopy."
+    },
+    {
+      "stem": "A 10-year-old female patient sought medical consultation with a chief complaint of nausea, poor appetite, and fever for one week. She has abdominal pain. Her urine color is dark. Examination showed a scleral icterus, and a palpable liver edge which is moderately tender. Investigation needed to confirm he diagnosis is:",
+      "options": [
+        "Abdominal US",
+        "HAV IgM",
+        "HCV AB",
+        "Urine analysis"
+      ],
+      "correct": 1,
+      "explanation": "The patient presents with classic symptoms of acute hepatitis. To confirm the diagnosis of acute hepatitis A, the specific laboratory test is IgM antibodies to hepatitis A (HAV IgM)."
+    },
+    {
+      "stem": "A 7 year old girl presented with three episodes of massive hematemesis and melena. There is history of jaundice. On examination she had enlarged spleen, hepatomegaly 6 cm below costal margin. Liver function tests were elevated and endoscopy revealed esophageal varices. The most likely cause of her portal hypertension is:",
+      "options": [
+        "Budd-Chiari syndrome",
+        "Chronic liver disease",
+        "Pre-hepatic obstruction",
+        "Thalassemia major"
+      ],
+      "correct": 1,
+      "explanation": "The patient's history of massive hematemesis and melena, combined with jaundice, hepatosplenomegaly, elevated liver enzymes, and esophageal varices, strongly suggests portal hypertension due to chronic liver disease. The jaundice and elevated liver enzymes point towards hepatic pathology rather than a pre-hepatic cause."
+    },
+    {
+      "stem": "To investigate for cause of the previous case, you will order:",
+      "options": [
+        "CT abdomen",
+        "Echocardiography",
+        "Hemoglobin electrophoresis",
+        "Hepatitis markers"
+      ],
+      "correct": 3,
+      "explanation": "Given the clinical picture of chronic liver disease, the investigation should focus on identifying the underlying etiology. A common cause of chronic hepatitis is viral infection. Therefore, checking for hepatitis markers (HBsAg, anti-HBc IgG, and HCV antibody) is essential."
+    },
+    {
+      "stem": "Drug therapy in case 20 does not include:",
+      "options": [
+        "Aspirin",
+        "Propranolol",
+        "Ranitidine",
+        "Vasopressin"
+      ],
+      "correct": 0,
+      "explanation": "Aspirin and other non-steroidal anti-inflammatory drugs (NSAIDs) should be avoided in patients with portal hypertension and varices, as they can increase the risk of bleeding."
+    },
+    {
+      "stem": "Which of the following is true regarding hepatitis A?",
+      "options": [
+        "Acute fulminant hepatitis is very rare in children.",
+        "It is usually more severe in children than in adults",
+        "May be complicated by liver cirrhosis.",
+        "The stools are dark, while the urine is light in color"
+      ],
+      "correct": 0,
+      "explanation": "Fulminant hepatitis is a rare but serious complication of hepatitis A. In children, acute fulminant hepatitis from HAV is very rare. Hepatitis A does not lead to liver cirrhosis."
+    },
+    {
+      "stem": "Which is false about acute hepatitis A?",
+      "options": [
+        "Elevated liver enzymes",
+        "High level IgG is expected in the icteric stage.",
+        "High rate of subclinical illness.",
+        "It is transmitted through contaminated food or water."
+      ],
+      "correct": 1,
+      "explanation": "The icteric stage is a period of active infection. Diagnosis of recent hepatitis A infection relies on the presence of IgM antibodies (anti-HAV IgM). IgG anti-HAV antibodies appear after recovery and indicate immunity, not an active icteric stage."
+    },
+    {
+      "stem": "Regarding hepatitis-A which of the following is not true",
+      "options": [
+        "Anicteric hepatitis commonly occurs.",
+        "Commoner in infancy",
+        "Fulminant hepatitis is a common complication",
+        "May be transmitted by contaminated food."
+      ],
+      "correct": 2,
+      "explanation": "Fulminant hepatitis is a very rare complication of Hepatitis A, not a common one. Anicteric hepatitis is common, especially in infancy. The virus can be transmitted by contaminated food."
+    },
+    {
+      "stem": "Which of the following statements is false about hepatitis-A?",
+      "options": [
+        "Anorexia and vomiting occur before appearance of jaundice",
+        "Fulminant hepatitis is a rare complication.",
+        "Onset is usually acute.",
+        "Serum alkaline phosphatase usually shows decreased levels."
+      ],
+      "correct": 3,
+      "explanation": "The onset of acute hepatitis A is typically acute, with symptoms like anorexia and vomiting preceding jaundice. Fulminant hepatitis is a rare complication. Serum alkaline phosphatase levels are usually elevated in liver disease, so a decreased level would be an incorrect finding."
+    },
+    {
+      "stem": "Regarding fulminant hepatitis which of the following findings is not true",
+      "options": [
+        "Bleeding tendency",
+        "High ammonia level",
+        "Hyperkalemia",
+        "Low serum albumin"
+      ],
+      "correct": 2,
+      "explanation": "Fulminant hepatitis is a severe condition. Findings include bleeding tendency, high ammonia levels, and low serum albumin. Electrolyte disturbances like hyperkalemia, hyponatremia, and hypoglycemia are also common. Therefore, hyperkalemia is a potential finding. However, a hallmark of acute liver cell failure is encephalopathy and coagulopathy."
+    },
+    {
+      "stem": "A false statement regarding hepatitis-B surface antigen (HBs-Ag) is:",
+      "options": [
+        "A positive person should not donate his blood.",
+        "In hepatitis-B, it becomes positive before appearance of jaundice.",
+        "It is the basis for screening blood donors for the carrier state.",
+        "Once a patient becomes positive, it remains positive for life."
+      ],
+      "correct": 3,
+      "explanation": "HBsAg is the surface antigen of Hepatitis B. A positive person should not donate blood. It appears before jaundice, and its persistence for more than 6 months indicates chronicity. However, it does not remain positive for life in all cases; it can be cleared, after which anti-HBs antibodies will appear."
+    },
+    {
+      "stem": "A newborn to a hepatitis B surface antigen mother should receive:",
+      "options": [
+        "Both hepatitis B vaccine and hepatitis B immunoglobulins",
+        "Hepatitis-B immunoglobulin (HBIG).",
+        "Hepatitis-B vaccine at birth.",
+        "Prednisone."
+      ],
+      "correct": 0,
+      "explanation": "A newborn to an HBsAg-positive mother should receive both the hepatitis B vaccine and hepatitis B immunoglobulins (HBIG). The HBIG provides immediate passive immunity, while the vaccine initiates a long-term active immune response."
+    },
+    {
+      "stem": "Causes of cholestasis do not include",
+      "options": [
+        "Biliary atresia",
+        "Congenital infections",
+        "Glucuronyl transferase deficiency",
+        "Idiopathic hepatitis"
+      ],
+      "correct": 2,
+      "explanation": "Glucuronyl transferase deficiency (Crigler-Najjar syndrome) leads to unconjugated hyperbilirubinemia, not cholestasis, which is defined as an elevation of conjugated (direct) bilirubin. The other options are well-known causes of neonatal cholestasis."
+    },
+    {
+      "stem": "Regarding biliary atresia, find the false statement in the following:",
+      "options": [
+        "Has a characteristic excretion pattern in (HIDA scan).",
+        "If untreated, progressive liver affection leads to biliary cirrhosis.",
+        "Is characterized by bile-stained vomiting.",
+        "Treatment is essentially surgical."
+      ],
+      "correct": 2,
+      "explanation": "In biliary atresia, bile fails to reach the duodenum. Therefore, the stool is pale or clay-colored, and the vomiting is not bile-stained. The other statements are true."
+    },
+    {
+      "stem": "Regarding biliary atresia, which statement is false?",
+      "options": [
+        "Dark stool.",
+        "Increased alkaline phosphatase enzyme.",
+        "Itching.",
+        "Onset of jaundice is usually noticed in the 2nd week of life."
+      ],
+      "correct": 0,
+      "explanation": "Biliary atresia involves the failure of bile to reach the intestine. This results in pale or clay-colored stools, not dark stools. The other options are true."
+    },
+    {
+      "stem": "Features of portal hypertension do not include",
+      "options": [
+        "Ascites may occur.",
+        "Deterioration of consciousness.",
+        "Dilated peri-umbilical vessels.",
+        "The spleen is enlarged."
+      ],
+      "correct": 1,
+      "explanation": "Portal hypertension can lead to dilated peri-umbilical vessels, splenomegaly, and ascites. Deterioration of consciousness (hepatic encephalopathy) is a feature of liver cell failure, not a direct consequence of portal hypertension itself."
+    },
+    {
+      "stem": "Which of the following is not due to portal hypertension?.",
+      "options": [
+        "Dilated anastomoses at the fundus of the stomach.",
+        "Hemorrhoids.",
+        "Lower esophageal varices.",
+        "Varicocele."
+      ],
+      "correct": 3,
+      "explanation": "The formation of porto-systemic collaterals is a key feature of portal hypertension, including varices and hemorrhoids. Varicocele is a dilation of the pampiniform venous plexus, which is part of the systemic venous system, not the portal system."
+    },
+    {
+      "stem": "The following might not be found with a diagnosis of portal hypertension",
+      "options": [
+        "History of use of neonatal umbilical venous catheters",
+        "Iron deficiency anemia",
+        "Splenomegaly",
+        "Thrombocytosis"
+      ],
+      "correct": 3,
+      "explanation": "The consequences of portal hypertension include splenomegaly, which can lead to hypersplenism and pancytopenia, including thrombocytopenia. Thrombocytosis (an elevated platelet count) would therefore not be a typical finding."
+    },
+    {
+      "stem": "Portal hypertension may not be caused by",
+      "options": [
+        "Bilharziasis.",
+        "Liver cirrhosis.",
+        "Portal vein thrombosis",
+        "ß -Thalassemia."
+      ],
+      "correct": 3,
+      "explanation": "Bilharziasis and liver cirrhosis are hepatic causes of portal hypertension. Portal vein thrombosis is a pre-hepatic cause. While thalassemia major can cause hepatosplenomegaly and liver disease from iron overload, it is not a direct cause of portal hypertension."
+    },
+    {
+      "stem": "Which of the following is not a common cause of ascites?",
+      "options": [
+        "Congestive heart failure.",
+        "Kwashiorkor.",
+        "Nephrotic syndrome.",
+        "Veno-occlusive disease."
+      ],
+      "correct": 1,
+      "explanation": "Ascites can be caused by liver disease, congestive heart failure, nephrotic syndrome, or Veno-occlusive disease. Kwashiorkor is characterized by generalized edema, but ascites is rare."
+    },
+    {
+      "stem": "Which of the following is not a cause of liver cirrhosis:",
+      "options": [
+        "Biliary atresia.",
+        "Galactosemia.",
+        "Hepatitis-A.",
+        "Hepatitis-B."
+      ],
+      "correct": 2,
+      "explanation": "Hepatitis-A does not cause chronic liver disease or cirrhosis. Biliary atresia, galactosemia, and hepatitis-B are all causes of chronic liver disease that can lead to cirrhosis."
+    },
+    {
+      "stem": "Huge splenomegaly may not be due to the following",
+      "options": [
+        "Bilharziasis.",
+        "Gaucher disease",
+        "Veno-occlusive disease",
+        "ß Thalassemia major."
+      ],
+      "correct": 2,
+      "explanation": "Huge splenomegaly is a characteristic feature of bilharziasis, Gaucher disease, and ß-thalassemia major. Veno-occlusive disease is a post-hepatic cause of portal hypertension characterized by marked hepatomegaly with mild splenomegaly."
+    },
+    {
+      "stem": "Hepatomegaly may not be due to the following",
+      "options": [
+        "Bilharziasis.",
+        "Glycogen storage disease",
+        "Portal vein thrombosis",
+        "ß Thalassemia major."
+      ],
+      "correct": 2,
+      "explanation": "Portal vein thrombosis is a pre-hepatic cause of portal hypertension. The key features are significant splenomegaly with a normal liver size. Bilharziasis, glycogen storage disease, and ß-thalassemia major are all causes of hepatomegaly."
+    },
+    {
+      "stem": "Clubbing of fingers is not associated with",
+      "options": [
+        "Bronchiectasis.",
+        "Congenital cyanotic heart disease",
+        "Iron deficiency anemia.",
+        "Liver cirrhosis."
+      ],
+      "correct": 2,
+      "explanation": "Clubbing of fingers is a common sign associated with chronic conditions like bronchiectasis, congenital cyanotic heart disease, and liver cirrhosis. It is not associated with iron deficiency anemia."
+    },
+    {
+      "stem": "Which one of these viruses is not RNA viruses?",
+      "options": [
+        "HAV",
+        "HBV",
+        "HCV",
+        "HDV"
+      ],
+      "correct": 1,
+      "explanation": "Hepatitis B virus (HBV) is a DNA virus. Hepatitis A (HAV), Hepatitis C (HCV), and Hepatitis D (HDV) viruses are all RNA viruses."
+    },
+    {
+      "stem": "Genetic causes that may not be related to infantile cholestasis include",
+      "options": [
+        "Galactosemia",
+        "Progressive familial intrahepatic cholestasis",
+        "Tyrosinemia",
+        "Wilson's disease"
+      ],
+      "correct": 3,
+      "explanation": "Wilson's disease is a metabolic cause of chronic hepatitis and cirrhosis, but it typically presents later in childhood or adolescence, not as infantile cholestasis. Galactosemia, tyrosinemia, and PFIC are known genetic causes of infantile cholestasis."
+    },
+    {
+      "stem": "In a child with the diagnosis of pre-hepatic portal hypertension, the most consistent clinical physical finding is:",
+      "options": [
+        "Ascites",
+        "Edema of both LL",
+        "Hepatomegaly",
+        "Splenomegaly"
+      ],
+      "correct": 3,
+      "explanation": "Pre-hepatic portal hypertension is caused by portal vein thrombosis. This leads to congestion of the viscera drained by the portal vein, resulting in early and significant splenomegaly. The liver is typically of normal size."
+    },
+    {
+      "stem": "Fulminant hepatitis is characterized by:",
+      "options": [
+        "Encephalopathy",
+        "Peripheral neuropathy",
+        "Retinopathy",
+        "Vasculopathy"
+      ],
+      "correct": 0,
+      "explanation": "Fulminant hepatitis, or acute liver cell failure, is defined by biochemical evidence of liver injury with encephalopathy and coagulopathy in a patient without prior chronic liver disease."
+    },
+    {
+      "stem": "One of the following is a cause of hepatomegaly:",
+      "options": [
+        "Galactosemia",
+        "Infectious mononucleosis",
+        "Infective endocarditis",
+        "Portal vein thrombosis"
+      ],
+      "correct": 0,
+      "explanation": "Galactosemia is an inherited error of carbohydrate metabolism that can cause hepatomegaly. Portal vein thrombosis is a pre-hepatic cause of portal hypertension and does not typically cause hepatomegaly."
+    },
+    {
+      "stem": "Drug therapy for the esophageal varices includes:",
+      "options": [
+        "Beta adrenergic blocker",
+        "Beta adrenergic stimulant",
+        "Non-steroidal anti-inflammatory",
+        "Vitamin K"
+      ],
+      "correct": 0,
+      "explanation": "Beta-adrenergic blockers like Propranolol are used to lower the pressure in the portal area and prevent bleeding from varices in patients with portal hypertension."
+    },
+    {
+      "stem": "Pre- hepatic portal hypertension may be due to:",
+      "options": [
+        "Autoimmune hepatitis",
+        "Budd-Chiari syndrome.",
+        "Umbilical sepsis.",
+        "Wilson disease."
+      ],
+      "correct": 2,
+      "explanation": "Pre-hepatic portal hypertension is caused by portal vein thrombosis. Umbilical sepsis and umbilical vein catheterization during the neonatal period are the most common causes of portal vein thrombosis. The other options are causes of intrahepatic or post-hepatic portal hypertension."
+    }
+  ]
+}

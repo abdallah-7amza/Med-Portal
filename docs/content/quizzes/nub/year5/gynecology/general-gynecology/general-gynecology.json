@@ -1,0 +1,1481 @@
+{
+  "title": "Kasr Al Ainy",
+  "questions": [
+    {
+      "stem": "A 34-year-old woman presents with primary infertility and inability to get pregnant over the past 18 months. She and her husband are in good health. Which test would not be part of the basic workup?",
+      "options": [
+        "Menstrual calendar.",
+        "Diagnostic laparoscopy.",
+        "Semen analysis.",
+        "Day 3 FSH test.",
+        "Thyroid panel."
+      ],
+      "correct": 1,
+      "explanation": "Diagnostic laparoscopy is generally considered a 'gold standard' for evaluation but is often performed as a 'further test' when initial basic investigations have failed to detect a cause, rather than being part of the initial 'basic workup'."
+    },
+    {
+      "stem": "Symptoms suggestive of ovulation include all the following EXCEPT:",
+      "options": [
+        "Regular cycles.",
+        "Mid cycle pain.",
+        "Premenstrual mastalgia.",
+        "Spasmodic dysmenorrhea.",
+        "Premenstrual yellow discharge."
+      ],
+      "correct": 4,
+      "explanation": "Premenstrual yellow discharge is not a typical symptom of ovulation and may be indicative of infection or inflammation."
+    },
+    {
+      "stem": "A 28 years old patient with infertility has bilateral proximal tubal block by HSG. Best management is:",
+      "options": [
+        "Laparoscopy.",
+        "Hydrotubation.",
+        "IVF.",
+        "Tuboplasty.",
+        "IUI."
+      ],
+      "correct": 0,
+      "explanation": "Laparoscopy is the 'gold standard' for evaluating tubal factor infertility and is the recommended next step to confirm a bilateral proximal tubal block found on HSG and potentially perform operative procedures."
+    },
+    {
+      "stem": "The following is the gold standard to diagnose Asherman's syndrome:",
+      "options": [
+        "3D ultrasonography.",
+        "Hysteroscopy.",
+        "3D ultrasonography.",
+        "MRI.",
+        "HSG."
+      ],
+      "correct": 1,
+      "explanation": "Hysteroscopy is explicitly stated as the 'gold standard' to diagnose Asherman's syndrome as it allows for direct visualization of intrauterine adhesions."
+    },
+    {
+      "stem": "HSG of an infertile patient shows Asherman's syndrome. Your treatment plan is:",
+      "options": [
+        "Laparoscopic lysis of the adhesions + clomiphene citrate therapy.",
+        "Hysteroscopic lysis of adhesions + estrogen therapy.",
+        "Laparoscopic lysis of adhesions + gestagens therapy.",
+        "Hysteroscopic lysis of the adhesions + GnRH analogues.",
+        "Laparotomy for adhesiolysis and timed intercourse."
+      ],
+      "correct": 1,
+      "explanation": "The standard treatment for Asherman's syndrome is hysteroscopic lysis of adhesions, followed by cyclic estrogen therapy to promote endometrial regeneration."
+    },
+    {
+      "stem": "A couple with 1ry infertility for 10 years presents with male semen count of 6 million/ml with sluggish motility. Female partner was 37 years old with normal HSG and normal hormonal profile. What is the most suitable line of treatment?",
+      "options": [
+        "Treat the husband and redo semen analysis after 3-6 months.",
+        "Treat the husband and do another recent laparoscopy to exclude female factor.",
+        "Proceed to ICSI.",
+        "IUI for 6 cycles.",
+        "Induce ovulation with timed intercourse for 6 months."
+      ],
+      "correct": 2,
+      "explanation": "A semen count of 6 million/ml indicates severe male factor infertility (oligoasthenospermia). For such cases, Intracytoplasmic Sperm Injection (ICSI) is the most suitable assisted reproductive technique."
+    },
+    {
+      "stem": "Therapeutic value of hysteroscopy in infertile cases includes:",
+      "options": [
+        "Lysis of peri-tubal adhesions.",
+        "Ovarian drilling.",
+        "Removal of intramural cervical fibroid.",
+        "Cervical cauterization.",
+        "Treatment of Ashermann syndrome."
+      ],
+      "correct": 4,
+      "explanation": "Operative hysteroscopy has significant therapeutic value, including the division of intrauterine synechiae, which is the treatment for Asherman's syndrome."
+    },
+    {
+      "stem": "Regarding infertility, the following should be scheduled at mid cycle?",
+      "options": [
+        "Serum progesterone level.",
+        "FSH and LH levels.",
+        "Prolactin level.",
+        "Hysterosalpingography.",
+        "Ultrasound folliculometry."
+      ],
+      "correct": 4,
+      "explanation": "Ultrasound folliculometry involves serial scans during the follicular phase to monitor follicle growth, maturation, and ovulation, which occurs around the mid-cycle."
+    },
+    {
+      "stem": "Regard infertility, the following should be scheduled at day 2-3 of the cycle?",
+      "options": [
+        "Serum progesterone level.",
+        "FSH and LH levels.",
+        "Prolactin level.",
+        "Hysterosalpingography.",
+        "Ultrasound folliculometry."
+      ],
+      "correct": 1,
+      "explanation": "Serum FSH & LH levels are key hormonal assays for assessing ovarian reserve and should be measured on day 2 or 3 of the menstrual cycle."
+    },
+    {
+      "stem": "Normal parameters of semen analysis include:",
+      "options": [
+        "Volume: At least 5 ml or more.",
+        "Count: 15 million or more/ml.",
+        "PH: 3.5.",
+        "Motility: At least 80% or more with progressive motility.",
+        "Morphology: At least 90% or more with normal forms."
+      ],
+      "correct": 1,
+      "explanation": "According to WHO 2010 criteria, a normal semen count is 15 million or more sperm per milliliter."
+    },
+    {
+      "stem": "Hormonal assays commonly required for infertility assessment include:",
+      "options": [
+        "Serum FSH & LH at day 21 of the cycle.",
+        "Urinary estriol level to detect impending ovulation within 48 hours.",
+        "Mid-luteal progesterone at day 14 of the cycle.",
+        "Serum cortisol level.",
+        "Thyroid function tests."
+      ],
+      "correct": 4,
+      "explanation": "Thyroid dysfunction can cause ovulation problems and affect fertility, making thyroid function tests a commonly required hormonal assay in an infertility workup."
+    },
+    {
+      "stem": "A 25 years female presents with 1ry infertility for 3 years. Semen analysis is normal. Her TVS revealed bilateral hydrosalpinx. Ideal management is:",
+      "options": [
+        "Monthly intrauterine insemination for 3 cycles.",
+        "Induction of ovulation.",
+        "Proceed to I.C.S.I",
+        "Prolonged antibiotic therapy for 3 months.",
+        "Tubal disconnection should be performed."
+      ],
+      "correct": 4,
+      "explanation": "For a patient with bilateral hydrosalpinx, laparoscopic tubal disconnection or salpingectomy is recommended before proceeding with IVF to improve success rates by preventing the toxic fluid from flowing back into the uterus."
+    },
+    {
+      "stem": "A couple has 1ry infertility for 1 year. Male semen analysis showed azoospermia. Female partner was 25 years old with normal laparoscopy/hysteroscopy. How can you counsel this couple?",
+      "options": [
+        "Male testicular biopsy should be performed 1st to assess.",
+        "Induce ovulation with timed intercourse for 6 months.",
+        "IUI could be attempted for 6 cycles.",
+        "ICSI is the most suitable option.",
+        "Wait for spontaneous pregnancy for another 1 year."
+      ],
+      "correct": 0,
+      "explanation": "In cases of azoospermia, a testicular biopsy is a crucial first step to differentiate between obstructive and non-obstructive causes, which guides further treatment options."
+    },
+    {
+      "stem": "The following investigation can be done at any time of the menstrual cycle:",
+      "options": [
+        "Serum estrogen level.",
+        "Serum progesterone level.",
+        "F.S.H and L.H.",
+        "Serum prolactin.",
+        "Ultrasound folliculometry."
+      ],
+      "correct": 3,
+      "explanation": "Serum prolactin levels are not cycle-dependent and can be assessed on any day of the cycle as part of an infertility workup."
+    },
+    {
+      "stem": "Regarding surgical induction of ovulation:",
+      "options": [
+        "It is the most preferred induction method.",
+        "Has an extended ovulation effect up to 3 years.",
+        "Can cause peritoneal adhesions.",
+        "Has no effect on ovarian reserve.",
+        "Effective in all forms of anovulation."
+      ],
+      "correct": 2,
+      "explanation": "Laparoscopic Ovarian Drilling (LOD), a surgical procedure for ovulation induction, carries a risk of creating peritubal and periovarian adhesions."
+    },
+    {
+      "stem": "What is the most serious complication in IVF/ICSI procedures?",
+      "options": [
+        "Allergic reactions to ovulation induction agents.",
+        "Pelvic infection.",
+        "Multiple pregnancies.",
+        "Ovarian hyperstimulation.",
+        "Ectopic pregnancy."
+      ],
+      "correct": 3,
+      "explanation": "Ovarian Hyperstimulation Syndrome (OHSS) is a serious iatrogenic complication of controlled ovarian stimulation that can lead to severe symptoms and, in rare cases, can be life-threatening."
+    },
+    {
+      "stem": "A 32 years infertile woman had a recent HSG. Three days after the procedure, she presented with fever, headache, malaise, acute lower abdominal pain with increased vaginal discharge. Pelvic ultrasound examination revealed a tubo-ovarian complex. The most proper diagnosis is:",
+      "options": [
+        "Torsion ovary and adnexa.",
+        "Ectopic pregnancy.",
+        "Ovarian endometrioma.",
+        "Acute PID.",
+        "Rupture ovarian cyst."
+      ],
+      "correct": 3,
+      "explanation": "The patient's presentation following an HSG (an iatrogenic procedure that can introduce bacteria) is highly indicative of acute Pelvic Inflammatory Disease (PID)."
+    },
+    {
+      "stem": "What is the most important determinant factor affecting ovarian reserve?",
+      "options": [
+        "Maternal age.",
+        "Maternal body mass index.",
+        "Hereditary factors.",
+        "Associated thyroid disorders.",
+        "Associated polycystic ovaries."
+      ],
+      "correct": 0,
+      "explanation": "The age of the female is the single most important factor affecting ovarian reserve, as the number and quality of oocytes decline progressively with age, especially after 35."
+    },
+    {
+      "stem": "What is the most important determinant factor affecting fertility potential?",
+      "options": [
+        "High FSH level.",
+        "Maternal body mass index.",
+        "Hereditary factor.",
+        "Associated thyroid disorders.",
+        "Associated polycystic ovaries."
+      ],
+      "correct": 0,
+      "explanation": "A high basal (day 3) FSH level is a key indicator of diminished ovarian reserve, which directly impacts fertility potential by reflecting a lower quantity and quality of oocytes."
+    },
+    {
+      "stem": "Regarding luteal phase defect, choose the correct answer:",
+      "options": [
+        "Serum progesterone from 5 to 9 ng/ml in midluteal phase.",
+        "Basal body temperature is monophasic.",
+        "Premenstrual endometrial biopsy shows proliferative endometrium.",
+        "Common cause of recurrent 2nd trimester abortion.",
+        "Common to occur with use of FSH and LH derivatives for ovulation induction."
+      ],
+      "correct": 0,
+      "explanation": "Luteal phase defect (LPD) is characterized by inadequate progesterone production. A mid-luteal serum progesterone level between 5-9 ng/ml suggests ovulation occurred but with inadequate corpus luteum function."
+    },
+    {
+      "stem": "Hormonal assays commonly required for infertility assessment include all of the following EXCEPT:",
+      "options": [
+        "Serum FSH & LH at day 2-3 of the cycle.",
+        "Serum progesterone at day 22 of the cycle.",
+        "Serum prolactin at any day of the cycle.",
+        "8 am serum cortisol level.",
+        "Thyroid function tests."
+      ],
+      "correct": 3,
+      "explanation": "While cortisol can be related to stress, a routine 8 am serum cortisol level is not a standard part of the initial hormonal workup for infertility."
+    },
+    {
+      "stem": "A 25 years female presented with 1ry infertility for 3 years. Semen analysis was normal. Her TVS revealed bilateral hydrosalpinx. What is the recommended management for this case?",
+      "options": [
+        "Monthly intrauterine insemination for 3 cycles.",
+        "Induction of ovulation.",
+        "Intracytoplasmic sperm injection.",
+        "Prolonged antibiotic therapy.",
+        "Laparoscopic tubal disconnection."
+      ],
+      "correct": 4,
+      "explanation": "For primary infertility with bilateral hydrosalpinx, laparoscopic tubal disconnection (or salpingectomy) is recommended prior to IVF to improve success rates."
+    },
+    {
+      "stem": "The following is recommended to be done at any time of the menstrual cycle:",
+      "options": [
+        "Serum progesterone level.",
+        "FSH and LH.",
+        "TSH, T3, T4",
+        "Ultrasound folliculometry.",
+        "Hysterosalpingeography."
+      ],
+      "correct": 2,
+      "explanation": "Thyroid function tests (TSH, T3, T4) are not dependent on the menstrual cycle and can be performed at any time during an infertility evaluation."
+    },
+    {
+      "stem": "A 29-year-old woman presents with 2 years of primary infertility. Her BMI is 36 and she has irregular menstrual cycles. She has patent tubes and her progesterone concentration on day 21 is 15 ng/mL. Her partner's semen analysis is normal. What is the most important next step?",
+      "options": [
+        "Clomiphene induction.",
+        "Dietary and weight reduction advice.",
+        "Gonadotrophins induction.",
+        "Laparoscopic ovarian drilling.",
+        "Metformin."
+      ],
+      "correct": 1,
+      "explanation": "The patient's high BMI and irregular cycles suggest PCOS. For overweight or obese women with PCOS, lifestyle modification including dietary and weight reduction advice is the crucial first-line management to improve ovulatory function."
+    },
+    {
+      "stem": "All of the following are essential to evaluate infertile couple EXCEPT:",
+      "options": [
+        "Midluteal serum progesterone.",
+        "Endometrial biopsy.",
+        "Semen analysis.",
+        "Hysterosalpingiogram.",
+        "FSH/ LH on day 2."
+      ],
+      "correct": 1,
+      "explanation": "While endometrial biopsy can be used to assess the luteal phase, it is invasive and has largely been replaced by serum progesterone testing. It is not considered an essential first-line investigation for all infertile couples."
+    },
+    {
+      "stem": "The first investigation to be done in a 26 years female patient with history of infertility, headache and white discharge from the breast is:",
+      "options": [
+        "Endometrial biopsy.",
+        "Serum FSH and LH.",
+        "Hysteroscopy.",
+        "Serum prolactin.",
+        "Hysterosalpingiogram."
+      ],
+      "correct": 3,
+      "explanation": "The triad of infertility, headache, and galactorrhea (white discharge from the breast) is classic for hyperprolactinemia. Therefore, checking a serum prolactin level is the appropriate first investigation."
+    },
+    {
+      "stem": "Best management for couple with primary infertility 3 years with normal semen analysis, patent tubes is:",
+      "options": [
+        "Folliculometry and scheduled intercourse.",
+        "Adoption.",
+        "ICSI.",
+        "Intrauterine insemination.",
+        "Reassurance."
+      ],
+      "correct": 0,
+      "explanation": "With unexplained infertility, a reasonable initial management strategy is to optimize the chances of natural conception. Monitoring ovulation with folliculometry to precisely time intercourse is a logical first step."
+    },
+    {
+      "stem": "The gold standard for the diagnosis of endometriosis is:",
+      "options": [
+        "Laparoscopy.",
+        "Transvaginal ultrasound.",
+        "Hysteroscopy.",
+        "Midluteal serum progesterone level.",
+        "Hysterosalpingogram."
+      ],
+      "correct": 0,
+      "explanation": "Diagnostic laparoscopy with direct visualization of implants and adhesions, with or without biopsy for histological confirmation, is the gold standard for diagnosing and staging endometriosis."
+    },
+    {
+      "stem": "PCO can be associated by all of the following EXCEPT:",
+      "options": [
+        "Inverted FSH/LH ratio.",
+        "Elevated serum AMH.",
+        "Reduced level of total and free testosterone.",
+        "Increased insulin resistance.",
+        "Reduced serum progesterone."
+      ],
+      "correct": 2,
+      "explanation": "Polycystic Ovary Syndrome (PCOS) is characterized by clinical or biochemical hyperandrogenism, which means elevated, not reduced, levels of total and free testosterone."
+    },
+    {
+      "stem": "A 22 years old female with history of 4 years primary infertility, suffers from recurrent attacks of fever, iliac fossa pain and offensive vaginal discharge, the cause of infertility is mostly:",
+      "options": [
+        "Ovarian factor.",
+        "Vaginal factor.",
+        "Tubal factor.",
+        "Uterine factor.",
+        "Cervical factor."
+      ],
+      "correct": 2,
+      "explanation": "Recurrent attacks of fever, pelvic pain, and discharge are indicative of recurrent Pelvic Inflammatory Disease (PID), a primary cause of tubal damage, adhesions, and subsequent tubal factor infertility."
+    },
+    {
+      "stem": "Azoospermia is:",
+      "options": [
+        "Absent sperm count.",
+        "Low sperm count.",
+        "Abnormal sperm morphology.",
+        "Absent semen deposition.",
+        "None of the above."
+      ],
+      "correct": 0,
+      "explanation": "Azoospermia is defined as the complete absence of sperm in the ejaculate."
+    },
+    {
+      "stem": "Hypothyroidism can affect fertility by causing:",
+      "options": [
+        "Blocked fallopian tubes.",
+        "Anti-sperm antibodies.",
+        "Thick cervical mucus.",
+        "Ovulation problems.",
+        "Endometriosis."
+      ],
+      "correct": 3,
+      "explanation": "Hypothyroidism can disrupt the normal hormonal axis, leading to elevated prolactin levels and anovulation, thus causing ovulation problems."
+    },
+    {
+      "stem": "Drug of choice for induction of ovulation in IVF- ICSI protocols is:",
+      "options": [
+        "GnRH antagonist.",
+        "Androgen antagonist.",
+        "GnRH agonist.",
+        "Selective estrogen receptor modulator.",
+        "Glucocorticoid."
+      ],
+      "correct": 2,
+      "explanation": "In many IVF/ICSI protocols (long protocols), GnRH agonists are essential for pituitary down-regulation to prevent a premature natural LH surge during controlled follicular stimulation."
+    },
+    {
+      "stem": "Tests to detect of ovulation include all of the following EXCEPT:",
+      "options": [
+        "Midluteal serum progesterone.",
+        "Basal body temperature.",
+        "Detection of LH surge in urine dipstick.",
+        "Folliculometry.",
+        "Postmenstrual endometrial biopsy."
+      ],
+      "correct": 4,
+      "explanation": "A premenstrual endometrial biopsy can detect secretory changes indicative of ovulation. A postmenstrual biopsy would assess the endometrium after shedding and would not provide information about the preceding ovulatory status."
+    },
+    {
+      "stem": "The following is true about GnRH analogues:",
+      "options": [
+        "Continuous administration stimulates follicular growth.",
+        "Their long-term use causes osteoporosis.",
+        "They are commonly used as a contraceptive method.",
+        "They are commonly used for induction of ovulation.",
+        "They are commonly used for treatment of PCO."
+      ],
+      "correct": 1,
+      "explanation": "Long-term continuous administration of GnRH agonists induces a hypoestrogenic state (medical menopause), a known side effect of which is accelerated bone loss, leading to osteoporosis."
+    },
+    {
+      "stem": "The peak secretion of progesterone occurs on:",
+      "options": [
+        "1st day of cycle.",
+        "7th day of cycle.",
+        "14th day of cycle.",
+        "21st day of cycle.",
+        "27th day of cycle."
+      ],
+      "correct": 3,
+      "explanation": "In a typical 28-day cycle, the corpus luteum reaches its maximum activity and progesterone secretion peaks around day 21, which is the mid-luteal phase."
+    },
+    {
+      "stem": "The following hormone is elevated in PCO:",
+      "options": [
+        "17-ОН progesterone.",
+        "Follicular stimulating hormone.",
+        "Luteinizing hormone.",
+        "Thyroid stimulating hormone.",
+        "Cortisone."
+      ],
+      "correct": 2,
+      "explanation": "Polycystic Ovary Syndrome (PCOS) is often characterized by an elevated Luteinizing Hormone (LH) level, leading to a high LH/FSH ratio."
+    },
+    {
+      "stem": "Regarding ovarian hyperstimulation syndrome all the followings are true EXCEPT:",
+      "options": [
+        "It is a complication of IUI.",
+        "Can cause pericardial effusion.",
+        "Can cause renal failure.",
+        "Can cause ARDS.",
+        "Complication of induction of ovulation."
+      ],
+      "correct": 0,
+      "explanation": "OHSS is a complication of the ovulation induction drugs (gonadotropins) used in ART cycles like IVF, not a direct complication of the Intrauterine Insemination (IUI) procedure itself."
+    },
+    {
+      "stem": "A 30-year-old woman presents with primary infertility and dysmenorrhea. TVS shows a 6 cm endometrioma in the left ovary. Best initial management is:",
+      "options": [
+        "GnRH agonist for six months.",
+        "IVF.",
+        "IUI.",
+        "Laparoscopic drainage of the endometrioma.",
+        "Laparoscopic excision of the endometrioma."
+      ],
+      "correct": 4,
+      "explanation": "For a symptomatic ovarian endometrioma larger than 4 cm, the recommended management is laparoscopic cystectomy (excision of the cyst wall) to confirm the diagnosis, relieve symptoms, and potentially improve fertility."
+    },
+    {
+      "stem": "During the evaluation of infertility in a 25 years old female, a HSG showed Ashermann syndrome. The following symptom is expected in this patient:",
+      "options": [
+        "Oligomenorrhea.",
+        "Hypomenorrhea.",
+        "Menorrhagia.",
+        "Metrorrhagia.",
+        "Leucorrhea."
+      ],
+      "correct": 1,
+      "explanation": "Asherman's syndrome involves intrauterine adhesions that reduce the amount of functional endometrium, commonly leading to hypomenorrhea (scanty periods) or secondary amenorrhea."
+    },
+    {
+      "stem": "If you suspect luteal phase defect as a cause of infertility, endometrial biopsy should be done on which day of the menstrual cycles:",
+      "options": [
+        "Day 3.",
+        "Day 8.",
+        "Day 14.",
+        "Day 21.",
+        "Day 26."
+      ],
+      "correct": 4,
+      "explanation": "To diagnose a luteal phase defect via biopsy, it should be performed premenstrually, typically 2-3 days before the expected onset of menses. In a 28-day cycle, day 26 is an appropriate time."
+    },
+    {
+      "stem": "Which day of menstrual cycle is the best to perform HSG:",
+      "options": [
+        "Day 2.",
+        "Day 7.",
+        "Day 14.",
+        "Day 21.",
+        "Day 26."
+      ],
+      "correct": 1,
+      "explanation": "Hysterosalpingography (HSG) should be performed in the early follicular phase, after menstruation has ceased but before ovulation, to avoid irradiating a potential pregnancy. Day 7 is an ideal time."
+    },
+    {
+      "stem": "Which day of menstrual cycle is the best to perform serum progesterone:",
+      "options": [
+        "Day 3.",
+        "Day 8.",
+        "Day 14.",
+        "Day 21.",
+        "Day 26."
+      ],
+      "correct": 3,
+      "explanation": "To assess for ovulation and evaluate luteal phase function, serum progesterone should be measured at its peak, which occurs in the mid-luteal phase, typically on day 21 of a 28-day cycle."
+    },
+    {
+      "stem": "Which is true concerning infertility?",
+      "options": [
+        "A woman who has never been pregnant is considered secondary infertility.",
+        "80-90% of married couples will get pregnant within 12 months of marriage.",
+        "Male factor of infertility is not common.",
+        "Premature ovarian failure is the commonest cause.",
+        "Uterine septum is the commonest cause of female factor."
+      ],
+      "correct": 1,
+      "explanation": "It is estimated that approximately 85% of couples with regular unprotected intercourse will conceive within one year."
+    },
+    {
+      "stem": "The following is true about PCOS:",
+      "options": [
+        "Commonest cause of ovarian factor of infertility.",
+        "Those complaining of infertility are best managed by oral contraception.",
+        "Laparoscopic drilling is the best line of treatment for oligomenorrhea.",
+        "Are less likely to develop diabetes mellitus.",
+        "Hirsutism is unlikely."
+      ],
+      "correct": 0,
+      "explanation": "Polycystic Ovary Syndrome (PCOS) is the most common cause of anovulatory infertility, making it the most common ovarian factor of infertility."
+    },
+    {
+      "stem": "A 26-year-old lady presents with primary infertility for 1 year. She has irregular cycles, BMI 35, mild hirsutism and normal HSG and semen analysis. The next best management to help her get pregnant is:",
+      "options": [
+        "Perform laparoscopic drilling.",
+        "Give oral contraception to regulate her cycle.",
+        "Prescribe spironolactone for hirsutism.",
+        "Lose weight and start induction of ovulation.",
+        "Wait for another year for spontaneous pregnancy to occur."
+      ],
+      "correct": 3,
+      "explanation": "The patient's presentation is characteristic of PCOS. For overweight women with PCOS, the first-line management for infertility is lifestyle modification (weight loss), followed by ovulation induction."
+    },
+    {
+      "stem": "A 30-year-old lady presents with 3 years primary infertility. HSG shows bilateral proximal tubal block. What is the best management for her?",
+      "options": [
+        "Perform laparoscopy and hysteroscopy to confirm the tubal block.",
+        "Start induction of ovulation after performing semen analysis.",
+        "Repeat hysterogram to confirm diagnosis of tubal block.",
+        "Offer her IUI.",
+        "Offer IVF- ICSI."
+      ],
+      "correct": 0,
+      "explanation": "An HSG finding of bilateral proximal tubal block requires confirmation, as tubal spasm can cause a false positive. Laparoscopy is the gold standard to confirm or refute the diagnosis and assess the pelvis."
+    },
+    {
+      "stem": "Regarding endometriosis, all the followings are true EXCEPT:",
+      "options": [
+        "Commonly presents with infertility and pain.",
+        "CA-125 can be elevated.",
+        "Dyspareunia can be the chief complaint.",
+        "Only presents after marriage.",
+        "Can cause fallopian tube block."
+      ],
+      "correct": 3,
+      "explanation": "Endometriosis can affect any woman during her reproductive years, which begin at puberty. Therefore, it can present before marriage."
+    },
+    {
+      "stem": "Which of the following is true concerning endometriotic cysts?",
+      "options": [
+        "Does not present with pain.",
+        "Usually diagnosed with MRI pelvis.",
+        "Gives a ground-glass appearance in the ultrasound scan.",
+        "Does not recur after excision.",
+        "Rarely associated with infertility."
+      ],
+      "correct": 2,
+      "explanation": "Ovarian endometriomas (chocolate cysts) classically have a 'ground-glass' appearance on transvaginal ultrasound due to the homogenous, low-level internal echoes of old blood."
+    },
+    {
+      "stem": "A patient with high FSH and LH levels and low AMH probably suffers from:",
+      "options": [
+        "PCOS.",
+        "Endometriosis.",
+        "Premature ovarian failure.",
+        "Hypogonadotropic hypogonadism.",
+        "Sheehan Syndrome."
+      ],
+      "correct": 2,
+      "explanation": "The combination of high gonadotropins (FSH and LH) indicating a lack of negative feedback, and a low AMH level, is characteristic of diminished ovarian reserve or premature ovarian failure."
+    },
+    {
+      "stem": "Compared with clomiphene citrate, HMG have:",
+      "options": [
+        "Lower incidence of twin pregnancy.",
+        "Lower incidence of ectopic pregnancy.",
+        "Lower cost.",
+        "Higher incidence of ovarian hyperstimulation (OHSS).",
+        "Lower incidence of abortion."
+      ],
+      "correct": 3,
+      "explanation": "Human Menopausal Gonadotropins (HMG) are more potent than clomiphene citrate and are associated with a significantly higher risk of Ovarian Hyperstimulation Syndrome (OHSS)."
+    },
+    {
+      "stem": "Which method is a reliable method for prevention of pregnancy?",
+      "options": [
+        "Rhythm method.",
+        "Coitus interruptus.",
+        "Postcoital douching.",
+        "Prolonged breastfeeding.",
+        "None of the above."
+      ],
+      "correct": 4,
+      "explanation": "Natural methods like the rhythm method, coitus interruptus, and lactational amenorrhea have high failure rates and are not considered reliable for pregnancy prevention. Douching is ineffective."
+    },
+    {
+      "stem": "Mechanisms of COCPs include all of the following EXCEPT:",
+      "options": [
+        "Ovulation suppression.",
+        "Enhanced ovarian androgen production.",
+        "Altered cervical mucus.",
+        "Altered endometrium.",
+        "Altered tubal motility."
+      ],
+      "correct": 1,
+      "explanation": "Combined Oral Contraceptive Pills (COCPs) suppress pituitary hormones, which in turn decreases, not enhances, ovarian androgen production. This is why they are used to treat conditions like hirsutism."
+    },
+    {
+      "stem": "Regarding injectable progesterone contraception, all of the following are true, EXCEPT:",
+      "options": [
+        "Medroxyprogesterone acetate is the most commonly used.",
+        "May cause irregular uterine bleeding.",
+        "May cause amenorrhea.",
+        "Should not be given to lactating mother.",
+        "Does not carry a risk of venous thrombosis."
+      ],
+      "correct": 3,
+      "explanation": "Progestogen-only methods, including injectables like DMPA, do not contain estrogen and are considered safe and suitable for breastfeeding mothers."
+    },
+    {
+      "stem": "A 6 weeks pregnant woman presents with invisible IUD threads. Ultrasonography confirms a pulsating intra uterine pregnancy. The appropriate management is:",
+      "options": [
+        "Follow up.",
+        "Induction of abortion.",
+        "Hysteroscopic removal of the IUD.",
+        "Antibiotics for the rest of pregnancy.",
+        "Laparoscopic evaluation of the situation."
+      ],
+      "correct": 0,
+      "explanation": "If an intrauterine pregnancy is confirmed with an IUD in situ and the threads are not visible, attempting removal carries a higher risk of miscarriage than leaving it in place. The patient is followed up closely."
+    },
+    {
+      "stem": "Side effect of COCP include all the following EXCEPT:",
+      "options": [
+        "Break through bleeding.",
+        "Dysmenorrhea.",
+        "Nausea.",
+        "Mastalgia.",
+        "Chloasma."
+      ],
+      "correct": 1,
+      "explanation": "One of the non-contraceptive benefits of COCPs is the treatment of spasmodic dysmenorrhea (painful periods). They typically alleviate this symptom rather than cause it."
+    },
+    {
+      "stem": "Expulsion of an intrauterine contraceptive device:",
+      "options": [
+        "Occurs after the first three months in the majority of cases.",
+        "Is more common among young women.",
+        "Is more common in multiparous women.",
+        "The first step in diagnosing is a pelvic X-ray.",
+        "Is a contraindication to fitting a further device."
+      ],
+      "correct": 2,
+      "explanation": "IUD expulsion is more common in women with a distorted uterine cavity or strong uterine contractions, which can be more prevalent in multiparous women."
+    },
+    {
+      "stem": "Progesterone-containing IUCD (Mirena):",
+      "options": [
+        "Is less effective than the copper IUCD.",
+        "Leads to amenorrhea in 60% of women within 6 months of insertion.",
+        "Requires a paracervical block for insertion.",
+        "Is effective for five years.",
+        "Is associated with a decreased risk of tubal pregnancy compared to a copper IUCD."
+      ],
+      "correct": 3,
+      "explanation": "The levonorgestrel-releasing IUS (Mirena) is approved for and acts effectively for 5 years."
+    },
+    {
+      "stem": "A 35-year-old woman comes requesting long-term reversible contraception. The method that can provide the longest protection is:",
+      "options": [
+        "Contraceptive implant.",
+        "Copper intrauterine device.",
+        "Depo-provera injection.",
+        "Levonorgestrel- IUS.",
+        "Laparoscopic sterilization."
+      ],
+      "correct": 1,
+      "explanation": "The copper IUD (Cu T 380) is effective for up to 10 years, providing the longest duration of protection among the reversible options listed. Sterilization is irreversible."
+    },
+    {
+      "stem": "The following are contra-indications for the use IUCD, EXCEPT:",
+      "options": [
+        "Nulligravida.",
+        "Uterine subserous myoma.",
+        "History of ectopic pregnancy.",
+        "History of PID.",
+        "Septate uterus."
+      ],
+      "correct": 1,
+      "explanation": "Subserous myomas grow on the outside of the uterus and do not typically distort the uterine cavity, making them less likely to be a contraindication compared to submucosal or large intramural fibroids."
+    },
+    {
+      "stem": "25 years old P1+0 is seeking for a method for contraception. She delivered by C.S 3 months ago and she is nursing her baby with amenorrhea since delivery. She was planning to delay next pregnancy for 3 to 5 years. Most appropriate contraceptive method for this case?",
+      "options": [
+        "Lactation suppresses ovulation and no need for extra protection.",
+        "Intrauterine contraceptive device.",
+        "Combined oral contraceptive pills.",
+        "Minipills.",
+        "Safe period."
+      ],
+      "correct": 1,
+      "explanation": "For long-term (3-5 years), effective, reversible contraception in a breastfeeding woman, an IUD (either copper or progestin-releasing) is an excellent choice as it does not affect lactation."
+    },
+    {
+      "stem": "40 years old, P2+0, diabetic multipara presents for contraceptive advice. She had regular cycles but she is used to have more than average blood loss for about 7 days. Examination and TVS were normal. Most appropriate method of contraception for this case?",
+      "options": [
+        "Copper IUD.",
+        "Progesterone medicated IUD.",
+        "Oral contraceptive pills.",
+        "Progesterone only pills.",
+        "Safe period."
+      ],
+      "correct": 1,
+      "explanation": "A progesterone-medicated IUD (Mirena) is the most appropriate choice as it significantly reduces menstrual blood loss and has minimal systemic effects, making it suitable for a diabetic patient with menorrhagia."
+    },
+    {
+      "stem": "A 35 years old P1+0 is asking for a temporary method of birth control for few months. She delivered by C.S 2 months ago and she is nursing her baby. Most appropriate contraceptive method is:",
+      "options": [
+        "No need as long as she is lactating.",
+        "Intrauterine contraceptive device.",
+        "Combined oral contraceptive pills.",
+        "Progestogen only pills.",
+        "Safe period."
+      ],
+      "correct": 3,
+      "explanation": "For temporary, short-term contraception in a breastfeeding woman, progestogen-only pills (minipills) are a suitable option as they do not interfere with lactation."
+    },
+    {
+      "stem": "The following is considered a contraindication to IUD:",
+      "options": [
+        "During lactation.",
+        "Previous CS.",
+        "Previous missed IUD threads.",
+        "Previous ectopic pregnancy.",
+        "Patients with scanty cycles."
+      ],
+      "correct": 3,
+      "explanation": "A history of ectopic pregnancy is a relative contraindication to IUD use due to a potentially higher risk of a subsequent ectopic gestation should contraception fail."
+    },
+    {
+      "stem": "The commonest contraceptive method used in developing countries is:",
+      "options": [
+        "IUCD",
+        "Monophasic combined pills.",
+        "Biphasic combined pills.",
+        "Progesterone only pills.",
+        "Male condom."
+      ],
+      "correct": 0,
+      "explanation": "The IUD is a widely used method in national family planning programs in developing countries due to its high efficacy, long-term duration, and low user-dependent failure rate."
+    },
+    {
+      "stem": "A 35-year-old woman presents with inability to feel the threads of IUCD which was applied 2 years ago. Threads are not seen on speculum examination. All the following could be an etiology EXCEPT:",
+      "options": [
+        "Uterine perforation.",
+        "IUCD expulsion.",
+        "Pregnancy.",
+        "Retraction of threads into cervical canal.",
+        "Cervical atresia."
+      ],
+      "correct": 4,
+      "explanation": "Cervical atresia is a congenital condition (absence of the cervical canal) that would have prevented IUD insertion in the first place, not a cause for missing threads years later."
+    },
+    {
+      "stem": "Regarding the previous case, most appropriate next step is:",
+      "options": [
+        "Pelvic plain X-ray.",
+        "Pregnancy test.",
+        "Transvaginal ultrasound.",
+        "Diagnostic laparoscopy.",
+        "Office hysteroscopy."
+      ],
+      "correct": 2,
+      "explanation": "The first step in managing missing IUD threads is to perform a transvaginal ultrasound to confirm or exclude the presence of the IUD within the uterine cavity and to rule out an intrauterine pregnancy."
+    },
+    {
+      "stem": "COCP increases the risk of all the following EXCEPT:",
+      "options": [
+        "Ischemic stroke.",
+        "Breast cancer.",
+        "Ischemic coronary heart disease.",
+        "Ovarian cancer",
+        "Transient elevation of liver enzymes."
+      ],
+      "correct": 3,
+      "explanation": "A significant non-contraceptive benefit of COCPs is a reduced risk of epithelial ovarian cancer."
+    },
+    {
+      "stem": "Side effects of oral contraceptive pills include all of the following EXCEPT:",
+      "options": [
+        "Hypertension.",
+        "Diabetes.",
+        "Breakthrough bleeding.",
+        "Amenorrhea after prolonged use.",
+        "Menorrhagia."
+      ],
+      "correct": 4,
+      "explanation": "COCPs are often used to treat heavy menstrual bleeding (menorrhagia) because they lead to a lighter, more predictable withdrawal bleed. They do not cause menorrhagia."
+    },
+    {
+      "stem": "The following is considered absolute contraindications to COCP:",
+      "options": [
+        "Previous deep venous thrombosis.",
+        "Previous C.S.",
+        "Previous ectopic pregnancy.",
+        "Previous acute PID.",
+        "Patients with peptic ulcer."
+      ],
+      "correct": 0,
+      "explanation": "A personal history of a thromboembolic event, such as deep venous thrombosis (DVT), is an absolute contraindication to the use of combined oral contraceptive pills due to the increased risk of recurrence."
+    },
+    {
+      "stem": "Non contraceptive benefits of COCP include all of the following EXCEPT:",
+      "options": [
+        "Can be used to delay menstruation.",
+        "Treatment of dysfunctional uterine bleeding.",
+        "Treatment of 2ry dysmenorrhea.",
+        "Less risk of non- neoplastic ovarian functional cyst.",
+        "Less risk of pelvic inflammatory disease."
+      ],
+      "correct": 2,
+      "explanation": "COCPs are effective for primary (spasmodic) dysmenorrhea, but secondary dysmenorrhea is caused by underlying pathology that needs to be addressed directly."
+    },
+    {
+      "stem": "A 30-year-old multipara attended to the clinic 2 days after unprotected intercourse at day 8 of the cycle. She was worried that unplanned pregnancy may occur. How can you counsel this case?",
+      "options": [
+        "No fear of pregnancy as she was still in the safe period.",
+        "Vaginal spermicidal gel should be applied immediately.",
+        "Start daily oral combined contraceptive pills for 21 days.",
+        "Urgent application of IUCD.",
+        "Start depot medroxy progesterone acetate injection I.M and repeat every 12 weeks."
+      ],
+      "correct": 3,
+      "explanation": "IUD insertion is a highly effective method of emergency contraception that can be used up to 5 days after unprotected intercourse."
+    },
+    {
+      "stem": "A 35-year-old woman presented with inability to feel the threads of IUCD. Threads were not seen on speculum examination. Pregnancy test was -ve and TVS revealed empty uterus. What is the next step?",
+      "options": [
+        "Reassurance and apply another one.",
+        "Examination under anesthesia.",
+        "Plain pelvic x ray.",
+        "Hysteroscopic evaluation of uterine cavity.",
+        "Laparoscopic evaluation."
+      ],
+      "correct": 2,
+      "explanation": "If TVS shows an empty uterus, the next step is a plain abdominal/pelvic X-ray to determine if the IUD has perforated the uterus and is now in the abdominopelvic cavity."
+    },
+    {
+      "stem": "COCP increase the risk of which of the following?",
+      "options": [
+        "Cerebrovascular accidents.",
+        "Pelvic inflammatory disease.",
+        "Cancer cervix.",
+        "Endometrial carcinoma.",
+        "Ovarian cancer."
+      ],
+      "correct": 0,
+      "explanation": "The estrogen component of COCPs increases the risk of thromboembolic events, which include cerebrovascular accidents (strokes)."
+    },
+    {
+      "stem": "The following is considered absolute contraindications to COCP?",
+      "options": [
+        "Superficial thrombophlebitis.",
+        "Breast cancer.",
+        "Age more than 35 years.",
+        "Previous acute PID.",
+        "Patients with peptic ulcer."
+      ],
+      "correct": 1,
+      "explanation": "A current or past history of breast cancer is an absolute contraindication to the use of combined hormonal contraceptives."
+    },
+    {
+      "stem": "A 22-year-old woman presents for postnatal contraception 40 days after delivery. She is breastfeeding. She wants a reliable form of contraception for 2-3 years and has difficulty remembering to take pills. Most appropriate option is:",
+      "options": [
+        "Combined contraceptive vaginal ring.",
+        "Combined oral contraceptive pill.",
+        "Condoms.",
+        "Lactational amenorrhea.",
+        "Progestogen only implant."
+      ],
+      "correct": 4,
+      "explanation": "A progestogen-only implant is a highly effective, long-acting, reversible contraceptive that is safe for breastfeeding women and does not require daily user compliance, making it ideal for this patient."
+    },
+    {
+      "stem": "A 22-year-old woman presents for postnatal contraception 3 weeks after vaginal delivery. She is bottle feeding. She wants a reliable form of contraception for 1-2 years and has a history of irregular menstrual cycles and PCOS. Most appropriate option is:",
+      "options": [
+        "Combined oral contraceptive pill.",
+        "Copper intrauterine device.",
+        "Levonorgestrel-releasing intrauterine system (Mirena).",
+        "Progestogen only pill.",
+        "Progestogen only injectable."
+      ],
+      "correct": 0,
+      "explanation": "Since she is not breastfeeding, a combined oral contraceptive pill is an excellent option as it is highly reliable and will also provide excellent cycle control, which is beneficial for her history of PCOS and irregular cycles."
+    },
+    {
+      "stem": "Regarding emergency contraception:",
+      "options": [
+        "It is teratogenic.",
+        "It decreases the risk of ectopic pregnancy.",
+        "It is ineffective if it is taken 24 hours after unprotected sexual intercourse",
+        "Can be administrated as a single dose of 1.5 mg or 2 doses of 750µg 12 hours apart.",
+        "Tablets could be taken orally or vaginally."
+      ],
+      "correct": 3,
+      "explanation": "The levonorgestrel regimen for emergency contraception consists of a total dose of 1.5 mg, which can be taken as a single dose or as two 0.75 mg (750 µg) doses 12 hours apart."
+    },
+    {
+      "stem": "When does a 36-year-old woman using COCPs for the next 3 years have the highest risk of venous thromboembolism?",
+      "options": [
+        "After 5 years of use.",
+        "After 4 years of use.",
+        "After 3 years of use.",
+        "In the second year of use.",
+        "In the first year of use."
+      ],
+      "correct": 4,
+      "explanation": "The risk of venous thromboembolism (VTE) associated with COCP use is highest during the first year of use and decreases thereafter."
+    },
+    {
+      "stem": "The contraceptive injection, which lasts for 3 months, contains:",
+      "options": [
+        "Depot medroxyprogesterone acetate.",
+        "Ethinyl estradiol.",
+        "Etonogestrel.",
+        "Levonorgestrel.",
+        "Norethindrone."
+      ],
+      "correct": 0,
+      "explanation": "The 3-month contraceptive injection is depot medroxyprogesterone acetate (DMPA), given as an IM injection every 12 weeks."
+    },
+    {
+      "stem": "The following is associated with the use of progestogen-only pill contraceptive:",
+      "options": [
+        "Causes reduced bone mineral density.",
+        "Decreases the risk of breast cancer.",
+        "Decreases the risk of functional ovarian cysts.",
+        "Inhibits lactation.",
+        "Menstrual irregularities."
+      ],
+      "correct": 4,
+      "explanation": "A common side effect of progestogen-only pills is menstrual irregularities, including breakthrough bleeding and spotting, due to the lack of estrogen to stabilize the endometrium."
+    },
+    {
+      "stem": "26 years old woman requests emergency contraception (EC). She had unprotected intercourse 5 days ago. Her last period was 15 days ago. What EC option would you advise?",
+      "options": [
+        "A copper bearing intrauterine device.",
+        "A Mirena IUD.",
+        "It is too late for emergency contraception.",
+        "Levonorgestrel oral tablets.",
+        "Progesterone only injectable."
+      ],
+      "correct": 0,
+      "explanation": "A copper-bearing IUD can be inserted up to 5 days after unprotected intercourse for emergency contraception, making it the only effective option in this scenario."
+    },
+    {
+      "stem": "Regarding levonorgestrel IUS, all the following are correct EXCEPT:",
+      "options": [
+        "It reduces menstrual loss by an average of 90% after 3 months.",
+        "Breakthrough bleeding is common post-insertion.",
+        "It increases weight gain when used for contraceptive use.",
+        "It can cause mood swings in some women.",
+        "It can cause mastalgia in some women."
+      ],
+      "correct": 2,
+      "explanation": "While weight gain can be a side effect of systemic progestins, significant weight gain is not a commonly reported or established side effect of the low-dose, locally acting levonorgestrel IUS."
+    },
+    {
+      "stem": "Regarding Copper IUCD, all the following are correct EXCEPT:",
+      "options": [
+        "Prevents implantation.",
+        "Not contraindicated in women when breastfeeding.",
+        "Increases menstrual blood loss by an average of 80%.",
+        "It could be used after adhesiolysis in Ashermann syndrome to keep the uterine cavity open.",
+        "Increases the risk of PID in the first 3 weeks post-insertion."
+      ],
+      "correct": 2,
+      "explanation": "Copper IUDs are known to increase menstrual blood loss, but the average increase is typically around 35-50%, not 80%."
+    },
+    {
+      "stem": "Amenorrhea is often seen in women using:",
+      "options": [
+        "Copper IUD.",
+        "Combined oral contraceptive pill.",
+        "Depot medroxy progesterone acetate.",
+        "Vaginal contraceptive ring.",
+        "Contraceptive transdermal patch."
+      ],
+      "correct": 2,
+      "explanation": "Depot medroxyprogesterone acetate (DMPA) often leads to endometrial atrophy, with up to 70% of users experiencing amenorrhea after one year of use."
+    },
+    {
+      "stem": "The following are contraindications to the use of copper IUD EXCEPT:",
+      "options": [
+        "Unexplained uterine bleeding.",
+        "Suspected pregnancy.",
+        "Current breast cancer.",
+        "Uterine anomalies.",
+        "Past history of pelvic infection."
+      ],
+      "correct": 2,
+      "explanation": "Since the copper IUD is non-hormonal, current breast cancer is not a contraindication. Hormonal methods, especially those containing estrogen, would be contraindicated."
+    },
+    {
+      "stem": "A 24 years old woman had unprotected sexual intercourse 24 hours ago. Her last menstrual period was seven days ago. The following contraceptive options are appropriate for her:",
+      "options": [
+        "Give her 1.5 mg of levonorgestrel.",
+        "Insertion of IUD.",
+        "Perform a pregnancy test.",
+        "Reassurance that she may not be ovulating.",
+        "Start combined oral contraceptive pill."
+      ],
+      "correct": 0,
+      "explanation": "Taking 1.5 mg of levonorgestrel as emergency contraception is highly effective when taken within 72 hours (and ideally within 24 hours) of unprotected intercourse."
+    },
+    {
+      "stem": "Regarding COCPs; their primary mechanism of action is:",
+      "options": [
+        "Cervical mucus changes.",
+        "Prevents implantation.",
+        "Prevents ovulation.",
+        "Spermicidal.",
+        "Decrease sperm motility."
+      ],
+      "correct": 2,
+      "explanation": "The primary and most important mechanism of action of combined oral contraceptive pills is the suppression of ovulation by inhibiting the mid-cycle LH surge."
+    },
+    {
+      "stem": "Regarding copper IUD; their primary mechanism of action is:",
+      "options": [
+        "Cervical mucus changes.",
+        "Prevents implantation",
+        "Prevents ovulation",
+        "Spermicidal.",
+        "Decrease sperm motility."
+      ],
+      "correct": 1,
+      "explanation": "The primary mechanism of a copper IUD is creating a sterile inflammatory reaction in the endometrium that is spermicidal and prevents implantation."
+    },
+    {
+      "stem": "The following are absolute contra-indications to the use of COCP:",
+      "options": [
+        "Prosthetic heart valves.",
+        "Sickle cell disease.",
+        "Active liver disease.",
+        "Age under 18 years.",
+        "Bronchial asthma."
+      ],
+      "correct": 2,
+      "explanation": "Active or severe liver disease is an absolute contraindication to COCP use as the hormones are metabolized by the liver."
+    },
+    {
+      "stem": "The progesterone-only oral contraceptive pill:",
+      "options": [
+        "Is taken for 21 days with a 7 day break each month.",
+        "Suppresses ovulation in all patients.",
+        "Efficacy is increased in over-weight women.",
+        "Efficacy increases with increasing age of user.",
+        "Spermicidal."
+      ],
+      "correct": 3,
+      "explanation": "The efficacy of POPs increases with the age of the user due to the natural decline in fertility."
+    },
+    {
+      "stem": "A 58-year-old G2P2 patient presents with severe vulvar pruritus. She is 10 years postmenopausal. Her examination is consistent with atrophic vulvitis. The most effective treatment for her is:",
+      "options": [
+        "Antihistamines",
+        "Hydrocortisone",
+        "Alcohol injections",
+        "Tranquilizers",
+        "Topical estrogen therapy"
+      ],
+      "correct": 4,
+      "explanation": "Atrophic vulvitis in a postmenopausal woman is due to estrogen deficiency. Therefore, topical estrogen therapy is the most effective treatment to restore the vulvovaginal epithelium."
+    },
+    {
+      "stem": "A 20 years old nulligravida, presented by a swelling in the posterior wall of labia majora. What is your 1st differential diagnosis?",
+      "options": [
+        "Endometriotic cyst.",
+        "Sebaceous cyst.",
+        "Inclusion dermoid cyst.",
+        "Gartner cyst.",
+        "Bartholin cyst."
+      ],
+      "correct": 4,
+      "explanation": "A swelling in the posterior aspect of the labia majora is the classic location for a Bartholin gland duct cyst."
+    },
+    {
+      "stem": "A 35 years old lady presented with a painful swelling in the post part of the labium majus. By examination, there was a tense tender cyst surrounded by a vulval swelling, redness and edema. This swelling is mostly:",
+      "options": [
+        "Varicose vein swelling.",
+        "Bartholin cyst.",
+        "Hydrocele of canal of Nuck.",
+        "Endometrioma.",
+        "Bartholin abscess."
+      ],
+      "correct": 4,
+      "explanation": "The presence of a painful, tense, tender cyst with surrounding erythema and edema is the classic presentation of an infected Bartholin cyst, forming an abscess."
+    },
+    {
+      "stem": "A 26 years old newly married female attended with her husband due to severe dyspareunia since their wedding. All of the following can contribute to this condition EXCEPT:",
+      "options": [
+        "Tough rigid hymen.",
+        "Pelvic endometriosis.",
+        "Hydatid cyst of Morgagni.",
+        "Longitudinal vaginal septum.",
+        "Vaginismus."
+      ],
+      "correct": 2,
+      "explanation": "A Hydatid cyst of Morgagni is a small, benign remnant near the fallopian tube fimbria and is not anatomically located in a position to cause dyspareunia."
+    },
+    {
+      "stem": "Bartholin cyst:",
+      "options": [
+        "Should always be excised to prevent recurrence.",
+        "Are situated on the inner side of the anterior end of the labium majora.",
+        "May become infected by gonorrhoea.",
+        "Usually develops bilaterally.",
+        "May be easily confused with hidradenoma."
+      ],
+      "correct": 2,
+      "explanation": "The Bartholin glands can become infected by sexually transmitted pathogens, including Neisseria gonorrhoeae, leading to an abscess."
+    },
+    {
+      "stem": "20-year-old patient complains of painful vulvar ulcers present for 3 days. Examination reveals three tender, punched-out lesions with a yellow exudate but no induration. The most likely diagnosis is:",
+      "options": [
+        "Chancroid",
+        "Granuloma inguinale",
+        "Herpes",
+        "Lymphogranuloma venereum",
+        "Syphilis"
+      ],
+      "correct": 0,
+      "explanation": "The description of multiple, painful, tender, punched-out ulcers with an exudate is characteristic of Chancroid, caused by Haemophilus ducreyi."
+    },
+    {
+      "stem": "A 63-year-old patient is seen for routine examination. An excoriated 2-cm lesion is found on her left labium majus, which has been present for at least 3 months. Next best step in the management of this patient:",
+      "options": [
+        "Prescribe hydrocortisone cream.",
+        "Schedule colposcopy.",
+        "Perform excisional biopsy.",
+        "Prescribe Borik's solution soaks.",
+        "Paint the area with toluidine blue stain."
+      ],
+      "correct": 2,
+      "explanation": "Any persistent, suspicious vulvar lesion, especially in a postmenopausal patient, requires a biopsy to rule out malignancy (vulvar cancer)."
+    },
+    {
+      "stem": "An 88-year-old medically unfit patient is brought by her daughter with worsening pelvic pain. Examination reveals uterine procidentia. Most appropriate intervention:",
+      "options": [
+        "Colpocleisis.",
+        "Abdominal Sacro colpopexy.",
+        "Sacrospinous ligament suspension.",
+        "Total vaginal hysterectomy.",
+        "Ring pessary."
+      ],
+      "correct": 0,
+      "explanation": "Colpocleisis (Le Fort's operation) is a vaginal obliterative procedure reserved for very old, medically unfit, non-sexually active patients with severe prolapse, as it is a low-morbidity surgery."
+    },
+    {
+      "stem": "Vault prolapse can be treated by the following abdominal operation:",
+      "options": [
+        "Burch colpo-suspension.",
+        "Sacrospinous fixation.",
+        "Manchester (Fothergill's operation).",
+        "Sacro-colpopexy.",
+        "Le Fort's operation."
+      ],
+      "correct": 3,
+      "explanation": "Abdominal sacrocolpopexy is a surgical procedure specifically designed to repair post-hysterectomy vaginal vault prolapse by attaching the vaginal apex to the sacral promontory."
+    },
+    {
+      "stem": "A 45 years multipara, presented with a mass protruding from the vulva on straining. Examination revealed a descent of posterior vaginal wall with deficient perineum. Cervix was felt at level of ischial spines. What is the most suitable treatment for her?",
+      "options": [
+        "Pelvic floor exercise.",
+        "Posterior colpo-perineorrhaphy.",
+        "Classical repair.",
+        "Colposacropexy.",
+        "Manchester (Fothergill's) operation."
+      ],
+      "correct": 1,
+      "explanation": "The patient has a rectocele (descent of posterior vaginal wall) and a deficient perineum. The specific surgical repair for this is a posterior colporrhaphy and perineorrhaphy."
+    },
+    {
+      "stem": "A 50 years patient had undergone a vaginal hysterectomy. She complains of involuntary continuous urine leakage although she feels normal desire of micturition. What is the provisional cause for this incontinence?",
+      "options": [
+        "Severe cystitis following surgery.",
+        "Detrusor instability following surgical manipulations.",
+        "Untreated stress incontinence.",
+        "Vesico- vaginal fistula.",
+        "Uretro-vaginal fistula."
+      ],
+      "correct": 4,
+      "explanation": "Continuous urinary leakage with a preserved, normal desire to void is the hallmark symptom of a ureterovaginal fistula, as one kidney drains into the bladder normally while the other leaks into the vagina."
+    },
+    {
+      "stem": "The most common risk factor for pelvic organ prolapse is:",
+      "options": [
+        "Congenital pelvic floor weakness.",
+        "Menopausal atrophy.",
+        "Iatrogenic weakness following improperly formed hysterectomy.",
+        "Old complete perineal tear.",
+        "Short interval successive deliveries."
+      ],
+      "correct": 4,
+      "explanation": "Childbirth trauma is the most frequently encountered risk factor for POP, and this damage is aggravated by short intervals between successive deliveries."
+    },
+    {
+      "stem": "A 45 years multipara presented with a mass protruding from the vulva on straining. Examination revealed a descent of both anterior and posterior vaginal wall with deficient perineum. Cervix was felt at level of ischial spines. What is the most suitable treatment?",
+      "options": [
+        "Pelvic floor exercise.",
+        "Posterior colpo-perineorrhaphy.",
+        "Classical repair.",
+        "Colposacropexy.",
+        "Vaginal hysterectomy."
+      ],
+      "correct": 2,
+      "explanation": "The patient has both a cystocele (anterior wall) and rectocele (posterior wall). A 'Classical repair' involves both an anterior colporrhaphy and a posterior colpo-perineorrhaphy to address both defects."
+    },
+    {
+      "stem": "A 20-year nulliparous woman, presented with complete extrusion of the uterus outside the vulva is best treated by which of the following?",
+      "options": [
+        "Pessary treatment.",
+        "Classical repair.",
+        "Manchester operation.",
+        "Abdominal sacro-colpopexy.",
+        "Vaginal hysterectomy."
+      ],
+      "correct": 3,
+      "explanation": "For a young, nulliparous woman with severe (procidentia) uterine prolapse who desires future fertility, a uterine-sparing procedure like abdominal sacrocolpopexy (or sacrohysteropexy) is the best option."
+    },
+    {
+      "stem": "All of the following are supports of the uterus EXCEPT:",
+      "options": [
+        "Mackenrodt's ligaments.",
+        "Uterosacral ligaments.",
+        "Broad ligament.",
+        "Pubocervical fascia.",
+        "Rectovaginal fascia."
+      ],
+      "correct": 2,
+      "explanation": "The broad ligament is a peritoneal fold that plays almost no role in the pelvic support of the uterus, unlike the strong cervical ligaments (cardinal, uterosacral)."
+    },
+    {
+      "stem": "A 40 years old multiparous woman complains of involuntary loss of urine associated with coughing. The history is most suggestive of:",
+      "options": [
+        "Fistula.",
+        "Stress incontinence.",
+        "Urge incontinence.",
+        "Urethral diverticulum.",
+        "Urinary tract infection."
+      ],
+      "correct": 1,
+      "explanation": "The involuntary leakage of urine with an increase in intra-abdominal pressure (e.g., coughing, sneezing) is the definition of Stress Urinary Incontinence (SUI)."
+    },
+    {
+      "stem": "An 88-year-old female presents with a prolapsed uterus. She has difficulty urinating and defecating. She has a history of heart failure and COPD. Most appropriate management is:",
+      "options": [
+        "Pessary.",
+        "Kegel exercises (Pelvic floor strengthening exercises).",
+        "Topical application of estrogen.",
+        "Vaginal hysterectomy.",
+        "Sacrocolpopexy."
+      ],
+      "correct": 0,
+      "explanation": "For an elderly patient with significant medical comorbidities who is unfit for surgery, a pessary is the most appropriate management for symptomatic pelvic organ prolapse."
+    },
+    {
+      "stem": "An operation to lift the bladder neck where permanent stitches are placed near the neck of the bladder and fixed to the back of the pubic bone:",
+      "options": [
+        "Vaginopexy.",
+        "Obturator tape.",
+        "Tension free vaginal tape.",
+        "Colposuspension operation.",
+        "Burch Colposuspension."
+      ],
+      "correct": 4,
+      "explanation": "This describes the Burch colposuspension, an abdominal procedure where the paravaginal fascia near the bladder neck is sutured to Cooper's ligament on the pubic bone to provide support."
+    },
+    {
+      "stem": "A prolapse of the pouch of Douglas bulging into the posterior vaginal wall just behind the uterus, producing a gurgling sensation:",
+      "options": [
+        "Rectocele.",
+        "Urethrocele.",
+        "Colpocele.",
+        "Enterocele.",
+        "Cystocele."
+      ],
+      "correct": 3,
+      "explanation": "An enterocele is a herniation of the pouch of Douglas, which contains small bowel, into the space between the posterior vaginal wall and the rectum. The presence of bowel can cause a gurgling sensation."
+    },
+    {
+      "stem": "Pelvic organ support is maintained by levator ani which is composed of all EXCEPT",
+      "options": [
+        "Puborectalis.",
+        "Iliococcygeus.",
+        "Pubococcygeus.",
+        "Ischiococcygeus.",
+        "Obturator internus."
+      ],
+      "correct": 4,
+      "explanation": "The levator ani muscle group is composed of the pubococcygeus, iliococcygeus, and puborectalis muscles. The obturator internus is a muscle of the pelvic wall but not part of the levator ani."
+    },
+    {
+      "stem": "The symptom that is reliably associated with prolapse & usually worsens as prolapse progresses?",
+      "options": [
+        "Pelvic pain.",
+        "Constipation.",
+        "Anal incontinence.",
+        "Urinary incontinence.",
+        "Sensation of pelvic heaviness."
+      ],
+      "correct": 4,
+      "explanation": "The most common and reliable symptom of pelvic organ prolapse is the sensation of a bulge, pressure, or heaviness in the vagina, which worsens as the prolapse becomes more severe."
+    },
+    {
+      "stem": "The most common cause of rectovaginal fistula is:",
+      "options": [
+        "Obstetrical.",
+        "Irradiation of the pelvis.",
+        "Carcinoma.",
+        "Crohn's disease.",
+        "Endometriosis."
+      ],
+      "correct": 0,
+      "explanation": "The most common cause of a rectovaginal fistula is obstetric trauma, typically from a poorly repaired or infected 3rd or 4th-degree perineal tear."
+    },
+    {
+      "stem": "A patient sustained a perineal laceration during delivery, it involved vagina, perineal skin and perineal muscles including external anal sphincter but rectal mucosa is still intact. This laceration is classified as:",
+      "options": [
+        "1st degree perineal tear.",
+        "2nd degree perineal tear.",
+        "3rd degree perineal tear.",
+        "4th degree perineal tear.",
+        "Just incomplete perineal tear."
+      ],
+      "correct": 2,
+      "explanation": "This is the precise definition of a 3rd-degree perineal tear: injury to the perineal muscles that extends to involve the anal sphincter complex, but with an intact rectal mucosa."
+    },
+    {
+      "stem": "Which degree of perineal tear during labor that involves vaginal mucosa, perineal skin and transverse perineal muscles?",
+      "options": [
+        "1st degree perineal tear.",
+        "2nd degree perineal tear.",
+        "3rd degree perineal tear.",
+        "4th degree perineal tear.",
+        "Hidden perineal tear."
+      ],
+      "correct": 1,
+      "explanation": "This is the definition of a 2nd-degree perineal tear, which involves injury to the perineal muscles (such as the transverse perineal muscles) but not the anal sphincter."
+    },
+    {
+      "stem": "True incontinence occurs in all of the followings EXCEPT:",
+      "options": [
+        "Vesicovaginal fistula.",
+        "Vesicocervical fistula.",
+        "Bilateral ureterovaginal fistula.",
+        "Unilateral ureterovaginal fistula.",
+        "Urethrovaginal fistula."
+      ],
+      "correct": 4,
+      "explanation": "In a urethrovaginal fistula, the bladder and urethral sphincter mechanism are often intact, so the patient may be continent when lying down and leak only with position changes or voiding, not continuously (true incontinence)."
+    },
+    {
+      "stem": "The following is a normal parameter in cystometry:",
+      "options": [
+        "First desire to void is at 80 ml.",
+        "Bladder capacity 300 ml.",
+        "Detrusor pressure during filling is < 15 cm H2O.",
+        "Presence of detrusor contractions.",
+        "Residual volume 100 ml."
+      ],
+      "correct": 2,
+      "explanation": "A normal, stable bladder should fill at low pressure without involuntary contractions. A detrusor pressure during filling of less than 15 cm H2O is considered normal."
+    },
+    {
+      "stem": "The commonest cause of stress incontinence is:",
+      "options": [
+        "Constipation.",
+        "Raised intra-abdominal pressure.",
+        "Congenital weakness of sphincter.",
+        "Repeated childbirth trauma.",
+        "Estrogen deficiency."
+      ],
+      "correct": 3,
+      "explanation": "The most common cause of stress urinary incontinence is damage to the pelvic floor muscles and connective tissues from childbirth trauma, leading to urethral hypermobility and/or intrinsic sphincter deficiency."
+    },
+    {
+      "stem": "Concerning overactive bladder syndrome:",
+      "options": [
+        "Usually occurs due to bladder neck surgery.",
+        "A pressure rises during filling of 5-15 Cm H2O.",
+        "Always asymptomatic.",
+        "Implies a neurological disorder in all cases.",
+        "Cystometry is abnormal while urethral pressure profile is normal."
+      ],
+      "correct": 4,
+      "explanation": "Overactive bladder is due to detrusor overactivity, which is diagnosed on cystometry by observing involuntary detrusor contractions during filling. The urethral function itself is typically normal."
+    },
+    {
+      "stem": "Regarding vesicovaginal fistula:",
+      "options": [
+        "Usually presents with stress incontinence of urine.",
+        "Present with true urinary incontinence which may be complete or incomplete.",
+        "Is more often due to ventouse delivery than forceps, due to the vaginal wall being caught within the cup.",
+        "Cannot be repaired vaginally.",
+        "Usually heal spontaneously without any management."
+      ],
+      "correct": 1,
+      "explanation": "A vesicovaginal fistula (VVF) presents with true (continuous) urinary incontinence, which can be complete if the fistula is large or incomplete if it is small and high."
+    },
+    {
+      "stem": "A 50 years patient had undergone a vaginal hysterectomy. She complains of continuous urine leakage and does not feel bladder filling. What is the provisional cause for this incontinence?",
+      "options": [
+        "Severe cystitis following surgery.",
+        "Detrusor instability following surgical manipulations.",
+        "Untreated stress incontinence.",
+        "Vesico- vaginal fistula.",
+        "Uretro-vaginal fistula."
+      ],
+      "correct": 3,
+      "explanation": "Continuous leakage of urine with a complete loss of the desire to void is the classic presentation of a large vesicovaginal fistula, as the bladder never fills."
+    },
+    {
+      "stem": "Regarding parameters of normal bladder functions on cystometry:",
+      "options": [
+        "Detrusor pressure filling <30cm H2O.",
+        "Presence of detrusor contractions during filling.",
+        "1st desire to void at 400 ml.",
+        "No leakage during cough.",
+        "Residual urine <100ml."
+      ],
+      "correct": 3,
+      "explanation": "During cystometry, a continent individual should have no leakage of urine during provocative maneuvers like coughing."
+    },
+    {
+      "stem": "A 55 years old woman had undergone vaginal hysterectomy. Three months after the surgery she developed frequency of micturition and involuntary leakage of urine when having a desire of micturition. Urine analysis was normal. What is your provisional diagnosis?",
+      "options": [
+        "Vesico-vaginal fistula.",
+        "Uretro-vaginal fistula.",
+        "Severe cystitis.",
+        "Overactive bladder.",
+        "Genuine stress incontinence."
+      ],
+      "correct": 3,
+      "explanation": "The symptoms of urinary frequency and urgency incontinence (involuntary leakage preceded by a strong desire to void) are the defining features of Overactive Bladder Syndrome. Normal urine analysis rules out infection."
+    }
+  ]
+}

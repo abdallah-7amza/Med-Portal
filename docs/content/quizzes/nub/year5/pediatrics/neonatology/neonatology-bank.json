@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "stem": "What is the normal respiratory rate for a healthy, term newborn?",
+      "options": [
+        "10-20 breaths per minute",
+        "20-30 breaths per minute",
+        "40-60 breaths per minute",
+        "70-80 breaths per minute"
+      ],
+      "correct": 2,
+      "explanation": "A normal respiratory rate for a term infant is typically between 40 and 60 breaths per minute."
+    },
+    {
+      "stem": "A newborn presents with respiratory distress, a scaphoid abdomen, and bowel sounds heard over the left chest. What is the most likely diagnosis?",
+      "options": [
+        "Pneumothorax",
+        "Congenital Diaphragmatic Hernia",
+        "Transient Tachypnea of the Newborn",
+        "Meconium Aspiration Syndrome"
+      ],
+      "correct": 1,
+      "explanation": "The classic triad of respiratory distress, a scaphoid (sunken) abdomen, and bowel sounds in the chest is highly indicative of a Congenital Diaphragmatic Hernia (CDH)."
+    }
+  ]
+}

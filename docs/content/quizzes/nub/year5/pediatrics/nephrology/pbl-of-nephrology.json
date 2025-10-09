@@ -1,0 +1,263 @@
+{
+  "title": "PBL of Nephrology",
+  "questions": [
+    {
+      "stem": "What is the most common complication in a patient with nephrotic syndrome?",
+      "options": [
+        "Bleeding tendency",
+        "Infection"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following cases is NOT initially indicated for a renal biopsy?",
+      "options": [
+        "A one-year-old boy with nephrotic syndrome which started at the age of 9 months.",
+        "An eight-year-old male patient presenting with nephrotic syndrome and blood pressure persistently above 150/100 mmHg and serum creatinine 1.3mg/dl.",
+        "A six-year-old female patient with nephrotic syndrome, no gross hematuria but urine analysis showed RBCs 50-60/HPF.",
+        "A ten-year-old girl with nephrotic syndrome, malar rash, and arthritis."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "In the treatment of hyperkalemia, which of the following DOES NOT lower the serum potassium level?",
+      "options": [
+        "IV sodium bicarbonate",
+        "IV calcium gluconate",
+        "β2 agonists",
+        "IV glucose and insulin"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following is NOT a nutritional recommendation for patients with Chronic Kidney Disease (CKD)?",
+      "options": [
+        "Decreased Na intake",
+        "K restrictions",
+        "Increased phosphate intake",
+        "Normal protein intake"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following supports the diagnosis of glomerular hematuria?",
+      "options": [
+        "Isomorphic RBCs >90% in urine analysis",
+        "RBCs casts in urine analysis",
+        "Presence of loin pain",
+        "Protein/creatinine ratio 0.15g/g creatinine"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "In a child with acute pyelonephritis, which of the following is NOT true?",
+      "options": [
+        "Posterior urethral valve can be a predisposing factor.",
+        "Fever is an uncommon feature.",
+        "Urine analysis may contain white blood cell casts.",
+        "Radio-isotopic renal scan is one of the diagnostic tools."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following findings is not expected in patients with late stages of chronic kidney disease?",
+      "options": [
+        "Blood gases showing a pH of 7.6",
+        "Hemoglobin level of 8 gm%",
+        "Serum calcium of 7 mg/dl",
+        "Serum K of 6 mEq/L"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "What is the mechanism of acute kidney injury in severe dehydration?",
+      "options": [
+        "Pre-renal AKI",
+        "Post-renal AKI",
+        "Electrolyte disturbance",
+        "Autoimmune mechanism"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following molecules is NOT freely filtered through the glomerular barrier?",
+      "options": [
+        "Electrolytes",
+        "Glucose",
+        "Proteins",
+        "Urea"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following is NOT one of the initial therapies for a first attack of primary nephrotic syndrome?",
+      "options": [
+        "Cyclosporine",
+        "IV Albumin infusion",
+        "Oral prednisone",
+        "Salt restriction"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following is a cause of acute kidney injury due to a pre-renal cause?",
+      "options": [
+        "Bilateral renal stones",
+        "Excessive bleeding during an operation",
+        "Hemolytic uremic syndrome",
+        "Overdose of gentamicin"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "In a child with acute pyelonephritis, which of the following is not true?",
+      "options": [
+        "Posterior urethral valve can be a predisposing factor.",
+        "Fever is an uncommon feature.",
+        "Urine analysis may contain white blood cell casts.",
+        "Radio-isotopic renal scan is one of the diagnostic tools."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following supports the diagnosis of glomerular hematuria?",
+      "options": [
+        "Isomorphic RBCs >90% in urine analysis",
+        "RBCs casts in urine analysis",
+        "Presence of loin pain",
+        "Protein/creatinine ratio 0.15g/g creatinine"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 5-year-old girl presents to the ER with a 2-day history of fever, vomiting, and dysuria. Examination shows suprapubic tenderness. What is the best way to collect a urine sample?",
+      "options": [
+        "Clean catch",
+        "Suprapubic aspirate",
+        "Urine bag",
+        "Urinary catheter"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A 10-year-old girl presents with lower abdominal pain, dysuria, and gross hematuria for the last 2 days. She has no fever or flank pain. UA shows >100 WBCs, 10-15 RBCs. Which of the following is the likely diagnosis?",
+      "options": [
+        "Acute Pyelonephritis",
+        "Cystitis",
+        "Hemoglobinuria",
+        "IgA nephropathy"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "A 3-year-old girl presents with recurrent UTI. What is the most appropriate initial investigation to evaluate her condition?",
+      "options": [
+        "Abdominal U/S",
+        "CT abdomen",
+        "Plain x-ray abdomen",
+        "VCUG"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Which of the following is wrong about nocturnal enuresis?",
+      "options": [
+        "ADH rises during sleep.",
+        "Anticholinergic drugs can be used.",
+        "Drug therapy is the last therapeutic option.",
+        "Family history may be present."
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The most sensitive investigation for the detection of vesicoureteric reflux (VUR) is:",
+      "options": [
+        "CT abdomen",
+        "IVP",
+        "Ultrasonography",
+        "VCUG"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "A 7-year-old girl presented with burning urination & abdominal pain. She developed bedwetting in the last 5 days after being dry for more than 1 year. Urine was turbid but of normal color. What is the most likely diagnosis?",
+      "options": [
+        "Acute cystitis",
+        "Acute Glomerulonephritis",
+        "Acute pyelonephritis",
+        "Acute pancreatitis"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "A child has suprapubic pain almost every day, with a new onset of nocturnal enuresis and crying during urination. A urine dipstick is positive for WBCs, nitrite, leucocyte esterase, and RBCs. What is the most likely diagnosis?",
+      "options": [
+        "Acute cystitis",
+        "Chronic constipation",
+        "Glomerulonephritis",
+        "Psychological problem"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "Risk factors for UTI include all of the following except:",
+      "options": [
+        "Male sex (in infants)",
+        "Urinary tract anomaly",
+        "Urinary stones",
+        "Vesicoureteral reflux (VUR)"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The presence of RBCs casts indicates that the origin of hematuria is:",
+      "options": [
+        "The glomeruli",
+        "The urinary bladder",
+        "The renal pelvis",
+        "The ureter"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The true statement about nocturnal enuresis is:",
+      "options": [
+        "It is more common in girls.",
+        "It may be the initial presentation of type 1 DM.",
+        "It should be investigated by a renal isotopic scan.",
+        "It has a worse prognosis than diurnal enuresis."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Pyelonephritis commonly presents with:",
+      "options": [
+        "Dysuria",
+        "Fever and rigors",
+        "Hypothermia",
+        "Prolonged jaundice"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which of the following is true regarding primary nocturnal enuresis?",
+      "options": [
+        "It's defined as bedwetting after the age of 3 years.",
+        "It may be associated with adenoid hypertrophy.",
+        "It has a high rate of recurrence and a bad prognosis.",
+        "Most children have organic causes."
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Regarding nocturnal enuresis, which statement is correct?",
+      "options": [
+        "Family history is positive in 10% of the cases.",
+        "It is more common in females.",
+        "It is never caused by an organic cause.",
+        "The prognosis is good in the primary type."
+      ],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "title": "BASIC OBSTETRICS",
+  "questions": [
+    {
+      "stem": "Normally, fertilization occurs in:",
+      "options": [
+        "The uterine cavity.",
+        "In the peritoneal cavity.",
+        "The fundus of the uterus.",
+        "The proximal 1/3 of fallopian tube.",
+        "The distal 1/3 of fallopian tube."
+      ],
+      "correct": 4,
+      "explanation": "Fertilization, which is the fusion of male and female pronuclei, typically occurs in the distal 1/3 of the Fallopian tube within the first 24 hours after ovulation."
+    },
+    {
+      "stem": "Regarding the decidua:",
+      "options": [
+        "It is the lining of the uterine cavity after menses.",
+        "It is a developed stage of proliferative endometrium.",
+        "Thickness is less than 10mm.",
+        "It is a well-developed stage of secretory endometrium.",
+        "It is present only at site of implantation."
+      ],
+      "correct": 3,
+      "explanation": "The decidua is characterized as the secretory endometrium that forms under the influence of estrogen and progesterone during the second half of the menstrual cycle. It is not merely the lining after menses or a proliferative stage."
+    },
+    {
+      "stem": "Which hormone maintains uterine quiescence during pregnancy:",
+      "options": [
+        "Estrogen.",
+        "Progesterone.",
+        "Human chorionic gonadotropins.",
+        "Human placental lactogen.",
+        "Placental cortisol."
+      ],
+      "correct": 1,
+      "explanation": "One of the key functions of progesterone is to inhibit uterine activity throughout pregnancy, thereby preventing the expulsion of the conceptus."
+    },
+    {
+      "stem": "Functions of the placenta include all of the followings EXCEPT:",
+      "options": [
+        "Synthesis of nutrients.",
+        "Protective barrier effect.",
+        "Respiratory organ.",
+        "Excretory organ.",
+        "Endocrinal function."
+      ],
+      "correct": 0,
+      "explanation": "The human placenta's main functions include the transfer of nutrients, production of hormones and enzymes (endocrine and metabolic functions), and an immunological role. It is responsible for transferring nutrients, not synthesizing them. It also functions as a respiratory and excretory organ."
+    },
+    {
+      "stem": "Which of the following is transferred by active transport through the placenta?",
+      "options": [
+        "Oxygen.",
+        "Glucose.",
+        "Amino acids.",
+        "Waste products.",
+        "Drugs."
+      ],
+      "correct": 2,
+      "explanation": "Active transport, a mechanism that requires energy to pump substances against a concentration gradient, is responsible for the transfer of amino acids, calcium, and iron across the placenta. Other substances like oxygen, carbon dioxide, and waste products pass by simple diffusion, while glucose utilizes facilitated diffusion."
+    },
+    {
+      "stem": "The placenta is formed by:",
+      "options": [
+        "Decidua basalis and chorion frondosum.",
+        "Decidua basalis and chorion laeve.",
+        "Decidua capsularis and chorion frondosum.",
+        "Decidua capsularis and chorion leave.",
+        "Decidua vera and chorion frondosum."
+      ],
+      "correct": 0,
+      "explanation": "The placenta, which serves as the interface between the mother and the fetus, is formed from the maternal component, the decidua basalis, and the fetal component, the chorion frondosum."
+    },
+    {
+      "stem": "The following is true about hCG:",
+      "options": [
+        "A glycoprotein hormone with 2 subunits (a and B).",
+        "It appears in urine 2 weeks after the date of missed period.",
+        "Its level increases steadily to a maximum level in the 3rd trimester.",
+        "It is secreted by cytotrophoblast.",
+        "Quantitative measurement can accurately estimate the gestational age."
+      ],
+      "correct": 0,
+      "explanation": "Human chorionic gonadotropin (hCG) is described as a glycoprotein hormone composed of an alpha-subunit (similar to other anterior pituitary hormones) and a unique beta-subunit specific to hCG."
+    },
+    {
+      "stem": "The main value of hCG hormone:",
+      "options": [
+        "It induces endometrial decidual changes.",
+        "It induces uterine smooth muscles relaxation.",
+        "It regulates early organogenesis.",
+        "It regulates transfer of various materials through the placental barrier.",
+        "It maintains a functioning corpus luteum in 1st trimester."
+      ],
+      "correct": 4,
+      "explanation": "The primary function of hCG is the maintenance of corpus luteum function, which in turn supports early pregnancy until the placenta develops sufficiently to take over hormone production."
+    },
+    {
+      "stem": "Regarding hCG hormone, choose the CORRECT statement:",
+      "options": [
+        "It is produced by the ovaries.",
+        "It is a polypeptide hormone.",
+        "It increases progressively till full term pregnancy.",
+        "Its function is to enhance placental growth.",
+        "It is the gold standard to diagnose early pregnancy."
+      ],
+      "correct": 4,
+      "explanation": "Serum beta-hCG tests are described as the earliest available and most accurate method for diagnosing pregnancy. Its quantitative measurement provides high sensitivity for early diagnosis and follow-up of pregnancies."
+    },
+    {
+      "stem": "Which symptom of pregnancy is related to rising hCG levels:",
+      "options": [
+        "Headache.",
+        "Pelvic heaviness.",
+        "Ptyalism.",
+        "Craving.",
+        "Nausea and vomiting."
+      ],
+      "correct": 4,
+      "explanation": "Severe nausea and vomiting in early pregnancy are common symptoms that are directly correlated with and attributed to abnormally high hCG levels."
+    },
+    {
+      "stem": "Regarding the umbilical cord; choose the CORRECT statement:",
+      "options": [
+        "It originates from fetal endoderm.",
+        "Normal length is about 70 cm.",
+        "It contains 1 umbilical vein carrying oxygenated blood.",
+        "False knots are commonly associated with fetal asphyxia.",
+        "Velamentous cord insertion refers to cord insertion at the placental edge."
+      ],
+      "correct": 2,
+      "explanation": "The umbilical cord consistently contains one umbilical vein that carries oxygenated blood from the placenta to the fetus, along with two umbilical arteries that carry deoxygenated blood from the fetus back to the placenta."
+    },
+    {
+      "stem": "Regarding lower uterine segment, choose the CORRECT statement:",
+      "options": [
+        "It starts to be formed at 3rd month.",
+        "It is covered by a loose visceral peritoneum.",
+        "It is more active during labor.",
+        "It becomes shorter and thicker during labor.",
+        "It contains well-developed middle oblique muscle fibers."
+      ],
+      "correct": 1,
+      "explanation": "The lower uterine segment (LUS) is characterized by being covered by a loose peritoneum, which differentiates it from the upper uterine segment that has an adherent peritoneum."
+    },
+    {
+      "stem": "The human placenta is a complex structure that serves as a barrier between the fetus and maternal circulation. The following statements is TRUE regarding this barrier:",
+      "options": [
+        "Allow mainly small molecules and few blood cells to pass.",
+        "IgM can cross this barrier easily.",
+        "Exogenous drugs taken by the mother cannot cross this barrier.",
+        "Allow total mixing of maternal and fetal blood.",
+        "Maintain absolute separation between the maternal and fetal circulation."
+      ],
+      "correct": 4,
+      "explanation": "The placental barrier ensures that the blood of the fetus does not come into direct contact with that of the mother, maintaining an absolute separation between the two circulations within the chorionic villi."
+    },
+    {
+      "stem": "Placenta membranacea is associated with higher incidence of:",
+      "options": [
+        "Placenta previa.",
+        "Pathologically adherent placenta.",
+        "Vasa previa.",
+        "Accessory placental lobe.",
+        "Hydrops fetalis."
+      ],
+      "correct": 0,
+      "explanation": "In cases of placenta membranacea, the placenta is large and thin, which increases the likelihood that a part of it may be implanted over the lower uterine segment, leading to placenta previa and potential antepartum hemorrhage."
+    },
+    {
+      "stem": "Succenturiate placenta is accompanied by;",
+      "options": [
+        "Accidental haemorrhage.",
+        "Retained placenta.",
+        "Abnormally adherent placenta.",
+        "Cord prolapse.",
+        "True cord knot."
+      ],
+      "correct": 1,
+      "explanation": "A succenturiate placenta consists of a main part and a smaller, separate accessory part. This accessory part may be retained in the uterus after delivery, leading to postpartum hemorrhage."
+    },
+    {
+      "stem": "Red Infarcts in placenta reflect:",
+      "options": [
+        "Normal variant at term pregnancy.",
+        "Fibrin deposition on degenerated chorionic villi",
+        "Haemorrhage in decidual vessels in hypertensive cases.",
+        "Concealed accidental haemorrhage.",
+        "Abnormal placental invasion."
+      ],
+      "correct": 2,
+      "explanation": "Red infarcts in the placenta are caused by hemorrhage from the maternal vessels of the decidua and are observed more frequently in hypertensive conditions."
+    },
+    {
+      "stem": "Regarding white infarcts of the placenta; all the followings are true EXCEPT:",
+      "options": [
+        "Normal variant at term pregnancy.",
+        "It is due degenerated chorionic villi with fibrin deposition.",
+        "It suggests foetal lung maturation.",
+        "May be present in hypertensive cases.",
+        "More common in placenta accreta."
+      ],
+      "correct": 4,
+      "explanation": "White infarcts are a normal variant at term pregnancy, characterized by fibrin deposition on degenerated chorionic villi. They can also be present in hypertensive cases. The provided text does not mention them being more common in placenta accreta, making this the exception."
+    },
+    {
+      "stem": "Regarding umbilical cord; all the followings are true EXCEPT:",
+      "options": [
+        "Excess Wharton's jelly may cause false cord knots.",
+        "It contains 2 umbilical veins and 1 umbilical artery.",
+        "Normal length is about 50 cm.",
+        "True knots of the cord can lead to unexplained foetal death.",
+        "Velamentous insertion of the cord can cause vasa previa."
+      ],
+      "correct": 1,
+      "explanation": "The umbilical cord normally consists of one umbilical vein and two umbilical arteries."
+    },
+    {
+      "stem": "During normal pregnancy, the major cause for lowered hemoglobin is:",
+      "options": [
+        "Low iron stores.",
+        "Blood shift to feto-placental unit.",
+        "increased plasma volume.",
+        "Hemolysis.",
+        "Decreased erythropoiesis."
+      ],
+      "correct": 2,
+      "explanation": "During pregnancy, the increase in plasma volume is greater than the increase in red blood cell mass, resulting in hemodilution, which is commonly referred to as physiologic anemia of pregnancy and causes a lowered hemoglobin concentration."
+    },
+    {
+      "stem": "The increase in blood volume during pregnancy is made up by which of the following?",
+      "options": [
+        "Erythrocytes only.",
+        "More erythrocytes than plasma.",
+        "More plasma than erythrocytes.",
+        "Plasma only.",
+        "Fluid shift from tissues to intravascular compartment."
+      ],
+      "correct": 2,
+      "explanation": "The total blood volume increases during pregnancy, with the plasma volume increasing more significantly than the red blood cell volume. This disproportionate increase leads to hemodilution."
+    },
+    {
+      "stem": "You have been asked to review a full blood test result of a woman at 28 weeks of gestation. At what threshold level of hemoglobin concentration would you define anemia?",
+      "options": [
+        "9 g%",
+        "9.5 g%",
+        "10 g%",
+        "11 g%",
+        "12 g%"
+      ],
+      "correct": 3,
+      "explanation": "The textbook states that anemia during pregnancy is diagnosed with hemoglobin levels < 11 gm/dl in the 1st and 3rd trimesters, and < 10.5 gm/dl in the 2nd trimester. For a woman at 28 weeks of gestation (which is the end of the 2nd trimester), the specific threshold would ideally be <10.5 g/dl. However, given the provided options, and 10.5 g/dl not being an option, 11 g/dl is presented as the correct answer and represents a common, though slightly broader, threshold for anemia in pregnancy."
+    },
+    {
+      "stem": "The following is responsible for physiologic hyperventilation during early pregnancy:",
+      "options": [
+        "Increased estrogen.",
+        "Increased progesterone.",
+        "Fluctuations in plasma bicarbonates.",
+        "Decreased functional residual volume.",
+        "Decreased plasma oxygen saturation."
+      ],
+      "correct": 1,
+      "explanation": "Progesterone stimulates the respiratory center, leading to the physiological hyperventilation observed during pregnancy."
+    },
+    {
+      "stem": "Regarding cardiovascular changes in pregnancy, choose the CORRECT answer:",
+      "options": [
+        "No significant changes during pregnancy.",
+        "Decrease in BP occurs normally up to mid-pregnancy.",
+        "Blood volume increases maximally at about 20 weeks.",
+        "Diastolic murmur with thrill on heart apex commonly occurs at full term.",
+        "Blood pressure reading of 140/90 in late pregnancy is considered normal."
+      ],
+      "correct": 1,
+      "explanation": "A slight drop in blood pressure normally occurs during the 2nd trimester (mid-pregnancy) due to the opening of arterio-venous shunts in the placenta."
+    },
+    {
+      "stem": "Physiologic Thyroid changes during pregnancy include which of the following?",
+      "options": [
+        "Asymmetric nodular enlargement of thyroid gland.",
+        "Increased plasma iodine.",
+        "Decreased total T3 and T4.",
+        "Unchanged free T3 and T4.",
+        "Increased TSH."
+      ],
+      "correct": 3,
+      "explanation": "During pregnancy, while the thyroid gland increases in size and activity (physiological goitre) and total T4 levels rise, the free T4 levels remain within normal ranges. By inference, free T3 levels are also expected to remain unchanged to maintain euthyroid state."
+    },
+    {
+      "stem": "All of the following urinary tract changes occurs in pregnancy EXCEPT:",
+      "options": [
+        "Dilatation of the ureters above the pelvic brim mainly on Rt side.",
+        "Stasis of urine.",
+        "Increased glomerular filtration rate.",
+        "Decreased bladder capacity after head engagement.",
+        "Increased creatinine level."
+      ],
+      "correct": 4,
+      "explanation": "Normal urinary tract changes in pregnancy include dilatation of the ureters (more on the right side), urine stasis, and decreased bladder capacity due to uterine pressure. An increased creatinine level is typically indicative of renal insufficiency, a pathological condition (e.g., in severe preeclampsia), rather than a normal physiological change in pregnancy where creatinine levels usually decrease due to increased glomerular filtration."
+    },
+    {
+      "stem": "Metabolic changes during normal pregnancy include:",
+      "options": [
+        "Increased serum bicarbonate level.",
+        "Increased ionized calcium level.",
+        "Decreased renal threshold of glucose.",
+        "Proteinuria.",
+        "Ketonuria."
+      ],
+      "correct": 2,
+      "explanation": "Pregnancy induces a \"diabetogenic state\" in carbohydrate metabolism. This state is often associated with a decreased renal threshold for glucose, leading to glucosuria even with normal blood glucose levels. Proteinuria and ketonuria are generally signs of pathology, not normal pregnancy."
+    },
+    {
+      "stem": "Maternal cardiovascular and hematological changes:",
+      "options": [
+        "The red cell mass decreases.",
+        "The hemoglobin concentration and white cell count decreases.",
+        "The erythrocyte sedimentation rate decreases.",
+        "The stroke volume increases.",
+        "The peripheral resistance and mean arterial pressure increase."
+      ],
+      "correct": 3,
+      "explanation": "Cardiac output increases during pregnancy, primarily due to an increase in stroke volume, which is the main reason, along with an increase in heart rate towards the end of pregnancy."
+    },
+    {
+      "stem": "All of the followings cardiovascular changes occur in normal pregnancy EXCEPT:",
+      "options": [
+        "Increased blood volume.",
+        "Mid trimester drop of blood pressure.",
+        "Some E.C.G changes.",
+        "Apex shift up and laterally.",
+        "Diastolic murmur over the apex."
+      ],
+      "correct": 4,
+      "explanation": "During normal pregnancy, functional murmurs may be detected, but they are usually systolic, not diastolic. Other changes like increased blood volume, a mid-trimester drop in blood pressure, and apex displacement are normal physiological adaptations."
+    },
+    {
+      "stem": "Changes that occur in the cervix during pregnancy include which of the following?",
+      "options": [
+        "Generalized erythema with punctations.",
+        "Retraction of the squamo-columnar junction into the cervical canal.",
+        "Some atypical cells may be present normally on Pap smear.",
+        "Progressive shortening of the cervical canal."
+      ],
+      "correct": 3,
+      "explanation": "The cervix undergoes several changes during pregnancy, including edema, congestion, and the formation of a mucus plug. Hormonal erosion may also occur, which can lead to benign cellular changes that might be interpreted as atypical on a Pap smear but are considered physiological."
+    },
+    {
+      "stem": "Changes that occur in the cervix during pregnancy include which of the following?",
+      "options": [
+        "Tenderness on moving the cervix during P.V. due to hypertrophy.",
+        "Thick cervical mucus plug is formed.",
+        "Bloody discharge is frequent due to congestion.",
+        "More liability to form polypi.",
+        "Retraction of squamo-columnar junction into the cervical canal."
+      ],
+      "correct": 1,
+      "explanation": "A notable change in the cervix during pregnancy is the formation of a mucus plug, consisting of cervical mucus that closes the cervical canal."
+    },
+    {
+      "stem": "All of the following differentiate the upper from the lower uterine segments EXCEPT:",
+      "options": [
+        "Lower uterine segment is passive during labor.",
+        "Upper uterine segment has three muscle layers.",
+        "Upper uterine segment is covered by loose peritoneum.",
+        "Lower uterine segment has no oblique muscle layer.",
+        "Membranes are firmly attached to the upper uterine segment."
+      ],
+      "correct": 2,
+      "explanation": "The upper uterine segment (UUS) is distinguished by being covered by adherent peritoneum, whereas the lower uterine segment (LUS) is covered by loose peritoneum. The other statements correctly differentiate the two segments, such as the LUS being passive during labor and having a defective middle oblique muscle layer, and membranes being firmly attached to the UUS."
+    },
+    {
+      "stem": "Normal breast findings during pregnancy include all the following EXCEPT:",
+      "options": [
+        "It becomes tense and tender.",
+        "Montgomery's nodules appear.",
+        "Appearance of secondary areola.",
+        "Profuse milk expression.",
+        "Increased pigmentation."
+      ],
+      "correct": 3,
+      "explanation": "While breast size, vascularity, pigmentation of the nipple and areola, and the appearance of Montgomery tubercles and a secondary areola all increase during pregnancy, only colostrum-like fluid is expressed at the end of the 4th month, not profuse milk expression. Profuse milk production (lactation) begins postpartum."
+    },
+    {
+      "stem": "A 25-year-old primigravida at 10 weeks gestation presents with a lump in her breast. Examination reveals a unilateral well circumscribed left firm breast mass about 4 cm in diameter with free mobility. Overlying skin was normal and nipple expressed some serous discharge. How can you counsel this case?",
+      "options": [
+        "Reassurance as it is mostly a hormonal effect.",
+        "Malignant risk in this age is negligible.",
+        "Biopsy is requested.",
+        "Termination of pregnancy to allow mass regression.",
+        "Mastectomy is considered."
+      ],
+      "correct": 2,
+      "explanation": "Even though breast changes are common in pregnancy, the textbook emphasizes the importance of discriminating between normal pregnancy symptoms and those related to pathological conditions. A persistent breast lump, regardless of the patient's age or pregnancy status, necessitates further investigation, such as a biopsy, to rule out any underlying pathology."
+    },
+    {
+      "stem": "Routine laboratory investigations in antenatal care include all the following EXCEPT:",
+      "options": [
+        "Blood group and complete blood picture.",
+        "Urine analysis.",
+        "Thyroid functions.",
+        "Blood sugar.",
+        "Pap smear."
+      ],
+      "correct": 4,
+      "explanation": "Routine laboratory tests for antenatal care, as listed in the textbook, include blood group and Rh typing, complete blood picture, blood sugar level, and complete urine analysis. Pap smear is not listed as a routine antenatal investigation."
+    },
+    {
+      "stem": "Which statement is correct regarding calculating the expected date of delivery (EDD)?",
+      "options": [
+        "Pregnancy is dated from day of +ve pregnancy test.",
+        "The end of LMP is used to calculate EDD.",
+        "If the cycles are irregular; date of quickening can be used to calculate the EDD.",
+        "LMP defined dates are more accurate than those calculated from late US.",
+        "Head circumference may be used to date a pregnancy until 20 weeks."
+      ],
+      "correct": 3,
+      "explanation": "The textbook highlights that measurements of fetal crown to rump length (CRL) from first-trimester ultrasound provide the most accurate dating of pregnancy. This implies that dating based on early ultrasound is more accurate than relying solely on the LMP. While early ultrasound is the gold standard, the option specifically contrasts LMP with late ultrasound. Late ultrasound measurements for dating become less accurate due to wider variations in fetal growth. Therefore, if comparing LMP to late US, LMP-derived dates, when reliable, are considered more accurate than late US."
+    },
+    {
+      "stem": "If pregnancy occurred during a period of lactation amenorrhea, how can you determine accurately the expected date of delivery?",
+      "options": [
+        "Assessing uterine size by physical examination.",
+        "Counting 280 days from the 1st positive pregnancy test.",
+        "Obtaining fetal biometry by ultrasound prior to 20 weeks gestation.",
+        "Eliciting when breast tenderness or morning sickness began.",
+        "Asking the patient about date of quickening."
+      ],
+      "correct": 2,
+      "explanation": "When the last menstrual period (LMP) is unreliable, such as during lactation amenorrhea, measurements of fetal crown to rump length (CRL) from first-trimester ultrasound provide the most accurate dating of pregnancy. Early fetal biometry by ultrasound is superior for estimating gestational age in such cases."
+    },
+    {
+      "stem": "In a pregnant woman, if the LMP was at June 30.What is expected date of delivery?",
+      "options": [
+        "March 23.",
+        "March 30.",
+        "March 7.",
+        "April 7.",
+        "May 7."
+      ],
+      "correct": 3,
+      "explanation": "Using Naegele’s rule (LMP + 9 months + 7 days): LMP: June 30; Adding 7 days: July 7; Adding 9 months: April 7 (of the following year)."
+    },
+    {
+      "stem": "Symptoms suggesting pregnancy include all of the following EXCEPT:",
+      "options": [
+        "Nausea.",
+        "Amenorrhea.",
+        "Breast heaviness.",
+        "Anosmia.",
+        "Frequency of micturition."
+      ],
+      "correct": 3,
+      "explanation": "Common symptoms associated with pregnancy, especially in the first trimester, include nausea and vomiting, amenorrhea (missed period), breast enlargement/heaviness, and frequency of micturition. Anosmia (loss of smell) is not listed as a typical symptom of pregnancy in the provided text."
+    },
+    {
+      "stem": "The most accurate diagnosis of a healthy pregnancy is:",
+      "options": [
+        "Positive hCG blood test.",
+        "Detection of gestational sac by US.",
+        "Detection of yolk sac by US.",
+        "Pulsating fetal pole.",
+        "Abdominal enlargement."
+      ],
+      "correct": 3,
+      "explanation": "While a positive hCG test indicates pregnancy and a gestational sac confirms intrauterine presence, the detection of an embryo with positive heart pulsations (fetal pole) by ultrasound at 7-9 weeks is considered the most definitive confirmation of a healthy and viable early pregnancy."
+    },
+    {
+      "stem": "Regarding instructions about sexual intercourse during pregnancy:",
+      "options": [
+        "It is preferably avoided during whole pregnancy.",
+        "Routinely avoided in 1st trimester.",
+        "Routinely avoided in 3rd trimester.",
+        "Avoided only in presence of risk factors as threatened abortion, preterm pains of fluid leak from vagina.",
+        "No specific instructions."
+      ],
+      "correct": 3,
+      "explanation": "Sexual intercourse is generally considered safe during pregnancy but should be avoided if there is bleeding or suspected rupture of the membranes. These conditions correspond to potential risk factors such as threatened abortion or fluid leakage."
+    },
+    {
+      "stem": "At approximately 20 week's gestational age, the uterus in a normal pregnancy is felt at which of the following?",
+      "options": [
+        "Not palpable abdominally.",
+        "Palpable at the level of umbilicus.",
+        "Palpable at the level of xiphoid.",
+        "Palpable at lower end of umbilicus.",
+        "Palpable midway between umbilicus and the sternum."
+      ],
+      "correct": 3,
+      "explanation": "By 20-24 weeks of gestation, the fundal level of the uterus is typically palpable at the umbilicus. Therefore, at approximately 20 weeks, it would be around the lower end of the umbilicus."
+    },
+    {
+      "stem": "The following is a soft, blowing sound that is synchronous with the maternal pulse and heard over the uterus?",
+      "options": [
+        "Fetal heart pulsations.",
+        "Maternal intestinal sounds.",
+        "Fetal movements.",
+        "Umbilical pulsations.",
+        "Uterine vessels pulsations."
+      ],
+      "correct": 4,
+      "explanation": "The provided sources do not contain explicit information describing a soft, blowing sound synchronous with the maternal pulse heard over the uterus (known as uterine souffle). However, based on general medical knowledge often covered in obstetrics, this sound is attributed to uterine vessel pulsations."
+    },
+    {
+      "stem": "The routine US scan in early pregnancy allows of all the following EXCEPT:",
+      "options": [
+        "Accurate dating of pregnancy.",
+        "Early detection of placenta previa.",
+        "Early detection of twin pregnancy.",
+        "Detection of unhealthy pregnancy.",
+        "Detection of cervical incompetence."
+      ],
+      "correct": 1,
+      "explanation": "While early ultrasound can identify the placental location, the definitive diagnosis of placenta previa is often not made in early pregnancy because of the phenomenon of \"placental migration,\" where a low-lying placenta noted early on may appear to move upwards as the lower uterine segment develops. Routine early scans are primarily for accurate dating, detecting twin pregnancies, and confirming fetal viability."
+    },
+    {
+      "stem": "During an abdominal examination of a 30 weeks gestation primigravida, fundal level was found to be higher than the period of amenorrhea. The most possible cause is:",
+      "options": [
+        "Miscalculation.",
+        "Malpresentations.",
+        "Contracted pelvis.",
+        "PROM.",
+        "Placental insufficiency."
+      ],
+      "correct": 0,
+      "explanation": "When the fundal level is found to be higher than expected for the calculated gestational age, the most common and initial consideration is a miscalculation of the last menstrual period (LMP) or gestational age. Other causes like polyhydramnios or multifetal pregnancy are also possibilities but miscalculation is fundamental."
+    },
+    {
+      "stem": "Warning symptoms in pregnancy include all of the following EXCEPT:",
+      "options": [
+        "Gush of fluid escape per vagina.",
+        "Decreased quickening.",
+        "Vaginal bleeding.",
+        "Abdominal pains.",
+        "Tachypnea."
+      ],
+      "correct": 4,
+      "explanation": "Warning symptoms that necessitate consultation include vaginal bleeding, sudden escape of liquor amnii, persistent severe headache, and abdominal pains. Tachypnea, while a sign of certain severe conditions, is not listed as a general warning symptom a patient would report for consultation in the same way as the others; physiological dyspnea is common in late pregnancy but not a warning sign."
+    },
+    {
+      "stem": "Warning symptoms in pregnancy include one of the followings:",
+      "options": [
+        "Constipation.",
+        "Increased quickening.",
+        "Persistent headache.",
+        "Heart burn especially after meals.",
+        "Muscle cramps."
+      ],
+      "correct": 2,
+      "explanation": "Severe persistent headache is explicitly listed as a warning or alarming symptom during pregnancy that necessitates medical consultation. Common complaints like constipation, heartburn, and muscle cramps are not typically classified as warning symptoms."
+    },
+    {
+      "stem": "Regarding nutritional requirements during pregnancy, choose the correct statement:",
+      "options": [
+        "No need for extra iron supplements due to decreased losses with absent menstruation.",
+        "Folic acid supplements should be prescribed in late pregnancy.",
+        "Caloric requirements is about 2500 kcal/day.",
+        "Protein requirements are about 500 gm/day.",
+        "Excess salts are recommended to avoid hypotension with pregnancy."
+      ],
+      "correct": 2,
+      "explanation": "The average daily caloric requirement for a pregnant mother is stated to be around 2300 Kcal/day. An option of \"about 2500 kcal/day\" is the closest and most appropriate approximation provided."
+    },
+    {
+      "stem": "If a patient gains weight rapidly during pregnancy, you should first:",
+      "options": [
+        "Give the patient diuretics.",
+        "Determine whether the weight gain is from edema or fat.",
+        "Markedly restrict her diet.",
+        "Encourage vigorous exercise.",
+        "Place her on bed rest."
+      ],
+      "correct": 1,
+      "explanation": "Rapid or excessive weight gain during pregnancy may indicate occult edema, which can be a sign of developing preeclampsia. Therefore, the first step is to assess the nature of the weight gain to differentiate between fluid retention (edema) and adipose tissue accumulation."
+    },
+    {
+      "stem": "A 40-year multipara attended the clinic for antenatal care as she had a delayed cycle for 1 week. She did serum hCG twice 2 days apart. 1st reading was 200mIU/ml and the 2nd was 350mlu/ml. How can you interpret these levels?",
+      "options": [
+        "Not conclusive.",
+        "Normal pregnancy.",
+        "Blighted ovum.",
+        "Ectopic pregnancy.",
+        "Vesicular mole."
+      ],
+      "correct": 1,
+      "explanation": "Serum beta-hCG levels in a healthy, normally growing intrauterine pregnancy are expected to increase by at least 60% (and ideally double) every 48 hours in the first 6-8 weeks. An increase from 200 mIU/ml to 350 mIU/ml represents a 75% increase, which falls within the expected range for a normal pregnancy."
+    },
+    {
+      "stem": "The aim of the early pregnancy scan is to",
+      "options": [
+        "Diagnose fetal anomalies.",
+        "Determine site of placenta.",
+        "Confirm fetal pulsation.",
+        "Assess uterine artery Doppler",
+        "Assess umbilical artery Doppler."
+      ],
+      "correct": 2,
+      "explanation": "An early pregnancy ultrasound scan, typically performed at 7-9 weeks, aims to identify an embryo with positive heart pulsations, which is crucial for confirming fetal viability and is a primary goal of this scan."
+    },
+    {
+      "stem": "In the late first trimester you can screen the fetus for:",
+      "options": [
+        "Mental retardation.",
+        "Chromosomal abnormalities.",
+        "Diminished fetal movements.",
+        "Growth disorders.",
+        "Fetal biophysical profile."
+      ],
+      "correct": 1,
+      "explanation": "In the late first trimester (11-13 weeks gestation), screening for chromosomal abnormalities, such as Down syndrome, can be performed using the Double Marker Test (hCG & PAPP-A) in combination with ultrasound measurement of nuchal translucency."
+    },
+    {
+      "stem": "Full fetal anomaly scan is best performed at:",
+      "options": [
+        "8-9 weeks.",
+        "11-12 weeks.",
+        "16-20 weeks.",
+        "24-28 weeks.",
+        "36 weeks."
+      ],
+      "correct": 2,
+      "explanation": "A detailed fetal anatomy survey, referred to as the second-trimester anomaly scan, is typically performed between 18-22 weeks gestation to diagnose major congenital anomalies. The option 16-20 weeks falls within this optimal window."
+    },
+    {
+      "stem": "During an antenatal checkup of a 12 weeks pregnant primigravida, a living fetus was found with a CRL corresponding to menstrual age and nuchal translucency thickness was 6 mm. How can you interpret these data?",
+      "options": [
+        "Normal checkup for follow up.",
+        "Nuchal translucency should be repeated after 4 weeks.",
+        "Down syndrome is suspected.",
+        "Check maternal viral antibodies.",
+        "Rh antibody titre should be requested."
+      ],
+      "correct": 2,
+      "explanation": "An increased nuchal translucency (NT) thickness greater than 3.0 mm at 12 weeks gestation is strongly suggestive of Down syndrome and indicates the need for further diagnostic tests. A measurement of 6 mm is significantly above this threshold."
+    },
+    {
+      "stem": "The following fetal conditions is commonly associated with low maternal serum a fetoprotein:",
+      "options": [
+        "Microcephally.",
+        "Anencephally.",
+        "Major cardiac anomalies.",
+        "Down syndrome.",
+        "In born error of metabolism."
+      ],
+      "correct": 3,
+      "explanation": "Abnormally decreased levels of maternal serum alpha fetoprotein (AFP) are associated with trisomy 21 (Down syndrome). In contrast, increased levels are seen in neural tube defects."
+    },
+    {
+      "stem": "Amniocentesis could be used for all the following purposes EXCEPT:",
+      "options": [
+        "Karyotyping.",
+        "Detection of fetal lung maturation.",
+        "Treatment of polyhydramnios.",
+        "Detection of amniotic fluid bilirubin.",
+        "Diagnosis of intrauterine fetal death."
+      ],
+      "correct": 4,
+      "explanation": "Amniocentesis can be used for karyotyping, DNA analysis, detecting amniotic fluid bilirubin for Rh isoimmunization, and for therapeutic drainage in severe polyhydramnios. However, diagnosis of intrauterine fetal death (IUFD) is primarily confirmed by ultrasound showing absent fetal heart rate, not by amniocentesis."
+    },
+    {
+      "stem": "The following is NOT a screening test for prenatal diagnosis of congenital anomalies?",
+      "options": [
+        "Triple marker test for Down syndrome.",
+        "Nuchal translucency measurement.",
+        "Fetal anomalies scan.",
+        "Chorionic villous sampling.",
+        "Serum a fetoprotein measurement."
+      ],
+      "correct": 3,
+      "explanation": "Chorionic villus sampling (CVS) is listed as a diagnostic test, offering a high degree of accuracy for genetic diagnosis, rather than a screening test. Screening tests, like the triple marker test, nuchal translucency measurement, and serum alpha fetoprotein, aim to identify high-risk subgroups for further diagnostic procedures."
+    },
+    {
+      "stem": "The following drugs are contraindicated during pregnancy:",
+      "options": [
+        "Methyldopa.",
+        "Heparin.",
+        "Clindamycin vaginal cream.",
+        "Tetracycline.",
+        "Thyroxine."
+      ],
+      "correct": 3,
+      "explanation": "According to the FDA classification, tetracyclines are categorized as Category D, indicating they are risky in human pregnancy and generally contraindicated unless the potential benefits significantly outweigh the risks. Other options like methyldopa, heparin, clindamycin, and thyroxine are commonly used or considered safer in pregnancy."
+    },
+    {
+      "stem": "All these vaccines are allowed in pregnancy when indicated EXCEPT:",
+      "options": [
+        "Hepatitis A vaccine",
+        "Hepatitis B vaccine",
+        "Meningococcal vaccine",
+        "Tetanus",
+        "MMR vaccine"
+      ],
+      "correct": 4,
+      "explanation": "Live attenuated vaccines, such as the MMR (Measles, Mumps, Rubella) vaccine, are contraindicated during pregnancy. Killed vaccines like tetanus, poliomyelitis, rabies, influenza, cholera, and typhoid, or passive immunization with immunoglobulins, may be given if needed."
+    },
+    {
+      "stem": "All the following vaccines could be received during pregnancy EXCEPT:",
+      "options": [
+        "Tetanus toxoid vaccine.",
+        "Hepatitis vaccine.",
+        "Flu (influenza) vaccine.",
+        "Varicella vaccine.",
+        "Cholera vaccine."
+      ],
+      "correct": 3,
+      "explanation": "The Varicella vaccine is a live attenuated vaccine, and all live attenuated vaccines are contraindicated during pregnancy. Other vaccines like tetanus, hepatitis, flu (influenza), and cholera are either killed vaccines or their use is permitted when indicated."
+    }
+  ]
+}

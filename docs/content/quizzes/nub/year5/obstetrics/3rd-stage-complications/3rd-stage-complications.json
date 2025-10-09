@@ -1,0 +1,125 @@
+{
+  "title": "3rd Stage Complications",
+  "questions": [
+    {
+      "stem": "The most important hemostatic mechanism in preventing post-partum hemorrhage is:",
+      "options": [
+        "Contraction of interlacing uterine muscle bundles.",
+        "Fibrinolysin inhibition.",
+        "Increased blood clotting factors in pregnancy.",
+        "Vasoconstriction of intra-myometrial vessels.",
+        "Markedly decreased blood pressure in uterine venules."
+      ],
+      "correct": 0,
+      "explanation": "The most important hemostatic mechanism in preventing postpartum hemorrhage (PPH) is the contraction of interlacing uterine muscle bundles. Uterine atony, the failure of the uterus to contract, is the most common cause for primary PPH, encountered in over 75% of cases."
+    },
+    {
+      "stem": "Predisposing factors for atonic postpartum hemorrhage include:",
+      "options": [
+        "Primipara.",
+        "Vaginal birth after CS (VBAC).",
+        "Broad ligament fibroid.",
+        "Malpresentations.",
+        "Antepartum hemorrhage."
+      ],
+      "correct": 4,
+      "explanation": "Antepartum hemorrhage (APH), specifically in cases of placental abruption, is a predisposing factor for atonic postpartum hemorrhage. Retroplacental hematoma formation can dissect in-between myometrial layers, interfering with uterine contractility and leading to atony."
+    },
+    {
+      "stem": "Predisposing factors for traumatic postpartum hemorrhage include all the followings EXCEPT:",
+      "options": [
+        "Malpositions and malpresentations.",
+        "Dehydrated mother with friable tissues.",
+        "Unremoved cervical cerclage.",
+        "Instrumental delivery.",
+        "Polyhydramnios."
+      ],
+      "correct": 4,
+      "explanation": "Polyhydramnios is a risk factor for atonic postpartum hemorrhage, not traumatic PPH. This is because it causes uterine overdistension, which can lead to inefficient contractility. Factors like previous cervical scarring, traumatic delivery, and difficult instrumental delivery are risk factors for traumatic PPH."
+    },
+    {
+      "stem": "Initial management of retained placenta include:",
+      "options": [
+        "Subtotal hysterectomy.",
+        "Bilateral internal iliac artery ligation.",
+        "Wait for spontaneous autolysis.",
+        "Brandt-Andrews maneuver followed by manual separation of placenta.",
+        "Curettage of placenta under anesthesia."
+      ],
+      "correct": 3,
+      "explanation": "If the placenta is retained (fails to be delivered within 30 minutes), the initial step is manual separation of the placenta under anesthesia. This procedure involves introducing one hand into the uterus to create a plane of cleavage and separate the placenta."
+    },
+    {
+      "stem": "The following is a cause of secondary postpartum hemorrhage:",
+      "options": [
+        "Marked uterine atony.",
+        "Retained placental fragments.",
+        "Acute uterine inversion.",
+        "Hypo-fibrinogenemia.",
+        "Rupture uterus."
+      ],
+      "correct": 1,
+      "explanation": "Secondary postpartum hemorrhage occurs more than 24 hours after delivery and is most commonly associated with retained placental fragments and puerperal sepsis. The other options are causes of primary PPH."
+    },
+    {
+      "stem": "A 35 years old P1+1 had a forceps assisted vaginal delivery. After complete delivery of the placenta, she continues to bleed heavily, while the uterus is contracted. The most likely cause of this bleeding is:",
+      "options": [
+        "Cervical and perineal lacerations.",
+        "Placental abruption (accidental hemorrhage).",
+        "Uterine atony.",
+        "Cervical fibroid polyp.",
+        "Rupture uterus."
+      ],
+      "correct": 0,
+      "explanation": "When heavy bleeding persists with a contracted uterus after placental delivery, it strongly suggests traumatic postpartum hemorrhage. Forceps delivery is a known risk factor for cervical and perineal lacerations."
+    },
+    {
+      "stem": "In the previous case; what is the most suitable line of treatment?",
+      "options": [
+        "Uterine massage.",
+        "Uterine artery embolization.",
+        "Exploration of the genital tract under anesthesia.",
+        "Abdominal hysterectomy.",
+        "Misoprostol rectal suppository."
+      ],
+      "correct": 2,
+      "explanation": "Given the suspicion of traumatic PPH, the most suitable initial treatment is to explore the genital tract under anesthesia to identify and repair any lacerations. Uterine massage and ecbolics are for atonic PPH."
+    },
+    {
+      "stem": "A 20 years old primigravida with eclamptic fit delivered a FT stillbirth fetus vaginally. Placental delivery was associated with a large retroplacental hematoma followed by severe postpartum hemorrhage. Uterus is felt flabby on abdominal palpation. What is the most likely cause?",
+      "options": [
+        "Couvelaire uterus.",
+        "Uterine anomaly.",
+        "Rupture uterus.",
+        "Placenta previa.",
+        "Cervical lacerations."
+      ],
+      "correct": 0,
+      "explanation": "The combination of an eclamptic fit, a large retroplacental hematoma, and a flabby (atonic) uterus is characteristic of Couvelaire’s uterus, where blood dissects into the myometrium, impairing contractions."
+    },
+    {
+      "stem": "In the previous case, while doing resuscitation, all the followings are considered EXCEPT:",
+      "options": [
+        "Uterine massage and repeated ecbolics.",
+        "Uterine artery embolization or internal iliac arteries ligation.",
+        "Consent for possible life saving hysterectomy.",
+        "Intrauterine balloon (Bakry balloon).",
+        "Intrauterine pack."
+      ],
+      "correct": 4,
+      "explanation": "In managing atonic PPH, uterine massage, ecbolics, Bakry balloon, arterial ligation, and hysterectomy are all considered interventions. However, a general intrauterine pack is not a standard recommended method for managing atonic PPH."
+    },
+    {
+      "stem": "A 35 years old multipara with a very rapid course of labor, suddenly developed dyspnea and collapsed with imperceptible peripheral pulse immediately after fetal delivery. A possible diagnosis for this case includes all of the followings EXCEPT:",
+      "options": [
+        "Rupture uterus.",
+        "Amniotic fluid embolism.",
+        "Anesthesia complications.",
+        "Retained placenta.",
+        "Heart failure."
+      ],
+      "correct": 3,
+      "explanation": "Sudden dyspnea and collapse immediately after delivery suggest an acute event like amniotic fluid embolism, massive hemorrhage (e.g., uterine rupture), or cardiac failure. Retained placenta typically leads to a more gradual hemorrhage and subsequent shock, making it the least likely cause for this immediate, profound collapse."
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "title": "Respiratory and allergy KAF",
+  "questions": [
+    {
+      "stem": "A previously healthy 18-month-old infant has been playing alone away from his family. Then he suddenly develops coughing and choking which resolves in a few minutes. After a while, the patient appears to be normal except for audible wheezes with occasional cough. Which of the following is the most likely explanation for this condition?",
+      "options": [
+        "Acute asthma.",
+        "Croup.",
+        "Epiglottitis",
+        "Foreign body inhalation."
+      ],
+      "correct": 3,
+      "explanation": "The clinical picture of a sudden onset of coughing and choking that resolves, followed by wheezing that doesn't respond to bronchodilators, is characteristic of foreign body inhalation. A foreign body in the airway causes a sudden onset of symptoms, and the wheezing is persistent and not relieved by typical asthma treatments, which would be expected if it were a foreign body causing a partial obstruction."
+    },
+    {
+      "stem": "A previously well, 3 years old child visits his doctor because of a 2 day history of low grade fever, coryzal symptoms, and a one day history of dry cough. Physical examination reveals absence of respiratory distress and clear chest. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Acute bronchiolitis",
+        "Acute bronchitis.",
+        "Bronchial asthma.",
+        "Pneumonia."
+      ],
+      "correct": 1,
+      "explanation": "The symptoms described—low-grade fever, coryza (runny nose), and dry cough—are typical of the early 'catarrhal stage' of acute bronchitis. The absence of respiratory distress and clear chest on examination further support this, as a physical exam may be unremarkable in this early stage."
+    },
+    {
+      "stem": "A previously well 1-year-old infant had a runny nose and sneezing and coughing for 2 days. Two other members of the family had similar symptoms. On physical examination, he is in moderate respiratory distress with nasal flaring and audible wheezing. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Acute bronchiolitis.",
+        "Acute bronchitis.",
+        "Asthma",
+        "Epiglottitis"
+      ],
+      "correct": 0,
+      "explanation": "Acute bronchiolitis is a common lower respiratory tract infection in infants under two years old. It often begins with mild upper respiratory symptoms like a runny nose and coughing, and then progresses to respiratory distress with tachypnea, retractions, and expiratory wheezing. The history of similar symptoms in other family members suggests a viral cause, with respiratory syncytial virus (RSV) being the most common pathogen."
+    },
+    {
+      "stem": "A 10-month-old infant has poor weight gain, a persistent cough, and a history of several attacks of pneumonia. The mother describes the child as having very large, foul smelling stools for months. Which of the following diagnostic investigations is likely to result in the correct diagnosis of this child?",
+      "options": [
+        "CT of the chest.",
+        "Serum immunoglobulins.",
+        "Sweat chloride test",
+        "Tuberculin test."
+      ],
+      "correct": 2,
+      "explanation": "The combination of persistent cough, recurrent chest infections, poor weight gain, and large, foul-smelling stools (steatorrhea) is highly suggestive of cystic fibrosis. The sweat chloride test is the essential diagnostic procedure for this condition, as patients with cystic fibrosis have abnormally high levels of chloride in their sweat."
+    },
+    {
+      "stem": "A 3-year-old girl is admitted with history of night fever and cough since 6 weeks. The child lives with her grandfather. The grandfather had a 3- month history of weight loss, fever, and hemoptysis. Appropriate management for this girl, includes which of the following?",
+      "options": [
+        "Bronchoscopy and culture for all family members.",
+        "Isolate and observe the 3 year old child for 1 month",
+        "Isolating the 3-year-old patient for 1 month.",
+        "Treating the 3-year-old patient with isoniazid (INH) and rifampicin"
+      ],
+      "correct": 3,
+      "explanation": "The child's symptoms (night fever, chronic cough) and close contact with a person having a chronic cough, fever, weight loss, and hemoptysis strongly suggest pulmonary tuberculosis. The management of tuberculosis involves a combination of at least two to three first-line drugs for several months. Isoniazid and rifampicin are both first-line drugs for TB treatment."
+    },
+    {
+      "stem": "A 7 -year-old boy presents with fever 39.2 and right upper abdominal pain. His mother gives history of poor appetite and cough for 2 days. On examination HR: 120/minute, RR 45/minute, breath sounds are diminished with bronchial breathing over right lower lung zone. What is the initial diagnostic test?",
+      "options": [
+        "Abdominal CT.",
+        "Abdominal ultrasound.",
+        "Chest X ray.",
+        "Liver function tests"
+      ],
+      "correct": 2,
+      "explanation": "The clinical presentation, including fever, cough, and tachypnea, along with specific findings on chest examination such as diminished breath sounds and bronchial breathing over a lung lobe, points to pneumonia. The pain in the abdomen may be referred pain from the inflamed pleura or diaphragm. A chest x-ray is the most important initial diagnostic investigation to confirm the diagnosis and determine the pathological type of pneumonia."
+    },
+    {
+      "stem": "A 2 month old boy with a 3 day history of mild fever and runny nose suddenly develops high fever, cough and respiratory distress. Within the next 48 hours the patient deteriorated. Chest x ray done showed left side pleural effusion with mediastinal shift right side. What is the appropriate first action?",
+      "options": [
+        "Antibiotics",
+        "Antipyretics.",
+        "Blood gases.",
+        "Chest tube."
+      ],
+      "correct": 3,
+      "explanation": "The clinical picture of a severe lower respiratory infection progressing to pleural effusion with a mediastinal shift indicates a serious complication, specifically empyema. The mediastinal shift suggests a large collection of fluid that is compressing the lung. The appropriate management for empyema is immediate closed drainage of pus using an underwater seal or continuous suction, which is done via a chest tube."
+    },
+    {
+      "stem": "A 9 year old child complains of swollen lymph nodes in the neck and groin for the past 6 months and increasing cough over the previous 4 weeks. He also reports 3 weeks fever especially at night as well as weight loss. On examination non tender cervical, axillary and inguinal nodes were found. What is the most appropriate next step?",
+      "options": [
+        "Trial of broad spectrum antibiotics",
+        "Chest X ray.",
+        "Complete blood count and differential",
+        "Trial of Anti tuberculous drugs"
+      ],
+      "correct": 1,
+      "explanation": "The patient's chronic symptoms—fever, weight loss, cough, and swollen, non-tender lymph nodes—are all classic signs of tuberculosis. A chest x-ray is a crucial radiological study for diagnosing pulmonary TB, which is the most common form of the disease in children. The chest x-ray can reveal signs of consolidation, effusion, or other lesions."
+    },
+    {
+      "stem": "A 1-year-old presents with cough, fever and mild hypoxia. At the time of admission, he had evidence of right upper lobe consolidation on chest X ray. Blood culture reveals staphylococci. 20 hours after hospitalization, the child has acutely worsened over the previous few minutes with marked increase in work of breathing, increase oxygen requirement. Which of the following is the first action?",
+      "options": [
+        "A second x ray to evaluate for complications.",
+        "Change the antibiotics to include Gentamicin.",
+        "Intercostal tube for drainage of probable pleural effusion",
+        "Intercostal tube for drainage of probable pneumothorax."
+      ],
+      "correct": 0,
+      "explanation": "The sudden worsening of a child with staphylococcal pneumonia, which is known to cause lung abscesses and pneumatoceles, indicates a potential complication. A complication like a tension pneumothorax or empyema could rapidly develop and cause severe respiratory distress. The first action should be to get a second chest x-ray to check for these complications, which would then guide immediate life-saving interventions."
+    },
+    {
+      "stem": "A Monteux (tuberculin) test on a 1-year-old child results in a 12-mm indurated area 48h later. This finding indicates which of the following?",
+      "options": [
+        "The child is contagious.",
+        "The child is probably infected with mycobacterium.",
+        "The child was exposed to tuberculosis 2 to 5 days prior to the test",
+        "The size of the induration is not large enough to require antimicrobial therapy"
+      ],
+      "correct": 1,
+      "explanation": "A tuberculin test result of 10 mm or more of induration is considered positive. A positive reaction in a child under 5 years old who is not vaccinated with BCG, or a strongly positive reaction (over 15 mm) in a vaccinated child, indicates a probable TB infection. In this case, a 12-mm induration in a 1-year-old child suggests a likely infection with mycobacterium."
+    },
+    {
+      "stem": "A 14-month-old girl with a history of eczema develops generalized urticaria, wheeze and severe dyspnea shortly after eating some peanut butter for the first time. What is the most appropriate initial treatment?",
+      "options": [
+        "Adrenaline intramuscularly.",
+        "Adrenaline intravenously.",
+        "Chlorpheniramine intravenously",
+        "Hydrocortisone intravenously."
+      ],
+      "correct": 0,
+      "explanation": "The patient's symptoms of generalized urticaria, wheezing, and severe dyspnea developing rapidly after consuming a known allergen (peanut butter) are a classic presentation of anaphylaxis. Anaphylaxis is a life-threatening allergic reaction that requires immediate emergency treatment with intramuscular epinephrine (adrenaline)."
+    },
+    {
+      "stem": "A 10-year-old boy who was previously well presents with a 2-week history of malaise, headache, cough associated with pleuritic chest pain, and fever over the past 3 days. Five days of treatment with penicillin caused no improvement. He also suffers from earaches and a sore throat. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Viral pneumonia",
+        "Mycoplasma pneumonia.",
+        "Pneumococcal pneumonia.",
+        "Staphylococcal pneumonia."
+      ],
+      "correct": 1,
+      "explanation": "Atypical pneumonia, such as that caused by Mycoplasma pneumoniae, typically presents with symptoms like prominent headache, low-grade fever, earache, and sore throat. The symptoms are often milder but more persistent than typical pneumonia, and the illness would not respond to penicillin, as it requires a different class of antibiotics like macrolides. The age of the child (10 years) also fits the typical demographic for this pathogen."
+    },
+    {
+      "stem": "A 3-month-old baby has a history of wheeze and coughing usually during feeds, since birth. Her weight is normal and on examination she has expiratory wheezes. Which is the most likely diagnosis?",
+      "options": [
+        "Duodenal atresia",
+        "Foreign body inhalation.",
+        "Gastro esophageal reflux.",
+        "Cystic fibrosis"
+      ],
+      "correct": 3,
+      "explanation": "The combination of wheezing, coughing, and feeding difficulties from birth, along with a presentation that doesn't fit the typical course of other infections, raises suspicion for a chronic condition. While the child's weight is currently normal, the cough, wheeze, and feeding issues are characteristic of cystic fibrosis, which can also be associated with bronchiectasis and malabsorption leading to failure to thrive."
+    },
+    {
+      "stem": "Regarding the previous case, what is the initial investigation to be done?",
+      "options": [
+        "Computed tomography scan of the chest.",
+        "Flexible bronchoscopy.",
+        "Sweat chloride test",
+        "Upper gastrointestinal contrast study"
+      ],
+      "correct": 3,
+      "explanation": "This is a true conflict. The correct answer in the textbook provided is the sweat chloride test, as the clinical presentation (wheeze, coughing, feeding issues, foul-smelling stools) is classic for cystic fibrosis. An upper gastrointestinal contrast study may be performed in cases of aspiration, but it is not the most definitive diagnostic test for the cluster of symptoms presented. The most suitable investigation for a case of suspected cystic fibrosis is the sweat chloride test."
+    },
+    {
+      "stem": "A previously well 1-year-old infant had a runny nose and was sneezing and coughing for 2 days. On physical examination, he has respiratory distress and expiratory wheezes. Which of the following is the best line of treatment?",
+      "options": [
+        "Antibiotics",
+        "Bronchodilators.",
+        "Oxygen and intravenous fluids.",
+        "Steroids inhalation"
+      ],
+      "correct": 2,
+      "explanation": "This clinical picture is a classic presentation of acute bronchiolitis in an infant. Treatment for moderate to severe respiratory distress in a hospital setting includes oxygen therapy to correct hypoxemia and intravenous fluids to prevent dehydration, as oral feeding may be difficult."
+    },
+    {
+      "stem": "A 3-year-old boy presents with cough, wheeze, and increasing shortness of breath. He had similar episodes in the past. On examination, respiratory rate: 40 per minute, and oxygen saturation: 89%. Chest examination reveals moderate retractions and wide spread expiratory wheezes. Which of the following is the first action?",
+      "options": [
+        "Inhaled steroids",
+        "Intubation",
+        "Nebulized magnesium sulphate",
+        "Oxygen administration"
+      ],
+      "correct": 3,
+      "explanation": "This patient is presenting with a severe acute asthmatic attack, indicated by a low oxygen saturation of 89% and moderate retractions. The immediate priority in managing an acute asthma attack is to correct hypoxemia. Therefore, the first action should be the administration of oxygen therapy."
+    },
+    {
+      "stem": "A three year old comes in with a complaint of coughing for 2 weeks. Coughing is present every night. Initially the cough improved but it worsened over the next 2 days and wheezes became evident. He has had similar episodes in the past. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Bronchial asthma.",
+        "Lung abscess",
+        "Pneumonia",
+        "Tuberculosis."
+      ],
+      "correct": 0,
+      "explanation": "The key features are a history of recurrent episodes of cough and wheezing that are worse at night, with symptom-free intervals, and a response to bronchodilators. The nocturnal symptoms and a history of similar episodes are classic presentations of bronchial asthma."
+    },
+    {
+      "stem": "A 9 month old child was referred for further management of her pneumonia. At 3 months of age, she was admitted with fever, cough and breathlessness and diagnosed to have bronchopneumonia. The same happened at the age of 5 and 9 months. Which of the following investigation may be diagnostic?",
+      "options": [
+        "Abdominal ultrasound",
+        "Acute phase reactants (ESR and CRP)",
+        "Echocardiography",
+        "Skin test for common allergens"
+      ],
+      "correct": 2,
+      "explanation": "The history of recurrent pneumonia in an infant, especially in the absence of other clear risk factors, suggests an underlying chronic issue. Congenital heart diseases, particularly those with a left-to-right shunt (e.g., ventricular septal defect), cause increased pulmonary blood flow, leading to 'lung plethora' and an increased risk of recurrent chest infections. An echocardiogram is the diagnostic tool for congenital heart defects."
+    },
+    {
+      "stem": "Ahmed is a three-year-old child who came to ER with a complaint of coughing 3 weeks ago. Coughing is present especially every night. His past history is notable for eczema and dry skin since infancy. What is the most likely diagnosis?",
+      "options": [
+        "Acute bronchiolitis",
+        "Acute bronchitis",
+        "Bronchial asthma",
+        "Pneumonia"
+      ],
+      "correct": 2,
+      "explanation": "This is a true conflict. The correct answer according to the provided text is bronchial asthma. The clinical picture of a chronic cough that is worse at night, coupled with a history of eczema (a hallmark of atopic conditions), strongly suggests bronchial asthma. Eczema in infancy is a known predictor for the development of asthma in later childhood, a concept referred to as the 'allergic march'."
+    },
+    {
+      "stem": "A 2½-yr-old girl has had symptoms of an upper respiratory infection for one week. Over the past 24 hours, fever and tachypnea developed, with worsening cough and increased work of breathing. She has a temperature of 39.1° C, a respiratory rate of 50/min and mild to moderate intercostal retractions. Oxygen saturation is 90-92%. Her chest examination reveals diffuse crepitation. Chest X ray showed scattered infiltrates in multiple lung fields. Which of the following is the most appropriate treatment?",
+      "options": [
+        "A dose of dexamethasone and epinephrine.",
+        "Nebulised B2 agonist.",
+        "Nebulised steroids.",
+        "Parenteral antibiotics"
+      ],
+      "correct": 3,
+      "explanation": "The clinical presentation with fever, tachypnea, increased work of breathing, and diffuse crepitations on chest examination points to bronchopneumonia, which is bilateral, patchy, and often caused by bacterial or viral infections. A chest x-ray showing scattered infiltrates in multiple lung fields supports this diagnosis. Given the patient's age and the severity of the symptoms, hospitalization and treatment with broad-spectrum parenteral antibiotics are the most appropriate management."
+    },
+    {
+      "stem": "A 3-yr-old boy has been coughing daily for 2 months. The cough is non-productive and occurs during sleep in the early morning hours as well as during the day, particularly when the child is active. On physical examination height and weight are on the 50th percentile, and chest examination is unremarkable. Which of the following is most likely to ascertain the cause?",
+      "options": [
+        "Sputum cytology and culture.",
+        "Sweat chloride testing.",
+        "Bronchoscopy.",
+        "Spirometry"
+      ],
+      "correct": 3,
+      "explanation": "The textbook states that objective measurement of airflow obstruction using a peak expiratory flow meter (PEFM) or spirometry is used in the diagnosis of asthma. Given the history of chronic cough, which is a key symptom of asthma, spirometry would be the most appropriate diagnostic tool to assess for reversible airflow limitation."
+    },
+    {
+      "stem": "An 11 year old girl presents with a chronic cough. Over the past 6 weeks her weight centile has fallen from 9th to less than 4th. On examination she has digital clubbing and unilateral wheeze. Chest X-ray revealed unilateral perihilar lymphadenopathy. What is the most likely diagnosis?",
+      "options": [
+        "Asthma.",
+        "Bronchopulmonary dysplasia.",
+        "Viral pneumonia",
+        "Pulmonary tuberculosis."
+      ],
+      "correct": 3,
+      "explanation": "The combination of chronic cough, weight loss, and unilateral perihilar lymphadenopathy on chest x-ray is highly suggestive of pulmonary tuberculosis. The unilateral wheezing could be due to compression of the trachea or bronchi by tuberculous lymph nodes. Digital clubbing can be seen in chronic pulmonary conditions."
+    },
+    {
+      "stem": "An 8-year-old girl presents with a 6 month history of weight loss and cough of purulent blood stained sputum. Examination reveals bronchial breathing over the right upper lung lobe and cervical lymphadenopathy. Which is the most useful diagnostic test?",
+      "options": [
+        "Erythrocyte sedimentation rate (ESR).",
+        "Bronchoalveolar lavage.",
+        "Sputum culture.",
+        "Blood culture"
+      ],
+      "correct": 2,
+      "explanation": "The constellation of symptoms including chronic cough, purulent and blood-stained sputum, weight loss, and bronchial breathing over a lobe points to a severe, localized pulmonary infection, with a lung abscess being a strong possibility. Sputum culture and sensitivity studies are crucial for identifying the causative organism, which guides prolonged antibiotic therapy."
+    },
+    {
+      "stem": "A 3 month old baby has a history of wheeze and coughing usually after feeds, since birth. Her weight is normal and on chest examination she has bilateral expiratory wheezes. Which of the following investigations would be the most suitable?",
+      "options": [
+        "Flexible bronchoscopy.",
+        "Computed tomography scan of the chest.",
+        "Sweat electrolytes.",
+        "Upper gastrointestinal contrast study"
+      ],
+      "correct": 3,
+      "explanation": "The timing of the wheezing and coughing 'after feeds, since birth' strongly suggests a recurrent aspiration syndrome, often due to gastroesophageal reflux. A recurrent wheeze is also listed as a symptom of a recurrent aspiration syndrome. An upper gastrointestinal contrast study can help in the diagnosis of such conditions by visualizing the flow of gastric contents."
+    },
+    {
+      "stem": "A 7-year old boy presents with right-sided abdominal pain and fever (38.9°C). His mother says that he has had 2 days of poor appetite and cough. On examination, his temperature is (38.7°C), his heart rate is 120 bpm, and his RR is 60 breaths/min, grunting respiration. Breath sounds are diminished, and the abdomen is diffusely tense with hypoactive bowel sounds. Which of the following would likely lead to the diagnosis?",
+      "options": [
+        "Abdominal computed tomography.",
+        "Chest radiograph.",
+        "Liver function tests.",
+        "Stool leukocytes."
+      ],
+      "correct": 1,
+      "explanation": "The clinical picture includes fever, tachypnea (RR 60), grunting, and diminished breath sounds, which are clear signs of pneumonia and respiratory distress. The abdominal pain is likely referred pain from the inflamed diaphragm. A chest x-ray is essential to confirm the diagnosis of pneumonia and assess the extent of lung involvement."
+    },
+    {
+      "stem": "A 9 year old asthmatic child presented to ER with severe grade 3 respiratory distress, bilateral diminished air entry and generalized wheezing. The oxygen saturation at room air is 90%. Which of the following is the most appropriate first step in the management?",
+      "options": [
+        "Ask for a plain chest X-ray",
+        "Oxygen and nebulized salbutamol",
+        "Inhaled corticosteroids",
+        "IV steroids"
+      ],
+      "correct": 1,
+      "explanation": "The patient's oxygen saturation of 90% and severe respiratory distress indicate a life-threatening asthma attack. The first step in management is to provide oxygen to correct hypoxemia and to administer rapid-acting inhaled bronchodilators, such as salbutamol, to relieve airflow obstruction."
+    },
+    {
+      "stem": "A nine-year-old child presents at ER with tachypnea and shortness of breath. He has a history of allergies to cats; he does not wake up at night with respiratory symptoms but does use a 'short acting beta agonist inhaler' 2-3 times a week for shortness of breath and wheezing. How should we evaluate this child for diagnosis of asthma?",
+      "options": [
+        "Skin prick test",
+        "Therapeutic trial of albuterol",
+        "Spirometry",
+        "Therapeutic trial of ICS"
+      ],
+      "correct": 1,
+      "explanation": "This is a true conflict. The most appropriate evaluation method would be spirometry to objectively measure airflow obstruction and its reversibility with a bronchodilator. The use of a 'therapeutic trial of albuterol' is a part of this process, but the overall diagnostic procedure is spirometry. The provided model answer of 'therapeutic trial of albuterol' is misleading, as the use of an inhaler is part of the clinical history and not the diagnostic test itself. The correct answer would be spirometry to assess the reversibility of the airway obstruction. According to the provided text, the most definitive test would be spirometry to measure airflow obstruction and reversibility."
+    },
+    {
+      "stem": "A four year old girl came to hospital with fever, anorexia, cough associated with hemoptysis and copious amount of foul purulent sputum with dyspnea, this condition started 1 week ago with no improvement on antipyretics or inhaled bronchodilators. What is the most appropriate clinical diagnosis?",
+      "options": [
+        "Acute bronchitis",
+        "Lung abscess",
+        "Pneumonia",
+        "Tuberculosis"
+      ],
+      "correct": 1,
+      "explanation": "The constellation of symptoms, including fever, anorexia, cough with copious amounts of foul-smelling purulent sputum, and dyspnea, suggests a destructive process in the lung parenchyma. This clinical picture is characteristic of a lung abscess, which can also be complicated by hemoptysis and dyspnea. It typically does not respond to typical respiratory treatments like bronchodilators."
+    },
+    {
+      "stem": "Following IM injection of a cephalosporin antibiotic, a 5 year old child developed sudden swelling of the face and lips, followed in few minutes by wheezy chest, respiratory distress and shock. This patient most likely developed:",
+      "options": [
+        "Acute asthma exacerbation",
+        "Anaphylaxis",
+        "Hypovolemic shock",
+        "Sepsis from a contaminated injection"
+      ],
+      "correct": 1,
+      "explanation": "Anaphylaxis is a severe, life-threatening systemic allergic reaction. The clinical picture described—sudden onset of swelling of the face and lips (angioedema), wheezing, respiratory distress, and shock—immediately following the administration of a drug (cephalosporin) is a classic presentation of anaphylaxis. This is an IgE-mediated reaction."
+    },
+    {
+      "stem": "A 6-year-old boy presents to the emergency room complaining of nausea and a new-onset rash that developed shortly after ingesting a peanut. Which of the following antibodies is most likely responsible for this type of reaction?",
+      "options": [
+        "IgA",
+        "IgD",
+        "IgE",
+        "IgG"
+      ],
+      "correct": 2,
+      "explanation": "This is a true conflict. The correct answer is IgE. The clinical presentation of a rapid reaction (nausea, rash) to a specific food (peanut) is an immediate hypersensitivity reaction, which is typically mediated by IgE antibodies. The textbook explicitly mentions that food allergy can cause a reaction after ingesting a tiny amount of the allergen."
+    },
+    {
+      "stem": "A 4-year-old child with known asthma presents to the emergency department with a chief complaint of wheezing for the past 8 hours. On examination, he is alert and cooperative, mildly tachypneic, has diffuse loud expiratory wheeze, and has a pulse oximetry reading of 89% while breathing room air. He has already taken 3 albuterol aerosols at home in the past hour. He didn't improve after receiving another albuterol inhalation treatment in the emergency department. Appropriate next management would include",
+      "options": [
+        "Albuterol inhalation",
+        "Ipratropium bromide inhalation",
+        "Oral corticosteroids",
+        "Supplemental oxygen"
+      ],
+      "correct": 1,
+      "explanation": "This patient is experiencing a severe acute asthma attack with a low oxygen saturation of 89% and is not responding to multiple doses of a short-acting beta-agonist (albuterol). In this situation, the next step is to continue with oxygen and add a second line of treatment, such as ipratropium bromide, which is an anticholinergic that can provide additional bronchodilation. Oral corticosteroids are also an important part of the management of a severe attack to reduce inflammation."
+    },
+    {
+      "stem": "9-year-old boy diagnosed with pneumonia 2 days ago, presents to the emergency department in respiratory distress. His past medical history is noncontributory. He is hypoxic and requires oxygen. chest radiograph reveals a large right sided massive pleural effusion. Fluid is obtained via thoracentesis for Gram stain and culture. Which of the following is the most likely pathogen responsible for this boy's pneumonia?",
+      "options": [
+        "Chlamydia pneumoniae",
+        "Haemophilus influenzae",
+        "Klebsiella pneumoniae",
+        "Staphylococcus aureus"
+      ],
+      "correct": 3,
+      "explanation": "The textbook mentions that pleural effusion is a common complication of bacterial pneumonia, especially with staphylococcal pneumonia. Therefore, Staphylococcus aureus is a likely pathogen in this case, particularly given the severe and complicated nature of the illness with a massive pleural effusion."
+    },
+    {
+      "stem": "9-month-old male presents with paroxysms of cough since one month. Each paroxysm of cough is followed by vomiting and usually associated with inspiratory characteristic sound and intense congestion of the face. Examination of the chest is unremarkable and chest x-ray is normal. What is the most likely diagnosis?",
+      "options": [
+        "Bronchial asthma.",
+        "Tuberculosis.",
+        "Viral croup",
+        "Whooping cough."
+      ],
+      "correct": 3,
+      "explanation": "The clinical features described—paroxysmal cough attacks, an inspiratory 'whoop,' vomiting after the cough, and a prolonged duration (one month)—are the classic signs of whooping cough (pertussis), caused by Bordetella pertussis. A normal chest examination and x-ray are also consistent with this diagnosis during the paroxysmal stage."
+    },
+    {
+      "stem": "A 4-month-old infant presents to emergency department because of increased agitation and restlessness. Auscultation reveals crackles and decreased breath sounds bilaterally. Chest x-ray films show bilateral pneumonia. Arterial blood gas analysis reveals an oxygen tension of 45 mm Hg and a carbon dioxide tension of 65 mmHg. What is the most appropriate next step in management?",
+      "options": [
+        "Administer antibiotics.",
+        "Administer oxygen by mask.",
+        "Obtain blood cultures.",
+        "Start assisted ventilation"
+      ],
+      "correct": 3,
+      "explanation": "The arterial blood gas analysis shows severe respiratory failure, with marked hypoxemia (PaO2 45 mmHg) and hypercarbia (PaCO2 65 mmHg). This indicates that the child is unable to adequately oxygenate and ventilate on their own. In such a severe case of pneumonia, the most appropriate next step is to initiate assisted mechanical ventilation to ensure proper oxygenation and ventilation."
+    },
+    {
+      "stem": "Regarding TB which of the following is correct",
+      "options": [
+        "A tuberculin test of > 5 mm is indicative of infection and significant in all children.",
+        "Children are less prone to extra pulmonary complications than adults.",
+        "Isoniazid is a first line drug",
+        "The incidence is falling worldwide."
+      ],
+      "correct": 2,
+      "explanation": "The textbook classifies anti-tuberculous drugs into first-line and alternative drugs. Isoniazid (INH) is explicitly listed as a first-line drug for the treatment of tuberculosis."
+    },
+    {
+      "stem": "The most frequent pathogens of pneumonia in children 5 years and older is",
+      "options": [
+        "Group A streptococci",
+        "H. influenzae (type b)",
+        "Mycoplasma pneumoniae",
+        "Streptococcus pneumoniae"
+      ],
+      "correct": 2,
+      "explanation": "According to the provided table on causative organisms of pneumonia by age, for children 5 years and older, Mycoplasma pneumoniae is a frequent pathogen, along with Streptococcus pneumoniae and others."
+    },
+    {
+      "stem": "The most consistent clinical manifestation of pneumonia is",
+      "options": [
+        "Cough",
+        "Grunting",
+        "Subcostal retractions",
+        "Tachypnea"
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists tachypnea (rapid respiration) as the first grade of respiratory distress and a key manifestation of pneumonia, along with cough and fever. Tachypnea is often one of the most consistent and early signs of a lower respiratory infection."
+    },
+    {
+      "stem": "Which is true in viral bronchiolitis?",
+      "options": [
+        "Bronchiolitis obliterans is the most common complication",
+        "Coryzal symptoms usually follow the illness",
+        "It is usually caused by parainfluenza virus",
+        "Wheezing is often present"
+      ],
+      "correct": 3,
+      "explanation": "Acute bronchiolitis is characterized by inflammatory obstruction of the small airways, which leads to expiratory wheezing. The textbook mentions that the second stage of the illness involves respiratory distress with audible wheezing and a paroxysmal wheezy cough."
+    },
+    {
+      "stem": "Regarding pneumonia, which of the following is not an indication for admission?",
+      "options": [
+        "Age <6 months",
+        "Moderate to severe respiratory distress",
+        "Multiple lobe involvement",
+        "Sickle cell anemia"
+      ],
+      "correct": 3,
+      "explanation": "This is a true conflict. The provided textbook does not list sickle cell anemia as a direct indication for hospital admission for pneumonia. However, it is an important associated risk factor that increases the severity of illness and may necessitate admission. The textbook does list age under 6 months and moderate to severe respiratory distress as indications for hospitalization."
+    },
+    {
+      "stem": "The appropriate management of bronchiolitis with moderate respiratory distress:",
+      "options": [
+        "Cough suppressants",
+        "Feeding using nasogastric tube",
+        "Oxygen therapy",
+        "Use of bronchodilators"
+      ],
+      "correct": 2,
+      "explanation": "The management of bronchiolitis with moderate to severe respiratory distress in a hospital setting includes oxygen therapy to correct hypoxemia. Other measures include IV fluids to prevent dehydration and nebulized salbutamol, which may be beneficial in some cases."
+    },
+    {
+      "stem": "Which of the following is correct about lung abscess:",
+      "options": [
+        "Antibiotic therapy for 6 weeks is usually indicated",
+        "Bronchoscopy is used to aspirate pus",
+        "Its clinical picture starts acutely",
+        "Metastatic lung abscess is common in children"
+      ],
+      "correct": 0,
+      "explanation": "A lung abscess is a suppurative process in the lung parenchyma. The treatment for a lung abscess involves prolonged antibiotic therapy for a duration of 6 weeks to ensure complete resolution and prevent chronicity."
+    },
+    {
+      "stem": "The most common presenting feature of cystic fibrosis in young children is",
+      "options": [
+        "Bronchiectasis",
+        "Hepatobiliary disease",
+        "Meconium ileus",
+        "Insulin dependent diabetes mellitus"
+      ],
+      "correct": 0,
+      "explanation": "This is a true conflict. The text states, 'In the lungs, viscid mucus in the smaller airways predisposes to chronic infection... This leads to damage of the bronchial wall, bronchiectasis and abscess formation.' However, it lists meconium ileus in newborns and recurrent chest infections in infants. Bronchiectasis is described as a feature in young children and is a consequence of the disease, not the most common initial presentation. The model answer is also inconsistent with the text which mentions meconium ileus in newborns and recurrent chest infections in infants, and bronchiectasis in young children."
+    },
+    {
+      "stem": "Regarding empyema, which is false?",
+      "options": [
+        "An intercostal tube should be inserted",
+        "It may follow pneumococcal pneumonia",
+        "It is a common finding with viral pneumonia.",
+        "It may be due lung abscess"
+      ],
+      "correct": 2,
+      "explanation": "Empyema is the accumulation of pus in the pleural spaces and is a complication of bacterial pneumonias, not viral ones. The text lists common organisms as pneumococci, staphylococci, and Haemophilus influenzae."
+    },
+    {
+      "stem": "Which of the following is not a cause of acute cough?",
+      "options": [
+        "Bronchial asthma",
+        "Bronchiectasis",
+        "Bronchiolitis",
+        "Bronchitis"
+      ],
+      "correct": 1,
+      "explanation": "The provided text classifies causes of cough based on duration. Acute cough lasts less than 2 weeks. Bronchiectasis is listed under chronic cough, which lasts for more than 4 weeks."
+    },
+    {
+      "stem": "Regarding acute asthmatic attacks children, which of the following statements is true?",
+      "options": [
+        "Accessory muscles of respiration are more active with increased severity.",
+        "B-adrenergic agonist inhalation is less effective than oral route.",
+        "Peak expiratory flow does not change",
+        "Steroid inhalation has more systemic side effects than oral steroids."
+      ],
+      "correct": 0,
+      "explanation": "The textbook provides a table for assessing the severity of acute asthma attacks. It states that the use of accessory muscles of respiration progresses from absent in mild cases to mild in moderate cases and moderate in severe cases."
+    },
+    {
+      "stem": "Regarding tuberculin test, which of the following is not true?",
+      "options": [
+        "A positive test is 10 mm or more induration",
+        "It is a delayed type hypersensitivity reaction to tuberculous proteins.",
+        "It is done by subcutaneous injection of 0.1 ml of PPD.",
+        "The result is read after 72 hours"
+      ],
+      "correct": 2,
+      "explanation": "The tuberculin test is performed by injecting 0.1 ml of purified protein derivative (PPD) intradermally into the skin of the forearm, not subcutaneously."
+    },
+    {
+      "stem": "Which of the following is not among the clinical picture of lobar pneumonia?",
+      "options": [
+        "Cough and dyspnea.",
+        "Diminished air entry over the side",
+        "Fine crepitations on the affected side.",
+        "Hyper-resonant note on percussion over the affected side"
+      ],
+      "correct": 3,
+      "explanation": "A lobar pneumonia causes a consolidation of the alveoli, which would result in dullness to percussion over the affected area, not a hyper-resonant note."
+    },
+    {
+      "stem": "In the treatment of asthma, which is true",
+      "options": [
+        "Corticosteroids reduce the inflammatory reaction associated with bronchial asthma.",
+        "Inhaled steroid has a role only in acute attacks",
+        "Sodium cromoglycate has a central respiratory stimulant action.",
+        "Theophylline has a potent anti-inflammatory effect."
+      ],
+      "correct": 0,
+      "explanation": "The definition of asthma states it is characterized by chronic airway inflammation. The textbook explicitly mentions that corticosteroids are used to reduce this airway inflammation and are the most effective long-term control medications."
+    },
+    {
+      "stem": "The following are predisposing factors for bronchiectasis",
+      "options": [
+        "Cystic fibrosis",
+        "Chronic asthma",
+        "Immotile cilia syndrome",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists foreign body aspiration, enlarged bronchopulmonary nodes due to TB, lung abscesses, immotile cilia syndrome, cystic fibrosis, asthma, and immune deficiency as predisposing factors for acquired bronchiectasis."
+    },
+    {
+      "stem": "Pleural effusion is not found in which of the following?",
+      "options": [
+        "Bronchial asthma.",
+        "Nephrotic syndrome.",
+        "Pulmonary TB",
+        "Staph. Pneumonia"
+      ],
+      "correct": 0,
+      "explanation": "Pleural effusion is a serious complication of infectious or systemic diseases like pneumonia and tuberculosis. It can also occur in nephrotic syndrome due to fluid retention and hypoalbuminemia. However, it is not a feature of bronchial asthma, which is a disease of airway inflammation and obstruction."
+    },
+    {
+      "stem": "Finger clubbing is not associated with which disease?",
+      "options": [
+        "Bronchial asthma",
+        "Bronchiectasis.",
+        "Infective endocarditis.",
+        "Ulcerative colitis."
+      ],
+      "correct": 0,
+      "explanation": "Finger clubbing is a sign of chronic hypoxia seen in conditions such as bronchiectasis, infective endocarditis, and ulcerative colitis. The textbook does not list finger clubbing as a sign of asthma."
+    },
+    {
+      "stem": "Mark the incorrect statement about tuberculosis?",
+      "options": [
+        "Combined drug therapy for a long period is needed",
+        "Corticosteroids are indicated in military tuberculosis of the adrenal.",
+        "Ethambutol is a second line drug",
+        "Pericardial effusion is one of the presentations"
+      ],
+      "correct": 2,
+      "explanation": "The textbook lists Ethambutol (ETB) as a first-line drug for tuberculosis, not a second-line one."
+    },
+    {
+      "stem": "During an asthmatic attack, which the following is false?",
+      "options": [
+        "Forced expiratory volume in the 1st second (FEV1) decreases.",
+        "Peak expiratory flow rate increases",
+        "Residual volume increases.",
+        "Total lung volume increases."
+      ],
+      "correct": 1,
+      "explanation": "During an asthmatic attack, airway obstruction is at its most severe, leading to a decrease in the peak expiratory flow rate. The textbook lists a peak expiratory flow rate of <60% as a sign of a severe attack."
+    },
+    {
+      "stem": "Tuberculous meningitis is characterized by?",
+      "options": [
+        "Acid fast bacilli are never present in CSF",
+        "CSF protein decreased.",
+        "CSF sugar is normal",
+        "Manifestations of increased tension are usually present."
+      ],
+      "correct": 3,
+      "explanation": "Tuberculous meningitis can cause headache, irritability, and disorientation, which are all manifestations of increased intracranial tension. The diagnosis is often suspected in cases of aseptic meningitis with these presentations."
+    },
+    {
+      "stem": "What is not true about bronchial asthma:",
+      "options": [
+        "Eosinophilia may be present on blood picture",
+        "Expiratory sibilant rhonchi are heard all over the chest.",
+        "It has a genetic predisposition.",
+        "IgE elevation is essential for diagnosis."
+      ],
+      "correct": 3,
+      "explanation": "While many asthmatic children have a history of atopy and may have elevated IgE levels, it is not an essential diagnostic criterion. Asthma is diagnosed based on clinical symptoms and objective measurements of airflow obstruction, not solely on IgE levels."
+    },
+    {
+      "stem": "A correct statement regarding childhood bronchial asthma is?",
+      "options": [
+        "Eosinophilia indicates fungal super-infection.",
+        "It is inherited as Multifactorial inheritance.",
+        "Provocation tests must be done in every case.",
+        "Status asthmaticus responds only to mechanical ventilation."
+      ],
+      "correct": 1,
+      "explanation": "The textbook states that asthma has a 'polygenic or multifactorial inheritance.' This means a combination of genetic and environmental factors are responsible for its development."
+    },
+    {
+      "stem": "Regarding bronchial asthma in children, which of the following is false?",
+      "options": [
+        "Acute attacks usually respond to beta2-adrenoceptor agonists.",
+        "Attacks may be precipitated by exercise.",
+        "Auscultation shows expiratory bilateral diffuse sibilant rhonchi.",
+        "Girls are more affected than boys before puberty"
+      ],
+      "correct": 3,
+      "explanation": "The incidence of asthma before puberty is higher in boys, with a boy-to-girl ratio of 2:1. After puberty, the incidence becomes equal."
+    },
+    {
+      "stem": "Acute severe asthma is usually not accompanied by?",
+      "options": [
+        "Cyanosis.",
+        "Respiratory alkalosis",
+        "Silent chest on auscultation",
+        "Tachycardia"
+      ],
+      "correct": 1,
+      "explanation": "Acute severe asthma can lead to alveolar hypoventilation, which causes carbon dioxide retention and respiratory acidosis, rather than alkalosis."
+    },
+    {
+      "stem": "Regarding asthmatic children, which of the following statements is false?",
+      "options": [
+        "Accessory muscles of respiration are more active with increased severity.",
+        "B-adrenergic agonist inhalation is more effective than oral route.",
+        "Respiratory difficulty is mostly inspiratory.",
+        "Steroid inhalation has less systemic side effects than oral"
+      ],
+      "correct": 2,
+      "explanation": "Airway obstruction in asthma is most severe during expiration because the airways normally narrow during this phase. Therefore, the main respiratory difficulty is expiratory, presenting as wheezing."
+    },
+    {
+      "stem": "The most common complaint in patients with bronchiectasis is",
+      "options": [
+        "Anorexia",
+        "Cough and production of copious purulent sputum",
+        "Fever",
+        "Hemoptysis"
+      ],
+      "correct": 1,
+      "explanation": "The clinical picture of bronchiectasis is characterized by a chronic cough with the expectoration of copious, fetid mucopurulent sputum. This is the main and most frequent symptom."
+    },
+    {
+      "stem": "Cystic fibrosis (CF) does not present by",
+      "options": [
+        "Pancreatitis",
+        "Pansinusitis",
+        "Rectal polyposis",
+        "Salt depletion"
+      ],
+      "correct": 2,
+      "explanation": "The textbook lists meconium ileus, prolonged neonatal jaundice, failure to thrive, recurrent chest infections, malabsorption, steatorrhea, bronchiectasis, rectal prolapse, nasal polyps, and insulin-dependent diabetes mellitus as presentations of cystic fibrosis. It does not mention rectal polyposis."
+    },
+    {
+      "stem": "Which of the following is correct about lung abscess?",
+      "options": [
+        "Bronchoscopy is used to aspirate pus",
+        "Its clinical picture starts acutely",
+        "Metastatic lung abscess is common in children",
+        "Resection of the affected lobe may be indicated in severe hemoptysis"
+      ],
+      "correct": 3,
+      "explanation": "Surgical resection of the affected lobe is indicated in children with a lung abscess who experience recurrent severe hemoptysis or have chronic cases of the disease."
+    },
+    {
+      "stem": "Which of the following is not a cause of wheezes in children?",
+      "options": [
+        "Bronchial asthma",
+        "Empyema",
+        "FB inhalation",
+        "Recurrent aspiration syndromes"
+      ],
+      "correct": 1,
+      "explanation": "Empyema is a collection of pus in the pleural space that causes dullness on percussion and diminished breath sounds. It is not associated with wheezing, which is a sign of airway obstruction. Wheezing is a feature of bronchial asthma, foreign body inhalation, and recurrent aspiration syndromes."
+    },
+    {
+      "stem": "Long term control medications of asthma don't include",
+      "options": [
+        "Anti-IGE",
+        "Inhaled glucocorticoids",
+        "Long acting β2 agonists",
+        "Short acting β2 agonists"
+      ],
+      "correct": 3,
+      "explanation": "Short-acting beta-agonists (SABAs) are used as 'reliever' medications for acute asthma attacks, not for long-term control. Long-term control medications, or 'controllers,' include inhaled glucocorticoids, long-acting beta-agonists, and anti-IgE antibodies."
+    },
+    {
+      "stem": "Which of the followings is not used in the management of bronchiolitis with moderate respiratory distress?",
+      "options": [
+        "Antibiotics",
+        "IV fluids",
+        "Nebulized salbutamol",
+        "Oxygen therapy"
+      ],
+      "correct": 0,
+      "explanation": "Acute bronchiolitis is a viral illness. Antibiotics are generally not beneficial unless a secondary bacterial infection is suspected. The core management for moderate respiratory distress involves supportive measures such as oxygen therapy and IV fluids."
+    },
+    {
+      "stem": "Which of the following is correct regarding tuberculosis management:",
+      "options": [
+        "Amikacin never used in treatment",
+        "Ethambutol is the second line drug used for treatment",
+        "Isoniazid is a second line of treatment",
+        "Steroids are used in TB serositis"
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists several indications for corticosteroids in TB management. One of these is 'TB serositis,' which includes pleurisy, serous pericarditis, and ascitic type of TB peritonitis."
+    },
+    {
+      "stem": "Which of the following statements about tuberculosis in children is not true?",
+      "options": [
+        "BCG does not give full protection against Tb",
+        "Chest TB is more common than other types",
+        "Should be included in differential diagnosis of all chronic chest problems.",
+        "Tuberculin test is always positive in any tuberculous child."
+      ],
+      "correct": 3,
+      "explanation": "A tuberculin test can be falsely negative in certain situations, such as in cases of advanced disseminated TB, chronic debilitating diseases, or when a child has recently received a live viral vaccine."
+    },
+    {
+      "stem": "Concerning childhood asthma:",
+      "options": [
+        "Inhaled steroids are useful treatment",
+        "Hospitalization is usually needed.",
+        "Exacerbations usually occur with food.",
+        "Sufferers are excluded from sports"
+      ],
+      "correct": 0,
+      "explanation": "Inhaled corticosteroids are listed as the most effective long-term control medications for asthma, used for prophylaxis and to treat chronic inflammation. They are not used for acute attacks."
+    },
+    {
+      "stem": "An absolute indication for tonsillectomy in children is",
+      "options": [
+        "Enlarged tonsillar lymph nodes",
+        "Obstructive sleep apnea.",
+        "Recurrent otitis media.",
+        "Recurrent tonsillitis."
+      ],
+      "correct": 1,
+      "explanation": "The textbook does not provide a list of absolute indications for tonsillectomy. However, obstructive sleep apnea is a well-established indication for tonsillectomy, as enlarged tonsils and adenoids are a common cause of airway obstruction during sleep in children."
+    }
+  ]
+}

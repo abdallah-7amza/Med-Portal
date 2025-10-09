@@ -1,0 +1,881 @@
+{
+  "title": "Early Obstetric Complications",
+  "questions": [
+    {
+      "stem": "Fetal viability denotes:",
+      "options": [
+        "Full organogenesis.",
+        "Lung maturation.",
+        "CNS development.",
+        "Chance of survival with maximum pediatric support.",
+        "28 weeks gestation regardless interfering factors."
+      ],
+      "correct": 3,
+      "explanation": "The textbook defines spontaneous abortion as \"Termination of pregnancy before viability of the fetus (in Egypt, before 24 weeks)\" and preterm labor as \"onset of true labor pains any time after fetal viability but before 36 weeks gestation\". This indicates that viability refers to the ability of the fetus to survive outside the uterus with appropriate support. Therefore, a \"chance of survival with maximum pediatric support\" is the most accurate description of fetal viability in this context."
+    },
+    {
+      "stem": "What is the most common cause of first trimester abortion?",
+      "options": [
+        "Chromosomal abnormalities.",
+        "Rhesus iso-immunization.",
+        "Cervical incompetence.",
+        "Bicornuate uterus.",
+        "Intra-uterine viral infections."
+      ],
+      "correct": 0,
+      "explanation": "The textbook explicitly states under the etiology of spontaneous abortion that \"Genetic or chromosomal abnormalities exist in > 50% of cases\". This makes it the most common cause."
+    },
+    {
+      "stem": "First-trimester abortion may be due to all of the following EXCEPT:",
+      "options": [
+        "Maternal viral infection.",
+        "Chromosomal abnormality of the fetus.",
+        "Incompetence of the internal cervical os.",
+        "Maternal diabetes.",
+        "Cytotoxic drugs."
+      ],
+      "correct": 2,
+      "explanation": "The textbook defines cervical incompetence as \"Inability of cervix to retain conception past the 1st trimester\". This means that abortions due to cervical incompetence typically occur in the mid-trimester, not the first trimester. Other options like maternal viral infection, chromosomal abnormality, maternal diabetes, and cytotoxic drugs are listed as etiologies for spontaneous abortion or complications that can lead to abortion."
+    },
+    {
+      "stem": "Pregnancy loss in first trimester is more common in which of the followings?",
+      "options": [
+        "Submucus fibroid.",
+        "Bicornuate uterus.",
+        "Tubo-ovarian abscess.",
+        "Cervical incompetence.",
+        "Genital herpes."
+      ],
+      "correct": 0,
+      "explanation": "In the context of recurrent pregnancy loss, the textbook lists \"Local causes in the uterus\" including \"Neoplastic: Submucous fibroid specially fundal\". This directly implicates submucous fibroids as a cause of (early) pregnancy loss. Cervical incompetence, on the other hand, typically causes mid-trimester abortions."
+    },
+    {
+      "stem": "Concerning early pregnancy failure, choose the correct statement:",
+      "options": [
+        "Recurrent miscarriage is the loss of 4 consecutive pregnancies.",
+        "Recurrent miscarriage affects 5% of women.",
+        "Chromosomal abnormalities exist in 20% of 1st trimester miscarriage",
+        "Uterine anomalies increase the risk factor for miscarriage.",
+        "Incidence is not affected by age or body mass index."
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists \"Uterine anomalies increase the risk factor for miscarriage\". More specifically, under recurrent pregnancy loss, \"Local causes in the uterus\" include \"Congenital: septate uterus\" and \"Neoplastic: Submucous fibroid\". These are types of uterine anomalies that can cause miscarriage."
+    },
+    {
+      "stem": "Mechanism of abortion at 12 weeks gestation:",
+      "options": [
+        "Separation of decidua basalis.",
+        "Separation of decidua capsularis.",
+        "Separation of decidua lateralis.",
+        "Miniature labor.",
+        "Loss of spiral vessels elasticity."
+      ],
+      "correct": 3,
+      "explanation": "For inevitable abortion, which can occur at 12 weeks gestation, the textbook describes \"Marked suprapubic colicky pain similar to labor pains is usually present\". This refers to the uterus contracting to expel its contents, a process often termed \"miniature labor\" in this context."
+    },
+    {
+      "stem": "Ultrasound criteria suggestive of cervical incompetence includes:",
+      "options": [
+        "Shortened cervical canal <2.5 cm in length.",
+        "Dilated internal os (>5mm).",
+        "Funneling at the region of the isthmus (y shaped isthmus).",
+        "All of the above.",
+        "None of the above."
+      ],
+      "correct": 3,
+      "explanation": "The textbook states under the diagnosis of cervical incompetence: \"During pregnancy: Ultrasound reveals funneling of membranes through cervical canal. Cervix is short <2.5cm.\". Funneling typically involves dilatation of the internal os, and these are all characteristic ultrasound findings for cervical incompetence."
+    },
+    {
+      "stem": "A 20 years old, newly married woman presents with a vaginal spotting and cramping abdominal pain after 7 weeks of amenorrhea and +ve pregnancy test. P.V reveals closed cervix and vaginal ultrasound scan shows an intrauterine gestational sac with fetal pole and +ve cardiac activity. What is the most likely diagnosis?",
+      "options": [
+        "Normal symptom of pregnancy.",
+        "Threatened abortion.",
+        "Inevitable abortion.",
+        "Incomplete abortion.",
+        "Complete abortion."
+      ],
+      "correct": 1,
+      "explanation": "The clinical picture presented precisely matches the description of a threatened abortion: \"Minimal vaginal bleeding\" (spotting), \"Mild suprapubic colicky pain may be present\" (cramping abdominal pain), and critically, \"Closed cervix\". The presence of a fetal pole and positive cardiac activity confirms the pregnancy is ongoing, differentiating it from inevitable or complete abortion."
+    },
+    {
+      "stem": "In the previous case, what would you prescribe:",
+      "options": [
+        "Rest and progesterone.",
+        "Curettage.",
+        "Cerclage.",
+        "Misoprostol.",
+        "Methergine."
+      ],
+      "correct": 0,
+      "explanation": "For the treatment of threatened abortion, the textbook recommends: \"a. Physical & mental rest for 1week after the last attack. b. Hormonal support e.g. natural progesterone (oral-vaginal-IM) is beneficial in cases with luteal phase defect.\"."
+    },
+    {
+      "stem": "A 22 years old woman has had a surgical evacuation for 10 weeks missed abortion 2 days ago, presents with severe pelvic cramps and heavy vaginal bleeding. What is the most probable diagnosis?",
+      "options": [
+        "Retained parts of conception.",
+        "Uterine perforation.",
+        "Heterotopic pregnancy.",
+        "Twisted ovarian cyst.",
+        "Uterine choriocarcinoma."
+      ],
+      "correct": 0,
+      "explanation": "The textbook notes that \"Persistent bleeding following abortion\" can be due to \"Delayed: May be due to retained remnants in the uterus\". Severe pelvic cramps and heavy vaginal bleeding after a recent evacuation are classic symptoms of retained products of conception, as the uterus contracts in an attempt to expel them."
+    },
+    {
+      "stem": "The following are all causes of recurrent miscarriage, EXСЕРТ:",
+      "options": [
+        "Parental chromosomal abnormality.",
+        "Protein C- deficiency.",
+        "Uncontrolled hypothyroidism.",
+        "Chlamydial infection.",
+        "Submucosal fibroids."
+      ],
+      "correct": 3,
+      "explanation": "The textbook explicitly lists parental chromosomal abnormality, protein C- deficiency (a thrombophilia), uncontrolled hypothyroidism (thyroid dysfunction), and submucous fibroids as causes of recurrent miscarriage. Chlamydial infection is not listed among the causes of recurrent (habitual) miscarriage."
+    },
+    {
+      "stem": "Cervical incompetence is characterized by one of the following clinical features:",
+      "options": [
+        "Abortions usually occur in 1st trimester.",
+        "Commonly is associated with blighted ovum.",
+        "Abortions are associated with minimal pain and early ROM.",
+        "Intrauterine fetal death occurs before abortion.",
+        "Cut off value to diagnose cervical incompetence is 1.5 cm."
+      ],
+      "correct": 2,
+      "explanation": "The textbook states for cervical incompetence: \"Abortions are usually easy, preceded by R.O.M & associated with minimal pain & bleeding.\"."
+    },
+    {
+      "stem": "Cervical incompetence is characterized by one of the following clinical features:",
+      "options": [
+        "Abortions usually occur in 1st trimester.",
+        "Commonly is associated with blighted ovum.",
+        "Abortions are commonly associated with excess bleeding.",
+        "Intrauterine fetal death occurs before abortion.",
+        "Cervix is less than 2.5 cm in length."
+      ],
+      "correct": 4,
+      "explanation": "The textbook states under the diagnosis of cervical incompetence: \"During pregnancy: Ultrasound reveals funneling of membranes through cervical canal. Cervix is short <2.5cm.\"."
+    },
+    {
+      "stem": "A 10 weeks primigravida, suddenly expressed lower abdominal colic followed by excess vaginal bleeding with clots. P.V revealed opened cervix and ultrasound confirmed the gestational age. What is the most appropriate management?",
+      "options": [
+        "Immediate hysterotomy.",
+        "Medical abortion.",
+        "Surgical evacuation.",
+        "Expectant treatment after patient stabilization.",
+        "Urgent cervical cerclage."
+      ],
+      "correct": 2,
+      "explanation": "This clinical presentation (lower abdominal colic, excess vaginal bleeding with clots, opened cervix) is indicative of an inevitable or incomplete abortion. For inevitable abortion at \"<12weeks surgical vaginal evacuation by curettage or suction is done under Anesthesia.\". For incomplete abortion, \"Surgical evacuation\" is the treatment."
+    },
+    {
+      "stem": "An 18 weeks pregnant primigravida presents with severe vaginal bleeding with blood clots and abdominal colicky pain. Ultrasound reveals living fetus corresponding to gestational age and low placenta covering the cervix. PV in the operation room reveals a slightly dilated cervix admitting tip of finger. What is the most suitable management?",
+      "options": [
+        "Expectant treatment after patient stabilization.",
+        "Medical abortion.",
+        "Surgical evacuation.",
+        "Hysterotomy.",
+        "Hysterectomy."
+      ],
+      "correct": 3,
+      "explanation": "This scenario describes severe bleeding and colicky pain at 18 weeks (beyond 12 weeks gestation), indicating an inevitable abortion. For inevitable abortion occurring >12 weeks with \"Severe bleeding: abdominal hysterotomy\" is indicated."
+    },
+    {
+      "stem": "A 10 weeks primigravida, suddenly expressed lower abdominal colic followed by mild vaginal bleeding. PV revealed a closed cervix and ultrasound confirmed the gestational age with positive pulsation. How can you council this patient?",
+      "options": [
+        "The chance for pregnancy to continue is about 10%.",
+        "She will have a trial for medical evacuation.",
+        "Surgical evacuation should be done.",
+        "Rest and progesterone supplementation will be beneficial.",
+        "Urgent cervical cerclage will help."
+      ],
+      "correct": 3,
+      "explanation": "This is a classic presentation of a threatened abortion: mild vaginal bleeding, lower abdominal colic, closed cervix, and a living fetus with positive pulsations. The recommended treatment for threatened abortion is \"Physical & mental rest... Hormonal support e.g. natural progesterone (oral-vaginal-IM) is beneficial\"."
+    },
+    {
+      "stem": "A 26 years old woman with her LMP was 2½ months ago, developed bleeding, uterine cramps and passed tissue per vagina. 2 hours later, she was still bleeding heavily. What is the most likely diagnosis?",
+      "options": [
+        "Threatened abortion.",
+        "Inevitable abortion.",
+        "Incomplete abortion.",
+        "Complete abortion.",
+        "Missed abortion."
+      ],
+      "correct": 2,
+      "explanation": "The key finding here is that she \"passed tissue per vagina\" but was \"still bleeding heavily.\" This indicates that some products of conception were expelled, but others remain, which is the definition of an incomplete abortion."
+    },
+    {
+      "stem": "A 26-year-old pregnant woman had been diagnosed to have a fetal death at 16weeks gestation and was given a chance for spontaneous contractions. She returned back after 5 weeks, no contractions occurred; only brownish vaginal discharge. Which of the following is the best management?",
+      "options": [
+        "Wait for another 4 to 5 weeks.",
+        "Abdominal hysterotomy.",
+        "Dilatation and curettage.",
+        "Repeated oxytocin infusion over few days.",
+        "Oral or vaginal prostaglandins."
+      ],
+      "correct": 4,
+      "explanation": "This is a case of missed abortion at 16 weeks gestation (which is >12 weeks), where the fetal death has been retained for 5 weeks. For missed abortion when the uterus is >12 weeks, the treatment is primarily \"Medical Induction by prostaglandins\"."
+    },
+    {
+      "stem": "A 26 years old hypertensive primigravida, is pregnant 20 weeks with a missed abortion for 1 month. What is the most relevant specific investigation to be requested?",
+      "options": [
+        "Complete blood picture.",
+        "Liver enzymes",
+        "Kidney functions.",
+        "Fibrinogen and fibrin degradation products.",
+        "Blood sugar."
+      ],
+      "correct": 3,
+      "explanation": "The textbook warns about complications of prolonged missed abortion: \"Infection or coagulation problems may develop with hypofibrinogenaemia and DIC if pregnancy has been prolonged for several weeks, especially in the 2nd trimester.\". This patient is at high risk for disseminated intravascular coagulation (DIC). Fibrinogen and fibrin degradation products (FDPs) are crucial investigations for diagnosing DIC."
+    },
+    {
+      "stem": "Regarding the previous case, what is the suitable management?",
+      "options": [
+        "Wait for spontaneous expulsion.",
+        "Surgical evacuation.",
+        "Hysterotomy.",
+        "Oxytocin infusion.",
+        "Vaginal misoprostol."
+      ],
+      "correct": 4,
+      "explanation": "This is a missed abortion at 20 weeks gestation (>12 weeks). The suitable management for missed abortion when the uterus is >12 weeks is \"Medical Induction by prostaglandins\". Misoprostol is a prostaglandin (PGE1) that can be administered vaginally to induce labor."
+    },
+    {
+      "stem": "What is the commonest cause of post abortive bleeding?",
+      "options": [
+        "Uterine atony.",
+        "Retained products of conception.",
+        "Associated pathology as uterine fibroid or cancer cervix.",
+        "Uterine perforation.",
+        "Choriocarcinoma."
+      ],
+      "correct": 1,
+      "explanation": "The textbook explicitly lists \"retained remnants in the uterus\" as a cause of \"Persistent bleeding following abortion\". Retained products of conception (remnants) are the most common cause."
+    },
+    {
+      "stem": "The following is a cause of persistent post abortive bleeding:",
+      "options": [
+        "Repeated attacks of uterine atony.",
+        "Choriocarcinoma.",
+        "Acute uterine inversion.",
+        "Hypo-fibrinogenemia.",
+        "Rupture uterus."
+      ],
+      "correct": 1,
+      "explanation": "The textbook includes \"choriocarcinoma\" as a rare cause of \"Persistent bleeding following abortion\"."
+    },
+    {
+      "stem": "Toxoplasma infection is transmitted to the fetus by which of the following?",
+      "options": [
+        "Ascending passage of the virus.",
+        "Delivery through the infected tissues.",
+        "Trans-placental passage of protozoa.",
+        "Hematogenesis spread of bacteria.",
+        "Direct contact between an infected mother and the newly born."
+      ],
+      "correct": 2,
+      "explanation": "Trans-placental passage is the established route for congenital infections like Toxoplasmosis."
+    },
+    {
+      "stem": "A pregnant patient presents in mid pregnancy with a laboratory result of toxoplasma antibody titre. Ig M is -ve and Ig G is elevated. How you precede?",
+      "options": [
+        "Reassurance as this denotes immunity not active infection.",
+        "Start oral spiramycin antibiotic immediately for 3 weeks.",
+        "Reassurance as it denotes old infection except if the level is doubled after 2 weeks.",
+        "Termination of pregnancy.",
+        "Amniocentesis."
+      ],
+      "correct": 2,
+      "explanation": "In medical practice, negative IgM and elevated IgG typically indicate a past infection and immunity, not an active one, unless there's a significant rise in IgG levels."
+    },
+    {
+      "stem": "Regarding toxoplasma infection during pregnancy:",
+      "options": [
+        "Is a definite cause of habitual abortion.",
+        "Dormant infection can flare up during pregnancy.",
+        "It is a cause of fetal trisomy in early pregnancy.",
+        "Fetal eye or neurologic affection rarely occurs in late pregnancy infection.",
+        "Handling dogs or cats can cause infection."
+      ],
+      "correct": 3,
+      "explanation": "The textbook states \"Toxoplasmosis may cause accidental but not habitual abortion\", which contradicts option (a)."
+    },
+    {
+      "stem": "A 26 years old woman, pregnant in 8 weeks, developed bleeding, uterine cramps and passed tissues per vagina. 2 hours later, bleeding and pain stopped. The most likely diagnosis is:",
+      "options": [
+        "Threatened abortion.",
+        "Inevitable abortion.",
+        "Incomplete abortion.",
+        "Complete abortion.",
+        "Missed abortion."
+      ],
+      "correct": 3,
+      "explanation": "The key characteristics here are that the patient \"passed tissues per vagina\" and, subsequently, \"bleeding and pain stopped\". This signifies that all products of conception have been expelled, which is the definition of a complete abortion."
+    },
+    {
+      "stem": "A 40-year multipara attended the clinic for antenatal care as she had a delayed cycle for 1 week. She did serum hCG twice, 1 reading was 200mIU/ml and the 2nd, 2 days later, was 100mIu/ml. How can you interpret these levels?",
+      "options": [
+        "Non pregnant levels.",
+        "Not conclusive.",
+        "Normal pregnancy.",
+        "Blighted ovum.",
+        "Vesicular mole."
+      ],
+      "correct": 3,
+      "explanation": "The serum hCG levels decreased from 200 mIU/ml to 100 mIU/ml over 2 days. The textbook states that \"Inadequate doubling or decreasing hcg levels may be an earlier evidence\" of an \"anembryonic sac (blighted ovum)\"."
+    },
+    {
+      "stem": "Which of the followings carries a higher risk of first trimester abortion?",
+      "options": [
+        "Maternal trauma.",
+        "Chromosomal anomalies.",
+        "Maternal infection by toxoplasmosis.",
+        "Exposure to teratogens.",
+        "Uterine anomalies."
+      ],
+      "correct": 1,
+      "explanation": "The textbook explicitly states under the etiology of spontaneous abortion that \"Genetic or chromosomal abnormalities in > 50% of cases\" are the cause. This makes chromosomal anomalies the factor carrying the highest risk among the options."
+    },
+    {
+      "stem": "Recurrent pregnancy loss due to anti-phospholipid syndrome is best treated by:",
+      "options": [
+        "Immuno-suppressants.",
+        "Corticosteroids.",
+        "Oral anticoagulants.",
+        "Plasmapharesis.",
+        "Heparin and low dose aspirin."
+      ],
+      "correct": 4,
+      "explanation": "For the treatment of recurrent pregnancy loss caused by anti-phospholipid syndrome, the textbook recommends: \"Low dose aspirin (LDA) 75-81 mg/day and Low molecular weight Heparin in cases of anti-phospholipid syndrome and thrombophilia from very early beginning of pregnancy.\"."
+    },
+    {
+      "stem": "Inevitable abortion is characterized by:",
+      "options": [
+        "The cervix must be dilated.",
+        "Bleeding should be severe.",
+        "Fetal pulse should be absent.",
+        "Cervical pregnancy is considered as a variety of inevitable abortion",
+        "Surgical evacuation is contraindicated at 16 to 20 weeks."
+      ],
+      "correct": 4,
+      "explanation": "For inevitable abortion, the textbook outlines different management strategies based on gestational age, with surgical evacuation (curettage/suction) not being listed for >12 weeks, implying it is generally contraindicated for fetuses of 16 to 20 weeks gestation."
+    },
+    {
+      "stem": "Regarding missed abortion, which of the following is true:",
+      "options": [
+        "Fetal heart pulsations may be present in some cases.",
+        "Brownish vaginal discharge should be present.",
+        "The cervix is open.",
+        "Hypofibrinogenemia may occur in cases with prolonged blighted ovum.",
+        "Surgical evacuation is expected to be difficult due to adherent contents"
+      ],
+      "correct": 4,
+      "explanation": "A missed abortion involves the retention of a dead embryo or fetus. Over time, these retained tissues can become more organized or adherent to the uterine wall, making surgical evacuation potentially more challenging."
+    },
+    {
+      "stem": "Regarding recurrent abortion, all of the following is true EXCEPT:",
+      "options": [
+        "A fundal subserous fibroid commonly causes recurrent abortion.",
+        "Uterine anomalies may cause late recurrent abortions.",
+        "Fetal chromosomal anomalies may cause early recurrent abortions.",
+        "Anti-phospholipid syndrome is diagnosed by testing lupus anticoagulant and anti-cardiolipin and anti ß2 glycoprotein antibodies.",
+        "Toxoplasmosis may cause accidental but not habitual abortion."
+      ],
+      "correct": 0,
+      "explanation": "The textbook states that \"Neoplastic: Submucous fibroid specially fundal\" is a local cause of recurrent pregnancy loss. It does not list subserous fibroids as a cause. Subserous fibroids are less likely to interfere with pregnancy."
+    },
+    {
+      "stem": "A P1+0 with IUCD in situ presented by pelvic heaviness, frequency of micturition and a delayed period for 10 days. Serum hCG level was 100 mIU/ml. After 2 days, HCG was 130 mIU/ ml. What is your provisional diagnosis?",
+      "options": [
+        "Normal pregnancy.",
+        "Inevitable abortion.",
+        "Data are not conclusive.",
+        "Ectopic pregnancy.",
+        "Molar pregnancy."
+      ],
+      "correct": 3,
+      "explanation": "The hCG level rose from 100 mIU/ml to 130 mIU/ml in 48 hours, which is only a 30% increase. The textbook states that \"Improper doubling indicates unhealthy ectopic pregnancy\". Additionally, the presence of an IUCD is a risk factor for ectopic pregnancy."
+    },
+    {
+      "stem": "A P1+0 presented by pelvic heaviness, frequency of micturition and delayed period for 10 days. Serum hCG level was 2000 mIU/ml. After 2 days, HCG was 1500mIU/ ml. she has no vaginal bleeding. Ultrasound revealed some fluid in Douglas pouch. What would be your diagnosis?",
+      "options": [
+        "Normal early pregnancy findings for follow up.",
+        "Tubal abortion.",
+        "Data are not conclusive.",
+        "Incomplete abortion.",
+        "Molar pregnancy."
+      ],
+      "correct": 1,
+      "explanation": "The hCG level decreased from 2000 mIU/ml to 1500 mIU/ml, suggesting an unhealthy pregnancy. The ultrasound finding of \"fluid in Douglas pouch\" indicates intra-peritoneal fluid, typically blood, which is a common occurrence in disturbed ectopic pregnancies like a tubal abortion."
+    },
+    {
+      "stem": "The following ectopic pregnancies is associated with severe vaginal bleeding:",
+      "options": [
+        "Tubal ectopic pregnancy.",
+        "Ovarian ectopic pregnancy.",
+        "Pregnancy in a rudimentary horn.",
+        "Cervical ectopic pregnancy.",
+        "Advanced extra-uterine pregnancy."
+      ],
+      "correct": 3,
+      "explanation": "The textbook explicitly states regarding \"Cervical Ectopic Pregnancy\": \"It usually presents with severe vaginal bleeding rather than pain. Attempts to remove products of conception from the cervix might fail leading to profuse bleeding.\"."
+    },
+    {
+      "stem": "Tubal ectopic pregnancy is characterized by all the followings EXCEPT:",
+      "options": [
+        "Short period of amenorrhea for 6-8 weeks.",
+        "Pain precedes vaginal bleeding.",
+        "Vaginal bleeding is usually mild and dark.",
+        "Shoulder pain occurs with marked intra-peritoneal hemorrhage.",
+        "Culdocentesis is the backbone for diagnosis."
+      ],
+      "correct": 4,
+      "explanation": "The textbook states that \"Transvaginal ultrasound and serum BHCG levels are main diagnostic tools\" for ectopic pregnancy. Culdocentesis is not described as the \"backbone\" or primary diagnostic tool."
+    },
+    {
+      "stem": "Predisposing factors for ectopic pregnancy including all the following EXCEPT:",
+      "options": [
+        "IUCD.",
+        "Injectable contraception (Depo-Provera).",
+        "Previous laparoscopic sterilization.",
+        "Previous cesarean section.",
+        "In vitro fertilization."
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists IUCD, injectable contraception, previous pelvic/tubal surgery, and in vitro fertilization as risk factors. Previous cesarean section is not listed as a general predisposing factor for tubal ectopic pregnancy."
+    },
+    {
+      "stem": "A 24-years old G3 P2 presents at the office at 6 weeks gestation with BhCG 6000 mlU/ml and mild left lower quadrant pain. TVS confirms an empty uterus and a 3cm Lt adenexal mass with positive pulsations. No fluid collection in Douglas pouch. Which of the following is the best management option?",
+      "options": [
+        "Methotrexate.",
+        "Exploratory laparotomy.",
+        "Ultrasound guided aspiration.",
+        "Laparoscopic salpingectomy.",
+        "Follow up by U.S and BhCG."
+      ],
+      "correct": 3,
+      "explanation": "This case has \"positive pulsations\" (fetal heart activity) and a BhCG of 6000 mIU/ml. Medical treatment with methotrexate is less likely to succeed. Therefore, a surgical approach like laparoscopic salpingectomy is a definitive and appropriate management."
+    },
+    {
+      "stem": "In ectopic pregnancy, one of the following is correct:",
+      "options": [
+        "It is situated in the ovary in about 20% of all cases.",
+        "Early disturbance occurs when it is situated in the isthmus of the Fallopian tube.",
+        "It is a complication of combined OCP.",
+        "It is not associated with uterine enlargement.",
+        "It is diagnosed only when disturbed."
+      ],
+      "correct": 1,
+      "explanation": "The isthmic portion of the fallopian tube is narrower and less distensible than the ampullary portion. This means that an ectopic pregnancy implanted in the isthmus is likely to rupture or become disturbed earlier in gestation."
+    },
+    {
+      "stem": "In caeserian scar ectopic pregnancy, all the followings are true EXCEPT:",
+      "options": [
+        "More incidence of pathologically adherent placenta.",
+        "High risk of uterine scar perforation with internal hemorrhage.",
+        "May be exised laparoscopic or hysteroscopic according to residual myometrial thickness.",
+        "Currettage is a good treatment option.",
+        "Ultrasonographic guided methotrexate injection in the ectopic sac is usually effective in early cases."
+      ],
+      "correct": 3,
+      "explanation": "Curettage is generally not a good treatment option for CS scar ectopic pregnancies, likely due to the high risk of hemorrhage and uterine perforation associated with this specific implantation site."
+    },
+    {
+      "stem": "In ectopic pregnancy, choose the correct answer:",
+      "options": [
+        "Tender adnexal mass suggests the diagnosis.",
+        "Diagnostic laparoscopy has no place in diagnosis of disturbed cases.",
+        "Culdocentesis shows blood in undisturbed cases.",
+        "The affected tube must be removed.",
+        "The ipsi-lateral ovary must be removed."
+      ],
+      "correct": 0,
+      "explanation": "The textbook describes the signs of disturbed ectopic pregnancy: \"Marked tenderness on moving the cervix... Uterus is slightly enlarged and an adnexal mass could be felt.\". The presence of a tender adnexal mass is a classic clinical finding."
+    },
+    {
+      "stem": "Ectopic pregnancy can be excluded if:",
+      "options": [
+        "No missed period.",
+        "No adnexal mass.",
+        "Intrauterine sac is seen by ultrasound.",
+        "Serum βHCG is negative.",
+        "Transvaginal ultrasound showed no pelvic fluid."
+      ],
+      "correct": 3,
+      "explanation": "If the serum βHCG is negative, it indicates that there is no pregnancy, and therefore, no ectopic pregnancy."
+    },
+    {
+      "stem": "Regarding the diagnosis of ectopic pregnancy:",
+      "options": [
+        "Clinical examination is diagnostic.",
+        "Serum βHCG is doubled every 48 hours.",
+        "Transvaginal ultrasound and serum BHCG levels are main diagnostic tools.",
+        "Laparoscopy is contraindicated in cases with free pelvic fluid.",
+        "Culdocentesis is diagnostic."
+      ],
+      "correct": 2,
+      "explanation": "The textbook clearly states: \"The most important are combined U.S. and estimation of B-hCG.\". This refers to transvaginal ultrasound (TVS) and serial serum βHCG levels as the primary diagnostic methods."
+    },
+    {
+      "stem": "The discriminatory threshold of βHCG above which a gestational sac should be seen by transvaginal sonography is :",
+      "options": [
+        "500 mIU/ml.",
+        "1500 mIU/ml.",
+        "3000 mIU/ml.",
+        "4500 mIU/ml.",
+        "6500 mIU/ml."
+      ],
+      "correct": 1,
+      "explanation": "The textbook explicitly states the discrimination zone for transvaginal ultrasound: \"In TVS, a gestational sac should be seen intrauterine with a B-HCG level of 1500 IU/ML.\"."
+    },
+    {
+      "stem": "To differentiate ectopic pregnancy from acute pelvic inflammatory disease, the following investigations may be recommended EXCEPT:",
+      "options": [
+        "White cell count.",
+        "Transvaginal ultrasound.",
+        "Serum BHCG.",
+        "Diagnostic laparoscopy.",
+        "Culdocentesis."
+      ],
+      "correct": 4,
+      "explanation": "While culdocentesis can be used in the context of ectopic pregnancy, its primary role is to detect free blood in the peritoneal cavity, which is characteristic of a disturbed ectopic, rather than being a primary tool for differentiating between the two conditions."
+    },
+    {
+      "stem": "Contraindications of medical treatment (Methotrexate) in tubal pregnancy include:",
+      "options": [
+        "Asonographic non living pregnancy.",
+        "Absence of active bleeding.",
+        "Desire for future fertility.",
+        "Ectopic size 3 cm or less.",
+        "History of active hepatic or renal disease."
+      ],
+      "correct": 4,
+      "explanation": "Methotrexate is metabolized by the liver and excreted by the kidneys, so active hepatic or renal disease would impair its clearance, leading to toxicity and thus contraindicating its use."
+    },
+    {
+      "stem": "The following would make methotrexate therapy of ectopic pregnancy less likely to succeed:",
+      "options": [
+        "Serum BHCG of 1500 mIU/ml.",
+        "Tubal mass size of 3cm.",
+        "Positive fetal heart motion.",
+        "Caesarean scar ectopic pregnancy.",
+        "Cervical ectopic pregnancy."
+      ],
+      "correct": 2,
+      "explanation": "The textbook states the indications for methotrexate: \"Indicated in undisturbed early cases with small ectopic < 3cm, no heart activity and hCG is <6000mIU/ml.\". The presence of positive fetal heart motion directly contravenes a key criterion."
+    },
+    {
+      "stem": "The minimal level of serum hCG to allow detection of an intrauterine gestational sac by transvaginal ultrasonography is:",
+      "options": [
+        "100 to 200 mIU/mL.",
+        "400 to 500 mIU/mL.",
+        "1000 to 2000 mIU/mL.",
+        "3000 to 4000 mIU/mL.",
+        "5000 to 6000 mIU/mL."
+      ],
+      "correct": 2,
+      "explanation": "The textbook states that \"In TVS, a gestational sac should be seen intrauterine with a B-HCG level of 1500 IU/ML.\". The range of 1000 to 2000 mIU/mL includes this discriminatory threshold."
+    },
+    {
+      "stem": "A patient presented to the emergency with lower abdominal pain and vaginal spotting. B-HCG was 700 mIU/ml & US revealed a misplaced IUCD at the cervical canal. The best management is:",
+      "options": [
+        "Laparoscopy.",
+        "Hysteroscopy.",
+        "Follow up serum BHCG after 48 hrs.",
+        "Analgesic,antibiotics and recheck after 1 week.",
+        "Methotrexate injection."
+      ],
+      "correct": 2,
+      "explanation": "With a βHCG level of 700 mIU/ml, an intrauterine gestational sac is not yet expected to be visible. The textbook advises that when hCG levels are low and the uterus is empty, the next step is to \"Repeat BhCG level after 48 hours (doubling time)\"."
+    },
+    {
+      "stem": "Which of the followings increase the risk of ectopic pregnancy?",
+      "options": [
+        "Prolonged use of combined OCP more than 2 years.",
+        "Previous ectopic pregnancy.",
+        "Submucus uterine fibroid.",
+        "Women with PCO.",
+        "Past history of repeated vaginitis."
+      ],
+      "correct": 1,
+      "explanation": "The textbook explicitly lists \"Previous ectopic gestation: recurrence rates for an ectopic pregnancy may reach up to 30%.\" as a risk factor."
+    },
+    {
+      "stem": "A 25years old woman, presents with a delayed cycle for 15 days and a serum hCG level of 5000 mIU/ml. No pelvic pain or vaginal bleeding. TVS reveals an empty uterus with some fluid in Douglas pouch and a 2 cm cystic mass on left adnexa. How can you proceed in this case?",
+      "options": [
+        "Normal pregnancy finding and re-do ultrasound after 10 days.",
+        "Ectopic pregnancy is diagnosed.",
+        "Repeat hCG after 48 hour to detect doubling for definite diagnosis.",
+        "Needle aspiration of Douglas pouch to identify nature of the pelvic fluid.",
+        "Hysteroscopic evaluation of uterine cavity is requested before concluding a diagnosis."
+      ],
+      "correct": 1,
+      "explanation": "The βHCG level (5000 mIU/ml) is significantly above the discriminatory threshold of 1500 mIU/ml. Since the TVS reveals an \"empty uterus\" despite this hCG level, it \"confirms an ectopic pregnancy\"."
+    },
+    {
+      "stem": "A 25 years old G1 +0, with a past history of salpingostomy for treatment of ectopic pregnancy presents with a delayed cycle for 5 days and an hCG level of 500 mIU/ml. No pelvic pain or vaginal bleeding and TVS reveals an empty uterus. How can you proceed in this case?",
+      "options": [
+        "Reassurance and follow up after 1 month.",
+        "Ectopic pregnancy is diagnosed.",
+        "Repeat hCG after 48 hours.",
+        "laparoscopy.",
+        "Hysteroscopy."
+      ],
+      "correct": 2,
+      "explanation": "The hCG level (500 mIU/ml) is below the discriminatory threshold (1500 mIU/ml). Therefore, the appropriate next step is to \"Repeat BhCG level after 48 hours (doubling time)\" to assess pregnancy progression."
+    },
+    {
+      "stem": "In the previous case, repeat hCG level after 48 hours was 850mIU/ml. How can you interprete this?",
+      "options": [
+        "Normal doubling for follow up till intrauterine sac is visualized by US.",
+        "Not conclusive.",
+        "Highly suggestive of ectopic pregnancy.",
+        "Blighted ovum is suspected.",
+        "Higher risk of chromosomal anomalies."
+      ],
+      "correct": 0,
+      "explanation": "The hCG level increased from 500 mIU/ml to 850 mIU/ml in 48 hours, a 70% increase. The textbook states: \"If the level is doubled with an increase by at least 60 % from the previous level, it is mostly normally growing intrauterine pregnancy\"."
+    },
+    {
+      "stem": "A 39 years old primigravida, 6weeks gestation with a diagnosis of Rt sided ectopic pregnancy with fetal pole but no pulsations on TVS. She is vitally stable, her β-hCG: 300mIU/ml. What is the recommended plan of management?",
+      "options": [
+        "Laparotomy and salpingectomy.",
+        "Wait for spontaneous tubal abortion.",
+        "Ultrasound guided aspiration of the sac.",
+        "Systemic methotrexate.",
+        "Laparoscopy when disturbance of ectopic occurs."
+      ],
+      "correct": 3,
+      "explanation": "This patient has an ectopic pregnancy that meets the criteria for medical treatment: she is \"vitally stable,\" has \"no pulsations on TVS\" (no heart activity), and her β-hCG level (300 mIU/ml) is well below the <6000 mIU/ml threshold."
+    },
+    {
+      "stem": "How can you councel a case after succesful methotrexate treatment of ectopic pregnancy?",
+      "options": [
+        "No hazards of tubal block on the affected side.",
+        "Next pregnancy should be delayed for 3-6 months after treatment.",
+        "Assisted reproductive techniques should be done later to ensure intrauterine pregnancy.",
+        "Recurrence of ectopic is extremly rare.",
+        "IUCD is the preferred method for future contraception."
+      ],
+      "correct": 1,
+      "explanation": "Following successful methotrexate treatment, the textbook advises: \"Subsequent pregnancy should be delayed for 3months after methotrexate.\"."
+    },
+    {
+      "stem": "Regarding disturbed ectopic tubal pregnancy, which of the following is correct?",
+      "options": [
+        "Commonly disturbs during 1st trimester.",
+        "Usually associated with severe vaginal bleeding.",
+        "Absent pelvic pain is characteristic.",
+        "Snow storm appearance on ultrasound is a diagnostic feature.",
+        "Serum hCG is usually -ve."
+      ],
+      "correct": 0,
+      "explanation": "The textbook states that \"Disturbance of pregnancy and damage of the tube occur as early as 8- 10 weeks\", which falls within the first trimester."
+    },
+    {
+      "stem": "The following sites of ectopic pregnancy is associated with late clinical presentation?",
+      "options": [
+        "Ampullary part of fallopian tube.",
+        "Interstitial part of fallopian tube.",
+        "Ovary",
+        "Cervix.",
+        "Uterine rudimentary horn."
+      ],
+      "correct": 1,
+      "explanation": "The interstitial part of the fallopian tube is embedded within the muscular wall of the uterus, allowing it to distend more than other tubal locations before rupture, leading to a later clinical presentation."
+    },
+    {
+      "stem": "An increased risk of ectopic pregnancy is met with failure of the following method of contraception:",
+      "options": [
+        "Copper intrauterine device.",
+        "Progestin only pills.",
+        "Tubal sterilization.",
+        "All of the above.",
+        "None of the above."
+      ],
+      "correct": 3,
+      "explanation": "Copper IUCD, Progestin only pills, and failed Tubal sterilization are all listed risk factors for ectopic pregnancy. Since all three methods increase the risk upon their failure, \"All of the above\" is correct."
+    },
+    {
+      "stem": "The following woman has a higher risk for ectopic pregnancy?",
+      "options": [
+        "Pregnancy achieved by intrauterine insemination.",
+        "Pregnancy during irregular use of combined oral contraceptive pills.",
+        "Pregnancy on top of intrauterine contraceptive device.",
+        "Pregnancy while using chemical contraceptive spermicidal.",
+        "Previous history of polycystic ovarian disease."
+      ],
+      "correct": 2,
+      "explanation": "The textbook explicitly states that an IUCD is a risk factor because it \"prevents intrauterine pregnancy not extra-uterine\". Therefore, a pregnancy with an IUCD in situ has a higher chance of being ectopic."
+    },
+    {
+      "stem": "The most consistent symptom of ectopic pregnancy is:",
+      "options": [
+        "Amenorrhea.",
+        "Severe vaginal bleeding.",
+        "Pain.",
+        "Fainting.",
+        "None of the above."
+      ],
+      "correct": 2,
+      "explanation": "The textbook states that for disturbed ectopic pregnancy, \"Pain is the most prominent symptom.\"."
+    },
+    {
+      "stem": "Regarding management of ectopic pregnancy, all of the following are true EXCEPT:",
+      "options": [
+        "Laparoscopic management is allowed only to vitally stable cases.",
+        "Salpingectomy may be performed through either laparotomy or laparoscopy.",
+        "Methotrexate can be used only for some cases of undisturbed ectopic pregnancy.",
+        "Preservation of the affected tube does not affect incidence of recurrence.",
+        "Anti D is required for Rh negative cases."
+      ],
+      "correct": 3,
+      "explanation": "The textbook states that if conservative surgical treatment (salpingostomy) is performed, the \"Recurrence rate is very high on the same side.\". This contradicts the idea that preservation does not affect recurrence."
+    },
+    {
+      "stem": "Ultrasound done for a healthy 32-year-old multipara at 10 weeks gestation, revealed a pulsating intrauterine embryo and a 3 cm clear right adnexal cyst. This cyst is:",
+      "options": [
+        "Mostly functional cyst for follow up.",
+        "Combined intrauterine and extra uterine pregnancy is highly suspected.",
+        "Immediate laparoscopic evaluation is mandatory.",
+        "Serum CA125 and CA19/9 should be evaluated.",
+        "Further evaluation by C.T or M.R.I should be requested."
+      ],
+      "correct": 0,
+      "explanation": "In early pregnancy, a clear adnexal cyst is highly likely to be a normal functional corpus luteum cyst, which typically requires only follow-up as it will regress spontaneously after the 10th week."
+    },
+    {
+      "stem": "A P4+1 with 8 weeks amenorrhea and ultrasound showing a snow storm appearance and bilateral ovarian cysts, is mostly diagnosed as:",
+      "options": [
+        "Blighted ovum.",
+        "Ectopic tubal pregnancy.",
+        "Molar pregnancy.",
+        "Primary uterine malignancy with ovarian metastases.",
+        "Primary ovarian malignancy with uterine involvement."
+      ],
+      "correct": 2,
+      "explanation": "The textbook describes the characteristic ultrasound finding for complete molar pregnancy as a \"snowstorm appearance\" and notes that \"Ovarian theca lutein cysts are usually present in association with complete moles\"."
+    },
+    {
+      "stem": "Regarding complete hydatiform mole:",
+      "options": [
+        "Triploid karyotyping.",
+        "Associated neoplastic ovarian enlargement is common.",
+        "a feto-protein is a good marker for follow after evacuation.",
+        "Uterine size is usually less than the expected for gestation.",
+        "Subsequent choriocarcinoma develops in 5-10% of cases."
+      ],
+      "correct": 4,
+      "explanation": "The textbook lists \"Risk of developing Choriocarcinoma (5% of cases)\" as a complication of molar pregnancy."
+    },
+    {
+      "stem": "A 19 years old female with a proved diagnosis of complete vesicular mole was found to have bilateral moderate sized ovarian cysts on ultrasound. Regarding these cysts:",
+      "options": [
+        "Surgical removal is mandatory.",
+        "Chemotherapy is needed after evacuation of the mole to treat these cysts.",
+        "Hormone dependent and will regress spontaneously after evacuation.",
+        "Laparoscopic biopsy is needed to confirm benign nature.",
+        "Mostly is a coincidentally discovered unrelated ovarian pathology."
+      ],
+      "correct": 2,
+      "explanation": "The textbook explicitly states about these cysts: \"Functional ovarian theca lutein cysts commonly occur... These theca lutein cysts will undergo spontaneous regression after molar evacuation.\"."
+    },
+    {
+      "stem": "A 19 years old female with a proved diagnosis of complete vesicular mole of 18 weeks size and was found to have bilateral moderate sized ovarian cysts on ultrasound. Best line of treatment is:",
+      "options": [
+        "Dilatation and curettage.",
+        "Suction evacuation.",
+        "Abdominal hysterotomy and ovarian cystectomy.",
+        "Vaginal evacuation combined with laparoscopic removal of cysts.",
+        "A course of chemotherapy is needed before surgical intervention."
+      ],
+      "correct": 1,
+      "explanation": "The textbook states that \"Suction evacuation: This is the gold standard technique for evacuating molar pregnancies.\". The associated ovarian cysts are functional and will regress spontaneously."
+    },
+    {
+      "stem": "Signs and symptoms that should alert you to the possibility of gestational trophoblastic disease include:",
+      "options": [
+        "Persistent titre of hCG after pregnancy.",
+        "Hematuria.",
+        "Weight loss.",
+        "Persistent postpartum anovulation.",
+        "Persistent unexplained fever."
+      ],
+      "correct": 0,
+      "explanation": "The textbook lists a key diagnostic criterion for malignant GTD as \"Abnormal high hCG levels that either rise, plateau, or fail to decrease after a recently terminated pregnancy.\"."
+    },
+    {
+      "stem": "A 43 years old female with a proved diagnosis of complete vesicular mole of 18 weeks size and was found to have bilateral moderate sized ovarian cysts on ultrasound. The best line of treatment is:",
+      "options": [
+        "Dilatation and curettage.",
+        "Suction evacuation.",
+        "Abdominal hysterotomy and ovarian cystectomy.",
+        "Abdominal hysterectomy with ovarian preservation.",
+        "A course of chemotherapy is needed before surgical intervention."
+      ],
+      "correct": 3,
+      "explanation": "For molar pregnancy, the textbook states that \"Abdominal hysterectomy... is indicated only in elderly patients above 40 years with completed family.\". Given the patient's age (43 years), hysterectomy is a suitable option to minimize the risk of subsequent malignancy."
+    },
+    {
+      "stem": "All the followings are complications of molar pregnancy EXCEPT:",
+      "options": [
+        "Hyperemesis gravidarum.",
+        "Thyrotoxic manifestations.",
+        "Early onset pregnancy induced hypertension.",
+        "Infection.",
+        "Subsequent uterine adenocarcinoma."
+      ],
+      "correct": 4,
+      "explanation": "The textbook lists complications including hyperemesis, hyperthyroidism, PIH, and infection. It mentions the risk of trophoblastic neoplasms (choriocarcinoma), but not uterine adenocarcinoma."
+    },
+    {
+      "stem": "Regarding partial vesicular mole:",
+      "options": [
+        "There is duplication of the paternal chromosomes.",
+        "Trophoblastic proliferation is minimal.",
+        "Pregnancy is allowed to proceed to near term.",
+        "Karyotyping is usually 46XX.",
+        "Low potential for malignant transformation."
+      ],
+      "correct": 4,
+      "explanation": "The textbook indicates that the \"Risk of developing an invasive Mole\" is \"4% in a partial moles\", which is significantly lower than for a complete mole."
+    },
+    {
+      "stem": "The diagnosis of vesicular mole, all of the followings are true EXCEPT:",
+      "options": [
+        "The condition is more common in extremes of reproductive age.",
+        "Hyperemesis may occur.",
+        "Uterus is doughy and commonly larger than expected.",
+        "Passage of vesicles during examination is diagnostic.",
+        "Ultrasonography shows theca lutein cysts in 20% of cases."
+      ],
+      "correct": 4,
+      "explanation": "The textbook states that \"Functional ovarian theca lutein cysts commonly occur in 25-60 % of complete moles\". Therefore, stating they occur in only \"20% of cases\" is incorrect."
+    },
+    {
+      "stem": "Regarding management of vesicular mole all of the followings are true EXCEPT:",
+      "options": [
+        "Suction evacuation is done in the majority of cases.",
+        "Blood transfusion should be available.",
+        "Hysterectomy is indicated in elderly to minimize risk of subsequent malignancy.",
+        "Hysterotomy is indicated in large uterus with severe bleeding.",
+        "Follow up by B-HCG is indicated in some cases"
+      ],
+      "correct": 4,
+      "explanation": "Intensive and prolonged follow-up with β-hCG is mandatory for all cases of molar pregnancy to detect persistent trophoblastic disease, not just \"some cases.\""
+    },
+    {
+      "stem": "The genetic composition of a complete molar pregnancy is:",
+      "options": [
+        "45XO",
+        "46YY",
+        "47XXY",
+        "47XYY",
+        "None of the above."
+      ],
+      "correct": 4,
+      "explanation": "The textbook states that a complete mole \"originates from fertilization of an empty ovum. Duplication of the DNA of one sperm resulting in a 46 XX karyotype\". None of the provided options match the typical 46 XX genetic composition."
+    }
+  ]
+}

@@ -1,0 +1,1105 @@
+{
+  "title": "KAF",
+  "questions": [
+    {
+      "stem": "A 2-hour-old full-term neonate is noted by the nurses to have episodes of cyanosis. When they try to feed him, his oxygen level drops to 60%. But when he is stimulated and cries, his oxygen levels increases above 90%. Which of the following should be done to diagnose this case?",
+      "options": [
+        "Bronchoscopic evaluation of palate and larynx.",
+        "Echocardiogram",
+        "Hemoglobin electrophoresis",
+        "Passage of catheter into nose"
+      ],
+      "correct": 3,
+      "explanation": "The patient's symptoms of cyanosis that worsens with feeding and improves when crying are classic signs of bilateral choanal atresia. This is a condition where the posterior nares are obstructed, and infants are obligate nasal breathers. The most helpful diagnostic test is the inability to pass a suction catheter through the nares into the nasopharynx."
+    },
+    {
+      "stem": "A full-term male infant is delivered by an emergency caesarean section for fetal distress. At birth, the boy is limp, cyanotic, and has no respiratory effort. He is dried, suctioned, and stimulated. However, no clinical improvement is noted. His heart rate is 60/minute. Which of the following is the most appropriate next step?",
+      "options": [
+        "Bag-and-mask ventilation",
+        "Chest compression",
+        "Endotracheal intubation",
+        "Free-flow oxygen"
+      ],
+      "correct": 0,
+      "explanation": "The initial steps of neonatal resuscitation have been performed. The baby's heart rate is below 100 bpm, and there is no respiratory effort, which is an indication for positive pressure ventilation (PPV). PPV should be initiated immediately, starting with bag-and-mask ventilation."
+    },
+    {
+      "stem": "A 7-day-old term female infant presented to the outpatient clinic for routine checkup. Mother stated that her daughter was not breast feeding adequately. Her present weight is 3.2 kg while her birth weight was 3.4 kg. Physical examination was unremarkable. Which of the following is the next step in the management?",
+      "options": [
+        "Give high caloric formula",
+        "Reassurance and continue breast feeding",
+        "Start bottle feeding",
+        "Start IV hydration"
+      ],
+      "correct": 1,
+      "explanation": "A physiological weight loss of up to 10% of birth weight is expected during the first 3-7 days of life. This infant has lost approximately 6% of her birth weight, which is within the normal range. The appropriate action is to reassure the mother and encourage her to continue breastfeeding."
+    },
+    {
+      "stem": "A newborn has hepatosplenomegaly, purpuric rash, jaundice, thrombocytopenia, and microcephaly. Computed tomography of the head showed cerebral calcifications. Which of the following is the most diagnostic test for this case?",
+      "options": [
+        "Abdominal Ultrasound",
+        "CBC, CRP",
+        "Organic acids in urine",
+        "TORCH Screen"
+      ],
+      "correct": 3,
+      "explanation": "The clinical picture described is characteristic of congenital infections. The TORCH screen is a panel of tests used to detect these specific infections (Toxoplasmosis, Other agents, Rubella, Cytomegalovirus, Herpes simplex)."
+    },
+    {
+      "stem": "A full term male baby with birth weight of 4.7 kg is born by elective caesarean section. His mother has uncontrolled diabetes mellitus. Which of the following should be done in the initial management of this case?",
+      "options": [
+        "Call the laboratory to collect a PKU screening test",
+        "Check the baby's serum glucose level",
+        "Clean the umbilical cord with Betadine to prevent infection",
+        "Order an urgent echo to exclude congenital heart disease"
+      ],
+      "correct": 1,
+      "explanation": "This infant is large for gestational age (LGA) and born to a mother with poorly controlled diabetes. Infants of diabetic mothers (IDM) are at high risk for hypoglycemia after birth. Monitoring the baby's serum glucose level is the most important initial step."
+    },
+    {
+      "stem": "A male full term baby delivered vaginally is noted to be jaundiced at 20 hours, requiring intensive phototherapy. Maternal blood group is B positive while his blood group is O positive. On examination he is jaundiced, pale but is alert and active. Which of the following is the most likely cause of jaundice in this baby?",
+      "options": [
+        "ABO incompatibility",
+        "Breast milk jaundice",
+        "G6PD deficiency",
+        "Physiological jaundice"
+      ],
+      "correct": 2,
+      "explanation": "Jaundice appearing at 20 hours is pathological. G6PD deficiency is a common cause of severe neonatal jaundice leading to hemolysis, especially in certain ethnic groups. ABO incompatibility is less likely here as it typically occurs when the mother is type O and the baby is A or B."
+    },
+    {
+      "stem": "A 2.5kg male neonate presents with respiratory distress at 18 hours after birth. Pregnancy was uncomplicated but the mother had premature rupture of membranes for 20 hours before labor and did not receive parenteral antibiotics. The baby required intubation and mechanical ventilation. What is the most probable cause for respiratory distress in this neonate?",
+      "options": [
+        "Pneumothorax",
+        "Early onset sepsis",
+        "Transient tachypnea of newborn",
+        "Meconium aspiration"
+      ],
+      "correct": 1,
+      "explanation": "Prolonged rupture of membranes (>18 hours) without maternal antibiotic treatment is a major risk factor for early-onset sepsis (EOS), which commonly presents with respiratory distress within the first 72 hours of life."
+    },
+    {
+      "stem": "During resuscitation of an asphyxiated newborn by positive pressure ventilation via endotracheal intubation and chest compression, the heart rate increased to 80 bpm. What is the most appropriate next step in management?",
+      "options": [
+        "Discontinue both chest compression and positive pressure ventilation",
+        "Discontinue chest compression",
+        "Discontinue positive pressure ventilation",
+        "Remove the ETT"
+      ],
+      "correct": 1,
+      "explanation": "Chest compressions are indicated when the heart rate is below 60 bpm. Once the heart rate increases to over 60 bpm, chest compressions can be stopped. However, positive pressure ventilation should be continued until the heart rate is above 100 bpm and the baby has effective spontaneous breathing."
+    },
+    {
+      "stem": "You are attending the emergency delivery by cesarean section. The gestation was complicated by hypertension. At birth, the baby has poor tone and minimal respiratory effort. Which is the initial management in this baby?",
+      "options": [
+        "Begin tactile stimulation and provide free flow oxygen supplementation",
+        "Warm, dry, stimulate, positioning & suction",
+        "Initiate bag-mask ventilation",
+        "Insert an umbilical catheter and administer naloxone"
+      ],
+      "correct": 1,
+      "explanation": "The initial management steps for any newborn who is not vigorous at birth are to warm, dry, stimulate, and position the airway, followed by suctioning if needed. This is the first block of the Neonatal Resuscitation Program (NRP) flowchart."
+    },
+    {
+      "stem": "A term infant is placed under a radiant warmer, the skin is dried. After tactile stimulation, there is minimal respiratory effort, dusky color, and a heart rate of 86 beats/min. Bag and mask ventilation is performed for 30 seconds starting by 21% oxygen at a rate of 40 breaths/min. The heart rate increases to 100 beats/minute What should be the next step?",
+      "options": [
+        "Administer sodium bicarbonate",
+        "Continue bag/mask ventilation at a rate of 20 to 40 breaths/min",
+        "Continue ventilation and begin chest compressions",
+        "Observe for spontaneous respiration and withdraw PPV gradually"
+      ],
+      "correct": 3,
+      "explanation": "The baby's heart rate has increased to 100 bpm after 30 seconds of bag-and-mask ventilation, indicating a successful response. The next step is to observe for the onset of effective spontaneous respiration. Once established, PPV can be gradually withdrawn."
+    },
+    {
+      "stem": "During delivery of a 42 weeks gestational age baby, the amniotic fluid contains thick particles of meconium. The most important initial step in resuscitation of the infant is to?",
+      "options": [
+        "Aspirate the gastric contents",
+        "Initiate endotracheal intubation",
+        "Provide positive pressure ventilation",
+        "Warm, dry, stimulate, positioning & suction"
+      ],
+      "correct": 3,
+      "explanation": "Current NRP guidelines recommend the same initial steps for all newborns, regardless of meconium staining: warm, dry, stimulate, and position the airway, followed by suctioning only if needed. Routine endotracheal suctioning for meconium is no longer recommended."
+    },
+    {
+      "stem": "A full term male baby was born at 37 week gestation by cesarean section. At one minute postnatal, the neonate had no spontaneous respiration, a heart rate of 80, had some flexion of extremities with acrocyanosis and no reflex irritability. His one minute Apgar will be?",
+      "options": [
+        "0",
+        "1",
+        "3",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "Apgar Score: Respiration (0), Heart rate (1 for <100), Muscle tone (1 for some flexion), Reflex irritability (0), Color (1 for acrocyanosis). Total = 0+1+1+0+1 = 3."
+    },
+    {
+      "stem": "The most appropriate next step in managing a neonate 37 w, after warming, drying, stimulation and positioning yet no spontaneous respiration and HR 80?",
+      "options": [
+        "Chest compression",
+        "IV epinephrine",
+        "Positive pressure ventilation",
+        "Umbilical line placement"
+      ],
+      "correct": 2,
+      "explanation": "After the initial steps, a baby with no spontaneous respiration and a heart rate below 100 bpm requires immediate positive pressure ventilation."
+    },
+    {
+      "stem": "During active labor, meconium staining of the amniotic fluid is noticed. Initial steps in the management of this newborn should include?",
+      "options": [
+        "Intubate the trachea and suction",
+        "Stimulate and initiate positive pressure ventilation",
+        "Suction the oropharynx if needed",
+        "Umbilical line placement"
+      ],
+      "correct": 2,
+      "explanation": "The initial management of a newborn is based on their condition at birth, not the presence of meconium. The first steps are always warming, drying, stimulating, and positioning. If the airway is obstructed by secretions (meconium or otherwise), suctioning the oropharynx is indicated."
+    },
+    {
+      "stem": "A full-term neonate in resuscitation is dried, suctioned, and stimulated. The initial heart rate is less than 100/m and positive pressure ventilation is delivered with bag mask ventilation for 30 seconds, however his heart rate remains less than 100/m. Which of the following does not contribute to the worsening of the baby's condition?",
+      "options": [
+        "Anatomic obstruction",
+        "Mask is not held tightly on face",
+        "Excessive neck flexion",
+        "Head in midline position"
+      ],
+      "correct": 3,
+      "explanation": "When PPV is ineffective, corrective steps (MR. SOPA) are needed. Anatomic obstruction, a poor mask seal, and excessive neck flexion can all cause ineffective ventilation. A neutral head position in the midline is the correct positioning and would not worsen the baby's condition."
+    },
+    {
+      "stem": "The infant of a 35-year-old female is seen with severe anemia. There is history of profuse vaginal bleeding during pregnancy. Physical examination reveals a pale, limp shocked infant. Which volume expander from the following is not suitable to resuscitate this case?",
+      "options": [
+        "0.9% sodium chloride",
+        "10% dextrose solution",
+        "O-negative blood",
+        "Residual placental blood"
+      ],
+      "correct": 1,
+      "explanation": "The infant is in hypovolemic shock due to blood loss. A 10% dextrose solution is hypotonic and not a suitable volume expander as it won't stay in the intravascular space. Normal saline, O-negative packed red blood cells, and placental blood are all appropriate choices."
+    },
+    {
+      "stem": "A full-term neonate is delivered by emergency cesarean section. After 30 seconds of effective PPV then 60 seconds of co-ordinated chest compression; his heart rate is still less than 60/m. The most appropriate next step is?",
+      "options": [
+        "Administer epinephrine and continue chest compressions",
+        "Continue positive pressure ventilation",
+        "Continue chest compressions",
+        "Observation"
+      ],
+      "correct": 0,
+      "explanation": "According to the NRP algorithm, if the heart rate remains below 60 bpm despite effective PPV and coordinated chest compressions, the next step is to administer intravenous epinephrine while continuing compressions and ventilation."
+    },
+    {
+      "stem": "A 5 day-old infant presents with large pale blue lesions over the buttocks. The lesion is not warm or raised. The mother denies trauma and reports that it has been present since birth. The most appropriate action is?",
+      "options": [
+        "Check platelets count",
+        "Give plasma infusion",
+        "Give vitamin K",
+        "Reassurance"
+      ],
+      "correct": 3,
+      "explanation": "The description is characteristic of Mongolian spots, which are benign, pigmented areas common in newborns. They fade over time and require no treatment other than reassurance to the parents."
+    },
+    {
+      "stem": "The most likely diagnosis for the condition in the previous question is?",
+      "options": [
+        "Hemorrhagic disease of the newborn",
+        "Hemophilia",
+        "Mongolian spots",
+        "Neonatal purpura"
+      ],
+      "correct": 2,
+      "explanation": "The clinical description of large, pale blue, non-warm, flat lesions on the buttocks present since birth is consistent with Mongolian spots."
+    },
+    {
+      "stem": "A 3 day old girl presents with enlargement of both breasts, there is no tenderness or hotness. The most likely diagnosis is?",
+      "options": [
+        "Mastitis",
+        "Neonatal gynecomastia",
+        "Precocious puberty",
+        "Premature thelarche"
+      ],
+      "correct": 1,
+      "explanation": "Neonatal gynecomastia is a common, benign condition in newborns caused by the withdrawal of maternal hormones. It presents as bilateral breast enlargement and resolves spontaneously."
+    },
+    {
+      "stem": "A 3-day- old girl is brought to her pediatrician. The mother states that while she is changing the diaper of her baby, she noticed a blood tinged mucous discharge. The most appropriate action is?",
+      "options": [
+        "Ask for history of trauma or sexual abuse",
+        "Coagulation profile",
+        "Complete blood picture",
+        "Reassurance"
+      ],
+      "correct": 3,
+      "explanation": "A mucoid vaginal discharge that may be blood-tinged is a normal finding in female newborns due to the withdrawal of maternal hormones. No investigation is needed, and the mother should be reassured."
+    },
+    {
+      "stem": "A full term newborn baby was delivered by normal vaginal delivery. On examination; this baby had a diffuse edematous swelling of the soft tissues of the scalp extending across the suture lines. The most likely diagnosis is?",
+      "options": [
+        "Caput succedaneum",
+        "Cephalhematoma",
+        "Moulding",
+        "Subdural hematoma"
+      ],
+      "correct": 0,
+      "explanation": "Caput succedaneum is a soft, edematous swelling of the scalp present at birth. Its key feature is that it crosses the suture lines of the skull. It typically disappears within 1-2 days."
+    },
+    {
+      "stem": "An 18-year-old female at 33 weeks gestation with pre-eclampsia, delivered a baby whose birth weight is 1450 g (<10th percentile), crown-heel length is 38 cm (10th percentile), and head circumference is 30 cm (50th percentile). The most likely complication in this infant is?",
+      "options": [
+        "Neonatal pneumonia",
+        "Hyperglycemia",
+        "Meconium aspiration",
+        "Perinatal asphyxia"
+      ],
+      "correct": 3,
+      "explanation": "This infant is small for gestational age (SGA) due to pre-eclampsia, which causes placental insufficiency. SGA infants are at a higher risk of perinatal asphyxia, hypoglycemia, and hypothermia."
+    },
+    {
+      "stem": "A male infant is born at an estimated gestational age of 35 weeks. His measurements at birth are weight, 1,200 g (less than 10th percentile); crown-heel length, 45 cm (50th percentile); and head circumference, 31.5 cm (50th percentile). From the following, the most likely explanation for the growth pattern of this infant is?",
+      "options": [
+        "Chromosomal abnormality",
+        "Congenital viral infection",
+        "Gestational diabetes",
+        "Pregnancy-induced hypertension"
+      ],
+      "correct": 3,
+      "explanation": "The infant's birth weight is disproportionately low compared to length and head circumference. This is asymmetrical growth retardation, which typically occurs late in pregnancy due to factors like placental insufficiency, commonly caused by pregnancy-induced hypertension."
+    },
+    {
+      "stem": "A 4.3 kg infant is delivered to a woman whose diabetes mellitus is poorly controlled. Of the following, the most likely neonatal complication of maternal diabetes is?",
+      "options": [
+        "Diabetic ketoacidosis",
+        "Hirschsprung disease",
+        "Hypercalcemia",
+        "Polycythemia"
+      ],
+      "correct": 3,
+      "explanation": "Infants of diabetic mothers (IDMs) are at high risk for polycythemia (hematocrit >65%). Fetal hyperglycemia causes fetal hyperinsulinism, which promotes growth and erythropoiesis. Hypoglycemia and hypocalcemia are also common."
+    },
+    {
+      "stem": "A 3-day-old infant presenting with jaundice, the baby's direct serum bilirubin is 0.2 mg/dl, with a total serum bilirubin of 11.8 mg/dl. Both the mother and baby have O-positive group, the infant's white cell count is 13,000/uL with normal differential count the hemoglobin is 15 g/dl, and the platelet count is 278,000/Ul. Reticulocyte count is 1.5%. Which of the following is the most likely cause?",
+      "options": [
+        "Biliary atresia",
+        "Congenital spherocytic anemia",
+        "Physiologic jaundice",
+        "Rh or ABO hemolytic disease"
+      ],
+      "correct": 2,
+      "explanation": "The jaundice began on day 3, total bilirubin is below pathological limits, direct bilirubin is normal, and blood tests show no evidence of hemolysis. This presentation is classic for physiological jaundice."
+    },
+    {
+      "stem": "A 3-week-old infant breast fed, developed jaundice, first noticed 12 days ago. On examination, he is active with good sulking. Total bilirubin: 8 mg/dl; direct bilirubin, 4.5 mg/dl. The most likely diagnosis is?",
+      "options": [
+        "Biliary atresia",
+        "Breast milk jaundice",
+        "Congenital hypothyroidism",
+        "Sepsis"
+      ],
+      "correct": 0,
+      "explanation": "This infant has prolonged jaundice with a significantly elevated direct bilirubin level (4.5 mg/dL), which is >20% of the total bilirubin. This indicates cholestasis, a key feature of biliary atresia."
+    },
+    {
+      "stem": "A well, breast-fed term infant presented with jaundice at 36 hours of age. The total serum bilirubin was 20 mg/dl, direct bilirubin 0.9 mg/dl. Blood film showed reticulocytes 6%. The baby's blood group was A rhesus negative and mother's blood group O rhesus negative. Which of the following is the most likely diagnosis?",
+      "options": [
+        "ABO incompatibility",
+        "Breast milk-associated jaundice",
+        "Hereditary spherocytosis",
+        "Rhesus hemolytic disease"
+      ],
+      "correct": 0,
+      "explanation": "Jaundice at 36 hours is pathological. The mother has blood type O and the baby has blood type A, a classic setup for ABO incompatibility. The high reticulocyte count (6%) confirms a hemolytic process."
+    },
+    {
+      "stem": "A 24-hour- female infant presented with jaundice. Her total serum bilirubin was 18 mg/dL direct bilirubin 0.8 mg/dl. Both the baby and mother blood group were A rhesus positive. The mother states that she has another child on regular blood transfusions. Which of the following is the most likely diagnosis?",
+      "options": [
+        "ABO incompatibility",
+        "Glucose 6 phosphate dehydrogenase deficiency",
+        "Hereditary spherocytosis",
+        "Rhesus hemolytic disease"
+      ],
+      "correct": 2,
+      "explanation": "Jaundice at 24 hours is pathological. Blood groups rule out ABO/Rh incompatibility. The family history of another child needing regular transfusions strongly suggests a hereditary hemolytic anemia, such as hereditary spherocytosis."
+    },
+    {
+      "stem": "A newborn whose estimated gestational age is 42 weeks is stained with meconium. The infant has respiratory distress. A chest radiograph is obtained. Which of the followings is the most likely radiographic finding?",
+      "options": [
+        "Coarse lung infiltrates",
+        "Decreased lung volumes",
+        "Mediastinal shift",
+        "Reticulogranular pattern"
+      ],
+      "correct": 0,
+      "explanation": "The history points to meconium aspiration syndrome. A chest X-ray in this condition typically shows diffuse, coarse, patchy infiltrates (opacities) with areas of hyperinflation."
+    },
+    {
+      "stem": "A term, 4200 g female infant is delivered via cesarean section, the amniotic fluid was clear, and the infant cried almost immediately after birth. Within the first 15 min of life, however, the infant's respiratory rate increased to 80 breaths/ min, and she began to have mild retractions. Oxygen saturation was 94%. A chest radiograph showed fluid in the fissure, and prominent pulmonary vascular markings. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Meconium aspiration",
+        "Pneumonia",
+        "Respiratory distress syndrome",
+        "Transient tachypnea of the newborn"
+      ],
+      "correct": 3,
+      "explanation": "This infant was born by C-section, a risk factor for transient tachypnea of the newborn (TTN). The mild, early respiratory distress and classic X-ray findings (fluid in fissures, prominent vascular markings) are characteristic of TTN."
+    },
+    {
+      "stem": "A 28- week- gestational premature infant who is delivered by CS presented with respiratory distress. On examination, respiratory rate is 80/m with retractions, heart rate 130/ minute. By auscultation there is diminished air entry in both lungs. The chest x ray most probably will show?",
+      "options": [
+        "Cardiomegaly",
+        "Increased pulmonary vascular markings",
+        "Mediastinal shift",
+        "White lung"
+      ],
+      "correct": 3,
+      "explanation": "This premature infant has classic signs of respiratory distress syndrome (RDS) due to surfactant deficiency. Severe RDS on X-ray can present as a 'white lung' appearance, which is complete opacification of both lung fields."
+    },
+    {
+      "stem": "A newborn infant develops respiratory distress immediately after birth. His abdomen is scaphoid. No breath sounds are heard on the left side of his chest, but they are audible on the right. Immediate intubation is successful with little or no improvement in clinical status. Which of the following is most likely explanation for this infant's condition?",
+      "options": [
+        "Choanal atresia",
+        "Diaphragmatic hernia",
+        "Pneumonia",
+        "Pneumothorax"
+      ],
+      "correct": 1,
+      "explanation": "A scaphoid abdomen, unilateral decreased breath sounds, and severe respiratory distress at birth are classic signs of a congenital diaphragmatic hernia. The herniated abdominal organs compress the lung, causing hypoplasia."
+    },
+    {
+      "stem": "A 4-hour-old newborn has copious oral secretions and episodes of coughing, choking, and cyanosis. The pregnancy was complicated by polyhydramnios. You suspect esophageal atresia with tracheoesophageal fistula. The most helpful test to confirm the diagnosis is to?",
+      "options": [
+        "Inject a contrast medium through a nasogastric catheter and obtain a neck radiograph",
+        "Obtain computed tomography of the neck",
+        "Perform flexible bronchoscopy",
+        "Place a nasogastric tube and obtain a chest radiograph"
+      ],
+      "correct": 3,
+      "explanation": "The symptoms are classic for esophageal atresia with tracheoesophageal fistula. The simplest and most effective diagnostic test is to attempt to pass a nasogastric tube; it will be unable to pass into the stomach and will be seen coiled in the upper esophageal pouch on a chest X-ray."
+    },
+    {
+      "stem": "A newborn infant is delivered by emergency cesarean section at 41 weeks' gestation following a pregnancy complicated by a prolapsed umbilical cord and meconium-stained amniotic fluid. At 6 hours of age, the infant has a generalized tonic-clonic seizure. Of the following, the most likely explanation for this seizure is?",
+      "options": [
+        "Hyponatremia",
+        "Hypoxic-ischemic encephalopathy",
+        "Meningitis",
+        "Intracranial hemorrhage"
+      ],
+      "correct": 1,
+      "explanation": "The history includes multiple risk factors for perinatal asphyxia (prolapsed cord, meconium), which can lead to hypoxic-ischemic encephalopathy (HIE). Seizures are a common manifestation of HIE, typically occurring within the first 24 hours of life."
+    },
+    {
+      "stem": "A 3-day-old term infant is seen with seizures. The infant had an unremarkable delivery and postnatal course. Which of the following is not a cause of seizure in this infant?",
+      "options": [
+        "Hypermagnesemia",
+        "Hypoglycemia",
+        "Hypocalcemia",
+        "Pyridoxine deficiency"
+      ],
+      "correct": 0,
+      "explanation": "Hypoglycemia, hypocalcemia, and pyridoxine deficiency are all known causes of neonatal seizures. Hypermagnesemia typically causes CNS depression and muscle weakness, not seizures."
+    },
+    {
+      "stem": "A 1 day old infant develops jitteriness and convulsions. He was born at 34 weeks gestation to a woman whose pregnancy was complicated by diabetes and pregnancy induced hypertension. Which one of the following values explains this condition?",
+      "options": [
+        "Serum calcium of 6.2 mg/dl",
+        "Serum glucose of 45 mg/dl",
+        "Serum magnesium 2mg/dl",
+        "Serum sodium level of 140 mEq/L"
+      ],
+      "correct": 0,
+      "explanation": "The infant is premature and born to a mother with risk factors, placing him at high risk for metabolic disturbances. A serum calcium level below 7 mg/dL defines hypocalcemia, which can cause jitteriness and convulsions. The other values are within normal limits."
+    },
+    {
+      "stem": "A 2-day-old baby is brought to ER after a generalized seizure lasting 3 minutes. If the seizure were related to birth trauma, the most likely finding would be?",
+      "options": [
+        "Concussion",
+        "Focal brain contusion",
+        "Subarachnoid hemorrhage",
+        "Subdural hemorrhage"
+      ],
+      "correct": 2,
+      "explanation": "The most common type of intracranial hemorrhage in a full-term newborn related to birth trauma is a subarachnoid hemorrhage, which can present with seizures."
+    },
+    {
+      "stem": "A 2 day- old, full term male newborn presented with intermittent posturing while in the nursery. Labor was complicated by prolonged fetal descent and fetal heart decelerations. The most likely pattern is?",
+      "options": [
+        "Athetosis",
+        "Chorea",
+        "Jitteriness",
+        "Subtle convulsions"
+      ],
+      "correct": 3,
+      "explanation": "The history suggests possible hypoxic-ischemic encephalopathy. The intermittent posturing described is characteristic of subtle convulsions, the most common type of seizure in newborns."
+    },
+    {
+      "stem": "A 2-kg full-term neonate was delivered to a mother with severe preeclampsia. The patient appears wasted with little subcutaneous fat but is active and not distressed. The baby is jittery in the nursery. Serum glucose was <20 mg/dl. The most likely cause of this infant's hypoglycemia is?",
+      "options": [
+        "Bacterial sepsis",
+        "Decreased glycogen stores",
+        "Insulin-secreting tumor",
+        "TORCH Infection"
+      ],
+      "correct": 1,
+      "explanation": "The infant is small for gestational age (SGA) due to maternal preeclampsia. SGA infants have poor glycogen stores due to placental insufficiency, making hypoglycemia a common complication."
+    },
+    {
+      "stem": "A previously healthy 4-day-old male who was born at home develops bruising and melena. The pregnancy, delivery, and postnatal course were unremarkable. Laboratory testing reveals: hemoglobin, 8.1 g%, white cell count 8,500, platelet count, 242,000/ m. Which of the following is the most likely cause of the bleeding?",
+      "options": [
+        "Disseminated intravascular coagulation",
+        "Hemophilia A",
+        "Liver disease",
+        "Vitamin K deficiency"
+      ],
+      "correct": 3,
+      "explanation": "This presentation is classic for hemorrhagic disease of the newborn (HDN), caused by vitamin K deficiency. The infant was born at home and likely did not receive routine vitamin K prophylaxis. The platelet count is normal, which helps differentiate it from DIC."
+    },
+    {
+      "stem": "A term baby born after difficult vaginal delivery is noted to be pale. Hemoglobin 5.5 g/dl white cell count 14,000; platelets 286,000, normal blood film. The baby remains well and is transfused with packed red blood cells. A cranial ultrasound scan is normal. In order to establish the cause of the anemia. Which of the following is the next investigation?",
+      "options": [
+        "Abdominal ultrasound scan",
+        "Bone marrow biopsy",
+        "Coagulation screen",
+        "Hemoglobin electrophoresis"
+      ],
+      "correct": 0,
+      "explanation": "The infant has severe anemia after a difficult delivery, suggesting an internal hemorrhage. Since the cranial ultrasound is normal, an abdominal ultrasound is the most appropriate next step to look for a liver, splenic, or adrenal hematoma."
+    },
+    {
+      "stem": "A 7-day-old term boy is admitted to hospital with bruising and bleeding from the umbilical stump. He was born at home and was not given vitamin K after birth. What is the best treatment for the baby?",
+      "options": [
+        "Intramuscular vitamin K only",
+        "Intramuscular vitamin K plus fresh frozen plasma if needed",
+        "Intravenous vitamin K plus fresh frozen plasma",
+        "No treatment"
+      ],
+      "correct": 2,
+      "explanation": "This is a case of late hemorrhagic disease of the newborn. The best treatment for active bleeding is intravenous vitamin K to correct the underlying deficiency and fresh frozen plasma (FFP) to immediately replace the missing coagulation factors."
+    },
+    {
+      "stem": "A 6-week-old infant born at 32 weeks' gestation presenting for follow up. Mother states that her baby looks pale. Laboratory evaluation reveals a CBC within the reference range with the exception of hemoglobin level which is 12 gram%. Knowing that at birth hemoglobin level was 16 gram%. What is the best management?",
+      "options": [
+        "Blood transfusion",
+        "Bone marrow aspiration",
+        "Complete blood picture",
+        "Reassurance"
+      ],
+      "correct": 3,
+      "explanation": "This is a classic presentation of physiological anemia of prematurity, an exaggeration of the normal drop in hemoglobin seen in all infants. This is a benign, self-limiting condition that requires no treatment other than reassurance, unless the infant is symptomatic."
+    },
+    {
+      "stem": "A baby is born by spontaneous, vaginal delivery at 35 weeks' gestation following rupture of membranes 30 hours before birth. The mother was well and was not treated by antibiotics during labor. A vaginal swab was taken on admission. The baby was well and the mother asks to be discharged home as soon as possible. What is the most appropriate management for the baby at this time?",
+      "options": [
+        "Discharge home",
+        "Take a sepsis screen and start intravenous antibiotics",
+        "Take a sepsis screen and give intravenous antibiotics if results are suggestive of sepsis",
+        "Wait for the result of vaginal swab and treat the baby accordingly"
+      ],
+      "correct": 1,
+      "explanation": "The infant is premature (35 weeks) and there was prolonged rupture of membranes (30 hours) without maternal antibiotic treatment. These are major risk factors for early-onset sepsis. The safest management is to perform a full sepsis work-up and start empiric IV antibiotics immediately."
+    },
+    {
+      "stem": "A 15 day old newborn presents to the emergency room with a temperature of 39.9 rectal. The parents complained that their baby was irritable and not sucking well. What should the work-up of this patient include?",
+      "options": [
+        "Blood Culture",
+        "Complete blood count with differential",
+        "CSF examination",
+        "All of these answers are correct"
+      ],
+      "correct": 3,
+      "explanation": "A febrile, irritable neonate is a medical emergency. A full sepsis work-up is mandatory and includes a complete blood count (CBC), blood culture, and cerebrospinal fluid (CSF) examination via lumbar puncture to rule out meningitis."
+    },
+    {
+      "stem": "The proper antibiotics to use for this patient (Question 46) include?",
+      "options": [
+        "Ampicillin only",
+        "Ampicillin plus Gentamicin",
+        "Ceftriaxone only",
+        "Vancomycin only"
+      ],
+      "correct": 1,
+      "explanation": "For a suspected case of neonatal sepsis, empiric antibiotic therapy should be started immediately. The standard first-line regimen is a combination of ampicillin and an aminoglycoside, such as gentamicin, to provide broad-spectrum coverage."
+    },
+    {
+      "stem": "A 1-week-old neonate presents with erythema around the umbilicus extending to the abdominal wall. Which of the following is the management of this patient?",
+      "options": [
+        "Discharge on oral antibiotics and recheck the next day",
+        "Perform a full sepsis workup and admit the patient",
+        "Reassurance and continue with alcohol wipes of umbilicus",
+        "Topical antibiotic ointment and recheck the patient the next day"
+      ],
+      "correct": 1,
+      "explanation": "Erythema extending from the umbilicus to the abdominal wall is omphalitis, a serious infection that can rapidly progress to sepsis. The appropriate management is to perform a full sepsis work-up and admit the infant for intravenous antibiotics."
+    },
+    {
+      "stem": "A 4-day-old baby is brought by his mother because of lethargy and poor feeding. His skin is cold and mottled and his temperature is 36.8 c. After stabilization, which one of the following is the most appropriate investigation?",
+      "options": [
+        "Blood gases",
+        "Chest x ray",
+        "Lumbar puncture",
+        "Serum electrolytes"
+      ],
+      "correct": 2,
+      "explanation": "The clinical picture is highly suggestive of sepsis. A lumbar puncture to examine the cerebrospinal fluid (CSF) is essential to rule out meningitis, a common and serious complication of neonatal sepsis."
+    },
+    {
+      "stem": "A 2-day- full term newborn baby was delivered after prolonged vaginal delivery. On Examination, this baby had swelling of the soft tissues of the scalp and scalp abrasions. The swelling was not extending across the suture lines. The most likely diagnosis is?",
+      "options": [
+        "Caput succedaneum",
+        "Cephalhematoma",
+        "Moulding",
+        "Subdural hematoma"
+      ],
+      "correct": 1,
+      "explanation": "A cephalhematoma is a collection of blood between the skull bone and the periosteum. It is caused by difficult delivery and, unlike a caput succedaneum, it does not cross the suture lines of the skull. It appears hours after birth."
+    },
+    {
+      "stem": "An 8- hour's old neonate develops respiratory distress, hypothermia and hypotension. The CBC shows leucopenia with 80% bands. The most likely diagnosis is?",
+      "options": [
+        "Diaphragmatic hernia",
+        "Group B streptococcal pneumonia(congenital pneumonia)",
+        "Respiratory distress syndrome",
+        "Transient tachypnea of the newborn"
+      ],
+      "correct": 1,
+      "explanation": "The fulminant course of respiratory distress, hypothermia, and hypotension, combined with CBC findings of leucopenia and a high band count, is highly suggestive of early-onset sepsis. Group B Streptococcus is a common cause of congenital pneumonia."
+    },
+    {
+      "stem": "A mother delivers a neonate with meconium staining and low APGAR scores. The delivery was by emergency cesarean section for severe fetal bradycardia. Which of the following complications could be expected to develop in this neonate put on mechanical ventilation?",
+      "options": [
+        "Cataract",
+        "Hyperactive bowel sounds",
+        "Pulmonary hypertension",
+        "Thrombocytosis"
+      ],
+      "correct": 2,
+      "explanation": "The history suggests meconium aspiration syndrome. A major complication of this syndrome is persistent pulmonary hypertension of the newborn (PPHN), which is exacerbated by the inflammatory response and physical obstruction in the airways caused by meconium."
+    },
+    {
+      "stem": "A mother whose blood type is O positive gives birth at term to an infant who has A positive blood and a hematocrit of 55%. A serum bilirubin level obtained at 36 h of age is 12.2 mg/dl. Which of the following laboratory results can diagnose this case?",
+      "options": [
+        "Crescent-shaped RBCs in the blood film",
+        "Normal reticulocytic count",
+        "Positive direct coombs test",
+        "Thrombocytopenia"
+      ],
+      "correct": 2,
+      "explanation": "The mother is type O and the baby is type A, a setup for ABO incompatibility. Pathological jaundice is present. A positive direct Coombs test confirms that maternal antibodies are coating the baby's red blood cells, which is the diagnostic finding for isoimmune hemolytic disease."
+    },
+    {
+      "stem": "A premature infant born at 32 weeks gestation, is now 1 week old, was doing well on nasogastric feeding, today he was observed to have tense distended abdomen with decreased bowel sounds. The nurse reports that the infant has vomited the last two feedings. By examination, the baby has bloody stools. The most likely diagnosis is?",
+      "options": [
+        "Aspirated maternal blood",
+        "Hemorrhagic disease of the newborn",
+        "Intussusception",
+        "Necrotizing enterocolitis"
+      ],
+      "correct": 3,
+      "explanation": "This premature infant presents with a classic triad of symptoms for necrotizing enterocolitis (NEC): abdominal distension, feeding intolerance (vomiting), and bloody stools. NEC is a serious gastrointestinal emergency affecting premature infants."
+    },
+    {
+      "stem": "A 3-day- old infant born at 32 weeks gestation and weighing 1700gram has three episodes of apnea, each lasting 20-25 seconds and occurring after feeding. Between episodes the baby shows normal activity. Blood sugar is 50 mg/dl and serum calcium 9 mg/dl. Which of the following is true regarding the cause of the apneic attacks?",
+      "options": [
+        "Immature respiratory centre",
+        "Part of periodic breathing",
+        "Secondary to hypoglycemia",
+        "Underlying pulmonary disease"
+      ],
+      "correct": 0,
+      "explanation": "This is a premature infant with apneic episodes lasting >20 seconds. With normal metabolic labs, the most likely cause is apnea of prematurity, which results from the immaturity of the brainstem respiratory centers."
+    },
+    {
+      "stem": "1 day old infant born by difficult forceps delivery is seen unable to move her left arm during a Moro reflex examination. The arm is internally rotated; the forearm is extended and pronated. The most likely diagnosis is?",
+      "options": [
+        "Erb's paralysis left side",
+        "Fracture left clavicle",
+        "Fracture left humerus",
+        "Klumpke paralysis"
+      ],
+      "correct": 0,
+      "explanation": "Erb's palsy is a brachial plexus injury (C5-C6) from a difficult delivery. The classic presentation is the 'waiter's tip' position: adduction and internal rotation of the arm with the forearm extended and pronated. The Moro reflex is absent on the affected side."
+    },
+    {
+      "stem": "A 20-year-old woman with pre-eclampsia delivered at 38 weeks gestation a 2100 gram infant with low APGAR scores. Laboratory studies at 18 hour of age reveal a hematocrit of 79%, platelet count of 160,000/μl glucose 40 mg/dl., magnesium 2.5 mEq/1 and calcium 8.7 mg/dl. Soon after, the infant developed generalized convulsions. Which of the following is the most likely cause of the seizures?",
+      "options": [
+        "Hypocalcemia",
+        "Hypoglycemia",
+        "Hypermagnesemia",
+        "Polycythemia"
+      ],
+      "correct": 3,
+      "explanation": "The infant is small for gestational age and has a very high hematocrit of 79%, indicating polycythemia. The resulting hyperviscosity can impair cerebral blood flow and cause neurological symptoms, including seizures. The other metabolic values are within normal limits."
+    },
+    {
+      "stem": "Shortly After birth, a newborn develops abdominal distention. She begins to drool, when she is given her first feeding. She coughs and chokes, physical examination reveals respiratory distress. The most likely diagnosis is?",
+      "options": [
+        "Cleft palate",
+        "Esophageal atresia with tracheoesophageal fistula",
+        "Pyloric stenosis",
+        "Pharyngeal paralysis"
+      ],
+      "correct": 1,
+      "explanation": "The symptoms of drooling, coughing, choking, and respiratory distress with the first feeding are classic for esophageal atresia with tracheoesophageal fistula. Abdominal distension can also occur due to air passing into the stomach through the fistula."
+    },
+    {
+      "stem": "About neonatal resuscitation, which of the following is true?",
+      "options": [
+        "Diaphragmatic hernia is an indication for early intubation",
+        "Endotracheal intubation is done in all neonates",
+        "The first step in resuscitation is the use of bag and mask ventilation",
+        "The presence of meconium is an indication for chest compressions"
+      ],
+      "correct": 0,
+      "explanation": "In a newborn with a diaphragmatic hernia, bag-and-mask ventilation is contraindicated as it can distend the herniated bowel and worsen respiratory compromise. Early endotracheal intubation is the correct initial step to secure the airway."
+    },
+    {
+      "stem": "Regarding drugs given in resuscitation, which of the following is false ?",
+      "options": [
+        "Adrenaline increases heart rate and force of contraction",
+        "Atropine is given for bradycardia",
+        "Naloxone is given only when there is history of maternal intake of narcotics",
+        "Sodium bicarbonate is given with prolonged cardiac arrest"
+      ],
+      "correct": 1,
+      "explanation": "Bradycardia in a newborn is most often due to hypoxia and is treated with ventilation and oxygenation. Atropine is not a standard drug used in neonatal resuscitation. Epinephrine is the drug of choice for persistent bradycardia."
+    },
+    {
+      "stem": "During neonatal resuscitation, after tactile stimulation a baby born apneic, this is an indication for which step?",
+      "options": [
+        "Adrenaline through umbilical vein",
+        "Bag and mask ventilation, then if failed endotracheal intubation",
+        "Endotracheal intubation",
+        "Prolonged tactile stimulation"
+      ],
+      "correct": 1,
+      "explanation": "After the initial steps, a newborn who is apneic requires immediate positive pressure ventilation (PPV). The initial method is bag-and-mask ventilation. Endotracheal intubation is only performed if bag-and-mask ventilation is ineffective."
+    },
+    {
+      "stem": "Which of the following is not part of the Apgar score?",
+      "options": [
+        "Blood pressure",
+        "Color of the skin",
+        "Heart rate",
+        "Muscle tone"
+      ],
+      "correct": 0,
+      "explanation": "The Apgar score assesses Appearance (color), Pulse (heart rate), Grimace (reflex irritability), Activity (muscle tone), and Respiration. Blood pressure is not a component."
+    },
+    {
+      "stem": "Which of the following is abnormal in a full-term new born?",
+      "options": [
+        "Apex in the 4th intercostal space",
+        "Heart rate 140/minute",
+        "Respiratory rate 40/ minute",
+        "Skull circumference 50 cm"
+      ],
+      "correct": 3,
+      "explanation": "The average head circumference of a full-term newborn is 35 cm. A head circumference of 50 cm is significantly larger than normal (macrocephaly). The other values are within the normal range."
+    },
+    {
+      "stem": "Which statement about a normal full term neonate is false?",
+      "options": [
+        "Anterior fontanel is closed at birth",
+        "Length is 50 cm.",
+        "Skull circumference is 35 cm",
+        "Weight is about 3250 gm"
+      ],
+      "correct": 0,
+      "explanation": "The anterior fontanel is open at birth and typically closes between 9 and 18 months of age. The posterior fontanel may be closed or very small at birth. The other measurements are average for a full-term neonate."
+    },
+    {
+      "stem": "Vaginal bleeding in a 3 days old neonate is mostly due to",
+      "options": [
+        "Birth trauma",
+        "Maternal blood",
+        "Tumor of the genital tract",
+        "Withdrawal of maternal hormones"
+      ],
+      "correct": 3,
+      "explanation": "Physiological vaginal bleeding in a female neonate is a normal occurrence caused by the withdrawal of maternal estrogen after birth. It is a benign, self-limiting condition."
+    },
+    {
+      "stem": "Which disorder is not screened at birth?",
+      "options": [
+        "Hypothyroidism",
+        "Galactosemia",
+        "Phenylketonuria",
+        "Pheochromocytoma"
+      ],
+      "correct": 3,
+      "explanation": "Newborn screening tests for common metabolic and endocrine disorders like hypothyroidism, galactosemia, and phenylketonuria. Pheochromocytoma is a rare tumor and is not part of routine newborn screening."
+    },
+    {
+      "stem": "Which is false about Moro reflex?",
+      "options": [
+        "Absence at birth may be due to birth asphyxia.",
+        "Disappears by the 3rd month of life.",
+        "Its persistence suggests cerebral palsy.",
+        "Unilateral Moro reflex may indicate Erb's palsy."
+      ],
+      "correct": 1,
+      "explanation": "The Moro reflex normally disappears by 4-6 months of age. Its persistence beyond 6 months is abnormal. Therefore, the statement that it disappears by the 3rd month is false."
+    },
+    {
+      "stem": "About neonatal reflexes, which of the following is not true",
+      "options": [
+        "Absence of tonic neck reflex in neonate indicates spinal cord lesion",
+        "Planter reflex is positive in neonates",
+        "Rooting reflex is elicited by introducing a finger in infant's mouth.",
+        "Stepping reflex is elicited by holding the baby with his feet touching a table"
+      ],
+      "correct": 2,
+      "explanation": "The rooting reflex is elicited by touching the corner of the mouth, causing the infant to turn their head towards the stimulus. The sucking reflex is elicited by placing a finger in the infant's mouth."
+    },
+    {
+      "stem": "Which of the following is not a correct definition?",
+      "options": [
+        "Large for gestational age infants have a birth weight more than 90th percentile",
+        "Premature infants are babies with birth weight less than 2.500 gram",
+        "Premature infants are those with gestational age less than 37 weeks",
+        "Small for gestational age infants have a birth weight less than10th percentile"
+      ],
+      "correct": 1,
+      "explanation": "Prematurity is defined by gestational age (<37 weeks), not birth weight. An infant with a birth weight less than 2,500 grams is defined as low birth weight (LBW)."
+    },
+    {
+      "stem": "An extreme preterm baby does not have this as a characteristic physical sign",
+      "options": [
+        "Skin is dark red",
+        "Good muscle tone(flexed position)",
+        "Excessive lanugo hair over the back",
+        "Incomplete sole creases"
+      ],
+      "correct": 1,
+      "explanation": "An extremely preterm baby is characterized by hypotonia (poor muscle tone) and lies in an extended, frog-like position, not a flexed position with good muscle tone. The other signs are characteristic of prematurity."
+    },
+    {
+      "stem": "A premature neonate is more liable to the following",
+      "options": [
+        "Hypoglycemia",
+        "Hypothermia",
+        "Intracranial hemorrhage",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "Premature infants are at high risk for numerous complications due to immature organ systems, including hypoglycemia, hypothermia, and intracranial hemorrhage. Therefore, all the listed conditions are common."
+    },
+    {
+      "stem": "Small for gestational age is commonly associated with",
+      "options": [
+        "Antenatal infections",
+        "Chromosomal disorders",
+        "Maternal hypertension",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "Small for gestational age (SGA) can result from maternal factors (like hypertension), fetal factors (like infections and chromosomal disorders), or placental issues. All the listed options are common causes."
+    },
+    {
+      "stem": "A newborn infant of diabetic mother may present with",
+      "options": [
+        "Anemia",
+        "Hypercalcemia",
+        "Hypoglycemia",
+        "Hyponatremia"
+      ],
+      "correct": 2,
+      "explanation": "Hypoglycemia is a major neonatal complication of maternal diabetes, caused by fetal hyperinsulinism. Hypocalcemia, not hypercalcemia, is also a potential complication."
+    },
+    {
+      "stem": "In hemolytic disease of newborn, a false statement on exchange transfusion is",
+      "options": [
+        "It is carried out with group O Rh-Ve blood in ABO and Rh incompatibility respectively",
+        "is indicated when cord bilirubin is 5 mg% or more",
+        "Serum conjugated bilirubin of 20 mg% or more is another indication",
+        "The volume of blood needed for exchange=85X 2 X weight in kg"
+      ],
+      "correct": 2,
+      "explanation": "Exchange transfusion is a treatment for severe unconjugated (indirect) hyperbilirubinemia. A high level of conjugated (direct) bilirubin is a contraindication, not an indication, as it suggests cholestasis."
+    },
+    {
+      "stem": "The most common cause of neonatal jaundice in the first week of life is",
+      "options": [
+        "Biliary atresia",
+        "Neonatal hepatitis",
+        "Physiological jaundice",
+        "Thalassemia"
+      ],
+      "correct": 2,
+      "explanation": "Physiological jaundice is the most common cause of neonatal jaundice, affecting a majority of newborns. It typically appears on the 2nd or 3rd day of life and is self-limiting."
+    },
+    {
+      "stem": "Which is not a cause of jaundice appearing or persisting after the first week of life",
+      "options": [
+        "Breast milk jaundice",
+        "Hereditary spherocytosis",
+        "Neonatal hepatitis",
+        "Physiologic jaundice"
+      ],
+      "correct": 3,
+      "explanation": "Physiologic jaundice typically resolves within the first week of life in full-term infants. Jaundice that persists beyond this period is considered prolonged and requires investigation for other causes like those listed."
+    },
+    {
+      "stem": "Breast-milk jaundice is not characterized by",
+      "options": [
+        "Discontinuation of breast-feeding for 48 hours, is followed by a rapid fall in serum bilirubin.",
+        "Hyperbilirubinemia is of the unconjugated type",
+        "If breast-feeding is resumed again after 48 hours, hyperbilirubinemia does not recur.",
+        "It may lead to bilirubin encephalopathy if not adequately managed."
+      ],
+      "correct": 2,
+      "explanation": "If breastfeeding is resumed after a temporary discontinuation for breast-milk jaundice, the bilirubin level will typically rise again slightly but not to the previous high level. The statement that it does not recur is false. Also, Kernicterus is an extremely rare complication."
+    },
+    {
+      "stem": "Persistent jaundice after the neonatal period may be due to",
+      "options": [
+        "Biliary atresia",
+        "Galactosemia",
+        "Hypothyroidism",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "Biliary atresia, galactosemia, and hypothyroidism are all important causes of prolonged or persistent jaundice in an infant. Therefore, all of these should be considered in the differential diagnosis."
+    },
+    {
+      "stem": "Side effects of phototherapy don't include",
+      "options": [
+        "Constipation",
+        "Hyperthermia",
+        "Retinal damage",
+        "Skin rash"
+      ],
+      "correct": 0,
+      "explanation": "A common side effect of phototherapy is loose, frequent stools due to increased intestinal motility. Constipation is not a typical side effect. Hyperthermia, retinal damage (if eyes are not protected), and skin rash are known side effects."
+    },
+    {
+      "stem": "Exchange transfusion is indicated in:",
+      "options": [
+        "Cord indirect bilirubin level is 5mg% or more",
+        "Neonatal polycythemia",
+        "Neonatal septicemia",
+        "Sickle cell anemia"
+      ],
+      "correct": 0,
+      "explanation": "An exchange transfusion is indicated in a newborn with hemolytic disease when the cord indirect bilirubin level is 5 mg/dL or more, indicating severe hemolysis at birth."
+    },
+    {
+      "stem": "Which is not a complication of exchange transfusion",
+      "options": [
+        "Acidosis",
+        "Hypocalcemia",
+        "Hypoglycemia",
+        "Hypokalemia"
+      ],
+      "correct": 3,
+      "explanation": "A potential complication of exchange transfusion is hyperkalemia due to the use of stored blood. Hypokalemia is not a typical complication. Acidosis, hypocalcemia, and hypoglycemia are all potential metabolic complications."
+    },
+    {
+      "stem": "Which is not a feature of respiratory distress syndrome?",
+      "options": [
+        "Less frequency and severity after maternal steroid intake",
+        "More common after cesarean section",
+        "More common in post-term delivery",
+        "More common in premature babies"
+      ],
+      "correct": 2,
+      "explanation": "Respiratory distress syndrome (RDS) is primarily a disease of prematurity due to surfactant deficiency. It is not more common in post-term delivery; in fact, it is rare in term or post-term infants."
+    },
+    {
+      "stem": "Transient tachypnea of the newborn is not characterized by",
+      "options": [
+        "Caused by delayed absorption of fetal lung fluid",
+        "Cannot be clearly differentiated from early pneumonia",
+        "It may require CPAP",
+        "Occurs more commonly in infants delivered by cesarean section"
+      ],
+      "correct": 2,
+      "explanation": "Transient tachypnea of the newborn (TTN) is a mild, self-limited condition that typically resolves with minimal support, such as supplemental oxygen. It rarely requires CPAP or mechanical ventilation."
+    },
+    {
+      "stem": "Regarding meconium aspiration syndrome, which is not true?",
+      "options": [
+        "Caused by plugging of the airways by meconium",
+        "Increases risk of pneumothorax",
+        "Occurs commonly in asphyxiated infants",
+        "Resolves over 24 to 48 hours"
+      ],
+      "correct": 3,
+      "explanation": "Meconium aspiration syndrome is a serious condition that can lead to severe respiratory distress and complications. It does not typically resolve within 24-48 hours and often requires significant respiratory support."
+    },
+    {
+      "stem": "A baby born at 31 weeks gestation has recurrent apneic episodes, which statement is wrong?",
+      "options": [
+        "Caffeine can be used",
+        "Hypothermia may contribute to its occurrence",
+        "May need ventilation",
+        "Normal finding and no treatment is required"
+      ],
+      "correct": 3,
+      "explanation": "Apneic episodes in a premature infant are a significant clinical finding and not a normal finding. Apnea of prematurity requires monitoring and often treatment with caffeine and/or respiratory support. The statement that it is normal and requires no treatment is false."
+    },
+    {
+      "stem": "Causes of seizures in the neonatal period do not include:",
+      "options": [
+        "Asphyxia",
+        "Hyperkalemia",
+        "Hypoglycemia",
+        "Hypomagnesemia"
+      ],
+      "correct": 1,
+      "explanation": "Asphyxia, hypoglycemia, and hypomagnesemia are all common causes of neonatal seizures. Hyperkalemia primarily affects cardiac function and does not typically cause seizures."
+    },
+    {
+      "stem": "Regarding jitteriness, which is true?",
+      "options": [
+        "EEG is usually abnormal",
+        "No abnormal gaze or eye movement",
+        "Movements are always asymmetrical",
+        "It is not related to stimuli"
+      ],
+      "correct": 1,
+      "explanation": "Jitteriness can be distinguished from seizures by the absence of abnormal eye movements or gaze. It is stimulus-sensitive, and the movements are typically symmetrical and can be stopped by holding the limb. The EEG is normal."
+    },
+    {
+      "stem": "Neonatal hypoglycemia may be caused by?",
+      "options": [
+        "Infant of diabetic mother",
+        "Intrauterine growth retardation",
+        "Perinatal asphyxia",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "Neonatal hypoglycemia can be caused by various factors, including being an infant of a diabetic mother, intrauterine growth retardation (SGA), and perinatal asphyxia. All these conditions can impair glucose regulation."
+    },
+    {
+      "stem": "Regarding a neonatal metabolic disturbance which of the following is not true?",
+      "options": [
+        "Hyperthermia in the newborn can cause febrile convulsions",
+        "Hypocalcemia is serum Ca less than 7 mg/dl",
+        "Hypomagnesemia is serum Mg less than 1.6 mg/dl",
+        "Hypothermia refers to body temperature less than 35.5 C"
+      ],
+      "correct": 0,
+      "explanation": "Febrile convulsions are associated with fever (pyrexia) due to infection, not hyperthermia from an external heat source. Newborns do not typically have febrile convulsions. The other statements are correct definitions."
+    },
+    {
+      "stem": "Hemorrhage in the neonatal period is not caused by?",
+      "options": [
+        "Anemia",
+        "Disseminated intravascular coagulopathy",
+        "Maternal idiopathic thrombocytopenic purpura",
+        "Vitamin K deficiency"
+      ],
+      "correct": 0,
+      "explanation": "Anemia is the result of hemorrhage, not the cause of it. The other options are all valid causes of bleeding in a newborn."
+    },
+    {
+      "stem": "Hemorrhagic disease of the newborn, which is not correct?",
+      "options": [
+        "Can be treated by fresh plasma",
+        "Can present between 2nd and 7th day of life",
+        "Can result in intracranial hemorrhage",
+        "Is prevented by administering vitamin E to all neonates"
+      ],
+      "correct": 3,
+      "explanation": "Hemorrhagic disease of the newborn is caused by a deficiency of vitamin K-dependent clotting factors. It is prevented by the routine administration of vitamin K, not vitamin E, to all newborns."
+    },
+    {
+      "stem": "In congenital infections, which is not a common finding?",
+      "options": [
+        "Hepatosplenomegaly",
+        "Most cases are due to bacterial infections",
+        "Microcephaly",
+        "Jaundice"
+      ],
+      "correct": 1,
+      "explanation": "Congenital infections are most commonly caused by the TORCH group of pathogens (viruses and parasites). While bacterial infections can occur, they are not the most common cause. Hepatosplenomegaly, microcephaly, and jaundice are all common findings."
+    },
+    {
+      "stem": "The commonest organism producing septicemia in Egypt is?",
+      "options": [
+        "B streptococci",
+        "E-coli",
+        "Klebsiella",
+        "Pseudomonas"
+      ],
+      "correct": 2,
+      "explanation": "In low- and middle-income countries like Egypt, Gram-negative organisms such as Klebsiella are more common causes of neonatal septicemia compared to Group B Streptococcus, which is more prevalent in high-income countries."
+    },
+    {
+      "stem": "Sepsis in infants does not manifest by",
+      "options": [
+        "Diarrhea and vomiting",
+        "Hyper or hypothermia",
+        "High pitched cry",
+        "Not doing well"
+      ],
+      "correct": 2,
+      "explanation": "Neonatal sepsis presents with non-specific signs like temperature instability, feeding issues, and lethargy ('not doing well'). A high-pitched cry is typically associated with increased intracranial pressure (e.g., from meningitis), not sepsis itself."
+    },
+    {
+      "stem": "In a newborn, the most common source of infection with oral moniliasis is?",
+      "options": [
+        "Broad spectrum antibiotic therapy",
+        "Contact with hospital carriers",
+        "Contaminated instruments",
+        "Maternal birth canal"
+      ],
+      "correct": 3,
+      "explanation": "Oral moniliasis (thrush) in a newborn is most commonly caused by Candida albicans acquired from the mother's birth canal during delivery, especially if the mother has vaginal candidiasis."
+    },
+    {
+      "stem": "A false statement about cephalhematoma is?",
+      "options": [
+        "Aspiration is the treatment of choice",
+        "May lead to hyperbilirubinemia",
+        "No discoloration of the overlying skin",
+        "Noticed several hours after birth"
+      ],
+      "correct": 0,
+      "explanation": "Aspiration of a cephalhematoma is contraindicated due to the high risk of introducing infection. They typically resolve spontaneously over several weeks. They can lead to jaundice due to the breakdown of the collected blood."
+    },
+    {
+      "stem": "In the first 24 hours of life it is normal?",
+      "options": [
+        "Not to pass meconium",
+        "To be jaundiced",
+        "To have vaginal discharge in females in the diaper",
+        "To lose 15% of birth weight"
+      ],
+      "correct": 2,
+      "explanation": "A small amount of mucoid vaginal discharge is a normal finding in female newborns due to maternal hormone withdrawal. Jaundice in the first 24 hours is always pathological. Failure to pass meconium in 24 hours is abnormal. A weight loss of >10% is excessive."
+    },
+    {
+      "stem": "Concerning neonatal jaundice, a true statement is?",
+      "options": [
+        "Acidosis increases the risk of kernicterus",
+        "Hepatitis A is a common cause of neonatal jaundice",
+        "Kernicterus commonly complicates biliary atresia",
+        "Physiologic jaundice usually starts on the 1st day of life"
+      ],
+      "correct": 0,
+      "explanation": "Acidosis displaces bilirubin from albumin, increasing the amount of free bilirubin that can cross the blood-brain barrier, thus increasing the risk of kernicterus. Physiologic jaundice starts after 24 hours. Kernicterus is a complication of unconjugated, not conjugated, hyperbilirubinemia."
+    },
+    {
+      "stem": "Which is not encountered during hypothermia?",
+      "options": [
+        "Bradycardia",
+        "Metabolic acidosis",
+        "Shivering",
+        "Tachypnea"
+      ],
+      "correct": 2,
+      "explanation": "Newborns do not shiver to generate heat. They use non-shivering thermogenesis (metabolism of brown fat). Therefore, shivering is not a sign of hypothermia in a neonate. Bradycardia, acidosis, and tachypnea can all occur."
+    },
+    {
+      "stem": "Which physical finding is most consistent with prematurity rather than intrauterine growth retardation?",
+      "options": [
+        "Creases over entire sole of foot",
+        "Descended testes with deep rugae of the scrotum",
+        "Gelatinous translucent skin",
+        "Raised areola and 3 mm breast buds"
+      ],
+      "correct": 2,
+      "explanation": "Gelatinous, translucent skin is a classic sign of a premature infant due to a lack of subcutaneous fat. The other options are all signs of a full-term infant and would be present in an infant with IUGR who is term."
+    }
+  ]
+}

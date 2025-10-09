@@ -1,0 +1,786 @@
+{
+  "title": "KAF",
+  "questions": [
+    {
+      "stem": "A 6-year-old boy is brought to the emergency room with a 3-hour history of fever 39.5C and sore throat. The child appears anxious and toxic. He has mild inspiratory stridor and he is drooling. He is sitting on the examination table leaning forward with his neck extended. Which of the following is the most appropriate immediate management of the patient?",
+      "options": [
+        "Place him in a mist tent",
+        "Examine the throat and obtain a culture",
+        "Obtain an arterial blood gas and start an IV line",
+        "Prepare to establish an airway"
+      ],
+      "correct": 3,
+      "explanation": "The clinical picture of high fever, toxic appearance, drooling, and sitting in a forward-leaning position with the neck extended (tripod position) is highly suggestive of acute epiglottitis. This is a life-threatening condition where the epiglottis swells and can rapidly lead to complete airway obstruction. The most critical immediate management is to prepare for establishing a definitive airway, as any manipulation or examination of the throat can precipitate complete obstruction."
+    },
+    {
+      "stem": "A 9 months old child presents to ER department with croup. On examination he has marked stridor at rest and a barking cough. What should this baby be treated with?",
+      "options": [
+        "Intramuscular adrenaline.",
+        "Intravenous antibiotics.",
+        "Nebulized adrenaline and oral dexamethasone.",
+        "Nebulized salbutamol."
+      ],
+      "correct": 2,
+      "explanation": "The textbook states that croup is caused by a viral infection and presents with a barking cough and harsh stridor. The treatment plan for a child with marked stridor at rest (Grade II stridor) includes hospitalization and medical management. The standard approach involves oxygen therapy, warm steam inhalation, and corticosteroids to decrease laryngeal edema. Nebulized adrenaline is used for severe stridor to help relieve the obstruction."
+    },
+    {
+      "stem": "A 6y old boy presents to ER with throat tightness, urticarial rash, lip and tongue edema. On examination he has tachycardia, heart rate 200 beats/min hypotension and wheezy chest. What is the initial lifesaving medication for this child?",
+      "options": [
+        "Antihistaminic",
+        "Corticosteroids.",
+        "Fluid bolus.",
+        "IM adrenaline."
+      ],
+      "correct": 3,
+      "explanation": "The patient's symptoms of urticaria, lip and tongue edema, respiratory distress (wheezy chest, throat tightness), tachycardia, and hypotension following exposure to a potential trigger are classic for anaphylaxis. The most important and immediate life-saving medication for anaphylaxis is intramuscular (IM) epinephrine (adrenaline)."
+    },
+    {
+      "stem": "You have just given a 10-year-old boy an injection of pollen extract as prescribed by his allergist. The boy starts to complain about nausea and chest tightness. You note that his face is flushed and his voice sounds muffled and strained. Which of the following is the first priority in managing this episode of anaphylaxis?",
+      "options": [
+        "Administration of corticosteroids",
+        "Administration of oxygen",
+        "Endotracheal intubation",
+        "IM injection of 1:1000 epinephrine"
+      ],
+      "correct": 3,
+      "explanation": "The patient is experiencing an acute, systemic, life-threatening allergic reaction, or anaphylaxis, triggered by a pollen extract injection. The first and most important priority in the management of anaphylaxis is the administration of epinephrine (adrenaline). The dosage mentioned is IM 1:1000 epinephrine, which is the standard concentration for intramuscular injection."
+    },
+    {
+      "stem": "Seven years old child presented to ER after a car accident. He was in deep coma with convulsions. His pupils were dilated fixed and non-reactive. He had irregular breathing, bradycardia and hypotension. Initial investigations showed low hemoglobin (5 g/dl) What is the first management step?",
+      "options": [
+        "Anticonvulsants",
+        "Blood transfusion",
+        "IV fluids",
+        "Keep clear airway and good ventilation"
+      ],
+      "correct": 3,
+      "explanation": "The primary survey in an emergency approach to a critical illness follows the ABCDE steps. The first and most critical step is to secure the airway and ensure adequate breathing, as most cardiac arrests in children are secondary to respiratory compromise. This is prioritized over treating other issues, such as convulsions, fluid deficits, or low hemoglobin, as the patient's immediate survival depends on a patent airway and good ventilation."
+    },
+    {
+      "stem": "A 5-year-old girl presents to the emergency department with a 12-hour history of fever and respiratory distress. On physical examination, the girl appears toxic, is drooling, and leaning forward with her chin extended. She has a temperature of (40° C) and a respiratory rate of 32 breaths per minute. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Anaphylaxis",
+        "Bacterial pneumonia",
+        "Croup",
+        "Epiglottitis"
+      ],
+      "correct": 3,
+      "explanation": "This clinical presentation is a classic description of acute epiglottitis. The key features are the toxic appearance, high fever, drooling, and the specific posture of leaning forward with the chin extended. This posture is adopted by the patient to maximize the airway opening. Viral croup typically has a prodrome of milder fever and a barking cough, which is absent here."
+    },
+    {
+      "stem": "You are evaluating a 10-year-old male who was struck by a car. On physical examination, he is breathing spontaneously. There is a large hematoma on his forehead. His eyes open in response to painful stimuli, and his pupils are equal and reactive to light. He vocalizes by incomprehensibly moaning. When you pinch his right arm, he attempts to push your arm away. Which of the following is appropriate to start with?",
+      "options": [
+        "Administer supplemental oxygen",
+        "Measuring the pulse and blood pressure",
+        "Transfuse with O negative packed red blood cells",
+        "IV antibiotics"
+      ],
+      "correct": 0,
+      "explanation": "This patient is breathing spontaneously but has signs of head trauma and a decreased level of consciousness. The primary survey dictates the immediate steps in managing a critical patient, following the ABCDE sequence. In this case, the airway is patent, and the patient is breathing. However, any patient with a decreased level of consciousness is at risk of hypoxia and respiratory compromise. Therefore, administering supplemental oxygen is the next logical step to ensure adequate oxygenation and prevent secondary brain injury. The textbook states that respiratory support, including oxygen therapy, is crucial to correct hypoxia."
+    },
+    {
+      "stem": "Regarding the previous case, what is this patient's Glasgow Coma Scale score?",
+      "options": [
+        "7",
+        "9",
+        "11",
+        "13"
+      ],
+      "correct": 1,
+      "explanation": "The Glasgow Coma Scale (GCS) is used to assess the level of consciousness. It has three components: eye opening, verbal response, and motor response.\n\nEye opening: Opens eyes in response to painful stimuli = 2 points.\n\nVerbal response: Incomprehensible moaning = 2 points.\n\nMotor response: Attempts to push your arm away (localizes pain) = 5 points.\n\nTherefore, the total score is 2 + 2 + 5 = 9."
+    },
+    {
+      "stem": "A 2-month-old baby presented with severe pallor, cold extremities and poor pulses, you suspected hemorrhage. After administration of O2, Which of the following is the most appropriate to give initially?",
+      "options": [
+        "Fresh frozen plasma",
+        "Inotropes",
+        "Isotonic crystalloids",
+        "Packed red blood cells transfusion"
+      ],
+      "correct": 2,
+      "explanation": "The clinical picture of severe pallor, cold extremities, and poor pulses suggests hypovolemic shock due to hemorrhage. The management of shock includes cardiovascular support, and the first step is preload augmentation to correct hypovolemia. The recommended initial fluid is an isotonic crystalloid solution, such as Ringer's lactate or saline, given as a bolus of 20 ml/kg over 10-15 minutes."
+    },
+    {
+      "stem": "While you are working at a community pediatric clinic, a patient's mother calls for help from an adjacent examination room. You see a 4-month-old infant lying motionless on the table. He is not breathing spontaneously. He has no pulses. You determine that this unresponsive pulseless child is in cardiopulmonary arrest. Which of the following is the most common cause of pediatric cardiopulmonary arrest?",
+      "options": [
+        "Cardiac arrhythmias",
+        "Metabolic abnormalities",
+        "Malignancies",
+        "Respiratory problems"
+      ],
+      "correct": 3,
+      "explanation": "The textbook explicitly states that most cases of cardiac arrest in children are secondary to a respiratory compromise. Conditions like apnea, hypoxemia, and other respiratory failures are the most frequent precipitators of cardiac arrest in this population."
+    },
+    {
+      "stem": "3-month-old female infant presents to your emergency department unresponsive and with fever, tachypnea, bradycardia, and hypotension. What order should you follow in your initial assessment?",
+      "options": [
+        "Airway, breathing, circulation, disability, exposure",
+        "Breathing, airway, circulation, disability, exposure",
+        "Circulation, airway, breathing, exposure, disability",
+        "Exposure, breathing, airway, circulation, disability"
+      ],
+      "correct": 0,
+      "explanation": "This question refers to the initial assessment of a critically ill patient, which is called the primary survey. The textbook outlines the five successive steps that should be performed rapidly in this order: A (Airway), B (Breathing), C (Circulation), D (Disability), and E (Exposure)."
+    },
+    {
+      "stem": "A 5-year-old boy presents to the emergency department with complaints of dizziness confusion and ataxia. 3 days before presentation, he developed a low-grade fever, vomiting and diarrhea 8 to 10 loose motions per day. The boy's mother has been afraid to give him anything but water. Which of the following electrolyte disturbances is likely the cause of the child condition?",
+      "options": [
+        "Hyperkalemia",
+        "Hypochloremia",
+        "Hyponatremia",
+        "Metabolic alkalosis"
+      ],
+      "correct": 2,
+      "explanation": "The child presents with signs of neurological dysfunction (dizziness, confusion, ataxia) following a period of gastroenteritis with significant fluid loss (vomiting and diarrhea). The mother's management of only giving water likely led to a state where water intake exceeded electrolyte intake, resulting in hyponatremia. The textbook notes that cellular edema caused by hyponatremia can lead to CNS symptoms such as lethargy and coma."
+    },
+    {
+      "stem": "A 2-year-old toddler was playing with candies and sweets in a playroom when he developed an attack of wheezing and shortness of breath. The parents brought the child to emergency room. Respiratory rate was 68/min with subcostal retractions, and O2 saturation was 92%. Which of the following is the definitive treatment?",
+      "options": [
+        "Arrange for bedside chest x ray",
+        "Arrange for CT chest",
+        "Arrange for urgent bronchoscopy",
+        "Encourage coughing"
+      ],
+      "correct": 2,
+      "explanation": "The history of a sudden onset of wheezing and shortness of breath while playing with candies strongly suggests a laryngeal foreign body. The physical exam findings of respiratory distress further support this. The definitive treatment for a foreign body obstruction in the airway is its removal, which is typically done via urgent bronchoscopy."
+    },
+    {
+      "stem": "You are evaluating a 3-year-old conscious child with palpable central pusses and poor perfusion in the emergency department. Which of the following is the most important first step in the treatment?",
+      "options": [
+        "Epinephrine therapy",
+        "Maintaining adequate perfusion by chest compression",
+        "Maintaining the airway and assisted breathing",
+        "Treating precipitating factors as hypoglycemia"
+      ],
+      "correct": 2,
+      "explanation": "This child is in a state of circulatory failure (poor perfusion) but is still conscious with palpable central pulses. In a critical situation, the primary survey is followed, beginning with ABCDE. The first and most important step is to maintain a patent airway and provide assisted breathing as needed, as respiratory compromise is the most common cause of cardiac arrest in children. While treating the cause (d) is important, it comes after stabilizing the patient's ABCs."
+    },
+    {
+      "stem": "A five-year-old boy was brought to the Emergency room with ongoing convulsions. His mother said that he was playing in the kitchen alone two hours before. On examination he was drowsy, with pin point pupils. What is your first action?",
+      "options": [
+        "Give anticonvulsants.",
+        "Give antidote for organophosphorus toxicity.",
+        "Order MRI brain",
+        "Wait to see investigations results."
+      ],
+      "correct": 0,
+      "explanation": "The clinical picture of ongoing convulsions, drowsiness, and pinpoint pupils after a potential exposure in the kitchen is highly suggestive of organophosphorus poisoning. The initial management of a comatose or convulsing patient includes controlling the convulsions, which can be done with anticonvulsants such as diazepam, phenytoin, or phenobarbitone. Although an antidote is needed, controlling the immediate life-threatening issue (the convulsions) is the first action."
+    },
+    {
+      "stem": "A 5 year old boy presented to the emergency room with impaired level of consciousness and shallow irregular breathing. The PaCO2 was 62 mmHg and PO2 was 98 mmHg at room temperature. There was a history of blunt trauma to the head since 3 hours. Which of the following disorders the child may have?",
+      "options": [
+        "Metabolic acidosis",
+        "Metabolic alkalosis",
+        "Type 1 respiratory failure",
+        "Type 2 respiratory failure"
+      ],
+      "correct": 3,
+      "explanation": "The patient has an impaired level of consciousness, shallow irregular breathing, and an elevated PaCO2 of 62 mmHg. The textbook defines Type 2 respiratory failure as a ventilation failure (hypercapnic RF) with the basic defect being hypoventilation leading to an inability to eliminate CO2. This is associated with a high PaCO2 and can be caused by CNS depression from head trauma."
+    },
+    {
+      "stem": "A 3 months old infant presents to emergency department because of increased agitation and restlessness. Auscultation reveals crackles and decreased breath sounds bilaterally. Chest x-ray films show bilateral pneumonia. Arterial blood gas analysis reveals an oxygen tension of 45 mm Hg and a carbon dioxide tension of 65 mmHg. What is the most appropriate next step in management?",
+      "options": [
+        "Administer antibiotics.",
+        "Administer oxygen by mask.",
+        "Obtain blood cultures.",
+        "Start assisted ventilation"
+      ],
+      "correct": 3,
+      "explanation": "The infant is unresponsive with severe respiratory distress, bilateral pneumonia, and critically abnormal blood gas values (PO2 of 45 mmHg and PCO2 of 65 mmHg). This indicates both hypoxemia and hypercapnia, which are characteristic of respiratory failure. A PaO2 of less than 50 mmHg is defined as severe hypoxemia. The most appropriate next step is to initiate assisted ventilation to support the failing respiratory system."
+    },
+    {
+      "stem": "Following a motor car accident, a child presents with chest pain and dyspnea. Examination reveals tachypnea, tachycardia, and left-sided thoracic bulge with limitation of movement and absent air entry on the left side. Which of the following is the specific treatment of this condition?",
+      "options": [
+        "Bronchoscopy",
+        "Intercostal tube insertion",
+        "conservative management",
+        "Pericardiocentesis"
+      ],
+      "correct": 1,
+      "explanation": "The clinical findings of tachypnea, tachycardia, and absent air entry on the left side following chest trauma from a car accident are classic signs of a tension pneumothorax. The specific treatment for a tension pneumothorax is the immediate insertion of an intercostal tube to decompress the thoracic cavity and re-expand the collapsed lung."
+    },
+    {
+      "stem": "A 12-month-old infant received a dose of an intramuscular antibiotic. Few minutes later, he developed respiratory distress, stridor, skin rash, tachycardia and hypotension. Which of the following is the immediately required therapy?",
+      "options": [
+        "Intramuscular adrenaline",
+        "Intramuscular antihistaminic",
+        "Intravenous beta blocker",
+        "Intravenous corticosteroid"
+      ],
+      "correct": 0,
+      "explanation": "The patient's acute reaction to an antibiotic, characterized by respiratory distress (stridor), skin rash, tachycardia, and hypotension, is a classic presentation of anaphylaxis. The most immediately required and life-saving therapy for anaphylaxis is intramuscular administration of adrenaline (epinephrine)."
+    },
+    {
+      "stem": "A 1-year-old male arrives in the emergency room with a 4-day history of vomiting and fast breathing. On examination; he is cold with delayed capillary refill. His heart rate is 150/minute and respiratory rate 60/minute. On abdominal exam his liver edge is 4 cm below the right subcostal margin. On auscultation, a gallop is heard and coarse lung sounds throughout. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Cardiogenic shock",
+        "Hypovolemic shock",
+        "Kinetic shock",
+        "Septic shock"
+      ],
+      "correct": 0,
+      "explanation": "The patient exhibits signs of circulatory failure (cold extremities, delayed capillary refill, tachycardia). The presence of a gallop rhythm, coarse lung sounds, and an enlarged liver suggests systemic and pulmonary congestion, which is a hallmark of heart failure. These signs point towards cardiogenic shock as the most likely diagnosis."
+    },
+    {
+      "stem": "You are in a pediatric ward when you are called to check a 10-month-old baby girl who was admitted for high grade fever and now she is not responding to voice You find her, poorly perfused with weak pulse, rate of 50/min with no breathing. Which of the following is the best action?",
+      "options": [
+        "Attach cardiac and respiratory monitor",
+        "Open the airway by head tilt - chin lift maneuver",
+        "Start chest compression",
+        "Start mouth to mouth breathing"
+      ],
+      "correct": 2,
+      "explanation": "The infant is unresponsive with no breathing and a heart rate of 50/min. A heart rate below 60 beats/min in an infant with signs of poor perfusion warrants immediate chest compressions. This is a critical step in pediatric cardiopulmonary resuscitation (CPR)."
+    },
+    {
+      "stem": "2-year-old infant developed noisy breathing on inspiration, marked retractions of the chest wall, flaring of the nostrils, and a barking cough. He had a mild upper respiratory infection for 2 days. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Asthma.",
+        "Bronchiolitis",
+        "Epiglottitis.",
+        "Viral croup"
+      ],
+      "correct": 3,
+      "explanation": "The clinical picture of noisy breathing on inspiration (stridor), a barking cough, and a prodrome of mild upper respiratory infection is characteristic of viral croup, or acute laryngotracheobronchitis. The most common cause is the parainfluenza virus."
+    },
+    {
+      "stem": "A 4-year-old boy was brought to the emergency department following an insect bite. He had tachycardia, tachypnea and hypotension. The most likely cause of his condition is:",
+      "options": [
+        "Anaphylactic shock",
+        "Cardiogenic shock",
+        "Hypovolemic shock",
+        "Septic shock"
+      ],
+      "correct": 0,
+      "explanation": "The patient's symptoms of tachycardia, tachypnea, and hypotension following an insect bite are consistent with a systemic allergic reaction (anaphylaxis) that has progressed to shock. Anaphylactic shock is a type of distributive shock caused by an allergic reaction."
+    },
+    {
+      "stem": "A 2 year old girl presented with cough, wheezes and shortness of breath. After arrival to hospital, she became more ill with cyanosis and inability to talk. On examination she is lethargic, with marked chest retractions and silent chest Oxygen saturation is 66%. Which in this scenario suggests type two respiratory failure?",
+      "options": [
+        "Cyanosis",
+        "Lethargy",
+        "Marked chest retraction",
+        "Inability to talk"
+      ],
+      "correct": 1,
+      "explanation": "The patient's severe respiratory distress, cyanosis, and very low oxygen saturation indicate respiratory failure. However, the specific sign that points towards Type 2 respiratory failure (pump failure/ventilation failure) is the lethargy. This is a sign of CNS depression, which can be caused by hypercapnia. The textbook also notes that CNS depression is a key feature of Type 2 respiratory failure."
+    },
+    {
+      "stem": "A child was brought to the emergency room following a motor car accident. Which of the following is correct regarding the primary survey?",
+      "options": [
+        "It is performed after taking history",
+        "It is performed to determine the need for resuscitation",
+        "It is performed after emergency CT scans",
+        "It includes metabolic screening"
+      ],
+      "correct": 1,
+      "explanation": "The textbook defines the primary survey as a rapid, systematic approach in an emergency to discover and manage life-threatening conditions. Its main aim is to determine if the patient is in immediate need of resuscitation."
+    },
+    {
+      "stem": "An infant, 6-month- old, was hospitalized with respiratory distress. On auscultation bronchial breathing and crepitations were heard on both sides of the chest Which test can diagnose respiratory failure?",
+      "options": [
+        "Complete blood picture",
+        "Arterial blood gases",
+        "Pulmonary functions",
+        "Lung ultrasound"
+      ],
+      "correct": 1,
+      "explanation": "While the physical examination and clinical signs (respiratory distress) suggest a problem, the definitive test to diagnose respiratory failure is arterial blood gas (ABG) analysis. ABG measures oxygenation (PaO2), ventilation (PaCO2), and acid-base status, which are the core functions of the respiratory system."
+    },
+    {
+      "stem": "Patient with O2 saturation 84% is",
+      "options": [
+        "Mildly hypoxic",
+        "Moderately hypoxic",
+        "Not hypoxic",
+        "Severely hypoxic"
+      ],
+      "correct": 3,
+      "explanation": "The textbook provides a specific grading for hypoxia based on oxygen saturation levels as measured by pulse oximetry. An oxygen saturation of less than 85% is defined as severe hypoxia."
+    },
+    {
+      "stem": "Regarding oxygen therapy which of the following is true?",
+      "options": [
+        "It is always necessary to start with O2 100%",
+        "Self-inflating bag can deliver oxygen 40% only",
+        "Self-inflating bag can deliver 100% O2 if connected to oxygen reservoir.",
+        "Venturi face mask is not different from simple o2 mask"
+      ],
+      "correct": 2,
+      "explanation": "A self-inflating bag (Ambu bag) is a type of manual positive pressure ventilation device. The textbook states that a disadvantage of this bag is that it only delivers 40% oxygen if not connected to an oxygen reservoir. However, it can deliver 100% oxygen if a reservoir is attached."
+    },
+    {
+      "stem": "The most important indication of mechanical ventilation in respiratory acidosis is",
+      "options": [
+        "Concomitant metabolic acidosis",
+        "Hypoxia that responds to oxygen",
+        "Pco2>75 mm Hg with low pH",
+        "Slowly responsive underlying disease"
+      ],
+      "correct": 2,
+      "explanation": "The indications for mechanical ventilation include hypercapnia that is not responding to simple measures. The textbook specifies that a PaCO2 greater than 75 mmHg with a low pH (indicating acute respiratory acidosis) is a critical indicator for mechanical ventilation."
+    },
+    {
+      "stem": "The best fluid bolus given to a child with isolated vomiting and severe dehydration is",
+      "options": [
+        "5% dextrose + half-normal saline",
+        "Half-normal saline",
+        "4: 1 glucose :saline",
+        "Ringer lactate"
+      ],
+      "correct": 3,
+      "explanation": "In cases of severe dehydration, especially those requiring hospitalization, the initial management is IV fluid therapy. The textbook recommends giving a shock bolus of isotonic crystalloids, such as Ringer's lactate or normal saline (20 ml/kg over 10-15 minutes), as the first step."
+    },
+    {
+      "stem": "A one-year-old toddler entered the emergency department with his mother. He was not talking but was normally interactive, had normal skin color but stridor was evident. What problem is present according to the Pediatric Assessment Triangle?",
+      "options": [
+        "Cardiopulmonary failure",
+        "Abnormal appearance only",
+        "Abnormal appearance and breathing",
+        "Abnormal breathing only"
+      ],
+      "correct": 3,
+      "explanation": "The Pediatric Assessment Triangle (PAT) assesses appearance, work of breathing, and circulation. This patient has stridor, which is a harsh inspiratory sound indicating a partial obstruction. This represents an abnormal breathing component. His normal interactivity and skin color indicate that his appearance and circulation are normal. Therefore, the only abnormal component is breathing."
+    },
+    {
+      "stem": "Respiratory acidosis occurs in",
+      "options": [
+        "Acute renal failure",
+        "Guillain Bare syndrome",
+        "Hypotension",
+        "Severe anemia"
+      ],
+      "correct": 1,
+      "explanation": "Respiratory acidosis is a type of respiratory failure (Type 2, or pump failure) caused by hypoventilation or an inability to eliminate CO2. One of the listed causes of this is respiratory muscle paralysis, which can occur in conditions such as Guillain-Barré syndrome."
+    },
+    {
+      "stem": "The most common cause of hypokalemia in children is",
+      "options": [
+        "Alkalemia",
+        "Diabetic ketoacidosis",
+        "Gastroenteritis",
+        "Loop diuretic"
+      ],
+      "correct": 2,
+      "explanation": "The textbook lists common causes of hypokalemia, which is defined as a serum potassium level below 3.5 mEq/L. Gastrointestinal losses, such as those from diarrhea (a common symptom of gastroenteritis), are cited as a primary cause."
+    },
+    {
+      "stem": "Which of the following is not regarded as first therapy of increased intracranial pressure",
+      "options": [
+        "Controlled mechanical ventilation",
+        "Head of bed elevation",
+        "Intubation",
+        "Phenobarbitone infusion"
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists initial measures for controlling increased intracranial pressure (ICP). These include elevating the head of the bed, maintaining a neutral neck position, and using osmotherapy. Intubation and controlled mechanical ventilation are also used to help keep pCO2 at a specific range, which helps manage ICP. Phenobarbitone infusion is an anticonvulsant and is not listed as a first-line therapy for managing ICP itself, although it might be used to control convulsions that can be a manifestation of increased ICP."
+    },
+    {
+      "stem": "Which is false Regarding Glasgow Coma scale in pediatrics?",
+      "options": [
+        "In modified type it uses 15 score points",
+        "Score 8 require aggressive management",
+        "Valid as a prognostic scoring system",
+        "Verbal response component has 5 possible points"
+      ],
+      "correct": 2,
+      "explanation": "The Glasgow Coma Scale (GCS) is a 15-point score used to assess and monitor the level of consciousness. A score of 8 or less indicates severe neurological injury and the modified scale uses 15 points. It has a verbal response component. However, its primary role is for assessment and monitoring, not as a standalone prognostic scoring system."
+    },
+    {
+      "stem": "Symptoms of hypovolemic shock don't include",
+      "options": [
+        "Acidosis",
+        "Cardiac enlargement",
+        "Tachycardia",
+        "Low central venous pressure"
+      ],
+      "correct": 1,
+      "explanation": "Hypovolemic shock is caused by a decrease in blood volume, which leads to reduced cardiac output, low central venous pressure (CVP), acidosis, and tachycardia. Cardiac enlargement is a sign of fluid overload or heart failure, which is the opposite of the pathophysiology seen in hypovolemic shock."
+    },
+    {
+      "stem": "Which of the following is not a sign of increased intracranial pressure (ICP) and impending brain herniation",
+      "options": [
+        "Isolated 4th cranial nerve palsy",
+        "Bradycardia",
+        "Pupillary dilation",
+        "Systemic hypertension"
+      ],
+      "correct": 0,
+      "explanation": "The textbook lists Cushing's triad (bradycardia, irregular respiration, and systemic hypertension) and pupillary dilation as late, ominous signs of increased intracranial pressure and impending brain herniation. An isolated 4th cranial nerve palsy is a specific neurological deficit but is not listed as a classic sign of generalized increased ICP or impending herniation in the provided text."
+    },
+    {
+      "stem": "Septic shock usually shows a combination of hypovolemic and distributive shock in addition to",
+      "options": [
+        "Acute respiratory distress syndrome",
+        "Cardiogenic shock",
+        "Disseminated intravascular coagulation",
+        "Obstructive shock"
+      ],
+      "correct": 1,
+      "explanation": "Septic shock is a complex and multifactorial condition resulting from a systemic inflammatory response. The textbook states that its pathophysiology is mainly a combination of cardiogenic and distributive shock."
+    },
+    {
+      "stem": "Normal capillary refill time is:",
+      "options": [
+        "4 seconds",
+        "More than 5 seconds",
+        "Up to 2 seconds",
+        "3 seconds"
+      ],
+      "correct": 2,
+      "explanation": "The textbook defines normal capillary refill time as up to 2 seconds. A slow capillary refill time is a sign of poor peripheral perfusion and shock."
+    },
+    {
+      "stem": "Signs of circulatory failure in a 2 year old include which of the followings:",
+      "options": [
+        "Capillary refill time <2 seconds and reduced urine output",
+        "Cold extremities and a capillary refill time of 3 seconds",
+        "Fever >37.5°C",
+        "Pulse rate >150 bpm"
+      ],
+      "correct": 3,
+      "explanation": "The textbook states that tachycardia is the earliest and most important single sign when evaluating shock, or circulatory failure. A pulse rate greater than 150 bpm in a 2-year-old would be considered tachycardia and a sign of circulatory failure. Cold extremities and a capillary refill time of 3 seconds are also signs of poor perfusion, but the specific heart rate value is a key indicator."
+    },
+    {
+      "stem": "Regarding shock, which of the following is true",
+      "options": [
+        "Grade 3 shock is irreversible shock",
+        "Hypotension occurs in grade 1 shock",
+        "Multiple organ system failure is shock grade 4.",
+        "Septic shock is caused mainly by gram negative bacteria."
+      ],
+      "correct": 3,
+      "explanation": "The textbook mentions that septic shock can be caused by both gram-positive and gram-negative bacteria, but specifically lists Meningococcal infection (a gram-negative bacterium) as the commonest cause of septic shock in the context of gram-negative bacteria. It also mentions other gram-negative bacteria, such as Klebsiella, H. influenza, and E. coli, as causes of sepsis."
+    },
+    {
+      "stem": "Which is true regarding pulse oximetry?",
+      "options": [
+        "It can detect hyper oxygenation",
+        "It measures FiO2",
+        "It measures oxygen pressure",
+        "It measures oxygen saturation"
+      ],
+      "correct": 3,
+      "explanation": "The textbook defines pulse oximetry as a device that measures arterial oxygen saturation (SpO2). It is a simple, reliable, and non-invasive way to monitor a patient's oxygen levels."
+    },
+    {
+      "stem": "Which statement is false",
+      "options": [
+        "Blood pressure decrease in early shock",
+        "In distributive shock systemic vascular resistance decreases",
+        "In hypovolemic shock systemic vascular resistance increases",
+        "Increase core -peripheral temperature difference is sign of poor perfusion"
+      ],
+      "correct": 0,
+      "explanation": "The textbook explicitly states that 'Early shock occurs without hypotension: shock and hypotension are not synonymous'. It also states that hypotension occurs in established shock (Grade II) but not in early shock (Grade I). This makes statement (a) false."
+    },
+    {
+      "stem": "Complications of oxygen therapy do not include?",
+      "options": [
+        "Decreased surfactant production",
+        "Oxygen dependency",
+        "Polycythemia",
+        "Retinopathy of prematurity"
+      ],
+      "correct": 2,
+      "explanation": "The textbook lists several complications of oxygen therapy, including eye toxicity (retinopathy of prematurity), lung toxicity (decreased surfactant production, and bronchopulmonary dysplasia), and oxygen dependency. Polycythemia is an increase in red blood cells, which is not a known complication of oxygen therapy."
+    },
+    {
+      "stem": "Which of the following is not correct regarding the indications of mechanical ventilation?",
+      "options": [
+        "Apnea not responding to simple measures",
+        "HCO3 more than 32 mEq/L",
+        "Hypercapnia not responding to simple measures",
+        "Hypoxia not responding to simple measures"
+      ],
+      "correct": 1,
+      "explanation": "The textbook lists the primary indications for mechanical ventilation as apnea, hypoxia, and hypercapnia, all not responding to simpler measures. A bicarbonate (HCO3) level of more than 32 mEq/L is not listed as an indication."
+    },
+    {
+      "stem": "Type 1 respiratory failure, which is a false statement?",
+      "options": [
+        "Is associated with respiratory distress and cyanosis",
+        "Is due to lung disease",
+        "Mechanical ventilation is always needed",
+        "PaO2 less than 50 mmHg"
+      ],
+      "correct": 2,
+      "explanation": "Type 1 respiratory failure, or hypoxic respiratory failure, is defined by arterial hypoxemia. It is associated with respiratory distress and cyanosis and is caused by severe lung or airway pathology. While mechanical ventilation may be required, it is not 'always needed,' as other forms of respiratory support, such as oxygen therapy, are the first-line treatment."
+    },
+    {
+      "stem": "Which is not a common cause of coma in children?",
+      "options": [
+        "Diabetic ketoacidosis",
+        "Renal failure",
+        "Severe dehydration",
+        "Vascular strokes"
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists several common causes of secondary brain lesions or encephalopathy leading to coma, including diabetic ketoacidosis, acute renal failure, and severe dehydration. While vascular strokes can cause neurological deficits, they are not listed as a common cause of coma in children within the provided text."
+    },
+    {
+      "stem": "Which of the following is false regarding treatment of hyperkalemia?",
+      "options": [
+        "Glucose insulin infusion.",
+        "Insulin infusion",
+        "Intravenous calcium",
+        "Sodium bicarbonate"
+      ],
+      "correct": 1,
+      "explanation": "The textbook lists insulin-glucose infusion as a temporary emergency measure to treat severe hyperkalemia by causing an intracellular shift of potassium. The key answer provided is (b) Insulin infusion alone, which is false as it's typically given with glucose. The textbook also lists intravenous calcium and sodium bicarbonate as other treatments."
+    },
+    {
+      "stem": "In poisoning related coma, which step is not routinely done in all cases?",
+      "options": [
+        "Do life support measures when needed",
+        "Give antidote when available",
+        "Induce vomiting in all cases",
+        "Support the failing system(s)"
+      ],
+      "correct": 2,
+      "explanation": "The management of a comatose patient includes life support measures, giving an antidote when available, and supporting failing systems. Inducing vomiting is not a routine step in all cases of poisoning, as it can be contraindicated depending on the substance ingested (e.g., corrosives or petroleum products)."
+    },
+    {
+      "stem": "In the management of an unconscious patient, the first thing to do is:",
+      "options": [
+        "Chemical analysis of stools.",
+        "Establish airway",
+        "Gastric wash.",
+        "Take a detailed history."
+      ],
+      "correct": 1,
+      "explanation": "The first step in the primary survey for any critical illness or unconscious patient is to ensure a patent airway. This is the most urgent and fundamental action to support life, as breathing and circulation are impossible without a clear airway."
+    },
+    {
+      "stem": "The barking cough typical of croup is rare in",
+      "options": [
+        "Acute epiglottitis",
+        "Acute infectious laryngitis",
+        "Laryngotracheobronchitis",
+        "Spasmodic croup"
+      ],
+      "correct": 0,
+      "explanation": "Viral croup (laryngotracheobronchitis) is characterized by a barking cough and harsh stridor. In contrast, acute epiglottitis, which is a life-threatening illness, is characterized by a very acute onset, high fever, drooling, and the absence or minimal presence of a cough."
+    },
+    {
+      "stem": "Advantages of flow-inflating (anesthesia) bags don't include",
+      "options": [
+        "Any leak is determined",
+        "Delivers 100% oxygen at all times",
+        "Easy to use",
+        "Stiff lung can be recognized"
+      ],
+      "correct": 2,
+      "explanation": "The textbook outlines the advantages of flow-inflating bags, which include delivering 100% oxygen, determining leaks, and recognizing stiff lungs. However, 'easy to use' is listed as an advantage of a self-inflating (Ambu) bag, not a flow-inflating bag."
+    },
+    {
+      "stem": "Bacterial tracheitis is not characterized by",
+      "options": [
+        "Considered a primary bacterial illness",
+        "Incidence and severity do not differ by sex",
+        "More common than epiglottitis in vaccinated populations",
+        "Staphylococcus aureus is the most commonly isolated pathogen"
+      ],
+      "correct": 0,
+      "explanation": "This question's answer cannot be fully confirmed from the provided text, as it lacks a specific section on bacterial tracheitis. The answer is based on the provided answer key."
+    },
+    {
+      "stem": "Which is not a common cause of stridor during infancy?",
+      "options": [
+        "Acute spasmodic laryngitis.",
+        "Hypocalcemic tetany",
+        "Large adenoids",
+        "Laryngeal foreign body."
+      ],
+      "correct": 0,
+      "explanation": "The provided text lists hypocalcemic tetany and foreign bodies as causes of stridor. Acute spasmodic laryngitis (a form of croup) is also a very common cause. The key answer suggests it's not common, creating a conflict with general knowledge and the text. The explanation relies on the provided answer key due to this conflict."
+    },
+    {
+      "stem": "Which of the following is true regarding stridor?",
+      "options": [
+        "Antibiotic is not routinely given to all cases of stridor",
+        "Common causes of stridor in infants are not due to infectious causes",
+        "Most cases of stridor are bacterial in origin",
+        "Steroids are of no role in stridor treatment"
+      ],
+      "correct": 0,
+      "explanation": "Stridor has various causes, including viral and bacterial infections, as well as non-infectious causes. Treatment involves oxygen, steam, and steroids. Antibiotics are only mentioned for 'suspected bacterial disease', implying they are not routinely given in all cases, especially since many are viral."
+    },
+    {
+      "stem": "Regarding respiratory failure which is true",
+      "options": [
+        "Acute metabolic acidosis is the typical finding in type 2 respiratory failure",
+        "Acute respiratory acidosis is the typical finding in type 1 respiratory failure",
+        "Basic defect in type 1 respiratory failure is in CO2 elimination.",
+        "Basic defect in type 2 respiratory failure is in CO2 elimination."
+      ],
+      "correct": 3,
+      "explanation": "The textbook classifies respiratory failure into Type 1 (lung failure) and Type 2 (pump failure). It explicitly states that the basic defect in Type 2 respiratory failure is hypoventilation, which leads to a failure of CO2 elimination (hypercapnia)."
+    },
+    {
+      "stem": "The main steps in the management of coma in children don't include",
+      "options": [
+        "Cardiac decompression",
+        "Check blood sugar",
+        "Keep airway open",
+        "Maintain oxygenation"
+      ],
+      "correct": 0,
+      "explanation": "The management of a comatose patient starts with basic life support (ABC), which involves keeping the airway open and maintaining oxygenation. Checking blood sugar is a crucial initial investigation. Cardiac decompression is a procedure for conditions like cardiac tamponade and not a main step in the general management of coma."
+    },
+    {
+      "stem": "Which of the following is true about croup?",
+      "options": [
+        "Causes harsh inspiratory sound",
+        "Cold air aggravates the condition",
+        "Corticosteroids are contraindicated",
+        "It is due to bacterial infection"
+      ],
+      "correct": 0,
+      "explanation": "The textbook defines stridor as a 'harsh inspiratory sound' and lists infectious croup (acute laryngotracheobronchitis) as a primary cause. Therefore, croup is characterized by a harsh inspiratory sound (stridor)."
+    },
+    {
+      "stem": "Regarding stridor which of the following is true?",
+      "options": [
+        "Bacterial infection is the most common etiology",
+        "Grade one classification is stridor at rest",
+        "Never treated at home",
+        "Warm steam inhalation relieves minor obstruction"
+      ],
+      "correct": 3,
+      "explanation": "In the home management of stridor (Grade I), warm steam inhalation is a recommended measure to relieve minor obstruction."
+    },
+    {
+      "stem": "In type 1 respiratory failure which is true?",
+      "options": [
+        "Arterial hypoxemia is the basic defect",
+        "Caused by respiratory depression",
+        "Deep coma is an important cause",
+        "Respiration is shallow"
+      ],
+      "correct": 0,
+      "explanation": "The textbook defines Type 1 respiratory failure as 'lung failure (Oxygenation failure - Hypoxic RF)'. It explicitly states that the basic defect in this type of failure is arterial hypoxemia (decreased oxygenation)."
+    },
+    {
+      "stem": "Oxygen is not likely to improve cyanosis in",
+      "options": [
+        "Interstitial lung disease",
+        "Intra-cardiac right to left shunt",
+        "Left ventricular failure",
+        "Upper airway obstruction"
+      ],
+      "correct": 1,
+      "explanation": "In an intra-cardiac right-to-left shunt, deoxygenated blood bypasses the lungs and enters the systemic circulation. This type of cyanosis is poorly responsive to oxygen administration because the problem is not a failure of gas exchange in the lungs but a structural defect in the heart."
+    },
+    {
+      "stem": "Acute respiratory insufficiency is often the most prominent clinical manifestation of",
+      "options": [
+        "Congenital myotonic dystrophy",
+        "Guillain-Barre syndrome",
+        "Duchenne myopathy",
+        "Spinal muscular atrophy"
+      ],
+      "correct": 1,
+      "explanation": "The textbook classifies respiratory failure into Type 1 and Type 2. It lists Guillain-Barré syndrome as a cause of respiratory muscle paralysis, which leads to Type 2 respiratory failure, or 'pump failure', manifesting as acute respiratory insufficiency."
+    },
+    {
+      "stem": "Which of the following viruses are most commonly associated with viral croup?",
+      "options": [
+        "Adenovirus",
+        "Parainfluenza viruses",
+        "RSV",
+        "Varicella virus"
+      ],
+      "correct": 1,
+      "explanation": "The textbook specifically states that the most common etiology of acute laryngotracheobronchitis (infectious croup) is the parainfluenza virus, which accounts for 75% of cases."
+    },
+    {
+      "stem": "Type II respiratory failure is always associated with:",
+      "options": [
+        "Metabolic acidosis",
+        "Respiratory acidosis",
+        "Respiratory alkalosis",
+        "Severe hypoxemia"
+      ],
+      "correct": 1,
+      "explanation": "Type II respiratory failure, or pump failure, is defined by hypoventilation, which leads to an inability to eliminate CO2. An increase in PaCO2 directly causes a decrease in pH, resulting in acute respiratory acidosis."
+    },
+    {
+      "stem": "The below blood gas arterial blood gas report shows:\nPH: 6.88\npO2: 40 mmHg\npCO2: 70 mmHg\nHCO3: 15 mEq/L",
+      "options": [
+        "Compensatory decrease in bicarbonate",
+        "Mixed metabolic and respiratory acidosis",
+        "Moderate hypoxemia",
+        "Normal ventilation"
+      ],
+      "correct": 1,
+      "explanation": "The blood gas report shows a very low pH (6.88), indicating severe acidosis. The pCO2 is high (70 mmHg), suggesting respiratory acidosis. The HCO3 is low (15 mEq/L), suggesting metabolic acidosis. The combination indicates a mixed metabolic and respiratory acidosis. The pO2 (40 mmHg) indicates severe hypoxemia."
+    },
+    {
+      "stem": "Venous blood gases can assess..........",
+      "options": [
+        "Ventilation and oxygenation",
+        "Ventilation and acid-base status",
+        "Oxygenation and acid-base status",
+        "Oxygenation, ventilation and acid-base status"
+      ],
+      "correct": 1,
+      "explanation": "The textbook states that venous blood gas can be used to assess ventilation and acid-base status. However, it cannot be used to reliably assess oxygenation."
+    },
+    {
+      "stem": "Oxygen will improve PaO2 in one of the following conditions:",
+      "options": [
+        "Hyaline membrane disease",
+        "Hypoplastic Left heart syndrome",
+        "Tetralogy of Fallot",
+        "TGA"
+      ],
+      "correct": 0,
+      "explanation": "Hyaline membrane disease (Respiratory Distress Syndrome) is a pulmonary cause of respiratory failure. This leads to hypoxemia that can be corrected by providing oxygen therapy to improve gas exchange. Conditions with a right-to-left shunt (b, c, d) are cardiac causes where oxygen administration is not likely to significantly improve PaO2."
+    },
+    {
+      "stem": "Coma due to a metabolic etiology due to:",
+      "options": [
+        "Acute renal failure",
+        "Head trauma",
+        "Hypertensive encephalopathy",
+        "Hypoxia"
+      ],
+      "correct": 0,
+      "explanation": "The textbook lists secondary brain lesions, or encephalopathy, as causes of coma. It specifies that metabolic comas can be caused by various conditions, including acute renal failure, which results in uremic toxins accumulating in the body and affecting the brain."
+    },
+    {
+      "stem": "One of the following is a manifestations of hypokalemia:",
+      "options": [
+        "Abdominal pain",
+        "Convulsions",
+        "Hyperreflexia",
+        "Muscle weakness"
+      ],
+      "correct": 3,
+      "explanation": "The textbook lists the clinical picture of hypokalemia, which is a serum potassium level below 3.5 mEq/L. It includes vomiting, reduced intestinal motility (paralytic ileus), ECG changes, and muscle weakness."
+    },
+    {
+      "stem": "Which one of the following arterial blood gas changes would you expect in a patient with a massive pneumothorax?",
+      "options": [
+        "High pCO2, high pH and low PO2",
+        "High pCO2, low pH and low pO2",
+        "Low pCO2, high pH and high PO2",
+        "Low pCO2, low pH and low pO2"
+      ],
+      "correct": 1,
+      "explanation": "A massive pneumothorax causes severe respiratory distress due to a mechanical collapse of the lung. This leads to inadequate oxygenation (low pO2) and poor CO2 elimination (high pCO2). The elevated pCO2 causes respiratory acidosis, which is indicated by a low pH."
+    },
+    {
+      "stem": "In coma which of the following is true:",
+      "options": [
+        "In deep coma always no spontaneous breathing",
+        "In Glasgow coma score 3 domains are assessed",
+        "In Glasgow coma score the best response takes the lowest score",
+        "In stupor the patient cannot be aroused by painful stimuli"
+      ],
+      "correct": 1,
+      "explanation": "The textbook states that the Glasgow Coma Scale (GCS) is a 15-point score that comprises three tests or domains: eye opening, verbal response, and motor response. The lowest possible GCS score is 3. Stupor is a state where the patient can be aroused for a short period, whereas a patient in deep coma has no response to painful stimuli."
+    }
+  ]
+}

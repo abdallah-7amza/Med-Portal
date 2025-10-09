@@ -1,0 +1,305 @@
+{
+  "title": "BLEEDING IN LATE PREGNANCY",
+  "questions": [
+    {
+      "stem": "Antepartum hemorrhage is defined as:",
+      "options": [
+        "Genital bleeding at any time during pregnancy.",
+        "Genital bleeding in 3rd trimester.",
+        "Genital bleeding during all stages of labor.",
+        "Genital bleeding after fetal viability and before maturity.",
+        "Genital bleeding after fetal viability till fetal delivery."
+      ],
+      "correct": 4,
+      "explanation": "Antepartum hemorrhage (APH) is explicitly defined as bleeding occurring after fetal viability till delivery (i.e.; bleeding between 24-40 weeks)."
+    },
+    {
+      "stem": "The most common cause of antepartum hemorrhage is:",
+      "options": [
+        "Hypertensive disorders with pregnancy.",
+        "Placenta previa",
+        "Accidental hemorrhage.",
+        "Rupture vasa previa",
+        "Associated gynecologic lesion."
+      ],
+      "correct": 1,
+      "explanation": "While the provided key answer identifies Placenta previa as the most common cause of antepartum hemorrhage, the comprehensive 'Obstetric Department Book 2025.pdf' explicitly states that Placental abruption (also known as accidental hemorrhage) is considered the most common cause for antepartum and intrapartum hemorrhage, complicating up to 1% of all pregnancies. It further notes that Placenta previa is the 2nd most common cause of APH, being preceded only by placental abruption."
+    },
+    {
+      "stem": "Indications of cesarean section with placenta previa include all the followings EXCEPT:",
+      "options": [
+        "Any degree with severe bleeding.",
+        "Continuous bleeding.",
+        "Complete previa.",
+        "Other associated obstetric indication as previous CS.",
+        "Early rupture of membranes during labor."
+      ],
+      "correct": 4,
+      "explanation": "The sources indicate that all cases of Placenta previa (total, partial & marginal) will be delivered by CS. Specific indications for immediate CS include severe bleeding, gestational age > 36 weeks, and spontaneous onset of labor pains. Other associated obstetric indications, like previous CS, can also lead to CS. Early rupture of membranes during labor is not listed as an exception that would not indicate a cesarean section for placenta previa among the given options."
+    },
+    {
+      "stem": "Regarding bleeding in placenta previa:",
+      "options": [
+        "It is unavoidable bleeding.",
+        "Commonly it follows external trauma.",
+        "1st attack is usually mild.",
+        "Rupture of membranes exaggerates bleeding attacks.",
+        "Early onset of fetal distress commonly occurs."
+      ],
+      "correct": 0,
+      "explanation": "Bleeding in Placenta previa occurs due to the unavoidable separation of the placenta as a result of stretching of the lower uterine segment while the pregnancy is ongoing."
+    },
+    {
+      "stem": "Bleeding due to placenta previa is characterized by:",
+      "options": [
+        "Commonly associated with abdominal pain.",
+        "Commonly in the form of repeated attacks.",
+        "Commonly associated with rupture of membranes.",
+        "Usually mild bleeding.",
+        "Rapid fetal distress is characteristic."
+      ],
+      "correct": 1,
+      "explanation": "Vaginal bleeding in placenta previa is typically described as painless causeless recurrent vaginal bleeding, which is the most common clinical presentation."
+    },
+    {
+      "stem": "The following may suggest placenta praevia EXCEPT:",
+      "options": [
+        "Abdominal pain and tenderness.",
+        "Multipara.",
+        "Recurrent Bleeding.",
+        "Fetal malpresentations.",
+        "Twin pregnancy."
+      ],
+      "correct": 0,
+      "explanation": "Placenta previa is characterized by painless vaginal bleeding. Abdominal pain and tenderness are typically associated with placental abruption. Other factors listed, such as multipara, recurrent bleeding, fetal malpresentations, and twin pregnancy, are all recognized predisposing or risk factors for placenta previa."
+    },
+    {
+      "stem": "Regarding placenta accreta:",
+      "options": [
+        "More common in past date pregnancies.",
+        "The incidence rises with increasing number of previous cesarean sections.",
+        "Malpresentations increase the risk of placenta accreta.",
+        "The risk of growth restricted fetus is increased.",
+        "Fetal anomalies are common association."
+      ],
+      "correct": 1,
+      "explanation": "The incidence of placenta previa, and consequently the risk of abnormally invasive placenta (like placenta accreta), rises with increasing maternal age and increasing incidence of repeated deliveries by CS. Placenta accreta occurs mostly in association with placenta previa, especially at the site of a previous CS scar, with the risk increasing proportionately with the number of previous cesarean sections."
+    },
+    {
+      "stem": "A primigravida at 30 weeks gestation presents with heavy vaginal bleeding. Ultrasound reveals a living fetus and total placenta previa covering the cervix. The best management option is:",
+      "options": [
+        "Corticosteroids and expectant management.",
+        "Oxytocin infusion.",
+        "Tocolytics.",
+        "Cesarean section.",
+        "Hysterectomy."
+      ],
+      "correct": 3,
+      "explanation": "For placenta previa, immediate Cesarean Section (CS) is indicated in cases with severe bleeding compromising maternal or fetal lives, regardless of gestational age. Given the 'heavy vaginal bleeding' and 'total placenta previa covering the cervix' in a living fetus, CS is the definitive management."
+    },
+    {
+      "stem": "A 22 years old primigravida, pregnant 34 weeks, presents with painless continuous vaginal bleeding. Her BP is 90/60 and pulse: 105 b/min. Ultrasound reveals placenta previa covering the cervix. The most appropriate next step:",
+      "options": [
+        "Digital examination to detect cervical dilatation.",
+        "Speculum examination to detect source of blood.",
+        "IV fluids and blood transfusion.",
+        "Vaginal pack.",
+        "Tight abdominal binder."
+      ],
+      "correct": 2,
+      "explanation": "The patient is presenting with painless continuous vaginal bleeding, and vital signs indicating hypovolemic shock (BP 90/60, pulse 105 b/min). The immediate priority in managing severe bleeding and hypovolemic shock is resuscitation and anti-shock measures, which include IV infusion with saline/dextrose or lactated Ringer solution and blood or blood components. Digital examination is contraindicated in suspected placenta previa."
+    },
+    {
+      "stem": "In the previous case: On doing CS for this case, placental site bleeds heavily though the uterus was contracting.",
+      "options": [
+        "Hysterectomy.",
+        "Vigorous uterine massage and ecbolics.",
+        "Bilateral internal iliac ligation.",
+        "Uterine pack.",
+        "Concomitant vaginal exploration for possible cervical tear."
+      ],
+      "correct": 2,
+      "explanation": "If the placental site bleeds heavily despite the uterus contracting, it suggests the bleeding is not primarily due to uterine atony, which would typically be managed by uterine massage and ecbolics. In cases where other methods fail to control intractable bleeding from the placental bed, bilateral internal iliac artery ligation is a described interventional method to decrease pelvic blood flow and minimize blood loss. While hysterectomy is a last resort, bilateral internal iliac ligation is an earlier surgical intervention mentioned."
+    },
+    {
+      "stem": "The following most likely predisposes to pathologically adherent placenta?",
+      "options": [
+        "Young primipara.",
+        "Placenta previa with scared uterus.",
+        "Twin gestation.",
+        "Preterm labor.",
+        "Placental anomalies."
+      ],
+      "correct": 1,
+      "explanation": "Placenta previa may sometimes adhere to and/or invade the myometrium especially at the site of a previous CS scar, leading to an abnormally invasive placenta (AIP). This condition is also referred to as Placenta Accreta Spectrum (PAS)."
+    },
+    {
+      "stem": "A 35 years old multipara with previous 3 caesarian sections, 34 weeks pregnant, presents for routine antenatal care. Ultrasound revealed low lying anterior wall placenta. How can you counsel this case?",
+      "options": [
+        "This is insignificant as she will deliver by caesarian section.",
+        "Placenta accreta should be considered.",
+        "Placental insufficiency is highly expected.",
+        "Immediate termination should be considered.",
+        "Placenta usually migrates up."
+      ],
+      "correct": 1,
+      "explanation": "Given the patient's history of multiple previous cesarean sections (3 CS) and the finding of a low lying anterior wall placenta, there is an increased risk of abnormally invasive placenta (Placenta Accreta Spectrum). Therefore, placenta accreta should be considered in counseling this patient."
+    },
+    {
+      "stem": "What further investigations could be requested to the previous case?",
+      "options": [
+        "More professional ultrasound.",
+        "MRI.",
+        "C.T.",
+        "Cystoscopy.",
+        "(a) and (b)."
+      ],
+      "correct": 4,
+      "explanation": "For the diagnosis of abnormally invasive placenta (Placenta Accreta Spectrum), the sources state that diagnosis can be achieved by second level expert US (2D or 3D US and colour Doppler) and also by MRI, though with no significant benefit over expert US. Therefore, both a more professional ultrasound (a) and MRI (b) are indicated."
+    },
+    {
+      "stem": "A 30 years old multipara, 32 weeks gestation presents with sudden onset of mild painless vaginal bleeding. Patient is vitally stable. Hb level is 10.5 g/dl and ultrasound reveals a living fetus in breech presentation with anterior wall placenta, 2 cm away from the cervix. Appropriate management is:",
+      "options": [
+        "Immediate CS.",
+        "Induction of labor.",
+        "Conservative management.",
+        "Urgent blood transfusion.",
+        "External cephalic version."
+      ],
+      "correct": 2,
+      "explanation": "The patient presents with mild painless vaginal bleeding at 32 weeks, is vitally stable, and the ultrasound shows the placenta is 2 cm away from the cervix. This describes a 'low lying placenta (lateral PL PRV)' which carries less risk for bleeding and separation, and does not contraindicate vaginal delivery. In such cases, if bleeding is mild and not affecting maternal or fetal well-being, expectant management to delay delivery is appropriate for preterm pregnancies (< 36 weeks) to allow for lung maturity."
+    },
+    {
+      "stem": "A full term primigravida presents with infrequent labor pains and mild vaginal bleeding. Ultrasound reveals a cephalic, average sized fetus with posterior low-lying placenta covering the cervix. What will be your management?",
+      "options": [
+        "Observe till her contractions become regular and frequent.",
+        "Artificial rupture of membranes to control bleeding.",
+        "Oxytocin may be tried for few hours.",
+        "Urgent cesarean section.",
+        "Analgesics and recheck within few days."
+      ],
+      "correct": 3,
+      "explanation": "The ultrasound reveals a 'low-lying placenta covering the cervix'. This description indicates a Placenta previa (total or partial central PL PRV). For Placenta previa, all cases will be delivered by Cesarean Section (CS). Since the patient is full term and has placenta previa covering the cervix, an urgent CS is the appropriate management."
+    },
+    {
+      "stem": "An unbooked 34 weeks pregnant woman, G3P3; previous 3CS attended a nearby 'one day surgery' medical center with strong uterine contractions. Ultrasound revealed low anterior wall placenta. What you recommend?",
+      "options": [
+        "Urgent CS should be done to prevent rupture uterus.",
+        "Insist to refer the case to a 3ry care hospital.",
+        "Sedatives and CTG monitoring for 1 hour.",
+        "IV tocolytics.",
+        "Check cervical dilatation for possible vaginal delivery."
+      ],
+      "correct": 1,
+      "explanation": "This patient has several high-risk factors: unbooked pregnancy, previous 3 Cesarean sections, 34 weeks gestation (preterm), strong uterine contractions, and a low anterior wall placenta. This combination significantly increases the risk for complications such as abnormally invasive placenta (Placenta Accreta Spectrum) and uterine rupture. High-risk cases, especially those with suspected abnormally invasive placenta, require specialized care that a 'one day surgery' medical center is unlikely to provide. Therefore, referring the case to a tertiary care hospital is the most appropriate step."
+    },
+    {
+      "stem": "A 39 weeks primigravida develops sudden sharp continuous abdominal pain, shock, and tender uterus without bleeding. She is not in labor. The most likely diagnosis is:",
+      "options": [
+        "Amniotic fluid embolism.",
+        "Chorioamnionitis.",
+        "Placental abruption.",
+        "Red degeneration of fibroid.",
+        "Rupture of the uterus."
+      ],
+      "correct": 2,
+      "explanation": "The clinical picture of sudden sharp continuous abdominal pain, shock, and a tender uterus without bleeding strongly suggests concealed placental abruption. In concealed type abruption, blood remains entrapped forming a retro-placental haematoma with no clinically detectable external vaginal bleeding, and it is the most serious type."
+    },
+    {
+      "stem": "What is the commonest cause of concealed accidental haemorrhage?",
+      "options": [
+        "Cigarette smoking.",
+        "Preeclampsia.",
+        "Diabetes.",
+        "Polyhydramnios.",
+        "Placental abnormalities."
+      ],
+      "correct": 1,
+      "explanation": "Concealed placental abruption (accidental hemorrhage) mostly occurs with severe Preeclampsia (PE) and is associated with severe pain and a hard tender uterus. Maternal hypertension and severe preeclampsia are listed as key risk factors for abruption."
+    },
+    {
+      "stem": "Maternal complications in cases with severe concealed accidental haemorrhage are due all the followings EXCEPT:",
+      "options": [
+        "Disseminated intravascular coagulopathy.",
+        "Hypertensive crisis.",
+        "Sheehan syndrome.",
+        "Renal failure.",
+        "Post-partum haemorrhage."
+      ],
+      "correct": 1,
+      "explanation": "Maternal complications in severe concealed accidental hemorrhage include hemorrhagic shock, acute renal tubular necrosis, Sheehan syndrome (acute pituitary necrosis), Disseminated Intravascular Coagulopathy (DIC), and Couvelaire’s uterus, which can lead to atonic postpartum hemorrhage. While pre-eclampsia can be a cause of abruption, a 'hypertensive crisis' itself is not listed as a consequence of the hemorrhage; rather, the hemorrhage can lead to hypotension/shock."
+    },
+    {
+      "stem": "Cd in cases with severe concealed accidental hemorrhage include all of the following EXCEPT:",
+      "options": [
+        "Coagulopathy.",
+        "Renal failure.",
+        "Couvelaire uterus.",
+        "Intrauterine fetal death.",
+        "Premature rupture of membranes."
+      ],
+      "correct": 4,
+      "explanation": "Assuming 'Cd' means complications, the complications of severe concealed accidental hemorrhage include Coagulopathy (DIC), Renal failure, Couvelaire uterus, and Intrauterine fetal death. Premature rupture of membranes (PROM) is a separate obstetric complication and is not listed as a direct complication of severe concealed accidental hemorrhage."
+    },
+    {
+      "stem": "Regarding concealed accidental hemorrhage:",
+      "options": [
+        "Malpresentations are commonly present.",
+        "Marked lower limbs edema is usually present due to venous compressions by the retro placental hematoma.",
+        "The fetal heart sounds are faint due to interference by the retro placental hematoma",
+        "Urine analysis shows heavy ketonuria.",
+        "Hypofibrinogenemia is detected in many cases."
+      ],
+      "correct": 4,
+      "explanation": "In severe concealed accidental hemorrhage, Disseminated Intravascular Coagulopathy (DIC) can occur due to thromboplastin release and consumption of clotting factors in the retroplacental hematoma, leading to hypofibrinogenemia."
+    },
+    {
+      "stem": "Etiology of revealed accidental hemorrhage includes all the followings EXCЕРТ:",
+      "options": [
+        "Anti-phospholipid syndrome.",
+        "Malpresentations.",
+        "Smoking.",
+        "Sudden rupture of membranes.",
+        "External cephalic version."
+      ],
+      "correct": 1,
+      "explanation": "Risk factors for placental abruption (accidental hemorrhage) include abruption in a previous pregnancy, maternal hypertension and severe preeclampsia (PE), sudden ROM (e.g., in polyhydramnios), traumatic abruption, smoking, and thrombophilias. External cephalic version can also lead to feto-maternal hemorrhage and potentially placental abruption. Malpresentations are not listed as an etiology or risk factor for accidental hemorrhage."
+    },
+    {
+      "stem": "Risk factors for accidental hemorrhage include:",
+      "options": [
+        "Prior cesarean delivery.",
+        "Antiphospholipid syndrome.",
+        "Multiple pregnancies.",
+        "Diabetes mellitus.",
+        "Pathologically adherent placenta."
+      ],
+      "correct": 1,
+      "explanation": "Among the options, thrombophilias, Factor V Leiden and prothrombin gene mutations, have been associated with placental abruption. The Antiphospholipid syndrome (APS) is explicitly identified as an acquired thrombophilia and a cause of recurrent pregnancy loss and thrombosis, where antibodies lead to thrombosis of placental vessels."
+    },
+    {
+      "stem": "Regarding Couvelaire uterus in cases with severe concealed accidental hemorrhage:",
+      "options": [
+        "It is commonly encountered in grand multipara.",
+        "It may be diagnosed by ultrasound.",
+        "It is an absolute indication for hysterectomy.",
+        "It constitutes a major risk for atonic post-partum hemorrhage.",
+        "It is commonly associated with fetal growth restriction."
+      ],
+      "correct": 3,
+      "explanation": "Couvelaire’s uterus occurs in cases of concealed hemorrhage where entrapped blood dissects within the myometrium, leading to bruises-like lesions with failure of uterine contractions and atonic postpartum hemorrhage."
+    },
+    {
+      "stem": "Which of the following predisposes to vasa previa?",
+      "options": [
+        "Too long umbilical cord.",
+        "True knot of the cord.",
+        "Velamentous cord insertion.",
+        "Sudden rupture of membranes.",
+        "Malpositions and malpresentations."
+      ],
+      "correct": 2,
+      "explanation": "Vasa previa occurs when umbilical cord vessels cross over the internal os. This condition is explicitly stated to occur in cases of velamentous insertion of the cord, especially when the placenta is low lying."
+    }
+  ]
+}

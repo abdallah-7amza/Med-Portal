@@ -1,0 +1,305 @@
+{
+  "title": "Fetus and Neonate",
+  "questions": [
+    {
+      "stem": "Components of biophysical profile include all of the following, EXCEPT:",
+      "options": [
+        "Fetal movement.",
+        "Placental grading.",
+        "Fetal tone.",
+        "Fetal breathing movement.",
+        "Amniotic fluid volume assessment."
+      ],
+      "correct": 1,
+      "explanation": "The Biophysical Profile (BPP) is an ultrasound evaluation that assesses fetal tone, fetal movements, fetal breathing activities, and amniotic fluid volume. Placental grading is not a component of the BPP."
+    },
+    {
+      "stem": "The most important parameter studied in biophysical profile (BPP) to assess fetal wellbeing:",
+      "options": [
+        "Fetal tone.",
+        "Non stress test.",
+        "Placental grading.",
+        "Fetal umbilical artery blood flow.",
+        "Amniotic fluid index."
+      ],
+      "correct": 1,
+      "explanation": "The Non-Stress Test (NST) directly assesses fetal oxygenation and neurological function based on heart rate reactivity, which is a critical indicator of fetal well-being in the context of a BPP assessment."
+    },
+    {
+      "stem": "Functions of amniotic fluid include all of the following EXCEPT:",
+      "options": [
+        "Protection from trauma.",
+        "Thermal regulation.",
+        "Excretory medium.",
+        "Fetal lung distension.",
+        "Fetal electrolyte balance."
+      ],
+      "correct": 4,
+      "explanation": "Amniotic fluid protects the fetus from trauma, maintains temperature, serves as an excretory medium, and allows for lung development. It does not directly regulate fetal electrolyte balance."
+    },
+    {
+      "stem": "Commonest cause of polyhydramnios is:",
+      "options": [
+        "Anencephaly.",
+        "Duodenal atresia.",
+        "Idiopathic.",
+        "Maternal diabetes.",
+        "Twins"
+      ],
+      "correct": 2,
+      "explanation": "While maternal diabetes is a common cause, most cases of polyhydramnios are ultimately considered idiopathic, resulting from an imbalance between fluid production and absorption."
+    },
+    {
+      "stem": "Which of the followings fetal anomalies is associated with polyhydramnios?",
+      "options": [
+        "Hydrocephallus.",
+        "Anencephally.",
+        "Renal agenesis.",
+        "Down syndrome.",
+        "Phocomelia."
+      ],
+      "correct": 1,
+      "explanation": "Anencephaly is a fetal congenital anomaly explicitly associated with polyhydramnios, often due to impaired fetal swallowing. In contrast, renal agenesis is associated with oligohydramnios."
+    },
+    {
+      "stem": "What is the commonest cause of oligohydramnios?",
+      "options": [
+        "Rupture of membranes.",
+        "Intrauterine placental insufficiency.",
+        "Congenital renal diseases.",
+        "Urethral valve in male fetus.",
+        "Past date pregnancy."
+      ],
+      "correct": 0,
+      "explanation": "Undiagnosed rupture of membranes (ROM) is a very common cause of oligohydramnios, leading to chronic leakage of amniotic fluid."
+    },
+    {
+      "stem": "Which of the followings fetal anomalies is associated with oligohydramnios?",
+      "options": [
+        "Esophageal atresia.",
+        "Spina bifida.",
+        "Congenital polycystic kidneys.",
+        "Down syndrome.",
+        "Meningeo-encephalocele."
+      ],
+      "correct": 2,
+      "explanation": "Congenital polycystic kidneys fall under the category of renal anomalies that impair fetal urine production, which is the primary source of amniotic fluid, thus leading to oligohydramnios."
+    },
+    {
+      "stem": "Fetal caput succedaneum is characterized by which of the followings?",
+      "options": [
+        "It develops after labor.",
+        "Well defined edges.",
+        "Overlying more than one cranial bone.",
+        "Overlying skin is always normal.",
+        "Must be evacuated surgically within the first week."
+      ],
+      "correct": 2,
+      "explanation": "Caput succedaneum is characterized by ill-defined edema that crosses suture lines, thus overlying more than one cranial bone. It appears at birth and resolves without treatment."
+    },
+    {
+      "stem": "Regarding caput succedaneum:",
+      "options": [
+        "Cervical caput occurs in dystocia due to cephalo-pelvic disproportion.",
+        "Artificial caput develops after forceps delivery.",
+        "It is localized to one cranial bone.",
+        "Large caput may need surgical evacuation.",
+        "It might give a false impression that head is descending."
+      ],
+      "correct": 4,
+      "explanation": "A large caput succedaneum may give a false impression of head engagement, where the scalp is felt low in the vagina while the skull is still at a higher, non-engaged level."
+    },
+    {
+      "stem": "Regarding cephalhematoma, all the followings are true EXCEPT:",
+      "options": [
+        "It is restricted to one cranial bone.",
+        "Associated intracranial hemorrhage commonly occurs.",
+        "Neonatal hyper-bilirubinemia with jaundice may occur.",
+        "It presents at time of labor.",
+        "It commonly resolves spontaneously after few weeks."
+      ],
+      "correct": 3,
+      "explanation": "A cephalhematoma typically appears a few hours after birth, not at the time of labor. It is a subperiosteal bleed restricted to one cranial bone and can cause hyperbilirubinemia."
+    },
+    {
+      "stem": "The following fetal condition is commonly associated with low maternal serum α-fetoprotein:",
+      "options": [
+        "Hydrocephaly.",
+        "Anencephaly.",
+        "Major cardiac anomalies.",
+        "Down's syndrome.",
+        "Inborn errors of metabolism."
+      ],
+      "correct": 3,
+      "explanation": "Alpha Fetoprotein (AFP) levels are abnormally decreased in cases with trisomy 21 (Down syndrome). Conversely, levels are increased in open neural tube defects like anencephaly."
+    },
+    {
+      "stem": "The following fetal congenital anomaly is associated with polyhydramnios:",
+      "options": [
+        "Renal agenesis.",
+        "Hydrocephaly.",
+        "Anencephaly.",
+        "Down's syndrome.",
+        "Diaphragmatic hernia."
+      ],
+      "correct": 2,
+      "explanation": "Anencephaly, open neural tube defects, esophageal atresia, and duodenal atresia are fetal causes of polyhydramnios. Renal agenesis is associated with oligohydramnios."
+    },
+    {
+      "stem": "The following is commonly associated with symmetric intrauterine growth restriction:",
+      "options": [
+        "A mother with untreated gestational diabetes.",
+        "Grand multiparity.",
+        "Preterm delivery.",
+        "Rh incompatibility.",
+        "Fetal anomalies."
+      ],
+      "correct": 4,
+      "explanation": "Symmetric FGR usually results from an issue intrinsic to the fetus that occurs early in development, such as intrauterine infections, chromosomal abnormalities, or other congenital malformations."
+    },
+    {
+      "stem": "Regarding intrauterine fetal restriction:",
+      "options": [
+        "Symmetric type has better prognosis than asymmetric type.",
+        "Fetal anomalies are more common in asymmetric type.",
+        "In asymmetric type; brain growth is spared.",
+        "In asymmetric type, the baby remains short statured later on.",
+        "In symmetric type; oligohydramnios is the rule."
+      ],
+      "correct": 2,
+      "explanation": "In asymmetric FGR, the 'brain sparing phenomenon' occurs, where blood flow is redirected to maintain brain and heart perfusion at the expense of other organs, resulting in a preserved head circumference."
+    },
+    {
+      "stem": "Reactive non stress test means:",
+      "options": [
+        "Fetal bradycardia in response to fetal movements.",
+        "Fetal tachycardia in response to fetal movements.",
+        "Fetal tachycardia in response to uterine contractions.",
+        "Fetal bradycardia in response to uterine contractions.",
+        "Fetal distress."
+      ],
+      "correct": 1,
+      "explanation": "A normal, reactive Non-Stress Test (NST) shows FHR accelerations of >15 bpm, lasting >15 seconds, occurring with each fetal movement. This indicates a healthy fetal response."
+    },
+    {
+      "stem": "Reviewing a cardiotocograph (CTG) prior to induction of labor in a 39 weeks multipara; which of the following features is reassuring?",
+      "options": [
+        "The baseline heart rate is 100 beats per minute.",
+        "The baseline variability is <5 beats per minute.",
+        "An acceleration of 15 beats per minute for 15 seconds is present on the trace.",
+        "There are no significant accelerations of the fetal heart on the 30-minute recording.",
+        "The tocograph is picking up infrequent contractions of low intensity."
+      ],
+      "correct": 2,
+      "explanation": "An acceleration of >15 bpm for >15 seconds is the definition of a reactive (reassuring) pattern on a CTG. A baseline of 100 bpm is bradycardia and variability <5 bpm is non-reassuring."
+    },
+    {
+      "stem": "During continuous monitoring of 1st stage of labor in a primipara with PROM, fetus had repeated attacks of deceleration that coincide with peak of uterine contractions and returns to normal with its end. How can you explain this pattern?",
+      "options": [
+        "Fetal distress.",
+        "Fetal congenital anomalies",
+        "Head compression during labor.",
+        "Insignificant, as tracing should not be evaluated during contractions.",
+        "Cord compression."
+      ],
+      "correct": 2,
+      "explanation": "Early decelerations mirror the uterine contraction, with onset at the start and recovery by the end. This is a normal physiological response to fetal head compression and does not indicate fetal distress."
+    },
+    {
+      "stem": "A 21 years old primigravida, pregnant 39 weeks... FHS shows deceleration with onset of uterine contractions and returns to normal at their end. Most appropriate next step in management:",
+      "options": [
+        "Observe for another 2 hours.",
+        "Oxytocin infusion.",
+        "Cesarean delivery.",
+        "Intravenous atropine.",
+        "Artificial rupture of membranes."
+      ],
+      "correct": 4,
+      "explanation": "The patient has early decelerations (reassuring) but slow labor progression (1 cm in 2 hours). Artificial rupture of membranes (amniotomy) is an appropriate step to augment labor."
+    },
+    {
+      "stem": "During continuous monitoring of early 1st stage of labor in a multipara; FHR dropped repeatedly to 80/minute with onset of uterine contractions and returns slowly to normal about 1 minute after end of contractions. How can you explain this pattern?",
+      "options": [
+        "Congenital heart block.",
+        "Fetal distress.",
+        "Head compression during labor.",
+        "Normal in late 1st stage.",
+        "Cord compression."
+      ],
+      "correct": 1,
+      "explanation": "This describes late decelerations, where the FHR does not recover until after the contraction has ended. This pattern, especially with a drop to 80 bpm, indicates uteroplacental insufficiency and fetal distress."
+    },
+    {
+      "stem": "In the previous case: proper management should be:",
+      "options": [
+        "O2 mask and observe labor.",
+        "Left lateral position of the mother and urgent CS.",
+        "Oxytocin infusion.",
+        "Epidural anesthesia.",
+        "Tocolytics."
+      ],
+      "correct": 1,
+      "explanation": "With severe, recurrent late decelerations indicating fetal distress, intrauterine resuscitation (left lateral position, O2 mask) should be initiated, followed by preparation for immediate delivery via emergency C-section."
+    },
+    {
+      "stem": "During continuous monitoring of 1st stage of labor in a multipara... developed once deceleration with onset of uterine contractions that returned to normal 1 minute after its end. What is your suggested management?",
+      "options": [
+        "Urgent CS.",
+        "O2 mask and Trendlenberg position.",
+        "Oxytocin.",
+        "Rupture of membranes, continue monitoring and observe labor.",
+        "Forceps application."
+      ],
+      "correct": 3,
+      "explanation": "A single late deceleration that resolves suggests a temporary issue. At 8 cm dilated, rupturing the membranes to augment labor while continuing close monitoring is a reasonable approach, provided the FHR tracing returns to normal."
+    },
+    {
+      "stem": "Repeated fetal decelerations unrelated to uterine contractions are due to:",
+      "options": [
+        "Fetal head compression during labor.",
+        "Acute fetal distress.",
+        "Cord compression.",
+        "Cord prolapse.",
+        "Epidural anesthesia."
+      ],
+      "correct": 2,
+      "explanation": "Variable decelerations are not uniform in shape and are not consistently related to contractions. They are typically caused by transient umbilical cord compression."
+    },
+    {
+      "stem": "Immediate therapy for infants with suspected meconium aspiration should be:",
+      "options": [
+        "Surfactant.",
+        "Corticosteroids.",
+        "Antibiotics.",
+        "Clearing of the airway.",
+        "Oxygen mask."
+      ],
+      "correct": 3,
+      "explanation": "The immediate priority for an infant with suspected meconium aspiration is to clear the airway by aspirating the mucus and meconium from the larynx before the infant takes its first breaths."
+    },
+    {
+      "stem": "A 25 years old, 3rdG P2... presents at 36 weeks gestation with diminished fetal movements. PV examination reveals closed, formed and posterior cervix... How can you manage this case?",
+      "options": [
+        "Reassurance as subjective perception of fetal movement is insignificant.",
+        "Vaginal misoprostol.",
+        "Oxytocin infusion.",
+        "Fetal scalp PH.",
+        "Fetal biophysical profile."
+      ],
+      "correct": 4,
+      "explanation": "Decreased fetal movement count warrants further objective testing to evaluate fetal wellbeing. The fetal biophysical profile (BPP) is a standard test for this purpose."
+    },
+    {
+      "stem": "Regarding the previous case: After 10 days, she returns with fluid leak from the vagina... Examination is the same. How would you proceed with her?",
+      "options": [
+        "Cesarean section.",
+        "Oxytocin infusion.",
+        "Vaginal prostaglandins.",
+        "Artificial rupture of membranes.",
+        "Check fetal lung maturation before making an action."
+      ],
+      "correct": 2,
+      "explanation": "The patient is now at term (approx. 37.5 weeks) with ruptured membranes and an unfavorable (unripe) cervix. The appropriate management is induction of labor, which requires cervical ripening with prostaglandins (e.g., Misoprostol) first."
+    }
+  ]
+}

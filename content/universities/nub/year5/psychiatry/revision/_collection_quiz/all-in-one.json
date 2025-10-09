@@ -1,0 +1,797 @@
+{
+  "title": "All In One",
+  "questions": [
+    {
+      "stem": "Which of the following drugs affects GABA receptors?",
+      "options": [
+        "Typical antipsychotics",
+        "Mood stabilizers",
+        "SSRIs",
+        "atypical antipsychotics"
+      ],
+      "correct": 1,
+      "explanation": "Sodium valproate, a medication categorized as a mood stabilizer, enhances the actions of GABA (GammaAmino Butyric acid). It achieves this by increasing GABA release, slowing its metabolic inactivation, or decreasing its reuptake. (Note: While benzodiazepines also affect GABA, Valproate is the mood stabilizer listed that acts through GABA potentiation)."
+    },
+    {
+      "stem": "Naltrexone is:",
+      "options": [
+        "opiate agonist",
+        "opiate antagonist",
+        "opiate receptor partial agonist",
+        "NMDA antagonist"
+      ],
+      "correct": 1,
+      "explanation": "Naltrexone is classified as an opiate antagonist and specifically acts as a Mu opioid antagonist."
+    },
+    {
+      "stem": "The depressive episode may include all the following symptoms except:",
+      "options": [
+        "inflated self-esteem",
+        "guilt",
+        "insomnia",
+        "suicide"
+      ],
+      "correct": 0,
+      "explanation": "Inflated self-esteem or grandiosity is a diagnostic criterion for a manic episode. In contrast, a major depressive episode typically includes feelings of worthlessness or inappropriate guilt, insomnia, and suicidal thoughts."
+    },
+    {
+      "stem": "Which of the following is true about schizophrenia?",
+      "options": [
+        "age of onset is younger in males",
+        "It is not treated by antipsychotics",
+        "Patient has mainly anxiety symptoms",
+        "social and occupational functions are intact."
+      ],
+      "correct": 0,
+      "explanation": "The peak age for the onset of schizophrenia is 15–25 years for males and 25–33 years for females, indicating that the age of onset is typically younger in males."
+    },
+    {
+      "stem": "Hyperprolactinaemia may result from the use of:",
+      "options": [
+        "SSRIs",
+        "typical antipsychotics",
+        "Benzodiazepines",
+        "lithium"
+      ],
+      "correct": 1,
+      "explanation": "Typical antipsychotics can cause hyperprolactinaemia because they block D2 dopamine receptors in the tuberoinfundibular tract, leading to increased prolactin levels."
+    },
+    {
+      "stem": "Lithium toxicity is suspected if lithium serum level is:",
+      "options": [
+        "> 1.5 mEq/l",
+        "<1.5 mEq/l",
+        ">2mEq/l",
+        ">4 mEq/l"
+      ],
+      "correct": 0,
+      "explanation": "Lithium toxicity is suspected or diagnosed when the serum lithium level exceeds 1.5 mEq/L."
+    },
+    {
+      "stem": "Which of the following drugs can cause dependence?",
+      "options": [
+        "Benzodiazepines",
+        "Valproate",
+        "SSRI",
+        "Lithium"
+      ],
+      "correct": 0,
+      "explanation": "Long-term use of Benzodiazepines can lead to physical dependence, tolerance, and addiction."
+    },
+    {
+      "stem": "Endocrinal side effects are prominent in using the following drug:",
+      "options": [
+        "SSRIs",
+        "Valproate",
+        "benzodiazepines",
+        "lamotrigine"
+      ],
+      "correct": 1,
+      "explanation": "Valproate is associated with significant endocrine side effects in females, including irregular menses, hyperandrogenism, and polycystic ovary disease (PCOS)."
+    },
+    {
+      "stem": "Fever, muscle rigidity and hypertension if present together may be indicative of:",
+      "options": [
+        "drug induced parkinsonism",
+        "lithium toxicity",
+        "serotonin syndrome.",
+        "neuroleptic malignant syndrome"
+      ],
+      "correct": 3,
+      "explanation": "Neuroleptic Malignant Syndrome (NMS) is a life-threatening condition characterized by increasing fever, severe muscle rigidity, and tachycardia (which may cause hypertension)."
+    },
+    {
+      "stem": "All of the following can cause congenital anomalies except:",
+      "options": [
+        "lithium",
+        "SSRIs",
+        "valproate",
+        "carbamazepine"
+      ],
+      "correct": 1,
+      "explanation": "Mood stabilizers such as Lithium, Valproate, and Carbamazepine are known teratogenic agents (causing defects like neural tube defects) and should be avoided in pregnancy. SSRIs are not listed in the provided material as having this same high risk for congenital anomalies."
+    },
+    {
+      "stem": "In bipolar II disorder the following is not present:",
+      "options": [
+        "depressive episodes",
+        "hypomanic episodes",
+        "manic episodes",
+        "anxiety symptoms"
+      ],
+      "correct": 2,
+      "explanation": "Bipolar II disorder is defined by the presence of major depressive episodes and hypomanic episodes (a milder form of mania for at least 4 days), but it must exclude any history of a full manic episode."
+    },
+    {
+      "stem": "Negative symptoms in schizophrenia is related to the following:",
+      "options": [
+        "mesocortical tract",
+        "basal ganglia",
+        "mesolimbic tract",
+        "thalamus"
+      ],
+      "correct": 0,
+      "explanation": "Negative symptoms, such as flat affect, social withdrawal, and avolition, are associated with decreased dopamine activity in the mesocortical tract."
+    },
+    {
+      "stem": "Drug induced parkinsonism is more likely to occur with the use of:",
+      "options": [
+        "high potent typical antipsychotics",
+        "low potent typical antipsychotics",
+        "SSRIs",
+        "Atypical antipsychotics"
+      ],
+      "correct": 0,
+      "explanation": "Drug-induced parkinsonism (due to D2 receptor blockade in the basal ganglia) is more common with the use of high potency typical antipsychotics."
+    },
+    {
+      "stem": "The following drug is not known to cause Steven Johnson syndrome:",
+      "options": [
+        "atypical antipsychotics",
+        "lamotrigine",
+        "Valproate",
+        "carbamazepine"
+      ],
+      "correct": 0,
+      "explanation": "Stevens-Johnson Syndrome (SJS) is listed as a potential serious side effect of the mood stabilizers Lamotrigine, Carbamazepine, and Valproate. Atypical antipsychotics are mainly associated with metabolic side effects."
+    },
+    {
+      "stem": "Sense of pleasure and reward is due to release of dopamine in:",
+      "options": [
+        "Mesolimbic tract",
+        "Nucleus Accumbens",
+        "basal ganglia",
+        "cingulate gyrus"
+      ],
+      "correct": 1,
+      "explanation": "Dopamine release in the Nucleus Accumbens (part of the mesolimbic system) is associated with the sense of pleasure (Hedonic effects) and forms the 'reward pathway' implicated in addiction."
+    },
+    {
+      "stem": "Delusions and hallucination are due to:",
+      "options": [
+        "decreased dopamine",
+        "increased Acetyl-choline",
+        "decreased serotonin.",
+        "increased dopamine"
+      ],
+      "correct": 3,
+      "explanation": "Positive psychotic symptoms, specifically delusions and hallucinations, are associated with excessive dopaminergic activity, primarily in the mesolimbic tract."
+    },
+    {
+      "stem": "Mood stabilizers are used in treatment of:",
+      "options": [
+        "Psychosis.",
+        "Bipolar disorder.",
+        "Anxiety disorders.",
+        "delirium"
+      ],
+      "correct": 1,
+      "explanation": "Mood stabilizers (Lithium, Valproate, Carbamazepine, etc.) are a group of pharmacological agents used primarily to control and prevent bipolar disorders."
+    },
+    {
+      "stem": "All the following are anticholinergic side effects except:",
+      "options": [
+        "delirium",
+        "urine retention",
+        "constipation",
+        "muscle rigidity"
+      ],
+      "correct": 3,
+      "explanation": "Anticholinergic side effects include dryness of mouth, blurred vision, urine retention, constipation, and central effects like delirium. Muscle rigidity is a neurological side effect (Parkinsonism or NMS) resulting from D2 receptor blockade in the nigrostriatal tract."
+    },
+    {
+      "stem": "Delusions and hallucinations are prominent in:",
+      "options": [
+        "Disorganized schizophrenia",
+        "Paranoid schizophrenia",
+        "Residual schizophrenia",
+        "Catatonic schizophrenia"
+      ],
+      "correct": 1,
+      "explanation": "Paranoid schizophrenia is specifically defined by the preoccupation with one or more delusions or frequent hallucinations."
+    },
+    {
+      "stem": "Side effects of atypical antipsychotics include:",
+      "options": [
+        "Parkinsonism",
+        "Weight gain",
+        "Dystonia",
+        "Constipation"
+      ],
+      "correct": 1,
+      "explanation": "Atypical antipsychotics, especially Olanzapine and Clozapine, are notably associated with substantial weight gain, which increases the risk for diabetes mellitus and dyslipidemia."
+    },
+    {
+      "stem": "The essential symptom to diagnose delirium is:",
+      "options": [
+        "disturbed consciousness",
+        "disturbed attention",
+        "memory impairment",
+        "aphasia"
+      ],
+      "correct": 0,
+      "explanation": "Delirium is defined as an acute reversible state of global cortical dysfunction characterized by a disturbance of consciousness, which manifests as reduced ability to direct attention and awareness."
+    },
+    {
+      "stem": "Risk factors of Alzheimer’s disease include all the following except:",
+      "options": [
+        "older age",
+        "lower level of education",
+        "male gender",
+        "depression"
+      ],
+      "correct": 2,
+      "explanation": "Risk factors for Alzheimer's disease include increased age, lower level of education, and depression, but female sex is listed as a risk factor, not male gender."
+    },
+    {
+      "stem": "Main neurotransmitter involved in schizophrenia is:",
+      "options": [
+        "decreased dopamine",
+        "increased dopamine",
+        "increased norepinephrine.",
+        "increased cortisol"
+      ],
+      "correct": 1,
+      "explanation": "The primary neurochemical abnormality implicated in schizophrenia is excessive dopaminergic activity."
+    },
+    {
+      "stem": "In Alzheimer’s disease the main deficit is:",
+      "options": [
+        "aphasia",
+        "agnosia",
+        "apraxia",
+        "memory impairment"
+      ],
+      "correct": 3,
+      "explanation": "Memory impairment, specifically the inability to recall recent events, is typically an early and prominent feature of Alzheimer’s disease."
+    },
+    {
+      "stem": "The classic course of cognitive impairment in vascular dementia is:",
+      "options": [
+        "progressive",
+        "regressive",
+        "stepwise course",
+        "fluctuating course"
+      ],
+      "correct": 2,
+      "explanation": "Vascular dementia has an acute onset and typically runs a stepwise course, reflecting multiple recurrent cerebral infarcts."
+    },
+    {
+      "stem": "The mechanism of action of antidepressant is by:",
+      "options": [
+        "dopamine antagonism",
+        "Increase serotonin and norepinephrine levels.",
+        "serotonin antagonism",
+        "glutamate agonist"
+      ],
+      "correct": 1,
+      "explanation": "Antidepressant drugs work by increasing the availability of monoamines (Serotonin, Norepinephrine, and Dopamine) in the synaptic cleft, most commonly by inhibiting their reuptake."
+    },
+    {
+      "stem": "Course of bipolar disorder is:",
+      "options": [
+        "chronic progressive",
+        "continuous",
+        "chronic episodic",
+        "chronic regressive"
+      ],
+      "correct": 2,
+      "explanation": "Bipolar disorder is characterized as a chronic-episodic illness."
+    },
+    {
+      "stem": "A patient consciously faking the psychiatric symptoms is diagnosed:",
+      "options": [
+        "hypochondriasis",
+        "Malingering",
+        "conversion disorder",
+        "somatization disorder"
+      ],
+      "correct": 1,
+      "explanation": "Malingering is characterized by the conscious feigning or exaggeration of physical or psychological symptoms with the aim of achieving a clear external reward, such as financial gain or avoidance of obligations."
+    },
+    {
+      "stem": "All the following act through GABA receptors except:",
+      "options": [
+        "Alcohol",
+        "Benzodiazepines",
+        "Valproate",
+        "Lithium"
+      ],
+      "correct": 3,
+      "explanation": "Alcohol and Benzodiazepines are CNS depressants that act by affecting GABAA receptors. Sodium valproate also enhances GABA actions. Lithium, however, is a monovalent ion that acts through the second messenger system (IP system, GSK-3 modulation)."
+    },
+    {
+      "stem": "Opioid withdrawal is associated with all the following except:",
+      "options": [
+        "Pain",
+        "Insomnia",
+        "Constipation",
+        "Rhinorrhea"
+      ],
+      "correct": 2,
+      "explanation": "Opioid withdrawal symptoms are generally the opposite of the drug's acute effects, and include abdominal colics, vomiting, diarrhea, restlessness, and diffuse musculoskeletal pains. Constipation is typically a feature of intoxication or chronic use, not withdrawal."
+    },
+    {
+      "stem": "Management of antipsychotic-induced dystonia is by giving:",
+      "options": [
+        "Muscle relaxant",
+        "Anticholinergic",
+        "Dopamine agonist",
+        "Antianxiety"
+      ],
+      "correct": 1,
+      "explanation": "Acute dystonia (a neurological emergency) is treated by the injection of anticholinergic or antihistaminic drugs."
+    },
+    {
+      "stem": "The pathognomonic diagnosis of neuroleptic malignant syndrome is by:",
+      "options": [
+        "Decreased CPK level",
+        "Hyperpyrexia",
+        "Muscle rigidity",
+        "Increased CPK level"
+      ],
+      "correct": 3,
+      "explanation": "One of the key laboratory findings for Neuroleptic Malignant Syndrome is an increased level of Creatine Phosphokinase (CPK) due to muscle necrosis."
+    },
+    {
+      "stem": "Which of the following does not cause skin allergy:",
+      "options": [
+        "Lamotrigine",
+        "Valproate",
+        "Carbamazepine",
+        "Antipsychotics"
+      ],
+      "correct": 3,
+      "explanation": "Severe skin reactions, including Stevens-Johnson Syndrome (SJS), are explicitly listed as serious side effects for the mood stabilizers Lamotrigine, Carbamazepine, and Valproate."
+    },
+    {
+      "stem": "To be addictive, the drug must have all the following characteristics except:",
+      "options": [
+        "Tolerance",
+        "Mood elevating",
+        "Dependence",
+        "Withdrawal symptoms"
+      ],
+      "correct": 1,
+      "explanation": "Drug addiction is defined by the addict’s lack of control over use, preoccupation with using, tolerance, and the presence of withdrawal symptoms. While many addictive substances produce pleasurable (Hedonic) effects, this is the mechanism of reinforcement, not a core characteristic defining the compulsive disorder itself."
+    },
+    {
+      "stem": "First sign of lithium toxicity is:",
+      "options": [
+        "Diarrhea",
+        "Thirsty",
+        "Convulsions",
+        "Polyuria"
+      ],
+      "correct": 0,
+      "explanation": "Early signs of lithium toxicity include nausea, diarrhea, polyuria, ataxia, and tremors. Diarrhea is one of the initial and prominent gastrointestinal symptoms listed."
+    },
+    {
+      "stem": "Bipolar II disorder may present with all the following except:",
+      "options": [
+        "Depression",
+        "Hyponania",
+        "Psychotic symptoms",
+        "Dysphoria"
+      ],
+      "correct": 2,
+      "explanation": "Psychotic symptoms (delusions or hallucinations) are features of severe mania (Bipolar I) or psychotic depression. Bipolar II disorder is characterized by hypomanic and depressive episodes, and must exclude psychosis."
+    },
+    {
+      "stem": "The average age of onset of major depressive disorders is:",
+      "options": [
+        "Below 20s",
+        "Around 40 years",
+        "Above 45 years",
+        "Above 65 years"
+      ],
+      "correct": 1,
+      "explanation": "The incidence of major depressive disorder is greatest between the ages of 20–40."
+    },
+    {
+      "stem": "Pinpoint pupil and respiratory depression is indicative of toxicity of:",
+      "options": [
+        "Opioids",
+        "Nicotine",
+        "Benzodiazepines",
+        "Alcohol"
+      ],
+      "correct": 0,
+      "explanation": "Opioid overdose is characterized by the clinical triad of coma, respiratory depression, and pinpoint pupil."
+    },
+    {
+      "stem": "Mechanisms of action of atypical antipsychotics is:",
+      "options": [
+        "Dopamine agonist",
+        "NMDA antagonism",
+        "Serotonin antagonism",
+        "Serotonin - dopamine antagonism"
+      ],
+      "correct": 3,
+      "explanation": "Atypical antipsychotics are frequently classified as Serotonin-Dopamine Antagonists (SDAs)."
+    },
+    {
+      "stem": "A 7 year old child sees a ghost behind the curtains in the night, what is the most probable diagnosis?",
+      "options": [
+        "Illusions",
+        "Derealization",
+        "Hallucinations",
+        "Depersonalization"
+      ],
+      "correct": 0,
+      "explanation": "An illusion is defined as a false perception (seeing a ghost) that occurs in the presence of an external stimulus (the curtains), which is then misinterpreted."
+    },
+    {
+      "stem": "A 75-year-old patient complains of forgetfulness to events that happened recently. This is called?",
+      "options": [
+        "Paramnesia",
+        "Anterograde amnesia",
+        "Retrograde amnesia",
+        "Circumscribed amnesia"
+      ],
+      "correct": 1,
+      "explanation": "Anterograde amnesia is the inability to recall events occurring after a specific point in time, which correlates with the inability to form and recall new (recent) memories."
+    },
+    {
+      "stem": "Increased neurotransmission is one of the aetiological explanations of?",
+      "options": [
+        "Addiction",
+        "Schizophrenia",
+        "Bipolar disorder",
+        "Major depressive disorder"
+      ],
+      "correct": 2,
+      "explanation": "The etiology of bipolar disorder is linked to increased neurotransmission, specifically involving increased Dopamine and Glutamate activity and decreased GABA."
+    },
+    {
+      "stem": "Dopamine activity in the mesocortical tract of schizophrenic patients is:",
+      "options": [
+        "Stable",
+        "Decreased",
+        "Usually not affected",
+        "Increased"
+      ],
+      "correct": 1,
+      "explanation": "Dopamine activity in the mesocortical tract is decreased, and this reduction is associated with the negative and cognitive symptoms of schizophrenia."
+    },
+    {
+      "stem": "Which of the following antipsychotic side effects is not an emergency?",
+      "options": [
+        "Dystonia",
+        "Neuroleptic malignant syndrome",
+        "Parkinsonism",
+        "Akathisia"
+      ],
+      "correct": 2,
+      "explanation": "Acute Dystonia, Akathisia, and Neuroleptic Malignant Syndrome (NMS) are specifically noted in the sources as neurological emergencies. Drug-induced Parkinsonism is a recognized side effect, but not listed as an emergency."
+    },
+    {
+      "stem": "Which mood episode is not present in bipolar II disorder?",
+      "options": [
+        "Hyponanic",
+        "Manic",
+        "Mild depressive",
+        "Depressive"
+      ],
+      "correct": 1,
+      "explanation": "Bipolar II disorder is characterized by hypomanic and major depressive episodes, and the presence of a full manic episode would change the diagnosis to Bipolar I disorder."
+    },
+    {
+      "stem": "Lithium toxicity is diagnosed if its level exceeded?",
+      "options": [
+        "1 mEq/l",
+        "1.5 mEq/l",
+        "3 mEq/L",
+        "0.5 mEq/l"
+      ],
+      "correct": 1,
+      "explanation": "Lithium toxicity is suspected when the serum level is greater than 1.5 mEq/L."
+    },
+    {
+      "stem": "With the use of atypical antipsychotics, what is increased?",
+      "options": [
+        "Glutamate",
+        "Triglycerides",
+        "GABA",
+        "Dopamine"
+      ],
+      "correct": 1,
+      "explanation": "Atypical antipsychotics, particularly Olanzapine and Clozapine, are strongly linked to metabolic syndrome, which includes dyslipidemia and increased levels of triglycerides."
+    },
+    {
+      "stem": "A 20-year-old male with reported symptoms post-treatment: what could be his diagnosis?",
+      "options": [
+        "Somatization syndrome",
+        "Resistant depression",
+        "Malingering",
+        "Fictitious disorder"
+      ],
+      "correct": 2,
+      "explanation": "Malingering is the conscious fabrication of symptoms to achieve a clear, external material goal (like avoiding treatment or duty)."
+    },
+    {
+      "stem": "The most common side effect of mood stabilizers is?",
+      "options": [
+        "Skin allergy",
+        "Weight loss",
+        "GIT disturbances",
+        "Liver affection"
+      ],
+      "correct": 0,
+      "explanation": "Severe skin reactions, including Stevens-Johnson Syndrome (SJS) and skin rash, are major serious side effects associated with Lamotrigine, Carbamazepine, and Valproate."
+    },
+    {
+      "stem": "The course of deterioration in Alzheimer's disease is?",
+      "options": [
+        "Transient",
+        "Fluctuating",
+        "Stepwise",
+        "Gradual progressive"
+      ],
+      "correct": 3,
+      "explanation": "Alzheimer’s disease has an insidious onset and follows a chronic and gradual progressive course of cognitive deterioration."
+    },
+    {
+      "stem": "A schizophrenic patient experiences acute dystonia. What should be administered?",
+      "options": [
+        "Benzodiazepine injection",
+        "Dopamine agonist",
+        "Anticholinergic injection",
+        "Muscle relaxant"
+      ],
+      "correct": 2,
+      "explanation": "Acute dystonia, a severe spastic contraction of muscles, is treated as an emergency primarily with an injection of an anticholinergic drug."
+    },
+    {
+      "stem": "A female with recurrent intrusive thoughts of having cancer but normal lab results likely has what diagnosis?",
+      "options": [
+        "Psychotic disorder",
+        "Hypochondriasis",
+        "Anxiety disorder",
+        "OCD"
+      ],
+      "correct": 1,
+      "explanation": "Illness Anxiety Disorder (Hypochondriasis) involves a preoccupation with having a serious illness, where somatic symptoms may be absent or mild, and the individual remains highly anxious about their health despite negative medical evidence."
+    },
+    {
+      "stem": "Mechanism of action of SSRIs is?",
+      "options": [
+        "++ dopamine",
+        "++ serotonin",
+        "++ GABA",
+        "++ Glutamate"
+      ],
+      "correct": 1,
+      "explanation": "Selective Serotonin Reuptake Inhibitors (SSRIs) act by selectively inhibiting the reuptake of serotonin (5HT), thereby increasing the concentration of serotonin in the synaptic cleft."
+    },
+    {
+      "stem": "Positive symptoms in schizophrenia are due to dopamine hyperactivity in?",
+      "options": [
+        "B-mesocortical tract",
+        "A- mesolimbic tract",
+        "D-basal ganglia",
+        "C-hypothalamus"
+      ],
+      "correct": 1,
+      "explanation": "Positive symptoms (delusions and hallucinations) are linked to excessive dopaminergic activity in the mesolimbic tract."
+    },
+    {
+      "stem": "The most accepted pathological explanation of Alzheimer's disease is?",
+      "options": [
+        "lead poisoning",
+        "Free radicals effect",
+        "aluminium toxicity",
+        "B-amyloid precipitants"
+      ],
+      "correct": 3,
+      "explanation": "The main pathological changes associated with Alzheimer's disease are the formation of amyloid plaques and neurofibrillary tangles."
+    },
+    {
+      "stem": "Failure to recall recent events is called:",
+      "options": [
+        "Retrograde amnesia",
+        "Alzheimer’s disease",
+        "Circumscribed amnesia",
+        "Anterograde amnesia"
+      ],
+      "correct": 3,
+      "explanation": "Anterograde amnesia is the inability to recall events occurring after a specific point in time, corresponding to the failure to form new, recent memories."
+    },
+    {
+      "stem": "False perception in the presence of a stimulus is called:",
+      "options": [
+        "Hallucinations",
+        "Delusion",
+        "Illusion",
+        "Obsession"
+      ],
+      "correct": 2,
+      "explanation": "An illusion is a false perception (a misinterpretation) of a real external sensory stimulus."
+    },
+    {
+      "stem": "Example of disturbed speech in mania is:",
+      "options": [
+        "Volubility",
+        "Retardation",
+        "Looseness of association",
+        "Word salad"
+      ],
+      "correct": 0,
+      "explanation": "Volubility is excessive but coherent and logical speech that is typically observed in mania and hypomania."
+    },
+    {
+      "stem": "The presence of two contradictory emotions toward the same object is called:",
+      "options": [
+        "Apathy",
+        "Indifference",
+        "Ambivalence",
+        "Conflict"
+      ],
+      "correct": 2,
+      "explanation": "Ambivalence is the coexistence of two opposing affects (emotions) or impulses directed toward the same object at the same time."
+    },
+    {
+      "stem": "Negative symptoms of schizophrenia are due to:",
+      "options": [
+        "decreased dopamine",
+        "increased dopamine",
+        "Increased serotonin",
+        "Decreased serotonin"
+      ],
+      "correct": 0,
+      "explanation": "Negative symptoms are associated with decreased dopamine activity in the mesocortical tract."
+    },
+    {
+      "stem": "The age of onset of schizophrenia is:",
+      "options": [
+        "Below age 20 years",
+        "Between 20 – 40 years",
+        "in childhood",
+        "no specific age of onset"
+      ],
+      "correct": 0,
+      "explanation": "The peak age of onset for schizophrenia is 15–25 years for males."
+    },
+    {
+      "stem": "Extrapyramidal side effects of antipsychotics involve:",
+      "options": [
+        "Mesolimbic tract",
+        "nigrostriatal tract",
+        "Mesocortical tract",
+        "pituitary gland"
+      ],
+      "correct": 1,
+      "explanation": "Extrapyramidal side effects (EPS) are caused by the blockade of D2 receptors in the basal ganglia, which is located along the nigrostriatal tract."
+    },
+    {
+      "stem": "Intense uncontrolled fear in specific situations is:",
+      "options": [
+        "Phobia",
+        "Panic",
+        "Generalized anxiety",
+        "Obsessive-compulsive disorder"
+      ],
+      "correct": 0,
+      "explanation": "Phobic disorders involve an intense irrational fear of a specific object or situation that is either avoided or tolerated with intense anxiety."
+    },
+    {
+      "stem": "Types of episodes in bipolar II disorder include:",
+      "options": [
+        "Could be of any type",
+        "Manic or hypomanic or mixed",
+        "Depressive",
+        "Hypomanic and depressive"
+      ],
+      "correct": 3,
+      "explanation": "Bipolar II disorder is characterized by recurrent major depressive episodes and at least one hypomanic episode, but no manic episodes."
+    },
+    {
+      "stem": "Common side effect of valproate:",
+      "options": [
+        "Weight gain",
+        "Polycystic ovary",
+        "Skin allergy",
+        "Aspermia"
+      ],
+      "correct": 0,
+      "explanation": "Weight gain and hair loss are listed as common side effects of Valproate."
+    },
+    {
+      "stem": "Mechanisms of action of mood stabilizers are:",
+      "options": [
+        "++ GABA, -- Glutamate, -- Na",
+        "-- GABA, ++ Glutamate, --Na",
+        "++ GABA, -- Glutamate, ++ Na",
+        "-- GABA, -- Glutamate, ++Na"
+      ],
+      "correct": 0,
+      "explanation": "Sodium valproate (a mood stabilizer) acts through GABA potentiation, blocks voltage-sensitive sodium (Na) channels, and functions as a glutamate antagonist."
+    },
+    {
+      "stem": "The main neurotransmitter change in depression is:",
+      "options": [
+        "-- dopamine",
+        "-- serotonin",
+        "-- GABA",
+        "-- Glutamate"
+      ],
+      "correct": 1,
+      "explanation": "Major depression is associated with dysregulation in biogenic amines, particularly decreased levels of Serotonin (5HT) and Norepinephrine (NE)."
+    },
+    {
+      "stem": "Reappearance of symptoms after remission for 6 months is called:",
+      "options": [
+        "Response",
+        "Recurrence",
+        "Relapse",
+        "Recovery"
+      ],
+      "correct": 1,
+      "explanation": "If symptoms reappear after a period of full recovery (remission) lasting at least two months (or six months, depending on the definition), it is considered a recurrence (a new episode)."
+    },
+    {
+      "stem": "Non-neurological side effects of antipsychotics are more prevalent with:",
+      "options": [
+        "Low potent typical antipsychotics",
+        "High potent typical antipsychotics",
+        "Atypical antipsychotics",
+        "3\" generation antipsychotics"
+      ],
+      "correct": 0,
+      "explanation": "Low potency typical antipsychotics cause significant non-neurological side effects (like weight gain, sedation, and anticholinergic effects) due to their high affinity for histamine and cholinergic receptors."
+    },
+    {
+      "stem": "Sides effects of lithium include:",
+      "options": [
+        "hyperthyroidism",
+        "leukocytosis",
+        "impaired liver functions",
+        "constipation"
+      ],
+      "correct": 1,
+      "explanation": "Lithium treatment requires monitoring of CBC (Complete Blood Count) because it can cause leukocytosis (increase in white blood cells)."
+    },
+    {
+      "stem": "A 22-year-old male student went to the psychiatrist complaining of excessive fear in the presence of other people, he thinks that people are going to criticize him and staring to him, sometimes he felt depressed, he probably suffers from?",
+      "options": [
+        "Delusion of persecution",
+        "social anxiety",
+        "Major depression",
+        "hallucinations"
+      ],
+      "correct": 1,
+      "explanation": "Social anxiety disorder is characterized by excessive fear in social situations where the individual is exposed to possible scrutiny by others, often worried they will be criticized."
+    },
+    {
+      "stem": "Drug addictive effect is due to:",
+      "options": [
+        "tolerance",
+        "dependence",
+        "intoxication and withdrawal",
+        "Mood changes"
+      ],
+      "correct": 3,
+      "explanation": "Addictive effects are reinforced by the capacity of drugs to produce Hedonic (pleasurable) effects, which are a desired type of mood change."
+    }
+  ]
+}

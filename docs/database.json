@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-10T17:55:49.387Z",
+  "generatedAt": "2025-10-10T18:08:23.740Z",
   "tree": {
     "nub": {
       "children": {
@@ -679,8 +679,17 @@
               "children": {
                 "revision": {
                   "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "all-in-one",
+                        "title": "All In One"
+                      }
+                    ]
+                  },
                   "hasIndex": false,
-                  "label": "Revision"
+                  "label": "Revision",
+                  "isBranch": true
                 }
               },
               "hasIndex": false,

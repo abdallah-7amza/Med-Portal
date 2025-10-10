@@ -790,8 +790,7 @@
         "intoxication and withdrawal",
         "Mood changes"
       ],
-      "correct": 3,
-      "explanation": "Addictive effects are reinforced by the capacity of drugs to produce Hedonic (pleasurable) effects, which are a desired type of mood change."
-    }
+      "correct": 0,
+   }
   ]
 }

@@ -1,0 +1,500 @@
+{
+  "title": "Dr. Hany",
+  "questions": [
+    {
+      "stem": "Down Syndrome also known as trisomy 21 is the most common cause of mental retardation and, it is considered a:",
+      "options": [
+        "Multifactorial inheritance",
+        "Mitochondrial inheritance",
+        "Numerical chromosomal abnormality",
+        "Single gene disorder"
+      ],
+      "correct": 2,
+      "explanation": "Down syndrome is caused by the presence of an extra copy of chromosome 21 (Trisomy), which represents a change in the number of chromosomes (Numerical chromosomal abnormality), not a change in the structure or a single gene mutation."
+    },
+    {
+      "stem": "What is the number of chromosomes in nondisjunction cases of down syndrome?",
+      "options": [
+        "46",
+        "47",
+        "46 or 47",
+        "45"
+      ],
+      "correct": 1,
+      "explanation": "In standard Trisomy 21 caused by nondisjunction, every cell in the body has an extra chromosome 21, resulting in a total of 47 chromosomes instead of the usual 46."
+    },
+    {
+      "stem": "The LEAST likely clinical situation suspecting chromosomal abnormalities is :",
+      "options": [
+        "Bat (large everted) ears.",
+        "Antimongoloid slanting of the eyes.",
+        "Epicanthal fold.",
+        "Umbilical hernia."
+      ],
+      "correct": 3,
+      "explanation": "Dysmorphic features like low-set/abnormal ears, slanting eyes, and epicanthal folds are strong markers for chromosomal syndromes. Umbilical hernia is a common finding in many conditions (e.g., hypothyroidism) or even isolated, making it the least specific for chromosomal abnormalities among the choices."
+    },
+    {
+      "stem": "Autosomal dominant inheritance is characterized by all of the following except:",
+      "options": [
+        "It affects individuals in every generation",
+        "Phenotypically normal parents do not transmit the disease to the child",
+        "50% chance of transmission",
+        "It affects males more commonly than females"
+      ],
+      "correct": 3,
+      "explanation": "Autosomal inheritance (both dominant and recessive) affects males and females equally because the gene is located on an autosome (non-sex chromosome), not the X or Y chromosome."
+    },
+    {
+      "stem": "Autosomal recessive disorders are characterized by all of the following except",
+      "options": [
+        "Equal sex ratio",
+        "Chance of disease transmission is increased by positive consanguinity",
+        "Asymptomatic carrier state is present",
+        "Recurrence risk with each pregnancy of 50%"
+      ],
+      "correct": 3,
+      "explanation": "The recurrence risk for autosomal recessive disorders is 25% (1 in 4) for each pregnancy when both parents are carriers. A 50% risk is characteristic of autosomal dominant inheritance."
+    },
+    {
+      "stem": "The following are found in newborn term infant with Down syndrome EXCEPT",
+      "options": [
+        "Hypotonia.",
+        "Asymmetrical growth retardation.",
+        "Flat occiput.",
+        "Upward slanting palpebral fissure."
+      ],
+      "correct": 1,
+      "explanation": "Infants with Down syndrome typically exhibit symmetrical growth retardation. Asymmetrical growth retardation is more commonly associated with placental insufficiency or other intrauterine insults."
+    },
+    {
+      "stem": "Which of the following is correct about Down syndrome?",
+      "options": [
+        "About 1% is due to mosaicism.",
+        "Late maternal age is commonly seen in translocation type.",
+        "Hyper-reflexia is common finding.",
+        "Delayed milestones is seen in only 25% of cases."
+      ],
+      "correct": 0,
+      "explanation": "Approximately 95% of Down syndrome cases are due to non-disjunction, ~4% are due to translocation, and about 1% are due to mosaicism. Late maternal age is associated with non-disjunction, not translocation. They typically have hypotonia (not hyper-reflexia) and almost all have some degree of developmental delay."
+    },
+    {
+      "stem": "Turner syndrome is characterized by all of the following EXCEPT",
+      "options": [
+        "Tall stature.",
+        "Webbing of the neck.",
+        "Cubitus valgus.",
+        "Gonadal dysgenesis."
+      ],
+      "correct": 0,
+      "explanation": "Short stature is a cardinal feature of Turner syndrome (45,XO). Tall stature is associated with Klinefelter syndrome (47,XXY) or Marfan syndrome."
+    },
+    {
+      "stem": "Genetic counseling is indicated in",
+      "options": [
+        "Kernictrus.",
+        "Maternal diabetes.",
+        "Spherocytosis.",
+        "Congenital umbilical hernia."
+      ],
+      "correct": 2,
+      "explanation": "Hereditary Spherocytosis is a genetic disorder (usually Autosomal Dominant) affecting red blood cells. Genetic counseling is indicated to discuss inheritance patterns and risks. The others are acquired conditions or structural defects with low genetic recurrence risk."
+    },
+    {
+      "stem": "Ring chromosome is a special type of chromosomal:",
+      "options": [
+        "Duplication.",
+        "Deletion.",
+        "Inversion.",
+        "Translocation."
+      ],
+      "correct": 1,
+      "explanation": "A ring chromosome occurs when a portion of a chromosome has broken off at both ends (double deletion) and the ends fuse together to form a ring."
+    },
+    {
+      "stem": "the recurrence risk of multifactorial inhetitance is:",
+      "options": [
+        "Less than 1 %",
+        "2 – 5 %",
+        "10 – 12 %",
+        "20 – 25 %"
+      ],
+      "correct": 1,
+      "explanation": "For multifactorial disorders (like cleft lip/palate, neural tube defects), the empiric recurrence risk for first-degree relatives is typically low, ranging from 2% to 5%."
+    },
+    {
+      "stem": "The following clinical situation suggest a genetic disorder EXCEPT",
+      "options": [
+        "Simian crease",
+        "Antimongoloid slanting of the eyes.",
+        "Low set ears.",
+        "Acromegaly."
+      ],
+      "correct": 3,
+      "explanation": "Acromegaly is an acquired hormonal disorder caused by excess growth hormone (usually a pituitary adenoma) in adulthood. The other options are dysmorphic features commonly seen in congenital genetic syndromes."
+    },
+    {
+      "stem": "Which of the following is true about Down syndrome:",
+      "options": [
+        "About 1% are due to translocation phenomenon",
+        "Incidence increases with increased paternal age",
+        "There is sex predilection.",
+        "Some degree of mental retardation is always found"
+      ],
+      "correct": 3,
+      "explanation": "Intellectual disability (mental retardation) is a consistent feature of Down syndrome, though the severity ranges from mild to severe. Translocation accounts for ~4% (not 1%), and maternal age (not paternal) is the primary risk factor."
+    },
+    {
+      "stem": "A disease passed on only through the mother and affecting both sons and daughters is most likely",
+      "options": [
+        "Mitochondrial inheritance",
+        "Multi factorial inheritance",
+        "X linked recessive inheritance",
+        "X linked dominant inheritance"
+      ],
+      "correct": 0,
+      "explanation": "Mitochondria are inherited exclusively from the cytoplasm of the ovum (mother). Therefore, affected mothers pass the trait to all children, but affected fathers do not pass it on."
+    },
+    {
+      "stem": "All of the following are possible complications in Down syndrome EXCEPT",
+      "options": [
+        "Hearing problems due to secretory otitis media",
+        "Hyperthyroidism",
+        "Visual problems due to cataract",
+        "Increased incidence of leukemia"
+      ],
+      "correct": 1,
+      "explanation": "Individuals with Down syndrome are at high risk for hypothyroidism (underactive thyroid), not hyperthyroidism. Regular screening for TSH is part of standard care."
+    },
+    {
+      "stem": "Prader Willi syndrome was diagnosed in a toddler with early feeding difficulties who gained a lot of weight in the second year of life. This genetic disorder is :",
+      "options": [
+        "Due to gene deletion on chromosome15.",
+        "Gene defect inherited from the father",
+        "Diagnosed by DNA methylation analysis",
+        "All of the above."
+      ],
+      "correct": 3,
+      "explanation": "Prader-Willi syndrome is caused by the lack of expression of paternal genes on chromosome 15q11-q13 (often due to deletion). DNA methylation analysis is the gold standard for diagnosis."
+    },
+    {
+      "stem": "Y-linked inheritance include",
+      "options": [
+        "Hairy pinna",
+        "Pseudohypoparathyroidism",
+        "Cleft palate",
+        "Vitamin D resistance rickets"
+      ],
+      "correct": 0,
+      "explanation": "Hairy pinna (hair on the ears) is a classic example of Y-linked (holandric) inheritance, passed from father to son only."
+    },
+    {
+      "stem": "Which of the following is the most common presentation in Klinfelter’s syndrome?",
+      "options": [
+        "Infertility",
+        "Big size testes",
+        "Short stature",
+        "Neonatal gynaecomastia."
+      ],
+      "correct": 0,
+      "explanation": "Klinefelter syndrome (47,XXY) often goes undiagnosed until adulthood when the patient presents with infertility (azoospermia). They typically have small, firm testes and tall stature."
+    },
+    {
+      "stem": "A male 10 years old presented with mental retardation , long face, large everted ears, prominent mandible and by PCR CGG repeat more than 250 was detected. The most likely diagnosis is :",
+      "options": [
+        "Fragile X syndrome",
+        "Marfan syndrome",
+        "Klienfilter syndrome",
+        "Pradder Willi syndrome"
+      ],
+      "correct": 0,
+      "explanation": "The clinical triad of intellectual disability, large ears, and macroorchidism (often post-pubertal), combined with >200 CGG repeats on molecular testing, is diagnostic for Fragile X syndrome."
+    },
+    {
+      "stem": "Fragile X syndrome is a common cause of inherited intellectual disability in males. The mode of inheritance in fragile x syndrome is:",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked dominant",
+        "X-linked recessive"
+      ],
+      "correct": 3,
+      "explanation": "Fragile X is traditionally classified as an X-linked recessive disorder (though it has complex features like anticipation). It predominantly affects males."
+    },
+    {
+      "stem": "All are autosomal dominant except",
+      "options": [
+        "Familial hypercholesterolemia",
+        "Hereditary spherocytosis",
+        "Acute intermitient porphyria",
+        "Phenylketonuria"
+      ],
+      "correct": 3,
+      "explanation": "Phenylketonuria (PKU) is an Autosomal Recessive metabolic disorder. The others listed are Autosomal Dominant."
+    },
+    {
+      "stem": "Which of the following has numerical autosomal inheritance",
+      "options": [
+        "Hemophilia",
+        "trisomy 21",
+        "CHD",
+        "Gout"
+      ],
+      "correct": 1,
+      "explanation": "Trisomy 21 involves an abnormal number (numerical abnormality) of autosomes (chromosome 21). Hemophilia is sex-linked, and CHD/Gout are often multifactorial."
+    },
+    {
+      "stem": "Niemann – pick disease is",
+      "options": [
+        "AR",
+        "AD",
+        "X-linked",
+        "Mitochondrial"
+      ],
+      "correct": 0,
+      "explanation": "Niemann-Pick disease is a lysosomal storage disease inherited in an Autosomal Recessive (AR) pattern."
+    },
+    {
+      "stem": "The gene involved in Fragile X syndrome syndrome is:",
+      "options": [
+        "p53",
+        "FMR1",
+        "RB",
+        "BRCA"
+      ],
+      "correct": 1,
+      "explanation": "Fragile X syndrome is caused by the expansion of CGG triplet repeats in the FMR1 (Fragile X Mental Retardation 1) gene."
+    },
+    {
+      "stem": "Type of inheritance in tuberous sclerosis",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked dominant",
+        "X-linked recessive"
+      ],
+      "correct": 0,
+      "explanation": "Tuberous Sclerosis is a neurocutaneous disorder inherited in an Autosomal Dominant pattern."
+    },
+    {
+      "stem": "Autosomal dominant inheritance in",
+      "options": [
+        "Albinism",
+        "Sickle cell anemia",
+        "Thalassemia",
+        "Hereditary spherocytosis"
+      ],
+      "correct": 3,
+      "explanation": "Hereditary spherocytosis is typically Autosomal Dominant. Albinism, Sickle cell anemia, and Thalassemia are classic Autosomal Recessive conditions."
+    },
+    {
+      "stem": "Neurofibromatosis I is",
+      "options": [
+        "AD",
+        "AR",
+        "X linked recessive",
+        "X linked dominant"
+      ],
+      "correct": 0,
+      "explanation": "Neurofibromatosis type I (von Recklinghausen disease) is an Autosomal Dominant disorder."
+    },
+    {
+      "stem": "The most common malignancy seen in a child with Down’s syndrome is",
+      "options": [
+        "medulloblastoma",
+        "lymphoma",
+        "renoblastoma",
+        "leukemia"
+      ],
+      "correct": 3,
+      "explanation": "Children with Down syndrome have a significantly increased risk (10-20 times) of developing leukemia (both ALL and AML)."
+    },
+    {
+      "stem": "Which is the characteristic feature of Tay Sach’s disease and other metabolic disease affecting the neurons",
+      "options": [
+        "A cherry-red spot in the macula",
+        "Onion peel appearance in the neurons",
+        "The waxy white appearance of the fundus",
+        "None of the above"
+      ],
+      "correct": 0,
+      "explanation": "The 'cherry-red spot' in the macula is a classic ophthalmological finding in Tay-Sachs disease and Niemann-Pick disease."
+    },
+    {
+      "stem": "Angelman syndrome is due to",
+      "options": [
+        "Digenic inheritance",
+        "Inversion",
+        "Uniparental disomy",
+        "Mitochondrial disorder"
+      ],
+      "correct": 2,
+      "explanation": "While the most common cause is a maternal deletion, Uniparental Disomy (UPD) - specifically Paternal UPD - is a known cause of Angelman syndrome. (Note: Prader-Willi is Maternal UPD or Paternal deletion)."
+    },
+    {
+      "stem": "Type of inheritance in MELAS",
+      "options": [
+        "AD",
+        "AR",
+        "Mitochondrial",
+        "X linked"
+      ],
+      "correct": 2,
+      "explanation": "MELAS (Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes) is a classic mitochondrial disorder inherited maternally."
+    },
+    {
+      "stem": "Paternal 15 chromosome deletion is seen in",
+      "options": [
+        "Angelman syndrome",
+        "Prader Willi syndrome",
+        "Down syndrome",
+        "Turner syndrome"
+      ],
+      "correct": 1,
+      "explanation": "Deletion of the Paternal copy of chromosome 15q11-13 causes Prader-Willi Syndrome. Deletion of the Maternal copy causes Angelman Syndrome."
+    },
+    {
+      "stem": "About down syndrome which of the following is true",
+      "options": [
+        "Mongoloid slant for the eyes",
+        "Associated with jejunal atresia",
+        "Hypertonia",
+        "Trisomy 22"
+      ],
+      "correct": 0,
+      "explanation": "Upward slanting palpebral fissures (historically referred to as mongoloid slant) is a characteristic feature. They are associated with duodenal atresia (not jejunal) and hypotonia (not hypertonia)."
+    },
+    {
+      "stem": "The commonest chromosomal syndrome is",
+      "options": [
+        "Trisomy 13",
+        "Trisomy 17",
+        "Trisomy 21",
+        "Fragile X syndrome"
+      ],
+      "correct": 2,
+      "explanation": "Trisomy 21 (Down syndrome) is the most common live-born autosomal trisomy/chromosomal syndrome."
+    },
+    {
+      "stem": "Coarctaion of the aorta is common in which syndrome",
+      "options": [
+        "Down’s",
+        "Turner’s",
+        "Klinefelter’s",
+        "Noonan’s"
+      ],
+      "correct": 1,
+      "explanation": "Coarctation of the aorta is found in approximately 15-20% of patients with Turner syndrome."
+    },
+    {
+      "stem": "A Sex-Linked numerical chromosomal disorder associated with webbing of the neck, short stature and non-pitting edema of dorsum of hands and feet is mostly",
+      "options": [
+        "Bloom syndrome",
+        "Fanconi’s anemia",
+        "Turner syndrome",
+        "Ataxia telangiectasia"
+      ],
+      "correct": 2,
+      "explanation": "These are the classic physical stigmas of Turner syndrome (45,XO), which is a sex-linked numerical abnormality (monosomy X)."
+    },
+    {
+      "stem": "A female presents with karyotype 45, XO and absent gonads. What is your diagnosis?",
+      "options": [
+        "Klinefelter’s syndrome",
+        "Androgen insensivity syndrome",
+        "Turner syndrome",
+        "Kallman’s syndrome"
+      ],
+      "correct": 2,
+      "explanation": "A Karyotype of 45,XO is diagnostic for Turner syndrome. Absent gonads (streak ovaries) are a key feature."
+    },
+    {
+      "stem": "Down’s syndrome is caused by",
+      "options": [
+        "Maternal nondisjunction",
+        "Paternal nondisjunction",
+        "Translocation",
+        "Mosaicism"
+      ],
+      "correct": 0,
+      "explanation": "While all options can lead to Down syndrome, maternal nondisjunction (specifically during Meiosis I) is the cause in approximately 95% of cases."
+    },
+    {
+      "stem": "The most common chromosomal disorder is",
+      "options": [
+        "Down syndrome",
+        "Edward syndrome",
+        "Patau syndrome",
+        "Turner syndrome"
+      ],
+      "correct": 0,
+      "explanation": "Down syndrome (Trisomy 21) is the most frequent chromosomal anomaly among live births."
+    },
+    {
+      "stem": "Karyotyping is done with all, except",
+      "options": [
+        "Blood lymphocyte",
+        "Red blood cells",
+        "Amnion",
+        "Fibroblast"
+      ],
+      "correct": 1,
+      "explanation": "Karyotyping requires cells with a nucleus to analyze chromosomes. Red blood cells (RBCs) do not contain a nucleus and cannot be used."
+    },
+    {
+      "stem": "Diagnosis of Fragile X syndrome to detect repeat expansion at the fragile site on X chromosome request",
+      "options": [
+        "karyotyping",
+        "FISH",
+        "PCR",
+        "CBC"
+      ],
+      "correct": 2,
+      "explanation": "PCR (Polymerase Chain Reaction) is the method used to detect and quantify the number of CGG repeats in the FMR1 gene to diagnose Fragile X."
+    },
+    {
+      "stem": "Complications that may occur in a case of Down Syndrome include",
+      "options": [
+        "hearing problems",
+        "cataract",
+        "hypothyroidism",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "All listed conditions are known associations with Down syndrome requiring routine surveillance."
+    },
+    {
+      "stem": "Prenatal diagnosis of a Down Syndrome may include",
+      "options": [
+        "Triple test",
+        "Chorionic villous sampling",
+        "Amniocentesis",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "The Triple test is a screening tool, while CVS and Amniocentesis are diagnostic tools. All are used in the prenatal assessment for Down syndrome."
+    },
+    {
+      "stem": "Two Down Syndrome brothers, have similar cases in the family too, the cytogenetic cause is most probably",
+      "options": [
+        "non-disjunction",
+        "reciprocal translocation",
+        "Robertsonian translocation",
+        "mosaicism"
+      ],
+      "correct": 2,
+      "explanation": "Nondisjunction is a random event. When multiple siblings are affected, or there is a strong family history, it suggests a familial translocation (Robertsonian translocation) inherited from a carrier parent."
+    },
+    {
+      "stem": "In the previous case you will advise doing Karyotyping for",
+      "options": [
+        "the mother",
+        "the father",
+        "both parents",
+        "both grandparents"
+      ],
+      "correct": 2,
+      "explanation": "Karyotyping both parents is necessary to determine which parent is the carrier of the balanced translocation."
+    }
+  ]
+}

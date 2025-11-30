@@ -1,0 +1,423 @@
+{
+  "title": "KAF",
+  "questions": [
+    {
+      "stem": "A newborn infant has dysmorphic features. The pregnancy was complicated by breech presentation, decreased fetal movements, and polyhydramnios. The child demonstrates hypotonia, a flat face, flattened occiput, epicanthal folds, and abdominal distention. The most likely cause of this child's dysmorphology is:",
+      "options": [
+        "Edwards syndrome",
+        "Fragile X syndrome",
+        "Trisomy 18",
+        "Trisomy 21"
+      ],
+      "correct": 3,
+      "explanation": "The clinical picture described, including a flat face, flattened occiput, epicanthal folds, hypotonia, and abdominal distention, are classic characteristic features of Down syndrome (Trisomy 21). While other syndromes might present with some of these signs, this specific combination is most indicative of Down syndrome."
+    },
+    {
+      "stem": "A couple comes to you following the diagnosis of trisomy 21 in their 18-week fetus. They ask what medical problems may be anticipated for a child who has Down syndrome. Of the following, the medical problem that is encountered most frequently in infants who have trisomy 21 is:",
+      "options": [
+        "Cardiac defect",
+        "Duodenal atresia",
+        "Hypotonia",
+        "Polycythemia"
+      ],
+      "correct": 2,
+      "explanation": "Down syndrome is characterized by several clinical features and associated anomalies. Among the neurological features, generalized hypotonia in the first two years of life is a key characteristic. While cardiac defects are common, affecting about 40% of cases, and duodenal atresia is also an associated anomaly, generalized hypotonia is a constant and prominent feature."
+    },
+    {
+      "stem": "A small for gestational age newborn is delivered at term following an uneventful pregnancy to a gravida 3, para 2, 34-year-old woman by normal spontaneous vaginal delivery. On physical examination, the newborn is noted to have a small chin, a clenched fist and hypotonia. Which of the following, the most likely diagnosis?",
+      "options": [
+        "Trisomy 13",
+        "Trisomy 18",
+        "Trisomy 21",
+        "Turner syndrome"
+      ],
+      "correct": 1,
+      "explanation": "The clinical features of Trisomy 18 (Edwards syndrome) include low birth weight, microcephaly with a prominent occiput, small ears, and overlapping fingers (clenched fist). The presentation of a small-for-gestational-age infant with a small chin, a clenched fist, and hypotonia is most consistent with this diagnosis."
+    },
+    {
+      "stem": "During health supervision visit for a 5-year-old boy with hemophilia A, her mother reports that she herself is currently 16 weeks pregnant. She expresses concern about this pregnancy because her brother and two of her maternal uncles died from complications of hemophilia A. She was told at the time of her most recent ultrasonography that she is carrying a male fetus. What is the pattern of inheritance in this case?",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X linked recessive",
+        "X linked dominant"
+      ],
+      "correct": 2,
+      "explanation": "Hemophilia A is listed as an example of an X-linked recessive disorder. The pattern of inheritance described—where the disease affects males (the son, brother, and maternal uncles of the pregnant woman) and is passed through the maternal line—is characteristic of an X-linked recessive condition."
+    },
+    {
+      "stem": "The parents of a child who is suffering from a metabolic disease characterized by an autosomal recessive inheritance pattern ask for your advice they intend to have a second baby. What is the risk of having affected child?",
+      "options": [
+        "50%",
+        "100%",
+        "25%",
+        "75%"
+      ],
+      "correct": 2,
+      "explanation": "In autosomal recessive inheritance, both parents must be heterozygous carriers (phenotypically normal) for the abnormal gene to pass the disease to their child. In this scenario, since they have already had an affected child (who must be homozygous), both parents are confirmed carriers. The recurrence risk with each subsequent pregnancy for two heterozygous parents is 25% for an affected child, 50% for a carrier child, and 25% for a phenotypically and genotypically normal child."
+    },
+    {
+      "stem": "A mentally retarded 15-yr-old boy is found to have macroorchidism and large. prominent ears. What is the most likely diagnosis?",
+      "options": [
+        "Acromegaly",
+        "Fragile X syndrome",
+        "Hypothyroidism",
+        "Trisomy 21"
+      ],
+      "correct": 1,
+      "explanation": "The clinical picture of Fragile X syndrome in males is characterized by mental retardation, macro-orchidism (after puberty), large ears, and a long face with a prominent mandible. This combination of features strongly points to Fragile X syndrome."
+    },
+    {
+      "stem": "The mother of 1 year old boy complains that her child still can't sit unsupported. On examination the child has dysmorphic features and a transverse palmar crease. Local examination of the heart reveals a murmur over the left parasternal area. One of the complications of this condition is:",
+      "options": [
+        "G6PD deficiency",
+        "Hypothyroidism",
+        "Lymphoma",
+        "Pyloric stenosis"
+      ],
+      "correct": 1,
+      "explanation": "The description of the child not being able to sit unsupported at 1 year of age, along with dysmorphic features and a transverse palmar crease, points to Down syndrome (Trisomy 21). The textbook states that one of the complications of Down syndrome is a higher incidence of hypothyroidism."
+    },
+    {
+      "stem": "A 7 month male boy presented with acute onset of pallor & jaundice. Hb=3 gm/dl & reticulocytes =10%, the baby was completely healthy till he shared food with his family yesterday. What do you want to ask about?",
+      "options": [
+        "A brother with G6PD",
+        "Family history of G6PD",
+        "Parental consanguinity.",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "The clinical presentation of acute pallor and jaundice with severe anemia (Hb=3 gm/dl) and high reticulocytes suggests acute hemolysis. The history of eating family food yesterday suggests a potential dietary trigger for a condition like G6PD deficiency. G6PD deficiency is an X-linked recessive disorder, which means family history, particularly in males (like a brother) and maternal lineage, is highly relevant. Given that it's a genetic disorder, parental consanguinity increases the risk of autosomal recessive conditions, and while G6PD is X-linked, a comprehensive genetic history is always prudent in these situations. Therefore, all these questions are relevant to reaching a diagnosis."
+    },
+    {
+      "stem": "A 6-year-old child has growth retardation and dysmorphic features had a history of surgically repaired endocardial cushion defect. This case might be:",
+      "options": [
+        "Down syndrome",
+        "Klinefelter syndrome",
+        "Marfan syndrome",
+        "Turner syndrome"
+      ],
+      "correct": 0,
+      "explanation": "Endocardial cushion defect is a type of cardiac anomaly that is commonly associated with Down syndrome (Trisomy 21), affecting about 40% of cases. The presence of growth retardation and dysmorphic features in a child with this specific cardiac history makes Down syndrome the most likely diagnosis."
+    },
+    {
+      "stem": "The mother of a 4 months old boy complains that her child still can't support his head. On examination the child has a flat occiput, and a transverse palmar crease. Local examination of the heart shows a hollow systolic murmur over the left parasternal area. One of the complications of this condition is:",
+      "options": [
+        "G6PD deficiency",
+        "Leukemia",
+        "Lymphoma",
+        "Pyloric stenosis"
+      ],
+      "correct": 1,
+      "explanation": "The combination of a 4-month-old boy with delayed head support, flat occiput, and a transverse palmar crease points to Down syndrome. The textbook explicitly lists a higher incidence of leukemia as a complication of Down syndrome."
+    },
+    {
+      "stem": "A 4-year-old child has brachiocephaly, intellectual delay had a history of surgically repaired duodenal atresia at birth. This case might be:",
+      "options": [
+        "Down syndrome",
+        "Klinefelter syndrome",
+        "Marfan syndrome",
+        "Turner syndrome"
+      ],
+      "correct": 0,
+      "explanation": "Brachycephaly (flat occiput) and intellectual delay are features of Down syndrome. Duodenal atresia is a well-known associated gastrointestinal anomaly found in infants with Down syndrome and is often surgically repaired at birth. This constellation of findings strongly suggests Down syndrome as the diagnosis."
+    },
+    {
+      "stem": "An infant with severe vomiting since birth. Abdominal X-ray shows double-bubble sign. Pan-systolic murmur is present over the pericardium. What is most helpful in his examination?",
+      "options": [
+        "Assessment of vision and hearing.",
+        "Examination of the tone.",
+        "Inspection of the back.",
+        "Palpation of the abdomen."
+      ],
+      "correct": 1,
+      "explanation": "The double-bubble sign on an abdominal X-ray indicates duodenal atresia, a gastrointestinal anomaly associated with Down syndrome. The presence of a pan-systolic murmur suggests a cardiac defect, also common in Down syndrome. A critical feature of Down syndrome is generalized hypotonia, which would be an important part of the physical examination to support the suspected diagnosis."
+    },
+    {
+      "stem": "A 6 years old male infant with Down syndrome is brought by his mother because of prolonged fever. On examination he is found to have an enlarged spleen 5 cm below left costal margin. What is the most appropriate investigation to be ordered?",
+      "options": [
+        "Abdominal ultrasound",
+        "Blood culture.",
+        "Complete blood picture",
+        "Echocardiography"
+      ],
+      "correct": 2,
+      "explanation": "Prolonged fever and hepatosplenomegaly in a child with Down syndrome, who has a higher incidence of leukemia, is a red flag for a possible hematological malignancy. A complete blood picture (CBC) is the initial and most appropriate investigation to screen for leukemia."
+    },
+    {
+      "stem": "An infant 2 days old presenting with persistent vomiting. He has dysmorphic features and severe hypotonia. What is the likely diagnosis?",
+      "options": [
+        "Congenital myopathy",
+        "Congenital myotonic dystrophy",
+        "Down syndrome",
+        "Werdnig Hoffman disease"
+      ],
+      "correct": 2,
+      "explanation": "Down syndrome is a genetic condition characterized by dysmorphic features and severe hypotonia. Persistent vomiting in an infant with Down syndrome can be caused by associated anomalies such as duodenal atresia. The combination of dysmorphic features, hypotonia, and early vomiting is highly suggestive of Down syndrome."
+    },
+    {
+      "stem": "A four month old female infant is brought for follow up. On examination she is found to have a systolic murmur on the left side of the chest. The skin on both sides of the neck was unusually redundant. What would you expect to find in the rest of the examination?",
+      "options": [
+        "Gynecomastia.",
+        "Hypotonia.",
+        "Simian crease.",
+        "Weak femoral pulse"
+      ],
+      "correct": 3,
+      "explanation": "The presence of a systolic murmur and redundant skin of the neck (webbing of the neck) in a female infant is highly suggestive of Turner syndrome (45 XO). A common cardiac anomaly associated with this syndrome is coarctation of the aorta, which would manifest as a weak or absent femoral pulse."
+    },
+    {
+      "stem": "A routine prenatal ultrasound reveals a male fetus with meningomyelocele. You counsel her about the etiology of this defect and the risk of recurrence. The correct statement is",
+      "options": [
+        "Diagnosis can be made by detection of very low levels of alpha fetoprotein in the amniotic fluid",
+        "Environmental factors will not affect the incidence of the disease.",
+        "Supplementation of maternal diet with folate decreases the incidence of this condition",
+        "This condition is transmitted as autosomal recessive"
+      ],
+      "correct": 2,
+      "explanation": "Meningomyelocele is an example of a neural tube defect, which falls under multifactorial inheritance. This means its development is influenced by both genetic and environmental factors. Maternal supplementation with folate is known to significantly decrease the incidence of neural tube defects."
+    },
+    {
+      "stem": "A 5-year-old girl had surgery for aortic lesion. She is always short for her age.. This case might be",
+      "options": [
+        "Down syndrome",
+        "Klinefelter syndrome",
+        "Marfan syndrome",
+        "Turner syndrome"
+      ],
+      "correct": 3,
+      "explanation": "Turner syndrome (45,XO) is a sex chromosomal abnormality that affects females. A key feature is short stature, and a common associated cardiac anomaly is coarctation of the aorta, a type of aortic lesion. The patient's presentation of short stature and a history of surgery for an aortic lesion is classic for Turner syndrome."
+    },
+    {
+      "stem": "The mother of a boy with Duchenne muscular dystrophy tells you that her brother was similarly affected and died in his teenage years. What is the pattern of inheritance in this case",
+      "options": [
+        "X linked recessive",
+        "X linked dominant",
+        "Autosomal dominant",
+        "Autosomal recessive"
+      ],
+      "correct": 0,
+      "explanation": "Duchenne muscular dystrophy is a classic example of an X-linked recessive disorder. This is supported by the fact that the disease affects a male child and his maternal uncle (the mother's brother), following the characteristic pattern of X-linked recessive inheritance."
+    },
+    {
+      "stem": "A 14-year-old boy was referred because of tall stature. His height was more than the 95th percentile. He had bilateral small testes, no pubic or axillary hair. The cause of such condition is",
+      "options": [
+        "Delayed puberty",
+        "Down syndrome",
+        "Klinefelter syndrome",
+        "Marfan syndrome"
+      ],
+      "correct": 2,
+      "explanation": "The clinical picture of a male with disproportionate tall stature, small testes, and absence of secondary sexual characteristics is characteristic of Klinefelter syndrome (47, XXY). This condition is a result of an extra X chromosome and is a form of hypogonadism."
+    },
+    {
+      "stem": "A female infant born to a 24-year-old woman has been diagnosed clinically as having Down syndrome. The mother is concerned about her risk of having another baby with Down syndrome. The most appropriate investigation to determine the risk of recurrence is",
+      "options": [
+        "Determination of serum alpha-fetoprotein in the infant",
+        "Determination of serum alpha-fetoprotein in the mother",
+        "Karyotyping for the infant and mother",
+        "Karyotyping for the infant only"
+      ],
+      "correct": 2,
+      "explanation": "While the risk of Down syndrome is dependent on maternal age, in younger mothers, a translocation form of Trisomy 21 is more likely. This translocation can be inherited from a parent who is a balanced translocation carrier. Therefore, karyotyping is needed for both the infant to confirm the type of trisomy and for the mother to rule out if she is a carrier of a balanced translocation, which would significantly affect the recurrence risk for future pregnancies."
+    },
+    {
+      "stem": "A two-day- old male infant is referred to the hospital for bilious vomiting and a heart murmur. The baby was born at 37 weeks gestation to a 39 year old woman who had no prenatal care. X ray chest and abdomen were done. Which of the following is the most likely to be in the x ray?",
+      "options": [
+        "Double bubble sign",
+        "Multiple air fluid levels",
+        "Normal X ray",
+        "White lung"
+      ],
+      "correct": 0,
+      "explanation": "The patient's age (2 days), maternal age (39 years), and symptoms (bilious vomiting, heart murmur) point to a diagnosis of Down syndrome with duodenal atresia. Duodenal atresia is characterized on an abdominal X-ray by the 'double bubble sign,' which represents air trapped in the stomach and the proximal duodenum."
+    },
+    {
+      "stem": "A 17-year-old girl is 138cm tall. Her father is 175cm tall and her mother is 164cm tall. She has always been short and she had cardiac surgery at the age of 1 year. Her pubertal breast stage is Tanner B1. Which of the following is most likely to diagnose the cause of all her medical problems?",
+      "options": [
+        "Chromosomal analysis",
+        "Serum testosterone levels",
+        "Thyroid function studies",
+        "X-ray for Bone Age"
+      ],
+      "correct": 0,
+      "explanation": "The patient's short stature (138 cm at age 17), history of cardiac surgery at 1 year old, and lack of pubertal development (Tanner B1) are all classic features of Turner syndrome (45, XO). Turner syndrome is a chromosomal disorder, and a chromosomal analysis (karyotyping) is the definitive diagnostic tool."
+    },
+    {
+      "stem": "A disease affecting all of the daughters but none of the sons of an affected father, and 50% of the sons or daughters of an affected mother, is most likely:",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked dominant",
+        "X-linked recessive"
+      ],
+      "correct": 2,
+      "explanation": "This pattern of inheritance is characteristic of X-linked dominant disorders. An affected father will pass his single X chromosome to all of his daughters, making all of them affected. He cannot pass the trait to his sons, as they inherit his Y chromosome. An affected mother (who is heterozygous) has a 50% chance of passing the dominant X chromosome to either her sons or daughters."
+    },
+    {
+      "stem": "A disease passed only through the mother and affecting both sons and daughters, with variable manifestations in the affected siblings, is most likely:",
+      "options": [
+        "Mitochondrial inheritance",
+        "Multifactorial inheritance",
+        "X-linked dominant inheritance",
+        "X-linked recessive inheritance"
+      ],
+      "correct": 0,
+      "explanation": "Mitochondrial inheritance is exclusively transmitted by the mother, as the sperm does not contribute mitochondria to the zygote. The disease can affect both sons and daughters, and variable manifestations can occur due to heteroplasmy, which is the presence of a mix of normal and mutated mitochondrial DNA within a single cell."
+    },
+    {
+      "stem": "Genetic diseases of numerical chromosomal abnormalities include:",
+      "options": [
+        "Down syndrome",
+        "Gaucher disease",
+        "Hemophilia",
+        "Thalassemia major"
+      ],
+      "correct": 0,
+      "explanation": "The textbook classifies genetic disorders into chromosomal abnormalities, single-gene disorders, and multifactorial inheritance. Down syndrome is explicitly listed as a numerical autosomal abnormality, specifically Trisomy 21. Gaucher disease, hemophilia, and thalassemia major are single-gene disorders."
+    },
+    {
+      "stem": "One of the following anomalies is not associated with Down syndrome:",
+      "options": [
+        "Congenital heart disease",
+        "Macroorchidism",
+        "Mental retardation",
+        "Simian crease"
+      ],
+      "correct": 1,
+      "explanation": "The clinical features associated with Down syndrome include congenital heart disease (40% of cases), mental retardation, and a simian crease (50% of cases). Macroorchidism (abnormally large testes) is a feature of Fragile X syndrome, not Down syndrome."
+    },
+    {
+      "stem": "A patient with 45 XO karyotype and short stature is likely to have:",
+      "options": [
+        "Down syndrome",
+        "Edward syndrome",
+        "Klinefelter syndrome",
+        "Turner syndrome"
+      ],
+      "correct": 3,
+      "explanation": "Turner syndrome is a sex chromosomal abnormality with a karyotype of 45, XO. A characteristic feature of this syndrome is short stature."
+    },
+    {
+      "stem": "Autosomal recessive disorders are characterized by:",
+      "options": [
+        "Greater incidence of parental consanguinity",
+        "Greater incidence in males",
+        "No skipping of generations",
+        "No carriers"
+      ],
+      "correct": 0,
+      "explanation": "Autosomal recessive disorders are characterized by a greater incidence of parental consanguinity because the chance of both parents carrying the same recessive gene increases within families. These disorders affect males and females equally, have phenotypically normal carriers, and often show 'skipping' of generations in a family pedigree."
+    },
+    {
+      "stem": "Characteristic feature of autosomal recessive inheritance is:",
+      "options": [
+        "50% risk of recurrence",
+        "Both parents can be normal",
+        "Male predominance",
+        "Male to male transmission"
+      ],
+      "correct": 1,
+      "explanation": "A characteristic feature of autosomal recessive inheritance is that affected individuals must inherit the gene from both parents, but the parents themselves can be phenotypically normal carriers. The risk of recurrence for each child of two carrier parents is 25%, and the disorder affects males and females equally."
+    },
+    {
+      "stem": "X-linked recessive inheritance is characterized by:",
+      "options": [
+        "All daughters of a carrier mother will be carriers",
+        "Female preference",
+        "The affected father never transmits the disease to his sons",
+        "Vertical transmission"
+      ],
+      "correct": 2,
+      "explanation": "In X-linked inheritance, a son inherits his X chromosome from his mother and his Y chromosome from his father. Therefore, an affected father cannot transmit the disease to his sons. The disease shows a male preference, and a carrier mother has a 50% chance of having an affected son and a 50% chance of having a carrier daughter."
+    },
+    {
+      "stem": "Ring chromosome is a special type of chromosomal",
+      "options": [
+        "Duplication",
+        "Inversion",
+        "Deletion",
+        "Translocation"
+      ],
+      "correct": 2,
+      "explanation": "The textbook defines a ring chromosome as a specific type of deletion where both ends of the chromosome are lost and the two broken ends rejoin to form a ring."
+    },
+    {
+      "stem": "Chromosomal structural abnormalities include:",
+      "options": [
+        "Monosomy",
+        "Trisomy",
+        "Non-disjunction",
+        "Translocation"
+      ],
+      "correct": 3,
+      "explanation": "The textbook classifies chromosomal abnormalities into numerical and structural types. Monosomy, Trisomy, and non-disjunction are all examples of numerical abnormalities. Translocation is a type of structural abnormality."
+    },
+    {
+      "stem": "Chromosomal numerical abnormalities include:",
+      "options": [
+        "Duplication",
+        "Eversion",
+        "Translocation",
+        "Trisomy"
+      ],
+      "correct": 3,
+      "explanation": "The textbook explicitly lists Trisomy as a numerical abnormality, defined as one extra chromosome. Duplication and translocation are structural abnormalities."
+    },
+    {
+      "stem": "Sex linked disorders do not include",
+      "options": [
+        "G-6-PD deficiency",
+        "Hairy pinna",
+        "Hemophilia",
+        "Myasthenia gravis"
+      ],
+      "correct": 3,
+      "explanation": "G-6-PD deficiency and hemophilia are both examples of X-linked recessive disorders. Hairy pinna is an example of a Y-linked disorder (holanderic inheritance). Myasthenia gravis is an autoimmune disorder that is not a sex-linked genetic condition."
+    },
+    {
+      "stem": "The following is not a feature in newborn term infant with Down syndrome:",
+      "options": [
+        "Brachydactyly",
+        "Clinodactyly",
+        "Hypotonia",
+        "Webbing of the neck"
+      ],
+      "correct": 3,
+      "explanation": "Down syndrome features include brachydactyly (short and broad hands), clinodactyly (incurving of the 5th finger), and generalized hypotonia. Webbing of the neck is a characteristic feature of Turner syndrome (45, XO), not Down syndrome."
+    },
+    {
+      "stem": "If a parent had hereditary spherocytosis, the chance to have an affected baby is:",
+      "options": [
+        "25%.",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "correct": 1,
+      "explanation": "The textbook lists hereditary spherocytosis as an autosomal dominant disorder. In an autosomal dominant condition, a single copy of the abnormal gene is enough to cause the disease. An affected parent who is heterozygous has a 50% chance of passing the gene to each child."
+    },
+    {
+      "stem": "X-linked recessive disorders include:",
+      "options": [
+        "Achondroplasia.",
+        "Duchenne muscular dystrophy",
+        "Sickle cell anemia.",
+        "Vitamin-D resistant rickets"
+      ],
+      "correct": 1,
+      "explanation": "The textbook explicitly lists Duchenne muscular dystrophy as an X-linked recessive disorder. Achondroplasia is an autosomal dominant disorder, sickle cell anemia is an autosomal recessive disorder, and Vitamin-D resistant rickets is an X-linked dominant disorder."
+    },
+    {
+      "stem": "Autosomal recessive inheritance is found in:",
+      "options": [
+        "G-6-PD deficiency.",
+        "Galactosemia.",
+        "Hemophilia-B.",
+        "Neurofibromatosis."
+      ],
+      "correct": 1,
+      "explanation": "Galactosemia is listed as a metabolic disease with an autosomal recessive inheritance pattern. G-6-PD deficiency and Hemophilia-B are X-linked recessive disorders, while Neurofibromatosis is an autosomal dominant disorder."
+    }
+  ]
+}

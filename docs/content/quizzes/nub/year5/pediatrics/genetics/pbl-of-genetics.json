@@ -1,0 +1,129 @@
+{
+  "title": "PBL of Genetics",
+  "questions": [
+    {
+      "stem": "A series of three nucleotides on a gene that encodes an amino acid is called:",
+      "options": [
+        "Intron",
+        "Exon",
+        "Codon/triplet",
+        "Messenger RNA"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "A ring chromosome is a special type of chromosomal:",
+      "options": [
+        "Duplication",
+        "Deletion",
+        "Inversion",
+        "Translocation"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "This assessment finding would enable a nurse to suspect the presence of Down syndrome in a newborn:",
+      "options": [
+        "Single palmar crease and hypotonia",
+        "Short palpebral tissues and flat maxillary area",
+        "Prominent scalp veins and a high-pitched cry",
+        "Persistent postnatal growth lag and Microcephaly",
+        "Microcephaly, scalp defects and cleft lip"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "On which of the following are chromosomal disorders based?",
+      "options": [
+        "Mutant allele and their defective products",
+        "Imbalance in chromosome number and chromosome arrangement",
+        "Mutant allele and chromosome arrangement",
+        "Mutant allele and imbalance in chromosome number"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What will be the condition of the progeny if the father is normal, while the mother has one gene for hemophilia and one gene for color blindness on one of the X chromosomes?",
+      "options": [
+        "Only daughters are hemophilic and color blind",
+        "Both sons and daughters will be hemophilic and color blind",
+        "50% hemophilic and color blind sons and 50% normal sons",
+        "50% hemophilic color blind daughters and 50% color blind daughters"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "All the following are features of mitochondrial inheritance except:",
+      "options": [
+        "Non-traditional inheritance",
+        "Maternal inheritance",
+        "Male-to-offspring transmission",
+        "Both sexes are affected"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following are found in a newborn term infant with Down syndrome EXCEPT:",
+      "options": [
+        "Hypotonia",
+        "Asymmetrical growth retardation",
+        "Flat occiput",
+        "Upward slanting palpebral fissure"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Prader-Willi syndrome was diagnosed in a toddler with early feeding difficulties who gained a lot of weight in the second year of life. This genetic disorder is:",
+      "options": [
+        "Due to gene deletion on chromosome 15",
+        "A gene defect inherited from the father",
+        "Diagnosed by DNA methylation analysis",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "stem": "Down syndrome is characterized by all the following except:",
+      "options": [
+        "Increased susceptibility to infection",
+        "Leukemia is more frequent",
+        "Epilepsy",
+        "Easily diagnosed at birth"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The following are characteristic features of autosomal dominant inheritance EXCEPT:",
+      "options": [
+        "Vertical transmission",
+        "Male to male transmission",
+        "Males and females are equally affected",
+        "Skipped generation",
+        "Both parents carried the affected gene"
+      ],
+      "correct": 4
+    },
+    {
+      "stem": "All the following are characteristic features of autosomal recessive inheritance EXCEPT:",
+      "options": [
+        "Vertical transmission",
+        "No affected family members in other generations",
+        "Males and females are equally affected",
+        "Consanguinity plays an important role",
+        "25% recurrence risk"
+      ],
+      "correct": 0
+    },
+    {
+      "stem": "The recurrence risk of multifactorial inheritance is characterized by all the following EXCEPT:",
+      "options": [
+        "It is related to the incidence of the disease in the community.",
+        "It is similar among all 1st-degree relatives.",
+        "There is no sex predilection.",
+        "It increases when multiple family members are affected.",
+        "It is greater when the disorder is more severe."
+      ],
+      "correct": 1
+    }
+  ]
+}

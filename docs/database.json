@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-10T18:08:23.740Z",
+  "generatedAt": "2025-11-30T03:41:51.077Z",
   "tree": {
     "nub": {
       "children": {
@@ -449,8 +449,25 @@
                 },
                 "genetics": {
                   "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      },
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      },
+                      {
+                        "id": "pbl-of-genetics",
+                        "title": "PBL of Genetics"
+                      }
+                    ]
+                  },
                   "hasIndex": false,
-                  "label": "Genetics"
+                  "label": "Genetics",
+                  "isBranch": true
                 },
                 "git": {
                   "children": {},
